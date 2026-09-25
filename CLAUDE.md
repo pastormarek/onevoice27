@@ -1,5 +1,7 @@
 # CLAUDE.md – One Voice 27 (angielska wersja #JestNadzieja)
 
+Stan i dalsze kroki: `_HANDOFF_2026-09-25.md`.
+
 Angielskojęzyczne wydanie aplikacji #JestNadzieja (decyzja autora 2026-09-25).
 Kod wyszedł z klonu `../Apka_Marka` (stan z 2026-09-25) i od tej chwili żyje osobno:
 zmiany w polskiej aplikacji **nie przechodzą tu same** – trzeba je przenieść ręcznie.
@@ -33,7 +35,7 @@ npx vitest run     # testy
 | `pray40/NN.json` – „40 Days of Prayer" | **napisane na nowo po angielsku** na podstawie finalnych polskich czytanek (po korekcie) |
 | `pray40/index.json` | `python tools/build_pray40_index_en.py` |
 | `edu/NN.json` – BeHopeful | napisane na nowo po angielsku z polskich `edu/` (dwie wersje, cytat z BSB) |
-| `groups/<ID>.json` – Hope Groups | 76 spotkań napisanych na nowo z polskich `groups/`; **klucze i wartości `typ` zostają po polsku** (czyta je kod), po angielsku tylko teksty |
+| `groups/<ID>.json` – Hope Groups | 83 spotkania (w tym seria PK „The Secret of the Early Church", 2026-09-25) napisanych na nowo z polskich `groups/`; **klucze i wartości `typ` zostają po polsku** (czyta je kod), po angielsku tylko teksty |
 | `groups/index.json`, `edu/index.json` | `python tools/build_indexes_en.py` (opisy serii są w skrypcie) |
 | tekst Pisma w spotkaniach | `python tools/fill_scripture_groups.py [ID]` – wstawia wersety z BSB/WEB/KJV według `odnosnik`; nigdy nie wpisujemy ich ręcznie |
 | `ui.json` | wszystkie napisy interfejsu |
