@@ -1,0 +1,13 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "dir": "ltr",
+      "defaultTranslation": "BSB",
+      "moduleSizeKB": 400,
+      "greeting": "Hello"
+    }
+  ],
+  "default": "en"
+}

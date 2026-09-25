@@ -1,0 +1,104 @@
+import { loadBibleBook, loadBibleIndex, loadTranslations } from './lib/bible'
+import type { Bible, Flashcards, IndexFile, LangsFile, Occasions, Pray40Day, Pray40Index, PrayerTexts, Study, Ui } from './types'
+
+const BASE = import.meta.env.BASE_URL // np. '/'
+const cache = new Map<string, unknown>()
+
+/**
+ * `fresh` omija pamieci podreczne - wlasna, przegladarki i service workera
+ * (ten trzyma tresc w trybie „najpierw z zapasu"). Potrzebne, gdy czytelnik ma
+ * w zapasie plik ze starszego wydania i ponawia probe recznie.
+ */
+async function fetchJSON<T>(url: string, fresh: boolean): Promise<T> {
+  const res = await fetch(fresh ? `${url}?v=${Date.now()}` : url, fresh ? { cache: 'reload' } : undefined)
+  if (!res.ok) throw new Error(`Could not load: ${url} (${res.status})`)
+  return (await res.json()) as T
+}
+
+async function getJSON<T>(path: string, fresh = false): Promise<T> {
+  const url = `${BASE}content/${path}`.replace(/\/{2,}/g, '/')
+  if (!fresh && cache.has(url)) return cache.get(url) as T
+  let data: T
+  try {
+    data = await fetchJSON<T>(url, fresh)
+  } catch (err) {
+    // zapas service workera bywa nieczynny albo pochodzi ze starszego wydania -
+    // druga proba idzie prosto do sieci, z pominieciem wszystkich pamieci
+    if (fresh) throw err
+    data = await fetchJSON<T>(url, true)
+  }
+  cache.set(url, data)
+  return data
+}
+
+export const loadLangs = () => getJSON<LangsFile>('langs.json')
+export const loadIndex = (lang: string) => getJSON<IndexFile>(`${lang}/index.json`)
+export const loadUi = (lang: string) => getJSON<Ui>(`${lang}/ui.json`)
+export const loadStudy = (lang: string, id: string) => getJSON<Study>(`${lang}/studies/${id}.json`)
+export const loadBible = (lang: string, translation: string, fresh = false) =>
+  getJSON<Bible>(`${lang}/bibles/${translation}.json`, fresh)
+export const loadFlashcards = (lang: string) => getJSON<Flashcards>(`${lang}/flashcards.json`)
+export const loadOccasions = (lang: string) => getJSON<Occasions>(`${lang}/occasions.json`)
+export const loadPrayerTexts = (lang: string, fresh = false) =>
+  getJSON<PrayerTexts>(`${lang}/prayer-texts.json`, fresh)
+export const loadPray40 = (lang: string) => getJSON<Pray40Index>(`${lang}/pray40/index.json`)
+export const loadPray40Day = (lang: string, day: number) =>
+  getJSON<Pray40Day>(`${lang}/pray40/${String(day).padStart(2, '0')}.json`)
+
+/**
+ * Pobiera cały moduł językowy do cache (service worker zachowa go offline).
+ * Decyzja autora 2026-08-25: idą też czytanki „40 dni"
+ * i pełne przekłady czytnika Biblii - czyli wszystko, co czytelnik może otworzyć
+ * bez zasięgu.
+ */
+export async function downloadModule(lang: string, onProgress?: (done: number, total: number) => void) {
+  const idx = await loadIndex(lang)
+  const langs = await loadLangs()
+  const meta = langs.languages.find((l) => l.code === lang)
+  const translation = meta?.defaultTranslation || 'BSB'
+
+  // spisy trzeba mieć najpierw - to one mówią, ile jest do pobrania
+  const [pray, bibles] = await Promise.all([
+    loadPray40(lang).catch(() => null),
+    loadTranslations(lang).catch(() => null)
+  ])
+  const reader = bibles?.translations ?? []
+
+  // dodatki (okazje, fiszki, czytanki) są opcjonalne - język bez nich ma działać dalej
+  const optional = [
+    loadOccasions(lang),
+    loadPrayerTexts(lang),
+    loadFlashcards(lang),
+    ...(pray?.days ?? []).map((d) => loadPray40Day(lang, d.day)),
+    // wersety do studiów w pozostałych przekładach, nie tylko domyślnym
+    ...reader.filter((r) => r.code !== translation).map((r) => loadBible(lang, r.code))
+  ].map((p) => p.catch(() => undefined))
+
+  const tasks: Promise<unknown>[] = [
+    loadUi(lang),
+    loadBible(lang, translation),
+    ...idx.studies.map((s) => loadStudy(lang, s.id)),
+    ...optional
+  ]
+
+  // pełny tekst Pisma leży po księgach, więc każda liczy się do postępu osobno
+  const indexes = await Promise.all(reader.map((r) => loadBibleIndex(lang, r.code).catch(() => null)))
+  const books = indexes.flatMap((ix, i) =>
+    (ix?.books ?? []).map((b) => ({ code: reader[i].code, osis: b.osis }))
+  )
+
+  let done = 0
+  const total = tasks.length + books.length
+  const bump = () => {
+    done += 1
+    onProgress?.(done, total)
+  }
+
+  await Promise.all(tasks.map((task) => task.then(bump)))
+  // księgi po kolei - równoległe 66 pobrań tylko zapycha łącze
+  for (const b of books) {
+    await loadBibleBook(lang, b.code, b.osis).catch(() => undefined)
+    bump()
+  }
+  return { lang, total }
+}

@@ -1,0 +1,27 @@
+{
+  "lang": "en",
+  "default": "BSB",
+  "translations": [
+    {
+      "code": "BSB",
+      "name": "Berean Standard Bible",
+      "license": "Public domain (dedicated to the public domain in 2023).",
+      "source": "bolls.life (BSB module)",
+      "sizeKB": 3866
+    },
+    {
+      "code": "WEB",
+      "name": "World English Bible",
+      "license": "Public domain.",
+      "source": "bolls.life (WEB module)",
+      "sizeKB": 4016
+    },
+    {
+      "code": "KJV",
+      "name": "King James Version (1769)",
+      "license": "Public domain (outside the United Kingdom).",
+      "source": "bolls.life (KJV module)",
+      "sizeKB": 4136
+    }
+  ]
+}

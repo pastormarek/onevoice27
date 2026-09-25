@@ -1,0 +1,63 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import { VitePWA } from 'vite-plugin-pwa'
+
+// dostęp do zmiennych środowiskowych w configu (bez dokładania @types/node do całego projektu)
+declare const process: { env: Record<string, string | undefined> }
+
+// base '/' = hosting w korzeniu (Netlify/Vercel/Cloudflare) i lokalny dev/preview.
+// GitHub Pages serwuje z podkatalogu repo - build w CI ustawia VITE_BASE=/nazwa-repo/.
+const base = process.env.VITE_BASE || '/'
+
+export default defineConfig({
+  base,
+  plugins: [
+    react(),
+    VitePWA({
+      registerType: 'autoUpdate',
+      // Ten hosting zwraca `.webmanifest` jako application/octet-stream, mimo
+      // reguły AddType. Dla `.json` poprawnie zwraca application/json, który
+      // przeglądarki akceptują dla manifestu PWA.
+      manifestFilename: 'manifest.json',
+      includeAssets: ['favicon.svg', 'favicon-64.png', 'apple-touch-icon.png'],
+      manifest: {
+        name: 'One Voice 27',
+        short_name: 'One Voice 27',
+        description: 'The whole Bible, Bible studies and 40 Days of Prayer - online and offline.',
+        lang: 'en',
+        theme_color: '#141a3a',
+        background_color: '#ffffff',
+        display: 'standalone',
+        start_url: base,
+        scope: base,
+        icons: [
+          { src: 'pwa-192.png', sizes: '192x192', type: 'image/png' },
+          { src: 'pwa-512.png', sizes: '512x512', type: 'image/png' },
+          { src: 'pwa-512-maskable.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+        ]
+      },
+      workbox: {
+        navigateFallback: base + 'index.html',
+        // Panel statystyk to osobna aplikacja PHP. Service worker nie może
+        // zastępować jej stroną Reacta po zainstalowaniu PWA.
+        // /beta/ to osobne wydanie testowe z wlasnym service workerem (deploy-beta.sh) -
+        // bez tego wyjatku glowna aplikacja podstawia tam swoja strone
+        navigateFallbackDenylist: [new RegExp('^' + base + 'stat/'), new RegExp('^' + base + 'beta/')],
+        // nie precache'ujemy treści (bywa duża) – cache'ujemy ją w runtime; „Pobierz offline” ją rozgrzewa
+        globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
+        // tresc dociagamy w runtime; baner w wersji 2560 tylko wtedy, gdy ekran go potrzebuje
+        globIgnores: ['**/content/**', '**/og-*.jpg'],
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/content/'),
+            handler: 'StaleWhileRevalidate',
+            options: {
+              cacheName: 'content',
+              expiration: { maxEntries: 2000, maxAgeSeconds: 60 * 60 * 24 * 365 }
+            }
+          }
+        ]
+      }
+    })
+  ]
+})
