@@ -1,0 +1,805 @@
+{
+ "tytul": "The Church the Neighbors Could Feel",
+ "id": "PK-01",
+ "seria": "The Secret of the Early Church",
+ "opis": "The first Christians had no buildings and no name, yet the whole city could see how they lived.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Acts 2:41-47; Acts 4:32-37; Acts 5:12-16; John 13:34-35; Matthew 5:14-16; 1 Thessalonians 4:9-12; 1 Peter 2:11-12",
+  "p2": "Acts 3:6-11; Deuteronomy 15:4-5, 7-8, 11; Acts 11:19-21, 25-26; 2 Corinthians 3:2-3",
+  "p3": "Luke 2:52; Romans 10:14-15, 17"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "church",
+  "community",
+  "witness",
+  "neighbors",
+  "hospitality",
+  "Acts"
+ ],
+ "wersja": 1,
+ "zdanie": "The city knew very little about what the first Christians believed. But it knew their table, and that was enough to make people ask about the rest.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about what people on the outside saw. The first Christians in Jerusalem had no buildings and no name of their own. Almost none of the New Testament had been written yet. Most of their neighbors couldn’t have repeated what these people taught. What they did see was how they lived with one another, and that drew them in. The apostles’ teaching was believable because a life like that surrounded it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meeting: “Single, but Not Alone” in the Relationships series. That one reads Acts 2 from the angle of belonging. This one reads it through the eyes of a city that is watching.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "It’s easy to slide into complaining about your own church, or into longing for a perfect beginning. Luke himself shows the first church’s arguments and failures. Keep coming back to the question of what in the text drew people in.",
+      "Someone from outside the church may be sitting at the table. Don’t turn them into the neighbor the group practices its witness on. Their outside view is valuable, if they choose to share it.",
+      "The texts about selling land can sound like pressure about money. Luke describes voluntary sharing. Don’t connect it with tithe or with offerings at church.",
+      "The conversation may drift to miracles and to why we don’t see them today. Don’t settle that tonight. The topic is what the city saw."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t plan an outreach for the neighborhood or an evangelism program. Don’t compare your congregation with other congregations or denominations. Don’t hold anyone up as a model of hospitality.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of the people who live closest to you, on the other side of the wall or across the street. Say in one sentence what you think they know about you, even though you’ve never told them.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Whole City Was Watching",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 2:41-47",
+       "przeklad": "BSB",
+       "akapity": [
+        "Those who embraced his message were baptized, and about three thousand were added to the believers that day. They devoted themselves to the apostles’ teaching and to the fellowship, to the breaking of bread and to prayer. A sense of awe came over everyone, and the apostles performed many wonders and signs. All the believers were together and had everything in common. Selling their possessions and goods, they shared with anyone who was in need. With one accord they continued to meet daily in the temple courts and to break bread from house to house, sharing their meals with gladness and sincerity of heart, praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 42 lists four things they devoted themselves to. **Which of them could a neighbor see, and which could they at most hear about?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke writes that they were “enjoying the favor of all the people.” **What in this description could win the goodwill of people who didn’t share this faith?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "They broke bread “from house to house,” sharing their meals “with gladness and sincerity of heart.” **What might a street like that have looked like in the evening, to someone who lived next door?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The last sentence says who added to the number of believers. **What does that sentence take off the community’s shoulders, and what does it leave with them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “fellowship” in verse 42 is the Greek `koinonia`: a shared part in something, holding one thing in common. The apostles’ teaching stands first on this list, but it is one of four. The other three are ways of being together. The New Testament had yet to be written. So most of the neighbors couldn’t have passed a test on what the Christians taught. But they knew their table.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Astonished City",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 3:6-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Peter said, “Silver or gold I do not have, but what I have I give you: In the name of Jesus Christ of Nazareth, get up and walk!” Taking him by the right hand, Peter helped him up, and at once the man’s feet and ankles were made strong. He sprang to his feet and began to walk. Then he went with them into the temple courts, walking and leaping and praising God. When all the people saw him walking and praising God, they recognized him as the man who used to sit begging at the Beautiful Gate of the temple, and they were filled with wonder and amazement at what had happened to him. While the man clung to Peter and John, all the people were astonished and ran to them in the walkway called Solomon’s Colonnade."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This man had sat at the gate for years, and everyone knew him. **Why does it matter so much in this scene that the people recognized him?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter has no silver or gold. He says, “What I have I give you.” **What does a community with no money and no buildings have to give?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“The favor of all the people” in verse 47 is the Greek `charis`, which means grace. Luke uses the same word to describe Jesus growing up.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 2:52",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Jesus grew in wisdom and stature, and in favor with God and man."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In Acts 4:33 the word comes back once more: “Abundant grace was upon them all.” Some read this sentence as God’s grace. Others see in it people’s goodwill. The Greek allows for both, and Luke seems to keep them together on purpose.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Grace and goodwill fit into a single word here. **How does what God does in a community turn into what the neighbors feel?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "No One Was in Need",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 4:32-37",
+       "przeklad": "BSB",
+       "akapity": [
+        "The multitude of believers was one in heart and soul. No one claimed that any of his possessions was his own, but they shared everything they owned. With great power the apostles continued to give their testimony about the resurrection of the Lord Jesus. And abundant grace was upon them all. There were no needy ones among them, because those who owned lands or houses would sell their property, bring the proceeds from the sales, and lay them at the apostles’ feet for distribution to anyone as he had need. Joseph, a Levite from Cyprus, whom the apostles called Barnabas (meaning Son of Encouragement), sold a field he owned, brought the money, and laid it at the apostles’ feet."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Right in the middle of this description of sharing stands a sentence about the apostles’ testimony. **How is their testimony about the resurrection connected to what is happening around it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“No one claimed that any of his possessions was his own.” **What has to change in a person for them to look at their own things that way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What might the sentence “There were no needy ones among them” have meant to the poor of Jerusalem who were watching?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Luke isn’t describing an enforced system. People sold land gradually, as needs came up. Barnabas is named because his gift was voluntary and worth remembering. In Acts 12:12 the church is praying in the house of Mary, the mother of Mark. So someone kept a house and opened it to others. The first church doesn’t give us a rule here. It gives us an example of what a shared heart does to people.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "There Will Be No Poor Among You",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 15:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "There will be no poor among you, however, because the LORD will surely bless you in the land that the LORD your God is giving you to possess as an inheritance, if only you obey the LORD your God and are careful to follow all these commandments I am giving you today."
+       ]
+      },
+      {
+       "odnosnik": "Deuteronomy 15:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden your heart or shut your hand from your poor brother. Instead, you are to open your hand to him and freely loan him whatever he needs."
+       ]
+      },
+      {
+       "odnosnik": "Deuteronomy 15:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "For there will never cease to be poor in the land; that is why I am commanding you to open wide your hand to your brother and to the poor and needy in your land."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same chapter says “there will be no poor among you” and “there will never cease to be poor in the land.” **How can these two sentences stand side by side?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The law speaks about the heart and about the hand. **What part of this promise began to come true in the Jerusalem of Acts 4?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Acts 4:34 Luke uses a Greek word for a person in need. It appears in the New Testament only in this one place. The same word appears in the Greek translation of Deuteronomy 15:4, which the first Christians knew. So a reader who knew the Scriptures could hear that an old promise had come alive at a table of ordinary people.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "With Respect, and from a Distance",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Just before this, Luke tells the difficult story of Ananias and Sapphira, after which great fear came over the whole church and everyone who heard about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 5:12-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "The apostles performed many signs and wonders among the people, and with one accord the believers gathered together in Solomon’s Colonnade. Although the people regarded them highly, no one else dared to join them. Yet more and more believers were brought to the Lord—large numbers of both men and women. As a result, people brought the sick into the streets and laid them on cots and mats, so that at least Peter’s shadow might fall on some of them as he passed by. Crowds also gathered from the towns around Jerusalem, bringing the sick and those tormented by unclean spirits, and all of them were healed."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 13 says two things at once. No one else dared to join them, and yet “the people regarded them highly.” **What could keep people at a distance and at the same time earn their respect?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Solomon’s Colonnade was a covered walkway beside the temple courtyard. **What does it mean for a community that its life goes on where anyone can see it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The sick were carried out into the streets, and people came in from the towns around. **Who comes to the church in this scene, and what do they come with?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "By This Everyone Will Know",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 13:34-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "A new commandment I give you: Love one another. As I have loved you, so you also must love one another. By this everyone will know that you are My disciples, if you love one another.”"
+       ]
+      },
+      {
+       "odnosnik": "Matthew 5:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "You are the light of the world. A city on a hill cannot be hidden. Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus says how “everyone will know” His disciples. **What is missing from this sentence, even though we might expect it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This love is mutual, between the disciples. **Why would the world recognize Jesus precisely by the way His people treat one another?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "A city on a hill doesn’t try to be seen. It simply stands where it stands. **What in a community’s life do the neighbors see without the community making any effort, both the good and the bad?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Around the year 200, a Christian writer from Carthage recorded a saying that pagans repeated about his fellow believers: “See how they love one another.” A century and a half later, Emperor Julian tried to bring back the old cults. In a letter to a pagan priest he complained that the Christians fed their own poor, and the pagan poor as well. The neighbors still knew little about what the Christians taught. Their life, they saw perfectly well.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it tell us that it was an opponent of the Christians who noticed their table for strangers?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Name from the Street",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 11:19-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile those scattered by the persecution that began with Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the message only to Jews. But some of them, men from Cyprus and Cyrene, went to Antioch and began speaking to the Greeks as well, proclaiming the good news about the Lord Jesus. The hand of the Lord was with them, and a great number of people believed and turned to the Lord."
+       ]
+      },
+      {
+       "odnosnik": "Acts 11:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Barnabas went to Tarsus to look for Saul, and when he found him, he brought him back to Antioch. So for a full year they met together with the church and taught large numbers of people. The disciples were first called Christians at Antioch."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The believers didn’t give themselves this name. **What must the people of Antioch have seen to need a separate name for them at all?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What name would the people on your street give you if all they knew was your life?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “Christians” is Greek, with a Latin ending. So it most likely wasn’t coined by Jews, who spoke of the disciples as “Nazarenes.” At first it probably sounded mocking. The believers took it as their own.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Toward Outsiders",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Thessalonians 4:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now about brotherly love, you do not need anyone to write to you, because you yourselves have been taught by God to love one another. And you are indeed showing this love to all the brothers throughout Macedonia. But we urge you, brothers, to excel more and more and to aspire to live quietly, to attend to your own matters, and to work with your own hands, as we instructed you. Then you will behave properly toward outsiders, without being dependent on anyone."
+       ]
+      },
+      {
+       "odnosnik": "1 Peter 2:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul. Conduct yourselves with such honor among the Gentiles that, though they slander you as evildoers, they may see your good deeds and glorify God on the day He visits us."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul isn’t asking for anything extraordinary. **What on his list would a neighbor, a coworker, or a cashier at the store see?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter is writing to people whose neighbors speak badly of them. **What is he counting on when he writes that those neighbors “may see your good deeds”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul puts brotherly love next to working with your own hands. **Why does plain honesty at work belong to the same witness as a shared table?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Letter Read by Everyone",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 3:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "You yourselves are our letter, inscribed on our hearts, known and read by everyone. It is clear that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul calls the church a letter “known and read by everyone.” **What do the people around you read from your community before anyone opens a Bible for them?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**According to Paul, who writes this letter? What does that take off our shoulders?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Word or Life",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 10:14-15, 17",
+       "przeklad": "BSB",
+       "akapity": [
+        "How then can they call on the One in whom they have not believed? And how can they believe in the One of whom they have not heard? And how can they hear without someone to preach? And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!” … Consequently, faith comes by hearing, and hearing by the word of Christ."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paul says that faith is born from hearing. Jesus and Peter speak about a life that people watch. Two emphases can be heard in the church. Some stress clear proclamation, because without the word no one will know the name of Jesus. Others remind us that a word without a life loses its credibility, and that many people watch first and only listen later. Both sides agree on one thing. Luke holds the two together. The apostles testified with power about the resurrection right in the middle of a description of a shared table and shared possessions.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in your community does the word run ahead of the life, and where is a life waiting for a word that no one has spoken yet?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What happens to the credibility of a teaching when the people who proclaim it live next to each other instead of with each other?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first Christians had little besides their life together. **What of our life together can be seen from the street, and what is known only to the church on the inside?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Within a few verses Luke mentions the table twice. **What makes your table and your door easy or hard to open to someone outside your circle?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **who is someone you wish could see your faith more clearly in the way you live?** You don’t have to say why.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If your church disappeared from the street tomorrow, who outside it would notice? What does that answer say about you, and what does it say about the place where you live?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t defend the church, and don’t look for someone to blame. It helps if someone observes that the first Christians had no strategy for this. They had habits, and habits are within reach today too.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The city knew very little about what the first Christians believed. But it knew their table, and that was enough to make people ask about the rest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** John 13:35 or Acts 2:47.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a neighbor you know only by sight. Ask yourself **what they know about your faith from the way you live**. Not from what you say. Stay with that answer, even if it’s uncomfortable.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "“No one claimed that any of his possessions was his own.” Admit before God **which thing, or which part of your time, is most “mine” for you**. You don’t have to do anything about it yet.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Ask God who is missing from your table. If a particular face comes to mind, don’t push it away. Sometimes the simplest invitation is “Come over tomorrow.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“It’s not like that in our church. The first church was different.”** Don’t defend the church, and don’t agree with the bitterness. The first church had its arguments, overlooked widows, and people who lied. Luke writes about it. Ask what in today’s texts is small and possible this very week.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So we’re supposed to sell everything and give it away?”** The text doesn’t say that. Barnabas gave voluntarily, and Mary kept her house and opened it to the church. Don’t move on to tithe or offerings. Go back to the question of what it means not to call something only your own.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks about Ananias and Sapphira.** It’s a hard story and shouldn’t be brushed aside. Don’t go into it in detail today. Say that Peter himself reminds Ananias that the land and the money were his, so the issue was lying to God, not how much he gave. If the group wants to come back to this story, suggest a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Why aren’t there miracles like that today?”** It’s an honest question, and it has no short answer. Don’t try to settle it. Point out that in today’s texts the neighbors were also drawn by the table, the sharing, and the love for one another, and no one has taken those away from us.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts planning an outreach for the neighborhood.** Gently stop it. The first Christians had no program. They had a shared life that could be seen. Ask instead what each person already shares with the people around them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone from outside the church says the Christians they know don’t live like this at all.** Thank them for their honesty, and don’t make excuses. That is exactly the outside view today’s texts are talking about. You can ask what would convince them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You run out of time.** Drop block 3. Blocks 1, 2, and 4 carry the meeting: the table as the city saw it, the shared heart, and Jesus’ words about how people will recognize His disciples.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“It’s not like that in our church. The first church was different.”",
+     "odpowiedz": "Don’t defend the church, and don’t agree with the bitterness. The first church had its arguments, overlooked widows, and people who lied. Luke writes about it. Ask what in today’s texts is small and possible this very week."
+    },
+    {
+     "sytuacja": "“So we’re supposed to sell everything and give it away?”",
+     "odpowiedz": "The text doesn’t say that. Barnabas gave voluntarily, and Mary kept her house and opened it to the church. Don’t move on to tithe or offerings. Go back to the question of what it means not to call something only your own."
+    },
+    {
+     "sytuacja": "Someone asks about Ananias and Sapphira.",
+     "odpowiedz": "It’s a hard story and shouldn’t be brushed aside. Don’t go into it in detail today. Say that Peter himself reminds Ananias that the land and the money were his, so the issue was lying to God, not how much he gave. If the group wants to come back to this story, suggest a separate meeting."
+    },
+    {
+     "sytuacja": "“Why aren’t there miracles like that today?”",
+     "odpowiedz": "It’s an honest question, and it has no short answer. Don’t try to settle it. Point out that in today’s texts the neighbors were also drawn by the table, the sharing, and the love for one another, and no one has taken those away from us."
+    },
+    {
+     "sytuacja": "The group starts planning an outreach for the neighborhood.",
+     "odpowiedz": "Gently stop it. The first Christians had no program. They had a shared life that could be seen. Ask instead what each person already shares with the people around them."
+    },
+    {
+     "sytuacja": "Someone from outside the church says the Christians they know don’t live like this at all.",
+     "odpowiedz": "Thank them for their honesty, and don’t make excuses. That is exactly the outside view today’s texts are talking about. You can ask what would convince them."
+    },
+    {
+     "sytuacja": "You run out of time.",
+     "odpowiedz": "Drop block 3. Blocks 1, 2, and 4 carry the meeting: the table as the city saw it, the shared heart, and Jesus’ words about how people will recognize His disciples."
+    }
+   ]
+  }
+ ]
+}

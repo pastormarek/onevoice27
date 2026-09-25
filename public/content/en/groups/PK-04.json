@@ -1,0 +1,848 @@
+{
+ "tytul": "From the Table to the Wallet",
+ "id": "PK-04",
+ "seria": "The Secret of the Early Church",
+ "opis": "How the first Christians’ shared bread reached all the way into their money, and why it was never under compulsion.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Corinthians 10:16-17; 1 Corinthians 11:17-26; Acts 4:32-37; Romans 15:25-27; 2 Corinthians 8:1-5; 2 Corinthians 8:7-9, 12-15",
+  "p2": "Luke 22:14-20; James 2:1-5; Deuteronomy 15:4, 7-8; Acts 11:27-30; Galatians 2:9-10; 2 Corinthians 9:6-8",
+  "p3": "1 Corinthians 1:9; 1 John 1:3; Acts 2:42; Romans 15:26; 2 Corinthians 8:4; Galatians 2:9; Hebrews 13:16; 1 Corinthians 11:27-29, 33; Acts 12:12"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "community",
+  "Lord’s Supper",
+  "sharing",
+  "the poor",
+  "money",
+  "church"
+ ],
+ "wersja": 1,
+ "zdanie": "Whoever breaks one loaf with others starts to notice whether the person sitting next to them has enough to eat.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The first Christians had one word for three things we keep separate. Paul uses the same word for participation in Christ at the Lord’s Supper, for shared bread, and for a collection for the poor. This meeting follows that road, from the table to the wallet. The point is how a bond with God comes down into ordinary life. No one should leave feeling that they give too little. Paul writes plainly that he is not making a demand, and that a gift is measured by what a person has. Today that sentence matters most for anyone who is short of money.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are.**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may not make it to the end of the month, may be in debt, or may have lost their job. A conversation about sharing money can shame them. No one talks about amounts, their own or anyone else’s.",
+      "The topic easily slides into a discussion of tithe, offerings at church, or what the church spends its money on. That is not this conversation. Keep coming back to the text.",
+      "People from other churches may be at the table, including Catholics, who experience the Eucharist in their own way. Speak about their practice with respect and without comparisons. Adventists invite all believing Christians to the Lord’s Supper. Each person examines himself, and the Supper is preceded by foot washing, the ordinance of humility. It’s enough to say that if someone asks."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t organize any collection in connection with the meeting. Don’t give examples of who gave how much. Don’t judge the rich or the poor, including those who aren’t present.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think back to a table where you felt truly welcomed. Don’t tell the whole story. Just say whose table it was and what was on it.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "One Loaf, One Body",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul is writing to the Corinthians, some of whom went to feasts in pagan temples and saw nothing wrong with it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 10:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Is not the cup of blessing that we bless a participation in the blood of Christ? And is not the bread that we break a participation in the body of Christ? Because there is one loaf, we who are many are one body; for we all partake of the one loaf."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice Paul speaks of “participation.” **According to these verses, what connects a person with Christ, and what connects them with the people sitting beside them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Everyone breaks off a piece of the same loaf. **What does that simple gesture say about the people who share in it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul doesn’t ask whether these people like each other or get along. **So what makes them one body?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Here the BSB renders the Greek word `koinonia` as “participation.” It means a shared part in one thing, the way partners share in one venture. The first Christians used the word very broadly. John uses it for the bond with the Father and the Son. Paul uses the same word for the money collected for the poor in Jerusalem. For them, participation in Christ, a shared table, and shared care for those in need were one reality.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Table on the Night He Was Betrayed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 22:14-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the hour had come, Jesus reclined at the table with His apostles. And He said to them, “I have eagerly desired to eat this Passover with you before My suffering. For I tell you that I will not eat it again until it is fulfilled in the kingdom of God.” After taking the cup, He gave thanks and said, “Take this and divide it among yourselves. For I tell you that I will not drink of the fruit of the vine from now on until the kingdom of God comes.” And He took the bread, gave thanks and broke it, and gave it to them, saying, “This is My body, given for you; do this in remembrance of Me.” In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood, which is poured out for you."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“I have eagerly desired to eat this Passover with you,” Jesus says. **What does that sentence say about what a shared meal with these people meant to Him?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The cup is to be divided “among yourselves.” **What in this scene is shared, and what does each person receive into their own hands?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "A reader of an English Bible can’t see that one Greek word stands in places very far apart. The BSB, like most translations, renders it in several different ways. In 1 Corinthians 1:9 and 1 John 1:3 it is “fellowship” with the Son and with the Father. In Acts 2:42 it is the “fellowship” the first believers devoted themselves to. In Romans 15:26 the same word becomes a “contribution” for the poor. In 2 Corinthians 8:4 the Macedonians plead for the privilege of “sharing” in the service to the saints. In Galatians 2:9 the apostles give each other “the right hand of fellowship.” In Hebrews 13:16 it is sharing with others, called a sacrifice that pleases God.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In fact, Paul has several different words for the collection for Jerusalem. Some of them come from the language of worship, such as service, ministry, and offering. For him, giving was part of worship.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does it change the way we look at money that Paul calls a collection by the same word as sharing in the bread and the cup?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Supper Where Someone Went Hungry",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The church in Corinth celebrated the Lord’s Supper together with a shared evening meal, in the home of one of its wealthier members.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 11:17-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the following instructions I have no praise to offer, because your gatherings do more harm than good. First of all, I hear that when you come together as a church, there are divisions among you, and in part I believe it. And indeed, there must be differences among you to show which of you are approved. Now then, when you come together, it is not the Lord’s Supper you eat. For as you eat, each of you goes ahead without sharing his meal. While one remains hungry, another gets drunk. Don’t you have your own homes in which to eat and drink? Or do you despise the church of God and humiliate those who have nothing? What can I say to you? Shall I praise you for this? No, I will not! For I received from the Lord what I also passed on to you: The Lord Jesus, on the night He was betrayed, took bread, and when He had given thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.” In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.” For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until He comes."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "At the same table, “one remains hungry, another gets drunk.” **What must have been going on in that house for both to happen in one gathering?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t begin with teaching about the bread and the cup. He begins with “those who have nothing.” **Why, in his view, does a supper like that stop being the Lord’s Supper?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "It’s right here that Paul recalls the words “This is My body, which is for you.” **What do those words say to people who couldn’t wait for the poorer members?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "There were no church buildings for more than two hundred years, so churches met in homes. Excavations in Corinth have uncovered Roman villas that could hold thirty to fifty people. In the main dining room, about ten of the most important guests reclined at table with the host and got the best food. The poor and the slaves stayed in the courtyard and got the worse food. In a house like that, the Supper easily took on the household’s pecking order. Paul says that at the Lord’s table that order comes to an end.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Gold Ring and Fine Clothes",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 2:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism. Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in. If you lavish attention on the man in fine clothes and say, “Here is a seat of honor,” but say to the poor man, “You must stand” or “Sit at my feet,” have you not discriminated among yourselves and become judges with evil thoughts? Listen, my beloved brothers: Has not God chosen the poor of this world to be rich in faith and to inherit the kingdom He promised those who love Him?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can you tell in this scene that the gathering has adopted the street’s way of measuring people?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James calls the poor “rich in faith.” **What does that phrase turn upside down in how we think about who gives what to whom?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is Worthy of the Table",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Right after the words of institution, Paul writes sentences that for centuries kept many people away from the Supper.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 11:27-29, 33",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord. Each one must examine himself before he eats of the bread and drinks of the cup. For anyone who eats and drinks without recognizing the body eats and drinks judgment on himself. … So, my brothers, when you come together to eat, wait for one another."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paul isn’t writing about unworthy people. He is writing about eating “in an unworthy manner,” that is, in a way that contradicts what is being eaten. In Corinth that meant eating your fill while someone next to you went hungry. If anything, the Supper reminds us that none of us is worthy on our own.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The words “without recognizing the body” are read in the church in two ways. Some see here the bread of the Supper, which must not be treated like an ordinary meal. Others see the community, which is the body of Christ, as in 1 Corinthians 10:17. Both readings share one thing. Whoever comes to the table examines himself. He doesn’t check up on his neighbor. Adventists invite all believing Christians to the Supper and leave that self-examination to each person.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why does Paul tell each person to examine himself, and say nothing about policing who comes to the table?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would happen to the Supper if only those who feel worthy came to it?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "No One Was in Need",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Not long after Pentecost, the believers in Jerusalem already number in the thousands.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 4:32-37",
+       "przeklad": "BSB",
+       "akapity": [
+        "The multitude of believers was one in heart and soul. No one claimed that any of his possessions was his own, but they shared everything they owned. With great power the apostles continued to give their testimony about the resurrection of the Lord Jesus. And abundant grace was upon them all. There were no needy ones among them, because those who owned lands or houses would sell their property, bring the proceeds from the sales, and lay them at the apostles’ feet for distribution to anyone as he had need. Joseph, a Levite from Cyprus, whom the apostles called Barnabas (meaning Son of Encouragement), sold a field he owned, brought the money, and laid it at the apostles’ feet."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“No one claimed that any of his possessions was his own.” **What must have changed in a person for them to look at their house or field that way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke doesn’t tell us how much anyone gave. He tells us that there were “no needy ones among them.” **What does that measure say about what this community was paying attention to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Between the sentence about one heart and the sentence about money, Luke puts the testimony about the resurrection. **What connects the one with the other?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Barnabas is the first giver Luke mentions by name. The apostles called him Son of Encouragement, and the name suited him. A few years later he is the one who takes the newly converted Saul to the apostles, who were afraid of him, as Luke describes in Acts 9:27. Together with Saul he will also carry relief from Antioch to Judea. The man who gave up a field also knew how to stand by a person. Both came from the same heart.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Old Law About a Poor Brother",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Luke’s sentence that no one was in need sounds like an echo of a promise in Deuteronomy. In the Greek translation of the Old Testament, the same rare word appears there as in Acts 4:34.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 15:4, 7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "There will be no poor among you, however, because the LORD will surely bless you in the land that the LORD your God is giving you to possess as an inheritance, … If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden your heart or shut your hand from your poor brother. Instead, you are to open your hand to him and freely loan him whatever he needs."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses describes our attitude to the poor in the language of the body. The heart can harden, and the hand can shut or open. **What does that picture say about where sharing really begins?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Rule or Example",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "It’s easy to read Acts 4 as a description of a system in which no one owned property. Luke doesn’t say that. He doesn’t write that everyone sold everything, or that they did it all at once. A few chapters later the believers gather in a house that still belongs to one of them.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 12:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when he had realized this, he went to the house of Mary the mother of John, also called Mark, where many people had gathered together and were praying."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Throughout Christian history, some have read Acts 4 as a pattern to imitate literally, and founded communities in which no one owned anything. Others have read it as a picture of a spirit that can take different forms. Both readings agree on one thing. A community that breaks one loaf doesn’t leave anyone without bread. Luke shows an example. He doesn’t lay down a rule.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in the description in Acts 4 comes from compulsion, and what comes from one heart? How can you tell from the text itself?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Money That Brings People Together",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul is writing from Greece. Macedonia and Achaia are the northern and southern parts of that land, and the saints in Jerusalem are the believers there.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 15:25-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now, however, I am on my way to Jerusalem to serve the saints there. For Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem. They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in their spiritual blessings, they are obligated to minister to them with material blessings."
+       ]
+      },
+      {
+       "odnosnik": "2 Corinthians 8:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now, brothers, we want you to know about the grace that God has given the churches of Macedonia. In the terrible ordeal they suffered, their abundant joy and deep poverty overflowed into rich generosity. For I testify that they gave according to their ability and even beyond it. Of their own accord, they earnestly pleaded with us for the privilege of sharing in this service to the saints. And not only did they do as we expected, but they gave themselves first to the Lord and then to us, because it was the will of God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice Paul writes that the churches “were pleased” to do it. At the same time he says that “they owe it to them.” **What had these Gentiles in Greece received from Jerusalem, and why do they respond with bread and money of all things?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Macedonians themselves lived in “deep poverty,” and they pleaded with Paul to be allowed to give. **Why is being able to give called grace here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 5 says what the Macedonians gave first. **How does that change the meaning of the whole collection?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Paul’s world, the poor were cared for by family, the synagogue, or a trade guild. The state didn’t do it. Anyone in Jerusalem who came to believe in Jesus often lost the support of family and synagogue. That’s why the believers began looking after one another so early. Paul’s collection was something new in the ancient world. People from one nation collected money for the poor of another nation, hundreds of miles away. The Macedonians, who gave the most, were poor and persecuted themselves.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Remembering the Poor",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 11:27-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days some prophets came down from Jerusalem to Antioch. One of them named Agabus stood up and predicted through the Spirit that a great famine would sweep across the whole world. (This happened under Claudius.) So the disciples, each according to his ability, decided to send relief to the brothers living in Judea. This they did, sending their gifts to the elders with Barnabas and Saul."
+       ]
+      },
+      {
+       "odnosnik": "Galatians 2:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And recognizing the grace that I had been given, James, Cephas, and John—those reputed to be pillars—gave me and Barnabas the right hand of fellowship, so that we should go to the Gentiles, and they to the circumcised. They only asked us to remember the poor, the very thing I was eager to do."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Antioch each gave “according to his ability.” **Whom does that phrase protect, and from what?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The apostles divide the work among themselves, and leave just one thing as a shared concern: to remember the poor. **Why should that of all things bind them together?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "According to What One Has",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 8:7-9, 12-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "But just as you excel in everything—in faith, in speech, in knowledge, in complete earnestness, and in the love we inspired in you—see that you also excel in this grace of giving. I am not making a demand, but I am testing the sincerity of your love in comparison to the earnestness of others. For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, so that you through His poverty might become rich. … For if the eagerness is there, the gift is acceptable according to what one has, not according to what he does not have. It is not our intention that others may be relieved while you are burdened, but that there may be equality. At the present time, your surplus will meet their need, so that in turn their surplus will meet your need. Then there will be equality. As it is written: “He who gathered much had no excess, and he who gathered little had no shortfall.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus, “though He was rich, yet for your sakes He became poor.” **How does that picture change the conversation about who at the table is rich and who is poor?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A gift is acceptable “according to what one has, not according to what he does not have.” **Whom does this verse set free, and from what?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul talks about equality. The surplus of some meets the need of others, and then the other way around. **What can someone who happens to have no money bring to an exchange like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Verse 15 quotes the story of the manna in the desert. Some gathered more, others less, and when it was measured, everyone had as much as they needed. Manna couldn’t be stored up. Paul reaches for this picture to describe help between churches. Equality here doesn’t come by decree. It is born from remembering that everything fell from heaven, and that no one gathered more than they could eat. Paul also notes that he is not making a demand.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Cheerful Giver",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 9:6-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously. Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver. And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Not out of regret or compulsion.” **How can you recognize a gift that came out of compulsion, even when no one forced anyone?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 8 says where what a person gives comes from. **What changes when you realize that the giver has been given to as well?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul starts at the table and ends with money. **Where in your life do faith and money talk to each other, and where do they live separately?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which is harder for you, giving or receiving? Where does that come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, think back to a moment when someone gave you something that truly cost them. **What did that leave in you?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Macedonians gave out of deep poverty, beyond their ability. The same Paul writes that a gift is measured by what a person has. **Where is the line between a poor person’s generosity and a burden they shouldn’t have to carry? Who has the right to draw it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Don’t settle this for the group. It helps if one observation from the text comes up in the conversation. Paul never measures a gift by its amount, and the line is drawn by the giver himself before God, as in 2 Corinthians 9:7.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Whoever breaks one loaf with others starts to notice whether the person sitting next to them has enough to eat.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** 1 Corinthians 10:17 or 2 Corinthians 8:9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "At your next meal, remember that the loaf was one. Ask yourself who is usually missing from your table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask God how much of your attitude toward money is fear and how much is gratitude. Don’t answer right away. Stay with the question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** If you are short of something, let someone help you, and don’t explain yourself. If you have more than you need, think before God about whose need your surplus could meet. Don’t tell anyone about it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table is barely making ends meet.** You may not know about it. That’s why no one talks about amounts, and no examples are given of who gave how much. If someone brings up their own difficulties, thank them, and don’t turn the meeting into a strategy session. Stay with that person after the meeting. Help, if the group wants to give it, goes quietly and is never announced. The group listens and walks alongside; it doesn’t give advice about debt, legal matters, or finances. In many places free legal aid and debt counseling are available. If someone says they see no way out, give them the number of a crisis line in your country, and if a life is in danger, call your local emergency number. The meeting “Losing Your Job and Your Money” in the Crises and Turning Points series works well for a separate gathering.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So the first Christians were communists? Should I sell my house?”** No. Luke describes voluntary sharing. Mary still had her house, as Acts 12:12 shows. Paul writes plainly that he is not making a demand, and in 2 Corinthians 9:7 he adds that God loves a cheerful giver. Pointing to these passages is enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to tithe, offerings at church, or church spending.** Don’t go there. Say calmly that it’s a separate conversation, best had with the pastor. Go back to the question of what a shared loaf does to the people at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks about Ananias and Sapphira.** Their story is in Acts 5:1-11, right after Barnabas. Don’t open it up in full today. One sentence of Peter’s in Acts 5:4 is enough. The field and the money were theirs, and they were free to do with them as they wished. The wrong was lying to God. Keeping back part of the money was not a sin. If someone wants to talk about the death that came upon them, arrange a separate conversation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m not worthy to take part in the Lord’s Supper.”** Don’t push. Show that in 1 Corinthians 11 “in an unworthy manner” refers to a way of eating in which some go hungry while others are full. The Supper reminds us that no one is worthy on their own. Each person examines himself and comes. The decision belongs to that person.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A guest from another church asks how the Lord’s Supper among Adventists differs from their own practice.** Answer briefly and without comparisons. Adventists invite all believing Christians to the Lord’s Supper, and it is preceded by foot washing. Don’t pass judgment on their church. If they want to know more, talk after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts judging the rich or particular people.** Gently stop it. Paul writes to the whole church and doesn’t point a finger at anyone. The Macedonians he holds up as an example were poor themselves. The text doesn’t divide people into those who give and those who take. The exchange goes both ways.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off, and you won’t get through the material.** Drop blocks 3 and 4. Go from block 2 straight to block 5 and the application. Block 5 guards against pressure, and without it someone may leave feeling guilty.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone at the table is barely making ends meet.",
+     "odpowiedz": "You may not know about it. That’s why no one talks about amounts, and no examples are given of who gave how much. If someone brings up their own difficulties, thank them, and don’t turn the meeting into a strategy session. Stay with that person after the meeting. Help, if the group wants to give it, goes quietly and is never announced. The group listens and walks alongside; it doesn’t give advice about debt, legal matters, or finances. In many places free legal aid and debt counseling are available. If someone says they see no way out, give them the number of a crisis line in your country, and if a life is in danger, call your local emergency number. The meeting “Losing Your Job and Your Money” in the Crises and Turning Points series works well for a separate gathering."
+    },
+    {
+     "sytuacja": "“So the first Christians were communists? Should I sell my house?”",
+     "odpowiedz": "No. Luke describes voluntary sharing. Mary still had her house, as Acts 12:12 shows. Paul writes plainly that he is not making a demand, and in 2 Corinthians 9:7 he adds that God loves a cheerful giver. Pointing to these passages is enough."
+    },
+    {
+     "sytuacja": "The conversation drifts to tithe, offerings at church, or church spending.",
+     "odpowiedz": "Don’t go there. Say calmly that it’s a separate conversation, best had with the pastor. Go back to the question of what a shared loaf does to the people at the table."
+    },
+    {
+     "sytuacja": "Someone asks about Ananias and Sapphira.",
+     "odpowiedz": "Their story is in Acts 5:1-11, right after Barnabas. Don’t open it up in full today. One sentence of Peter’s in Acts 5:4 is enough. The field and the money were theirs, and they were free to do with them as they wished. The wrong was lying to God. Keeping back part of the money was not a sin. If someone wants to talk about the death that came upon them, arrange a separate conversation."
+    },
+    {
+     "sytuacja": "“I’m not worthy to take part in the Lord’s Supper.”",
+     "odpowiedz": "Don’t push. Show that in 1 Corinthians 11 “in an unworthy manner” refers to a way of eating in which some go hungry while others are full. The Supper reminds us that no one is worthy on their own. Each person examines himself and comes. The decision belongs to that person."
+    },
+    {
+     "sytuacja": "A guest from another church asks how the Lord’s Supper among Adventists differs from their own practice.",
+     "odpowiedz": "Answer briefly and without comparisons. Adventists invite all believing Christians to the Lord’s Supper, and it is preceded by foot washing. Don’t pass judgment on their church. If they want to know more, talk after the meeting."
+    },
+    {
+     "sytuacja": "The group starts judging the rich or particular people.",
+     "odpowiedz": "Gently stop it. Paul writes to the whole church and doesn’t point a finger at anyone. The Macedonians he holds up as an example were poor themselves. The text doesn’t divide people into those who give and those who take. The exchange goes both ways."
+    },
+    {
+     "sytuacja": "The conversation takes off, and you won’t get through the material.",
+     "odpowiedz": "Drop blocks 3 and 4. Go from block 2 straight to block 5 and the application. Block 5 guards against pressure, and without it someone may leave feeling guilty."
+    }
+   ]
+  }
+ ]
+}

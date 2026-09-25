@@ -112,7 +112,13 @@ def text_for(ref, tr='BSB'):
                 words.append(t)
             v += 1
         out.append(' '.join(words))
-    return ' … '.join(out)
+    text = ' … '.join(out)
+    # fragment zaczynajacy sie w srodku zdania (np. Dn 5:31 "and Darius...") - wielka litera,
+    # jak przy cytowaniu; slowa zostaja bez zmian
+    m = re.search(r'[A-Za-z]', text)
+    if m and text[m.start()].islower():
+        text = text[:m.start()] + text[m.start()].upper() + text[m.start() + 1:]
+    return text
 
 
 def fill_file(path):

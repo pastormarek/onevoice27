@@ -1,0 +1,828 @@
+{
+ "tytul": "The God Who Wants to Live with Us",
+ "id": "PK-03",
+ "seria": "The Secret of the Early Church",
+ "opis": "Why God wanted a tent in the desert, and what it means that He wants to live among people for good.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 25:2, 8-9, 22; 29:45-46; Exodus 40:34-38; John 1:14; John 2:19-22; John 14:1-3, 23; 1 John 1:3-4; 1 Corinthians 1:9; Ephesians 2:19-22; 1 Corinthians 3:16; Revelation 21:3, 22",
+  "p2": "Genesis 2:8, 15; 3:8-9; Leviticus 26:11-12; Exodus 33:7, 9-11; 1 John 4:12-13, 16; 1 Peter 2:4-5",
+  "p3": "Numbers 3:7-8; Genesis 3:24; John 1:38-39; 1 Kings 8:27; 2 Samuel 7:6"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "church",
+  "community",
+  "sanctuary",
+  "God’s presence",
+  "home",
+  "Holy Spirit"
+ ],
+ "wersja": 1,
+ "zdanie": "God isn’t looking for a visit. He is looking for a home, and He has found it in people who belong to Him together.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting begins with God before it gets to us. The Bible tells the story of a God who is looking for a place to live among people. First there is a tent in the desert, then Jesus, and at the end a city where God lives with His people. The community of believers stands in the middle of that story. It is the place where God has already moved in.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "For Adventists the word “sanctuary” is tied to the teaching about Christ’s ministry in the heavenly sanctuary and about the judgment. It’s an important topic, but today we’re talking about God’s presence. Write down questions about the judgment and about dates for a separate meeting.",
+      "Catholics and people from other churches may be sitting at the table. For them a temple or a church is often a particular building, a holy place. Speak respectfully, and show what the text says.",
+      "Someone may have been hurt in a church. The sentence “The church is God’s house” may sound to them like a house they were thrown out of. Don’t defend the institution. Listen.",
+      "The topic easily turns into a lecture on the furnishings of the tabernacle. The group doesn’t need a floor plan of the tent. It needs to see what the tent was for."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t judge whether God “is” in your church or someone else’s. Don’t decide where God is more present. Don’t quiz people on symbolism.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "How can you tell that in someone’s home you’re still a guest, and how can you tell you’re already at home there? Give one small sign.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Tent in the Middle of the Camp",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Israel has come out of Egypt and is camped at the foot of Mount Sinai, where God speaks to Moses.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 25:2, 8-9, 22",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Tell the Israelites to bring Me an offering. You are to receive My offering from every man whose heart compels him. … And they are to make a sanctuary for Me, so that I may dwell among them. You must make the tabernacle and design all its furnishings according to the pattern I show you. … And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 29:45-46",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I will dwell among the Israelites and be their God. And they will know that I am the LORD their God, who brought them out of the land of Egypt so that I might dwell among them. I am the LORD their God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The whole reason for building fits into the words “so that I may dwell among them.” **How is someone who lives among you different from someone who only visits you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Exodus 29:46 God says why He brought Israel out of Egypt. **What is that reason, and how does it change the way we understand the whole escape from slavery?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The offering for the tabernacle is received only from the one “whose heart compels him.” **Why does it matter to God that His dwelling be built out of goodwill?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The order in Exodus speaks volumes. First God brings the people out of slavery. Then He makes a covenant with them, a lasting commitment of mutual faithfulness. Only at the end does He ask for a tent. Living with God comes after the rescue, and it doesn’t have to be earned. Neighboring peoples built temples too. They were houses where a deity rested far away from people. In Israel the tabernacle is meant to be a place of meeting and conversation.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Garden Where God Walked",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:8, 15",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed. … Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 3:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden. But the LORD God called out to the man, “Where are you?”"
+       ]
+      },
+      {
+       "odnosnik": "Leviticus 26:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I will make My dwelling place among you, and My soul will not despise you. I will walk among you and be your God, and you will be My people."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the garden and in the promise to Israel, God is “walking.” **What does that picture say about the closeness God wanted from the beginning?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "After the fall, it is the people who hide. God comes as usual and calls out. **What do you hear in the question “Where are you?” if you read it as the voice of Someone looking for company?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Some scholars call Eden the first sanctuary. The reasons lie in the text itself. Adam is to “cultivate and keep” the garden. In Hebrew that is the pair of verbs `avad` and `shamar`, which come back together in the description of the Levites’ service at the tabernacle in Numbers 3:7-8. After the expulsion, cherubim stand at the eastern entrance to the garden, as Genesis 3:24 says. Later, cherubim adorn the lid of the ark in the tabernacle, and the entrance to the tabernacle was also on the east. God is “walking” in Genesis 3:8 and in Leviticus 26:12 with the same verb, `hithallekh`.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "From the verb `shakhan`, “to dwell,” comes `mishkan`, “tabernacle,” literally “dwelling.” So the tabernacle is a return to the garden. In the desert God does what He did in Eden.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Word Pitched His Tent",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The tent is ready. Moses has finished the work, and then what everyone has been waiting for happens.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 40:34-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the cloud covered the Tent of Meeting, and the glory of the LORD filled the tabernacle. Moses was unable to enter the Tent of Meeting because the cloud had settled on it, and the glory of the LORD filled the tabernacle. Whenever the cloud was lifted from above the tabernacle, the Israelites would set out through all the stages of their journey. If the cloud was not lifted, they would not set out until the day it was taken up. For the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel through all their journeys."
+       ]
+      },
+      {
+       "odnosnik": "John 1:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth."
+       ]
+      },
+      {
+       "odnosnik": "John 2:19-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus answered, “Destroy this temple, and in three days I will raise it up again.” “This temple took forty-six years to build,” the Jews replied, “and You are going to raise it up in three days?” But Jesus was speaking about the temple of His body. After He was raised from the dead, His disciples remembered that He had said this. Then they believed the Scripture and the word that Jesus had spoken."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Compare the two scenes of glory, at Sinai and in John. **What do they have in common, and what has changed for the people standing closest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus calls His own body a temple. **What changes when the meeting place with God becomes a man you can touch, invite into your home, and ask for directions?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The disciples understood the words about the temple only after the resurrection. **What else in their story with Jesus did they understand only later, and why does that happen?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The words “made His dwelling” in John 1:14 translate the Greek `eskēnōsen`, literally “pitched a tent.” A reader who knew Exodus would hear the tabernacle in it. The related word `skēnē` is exactly what the Greek Old Testament calls the Tent of Meeting. Exodus ends with Moses standing before a tent full of glory, unable to go in. John begins with people who saw that glory up close. They ate with Him and walked with Him along the roads of Galilee.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Face to Face",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Before the tabernacle was built, Moses used to pitch a tent for meeting with God outside the camp.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 33:7, 9-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Moses used to take the tent and pitch it at a distance outside the camp. He called it the Tent of Meeting, and anyone inquiring of the LORD would go to the Tent of Meeting outside the camp. … As Moses entered the tent, the pillar of cloud would come down and remain at the entrance, and the LORD would speak with Moses. When all the people saw the pillar of cloud standing at the entrance to the tent, they would stand up and worship, each one at the entrance to his own tent. Thus the LORD would speak to Moses face to face, as a man speaks to his friend. Then Moses would return to the camp, but his young assistant Joshua son of Nun would not leave the tent."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The tent stands “at a distance outside the camp.” The people worship from afar, each one at the entrance to his own tent. **Who in this scene is close to God, and who is watching from a distance?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The LORD speaks to Moses “as a man speaks to his friend.” **What does that picture say about what God is looking for when He asks for a place in the middle of the camp?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A House with Room",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "It is the last evening before the crucifixion, and Jesus is talking to His disciples at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 14:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Do not let your hearts be troubled. You believe in God; believe in Me as well. In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am."
+       ]
+      },
+      {
+       "odnosnik": "John 14:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verses 2-3 Jesus leaves to prepare a place and comes back for the disciples. **Which way does the movement go in verse 23, and who moves in with whom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The home with the Father awaits the disciple in the future. The Father and the Son want to make their home with him right now. **What does that “now” change in an ordinary week of a believer’s life?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus is saying this to people whose hearts are “troubled.” **Why does He answer their fear with the picture of a home?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“Rooms” in verse 2 and “make Our home” in verse 23 are the same word in Greek, `monē`. It means a place where you stay. People used to picture these rooms as palaces. The text says something humbler and warmer: it’s about being where the Father is. A few sentences later, in John 15:4, Jesus uses a related verb: “Remain in Me.” One picture works three ways. A home waits for the disciple, God moves in with the disciple, and the disciple stays with Him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek verb `menō` means “to stay, to remain, to dwell.” The noun `monē` is formed from it. In John the word appears already at the first meeting with Jesus. In John 1:38 two disciples ask, “Where are You staying?” Verse 39 says that they went and “spent that day with Him.” So in John, faith begins with staying at Someone’s place. It ends with Him staying at ours.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "First with the Father",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "John writes to the churches as an elder witness who saw Jesus with his own eyes.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 1:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ. We write these things so that our joy may be complete."
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 1:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "God, who has called you into fellowship with His Son Jesus Christ our Lord, is faithful."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John speaks of two kinds of fellowship, with people and with the Father. **How is one connected to the other, and which one does everything begin with?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes this to Corinth, a church full of quarrels and divisions. **Why does he start with God being faithful and with God being the one who called them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "John writes “so that our joy may be complete.” **Why would his joy be incomplete if his readers had no part in the same fellowship?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “fellowship” is the Greek `koinōnia`. It means a shared part in something that belongs to everyone at once. John starts from above. First comes a share in the life of the Father and the Son. Only out of that grows the bond between people. That’s why a community of believers is more than a group of people who happen to like each other. What unites them is that they belong to the same Father. They can be different, disagree, and not choose one another, and they are still one family.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "No One Has Ever Seen God",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 4:12-13, 16",
+       "przeklad": "BSB",
+       "akapity": [
+        "No one has ever seen God; but if we love one another, God remains in us, and His love is perfected in us. By this we know that we remain in Him, and He in us: He has given us of His Spirit. … And we have come to know and believe the love that God has for us. God is love; whoever abides in love abides in God, and God in him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John begins by saying that no one has ever seen God, and then talks about loving one another. **What follows from that for someone looking at a community of believers from the outside?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The words “remain” and “abide” come up several times in these verses, in both directions. **What in this text is God’s gift, and what is our response?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A House of Living Stones",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul is writing to people from outside Israel, who in the Jerusalem temple were not allowed to go any farther than the outer court.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 2:19-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household, built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone. In Him the whole building is fitted together and grows into a holy temple in the Lord. And in Him you too are being built together into a dwelling place for God in His Spirit."
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 3:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you?"
+       ]
+      },
+      {
+       "odnosnik": "Revelation 21:3, 22",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God. … But I saw no temple in the city, because the Lord God Almighty and the Lamb are its temple."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul says first who these people were, and then who they are now. **According to this text, what turned strangers into members of God’s household?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In 1 Corinthians 3:16 everything is plural in Greek: “you yourselves are” and “in you.” **What does this sentence mean for someone who considers faith a purely private matter?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In Ephesians the building “grows.” In Revelation a voice is already calling out, “Behold, the dwelling place of God is with man.” **What connects these two pictures, and what happens in between?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The first churches had no buildings. They met in homes. In 1 Corinthians 16:19 Paul sends greetings from Aquila and Prisca, along with “the church that meets at their house.” A gathering like that usually numbered ten to thirty people, including the household. When Paul wrote “you yourselves are God’s temple,” his readers were sitting in someone’s living room, at someone’s table. Much as you are now.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Stones That Are Alive",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Peter 2:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight, you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter speaks of stones that are alive and are being built together. **How is a stone like that different from a brick someone has mortared into a wall?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the tabernacle only a few were priests. **What changes when Peter calls the whole community a priesthood?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A God Heaven Cannot Contain",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If God is everywhere, what does it even mean that He “dwells” in a tent or in a community? Solomon was already asking that question when he dedicated the temple in Jerusalem.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 8:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "But will God indeed dwell upon the earth? Even heaven, the highest heaven, cannot contain You, much less this temple I have built."
+       ]
+      },
+      {
+       "odnosnik": "2 Samuel 7:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "For I have not dwelt in a house from the day I brought the Israelites up out of Egypt until this day, but I have moved about with a tent as My dwelling."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Solomon builds a temple, and in the same prayer says that God won’t fit in it. **How can both things be true at once?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God tells David that He preferred to move about with His people in a tent. **What does that say about the difference between a God who is everywhere and a God who is with someone?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think of your group or your church as a house where God has come to live. **How could a guest who comes for the first time tell?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In what area of your life is God more of a guest than a member of the household?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who around you may still feel like a stranger and a foreigner, and what would help them come further in?** Speak only if you want to share. You don’t have to give a name.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes “you yourselves are God’s temple” to a church that quarrels, splits into factions, and tolerates serious sin. **What happens to God’s presence in a community that hurts people? Is there any way to tell that God still lives there?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t manufacture a single answer here. It helps if someone draws the distinction between the presence God gives out of His faithfulness, as in 1 Corinthians 1:9, and grieving the Spirit, which Paul writes about in Ephesians 4:30. God doesn’t move out at the first quarrel. But people can close more and more rooms to Him.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God isn’t looking for a visit. He is looking for a home, and He has found it in people who belong to Him together.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Exodus 25:8 or John 14:23.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jesus promises that the Father and He will come and make their home with the one who loves Him. Ask yourself **which room of your life you keep locked to God**. You don’t have to open it right away. It’s enough to admit to Him that such a room exists.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of the people you sit with in your group or at church. Ask God **which of them you still keep outside the door in your heart**. Stay with that question, even if the answer makes you ashamed.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Before you next walk into your group or your church, tell God plainly that you want to meet Him there. Then look at the people inside as members of His household.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So the church building isn’t holy?”** Don’t get into an argument about buildings or about the practice of other churches. Say what today’s texts show. God ties His presence first of all to people, and the first churches met in homes. Everyone can do something with that in their own tradition.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about the judgment in the heavenly sanctuary and 1844?”** It’s a real topic and deserves a meeting of its own. Write the question down. Today we’re looking at the sanctuary from the angle of God’s presence. That presence is also the heart of the teaching about Christ’s ministry in heaven.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t need a church. God lives in me.”** Don’t argue. Read 1 Corinthians 3:16 and Ephesians 2:22 again, and ask whom Paul is addressing as “you.” If the topic keeps coming back, recommend the meeting “Why Do I Need the Church?” in the Questions People Ask series.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God certainly isn’t in our church.”** A sentence like that usually has a wound behind it. Listen without defending the church and without agreeing. You can say that Paul wrote “you yourselves are God’s temple” to Corinth, one of the most divided churches of all. If the matter is serious, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone wants to discuss the furnishings of the tabernacle and their symbolism.** Appreciate the interest, and set the details aside for another time. Go back to the question of why God wanted to live in the middle of the camp at all.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they feel like a stranger in this group.** Take it seriously, and thank them for their courage. Don’t make excuses for the group. Ask what would help them feel like a member of the household. That sentence matters more to the group than all the material.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head. If the silence goes on, read the verse you’re asking about once more, and repeat the question in the same words.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So the church building isn’t holy?”",
+     "odpowiedz": "Don’t get into an argument about buildings or about the practice of other churches. Say what today’s texts show. God ties His presence first of all to people, and the first churches met in homes. Everyone can do something with that in their own tradition."
+    },
+    {
+     "sytuacja": "“What about the judgment in the heavenly sanctuary and 1844?”",
+     "odpowiedz": "It’s a real topic and deserves a meeting of its own. Write the question down. Today we’re looking at the sanctuary from the angle of God’s presence. That presence is also the heart of the teaching about Christ’s ministry in heaven."
+    },
+    {
+     "sytuacja": "“I don’t need a church. God lives in me.”",
+     "odpowiedz": "Don’t argue. Read 1 Corinthians 3:16 and Ephesians 2:22 again, and ask whom Paul is addressing as “you.” If the topic keeps coming back, recommend the meeting “Why Do I Need the Church?” in the Questions People Ask series."
+    },
+    {
+     "sytuacja": "“God certainly isn’t in our church.”",
+     "odpowiedz": "A sentence like that usually has a wound behind it. Listen without defending the church and without agreeing. You can say that Paul wrote “you yourselves are God’s temple” to Corinth, one of the most divided churches of all. If the matter is serious, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "Someone wants to discuss the furnishings of the tabernacle and their symbolism.",
+     "odpowiedz": "Appreciate the interest, and set the details aside for another time. Go back to the question of why God wanted to live in the middle of the camp at all."
+    },
+    {
+     "sytuacja": "Someone says they feel like a stranger in this group.",
+     "odpowiedz": "Take it seriously, and thank them for their courage. Don’t make excuses for the group. Ask what would help them feel like a member of the household. That sentence matters more to the group than all the material."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, read the verse you’re asking about once more, and repeat the question in the same words."
+    }
+   ]
+  }
+ ]
+}

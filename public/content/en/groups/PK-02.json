@@ -1,0 +1,811 @@
+{
+ "tytul": "They Had Been with Jesus",
+ "id": "PK-02",
+ "seria": "The Secret of the Early Church",
+ "opis": "Where ordinary people got a life that amazed the court and the city, and what they learned at Jesus’ table.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Acts 4:8-10, 13-14; Mark 3:13-15; Luke 5:27-32; Luke 19:1-10; John 15:4-5, 9-11",
+  "p2": "Acts 3:1-8; Acts 1:21-22; Luke 15:1-2; Acts 11:2-3; Acts 9:26-28; John 14:16-18, 23",
+  "p3": "Mark 14:50; 1 John 2:6; 2 Corinthians 3:18"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 29
+ },
+ "tagi": [
+  "church",
+  "community",
+  "discipleship",
+  "table",
+  "hospitality",
+  "Holy Spirit"
+ ],
+ "wersja": 1,
+ "zdanie": "Whoever stays close to Jesus starts to pick up His habits. You can see it at the table.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "After the lame man is healed, Peter and John stand before the highest court of their nation. The judges see men with no education and no standing. And yet they recognize something in them. Luke puts it briefly: they took note that these men had been with Jesus. This meeting asks where that came from. For three years the disciples sat at the table with Jesus and walked the roads with Him. They saw whom He went to and whom He ate with. His habits got into them, and they didn’t stop when He left. The Greek New Testament has a word for this kind of shared part in one life: `koinonia`, meaning fellowship, participation. It begins with being with Jesus, and then it spills over to the people around.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may feel that this meeting is for “better Christians” who have time for prayer and the Bible. The text is about fishermen and a tax collector. It’s worth pointing that out.",
+      "Levi’s banquet and Zacchaeus’s house easily turn into criticism of a church that “doesn’t eat with sinners.” Keep coming back to the question of what Jesus does, before anyone judges anyone else.",
+      "Someone at the table may feel like the tax collector in this story. Don’t call anyone a sinner or “the one we need to reach out to.”",
+      "To some people, remaining in the vine sounds like one more task to accomplish. The text speaks of a branch that doesn’t force out fruit by effort."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t judge which of those present “have been with Jesus” and which haven’t. Don’t compare this group with the church or with other churches. Don’t turn the meeting into a ministry plan.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone you spent a lot of time with who left something in you. It might be a gesture, a saying, a way of greeting people. Say briefly what you have from them.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Court Sees Something It Didn’t Expect",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "In the temple, Peter and John have healed a man who was lame from birth. The next day they stand before the Council, the Sanhedrin. The court asks by what power they did it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 4:8-10, 13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Peter, filled with the Holy Spirit, said to them, “Rulers and elders of the people! If we are being examined today about a kind service to a man who was lame, to determine how he was healed, then let this be known to all of you and to all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed. … When they saw the boldness of Peter and John and realized that they were unschooled, ordinary men, they marveled and took note that these men had been with Jesus. And seeing the man who had been healed standing there with them, they had nothing to say in response."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The judges see three things at once in Peter and John. **What in verse 13 amazes them? How do they recognize whom these men had been with?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Council has education, power, and a courtroom. **What do these two fishermen have that the judges can’t brush aside?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The healed man simply stands next to the apostles. **What does his presence say before anyone opens their mouth?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The judges couldn’t dispute the healing, because the healed man was standing in front of them. The witness called in for the prosecution became the strongest witness for the defense. Luke adds that the man was standing “with them.” Not behind them, and not off to the side. A few weeks earlier these same judges had condemned Jesus. Now they see His habits in two ordinary men from Galilee.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What They Saw, They Do",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 3:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour. And a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those entering the temple courts. When he saw Peter and John about to enter, he asked them for money. Peter looked directly at him, as did John. “Look at us!” said Peter. So the man gave them his attention, expecting to receive something from them. But Peter said, “Silver or gold I do not have, but what I have I give you: In the name of Jesus Christ of Nazareth, get up and walk!” Taking him by the right hand, Peter helped him up, and at once the man’s feet and ankles were made strong. He sprang to his feet and began to walk. Then he went with them into the temple courts, walking and leaping and praising God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The crowd walked past this man at the gate every day. **What do Peter and John do differently, before a word about healing is even spoken?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mark writes that Jesus took Peter’s mother-in-law by the hand and helped her up. Peter saw it. **Where in this scene can you see the disciple repeating his Teacher’s gesture?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Sanhedrin calls the apostles `agrammatoi` and `idiōtai`. The first word means “without an education in letters,” that is, without schooling under the scholars. The second meant a private person, with no office and no profession. It doesn’t mean “stupid.” In that world the gap between the city and the countryside was huge. An educated man from a village struck the elite as a curiosity. All the more striking, then, that the court doesn’t look for the source of their boldness in a school. It finds it in a person.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "First, with Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 3:13-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus went up on the mountain and called for those He wanted, and they came to Him. He appointed twelve of them, whom He designated as apostles, to accompany Him, to be sent out to preach, and to have authority to drive out demons."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mark gives three reasons for appointing the Twelve. **Which one comes first, and what does that order change?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "He “called for those He wanted.” **What does this sentence say about whom this community starts with?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Among the Twelve are fishermen, a tax collector, and Simon the Zealot. **What must have gone on when people like that were simply to “accompany Him” for months on end?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In those days a student usually looked for a teacher himself and asked to be accepted. Jesus does the opposite. He goes first and calls. Before the disciples do anything for Him, they are to be with Him. Presence comes before mission. It is Jesus who transforms the disciple. The disciple doesn’t remake himself to earn a place at His side.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What It Took to Be an Apostle",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After Judas is gone, Peter says who should be chosen to take his place.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 1:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us, beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter doesn’t ask about education, abilities, or eloquence. **Why is the only condition that someone “accompanied us the whole time”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Table at the Tax Collector’s House",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 5:27-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "After this, Jesus went out and saw a tax collector named Levi sitting at the tax booth. “Follow Me,” He told him, and Levi got up, left everything, and followed Him. Then Levi hosted a great banquet for Jesus at his house. A large crowd of tax collectors was there, along with others who were eating with them. But the Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?” Jesus answered, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners, to repentance.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The first thing Levi does after being called is throw a banquet at his house. **Whom does he invite, and what does that say about what he has just experienced?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Pharisees aim their question at the disciples. They say, “Why do you eat and drink…?” **What are the disciples learning at this moment, sitting at this table?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus describes Himself as a doctor. **Where does a doctor have to be in order to heal, and what follows from that for His disciples?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the first century a shared meal wasn’t just company over food. To eat with someone was to accept them and bind yourself to them. That’s why the charge was serious. A tax collector collected payments for a foreign power and was regarded as a traitor. Levi left a profitable job and right away invited his colleagues from the trade, so that they could get to know Jesus too. The table was their first door.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Charge, a Different Target",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now all the tax collectors and sinners were gathering around to listen to Jesus. So the Pharisees and scribes began to grumble: “This man welcomes sinners and eats with them.”"
+       ]
+      },
+      {
+       "odnosnik": "Acts 11:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "So when Peter went up to Jerusalem, the circumcised believers took issue with him and said, “You visited uncircumcised men and ate with them.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Peter is returning from the house of the Roman centurion Cornelius in Caesarea, where he ate at one table with Gentiles.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Put the two charges side by side, word for word. **What has changed, and what has stayed the same?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A few years earlier, Peter had been the one sitting at Levi’s table. **Where did he get the courage to sit down himself at a table that scandalizes others?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "I Must Stay at Your House",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 19:1-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus entered Jericho and was passing through. And there was a man named Zacchaeus, a chief tax collector, who was very wealthy. He was trying to see who Jesus was, but could not see over the crowd because he was small in stature. So he ran on ahead and climbed a sycamore tree to see Him, since Jesus was about to pass that way. When Jesus came to that place, He looked up and said, “Zacchaeus, hurry down, for I must stay at your house today.” So Zacchaeus hurried down and welcomed Him joyfully. And all who saw this began to grumble, saying, “He has gone to be the guest of a sinful man!” But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.” Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham. For the Son of Man came to seek and to save the lost.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Trace the order of events. **Which comes first, Jesus’ invitation or Zacchaeus’s change, and why does that matter?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus says “I must” before Zacchaeus says anything about himself. **What does that word reveal about what Jesus is looking for in Jericho?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“All who saw this began to grumble.” The disciples may have been among them. **What did they have to think through as they followed Jesus into that house?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "That cautious world rested on one assumption: the unclean defiles the clean, and holiness doesn’t spread. That’s why a devout person kept away from a tax collector. To stay with someone like that meant taking part in his sin. In Zacchaeus’s house the opposite happens. Jesus’ holiness passes to the host. Zacchaeus himself chooses the strictest measure of repayment the Law knew, and adds half of his possessions for the poor.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Barnabas",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A few years after the ascension, Saul, until recently a persecutor of the church, comes to Jerusalem as a disciple.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 9:26-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Saul arrived in Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he was a disciple. Then Barnabas brought him to the apostles and described how Saul had seen the Lord, who spoke to him on the road to Damascus, and how Saul had spoken boldly in that city in the name of Jesus. So Saul stayed with them, moving about freely in Jerusalem and speaking boldly in the name of the Lord."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The disciples are afraid of Saul, and they have good reasons to be. **How is Barnabas like Jesus under the sycamore tree?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The last sentence says that Saul “stayed with them.” **What changed for him only once he could simply be with them?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Branch That Remains",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The last evening before His suffering. Jesus tells the disciples that He is leaving, and describes what their life is to look like without His visible presence.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 15:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Remain in Me, and I will remain in you. Just as no branch can bear fruit by itself unless it remains in the vine, neither can you bear fruit unless you remain in Me. I am the vine and you are the branches. The one who remains in Me, and I in him, will bear much fruit. For apart from Me you can do nothing."
+       ]
+      },
+      {
+       "odnosnik": "John 15:9-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "As the Father has loved Me, so have I loved you. Remain in My love. If you keep My commandments, you will remain in My love, just as I have kept My Father’s commandments and remain in His love. I have told you these things so that My joy may be in you and your joy may be complete."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "For three years the disciples were with Jesus on the road and at the table. **According to this picture, how is that being together to go on once He leaves?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A branch doesn’t force anything out by effort. **So what does it do to bear fruit, and how does that sound to someone worn out from trying?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus begins with the Father’s love and ends with the disciples’ joy. **What path does that love travel in verses 9-11?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Old Testament the vine was a picture of Israel. Over the entrance to the temple in Jerusalem hung a great golden vine, to which donors added more clusters of grapes. The disciples knew the sight. That night Jesus says that He Himself is the true vine. Whoever remains in Him belongs to God’s people. The friendship with Him that He speaks of later in this chapter grows out of that remaining.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "I Will Not Leave You as Orphans",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 14:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I will ask the Father, and He will give you another Advocate to be with you forever—"
+       ]
+      },
+      {
+       "odnosnik": "John 14:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you. I will not leave you as orphans; I will come to you."
+       ]
+      },
+      {
+       "odnosnik": "John 14:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus is leaving, and yet He promises to come. **How does His presence change after He leaves, and what stays the same?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Go back to the Sanhedrin. **Where did Peter get his courage, when Jesus had not been with him in the body for weeks?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "John plays on a single word across two chapters. The verb `menō` means “to remain, to stay, to dwell.” From the same root comes the noun `monē`, “a dwelling place.” In the Father’s house there are many rooms, as we read in John 14:2. The Father and the Son will make their home with the one who loves, according to John 14:23. The disciples are to remain in the vine, as in John 15:4. It’s one picture pointing three ways. A home is waiting for the disciples. God moves in with them. The branch stays with the vine. Being with Jesus didn’t end with three years in Galilee. It changed address.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Imitate or Remain",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 14:50",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then everyone deserted Him and fled."
+       ]
+      },
+      {
+       "odnosnik": "1 John 2:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Whoever claims to abide in Him must walk as Jesus walked."
+       ]
+      },
+      {
+       "odnosnik": "2 Corinthians 3:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "And we, who with unveiled faces all reflect the glory of the Lord, are being transformed into His image with intensifying glory, which comes from the Lord, who is the Spirit."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Three years with Jesus didn’t keep the disciples from running away on the night of His arrest. Their courage before the Sanhedrin came later, after the Spirit was poured out. Two emphases can be heard in the church. Some say we need to look at Jesus and act as He did. John writes that plainly. Others point out that simply copying the pattern from a distance doesn’t work, because transformation is the Spirit’s work. Paul says that we are being transformed. One thing joins the two emphases. The disciples were not meant to be copies of Jesus. They were meant to be His close companions, who come to resemble Him by being close to Him.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John says we “must walk as Jesus walked,” and Paul says we “are being transformed.” **How do these two sentences work together in one person’s life?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "People pick up the habits of those they spend time with. **Whose habits do you see most clearly in yourself today, and where did they come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus ate with people others didn’t want to sit with. **Who around you might be surprised if you invited them to your table?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, tell us. **When were you last simply with Jesus, with no task to get done?** And if it’s been a long time, what’s getting in the way?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The court recognized in Peter and John that they had been with Jesus. We didn’t walk with Him around Galilee. **How could a stranger tell today that a community has been with Jesus? And can that be seen in one person, or only in people together?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. It helps if someone notices that the court saw two men with a healed man beside them. There was no single hero there.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Whoever stays close to Jesus starts to pick up His habits. You can see it at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Mark 3:14 or John 15:4.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think about one of your days. **How many moments in it were spent with Jesus, and how many only doing something for Him?** Don’t judge it. Just notice it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person you don’t want to sit next to. Ask God **what Jesus sees in them when He looks up into their sycamore tree.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask someone close to you what in your way of being reminds them of Jesus, and what doesn’t. Listen without explaining yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“They had it easy. They saw Him with their own eyes.”** Admit that this is a real difference. Then point to Mark 14:50. The ones who saw Him with their own eyes ran away on the night He was arrested. Their courage before the Sanhedrin came from the presence of the Spirit, which Jesus promised in John 14. That promise is for everyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Nobody in our church would sit down with Zacchaeus.”** Don’t get into judging the church or particular people. Ask the group which of us has recently sat at a table like that. The text asks me first, and only then others.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts naming people around them who are “tax collectors.”** Gently interrupt. Luke calls Zacchaeus a sinner through the mouths of a grumbling crowd. Jesus calls him a son of Abraham. We’re talking about how we look at people. Other people’s sins we leave to God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I have to try harder to remain?”** Go back to the picture of the branch. A branch remains because it is grown into the vine. Effort adds nothing here. Remaining means staying close. It isn’t one more duty to check off.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone reads on to John 15:6 and asks about the fire.** Don’t skip the question. But don’t make it the topic of the meeting either. The verse speaks of a branch that has cut itself off from the vine. Today the text’s emphasis is on the invitation to stay. If the question keeps coming back, suggest a separate conversation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off, and you won’t get through the material.** Drop block 3 and go straight to blocks 4 and 5. Block 5 answers the question of how being with Jesus continues today, and without it the meeting stays in the past.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“They had it easy. They saw Him with their own eyes.”",
+     "odpowiedz": "Admit that this is a real difference. Then point to Mark 14:50. The ones who saw Him with their own eyes ran away on the night He was arrested. Their courage before the Sanhedrin came from the presence of the Spirit, which Jesus promised in John 14. That promise is for everyone."
+    },
+    {
+     "sytuacja": "“Nobody in our church would sit down with Zacchaeus.”",
+     "odpowiedz": "Don’t get into judging the church or particular people. Ask the group which of us has recently sat at a table like that. The text asks me first, and only then others."
+    },
+    {
+     "sytuacja": "Someone starts naming people around them who are “tax collectors.”",
+     "odpowiedz": "Gently interrupt. Luke calls Zacchaeus a sinner through the mouths of a grumbling crowd. Jesus calls him a son of Abraham. We’re talking about how we look at people. Other people’s sins we leave to God."
+    },
+    {
+     "sytuacja": "“So I have to try harder to remain?”",
+     "odpowiedz": "Go back to the picture of the branch. A branch remains because it is grown into the vine. Effort adds nothing here. Remaining means staying close. It isn’t one more duty to check off."
+    },
+    {
+     "sytuacja": "Someone reads on to John 15:6 and asks about the fire.",
+     "odpowiedz": "Don’t skip the question. But don’t make it the topic of the meeting either. The verse speaks of a branch that has cut itself off from the vine. Today the text’s emphasis is on the invitation to stay. If the question keeps coming back, suggest a separate conversation."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "The conversation takes off, and you won’t get through the material.",
+     "odpowiedz": "Drop block 3 and go straight to blocks 4 and 5. Block 5 answers the question of how being with Jesus continues today, and without it the meeting stays in the past."
+    }
+   ]
+  }
+ ]
+}

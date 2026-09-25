@@ -1,0 +1,778 @@
+{
+ "tytul": "The Towel and the Basin",
+ "id": "PK-07",
+ "seria": "The Secret of the Early Church",
+ "opis": "Why Jesus took a towel and a basin, and what a community looks like when its path leads downward.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "John 13:1-17; Mark 10:35-45; Luke 22:24-27; Philippians 2:3-11",
+  "p2": "Genesis 18:1-5; 1 Timothy 5:9-10; Romans 12:10-13; Galatians 5:13; Philippians 2:19-22",
+  "p3": "John 10:17-18"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "community",
+  "service",
+  "humility",
+  "Lord’s Supper",
+  "early church"
+ ],
+ "wersja": 1,
+ "zdanie": "Jesus didn’t take away our longing for greatness. He showed us that its place is on our knees, beside a basin of water.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about direction. The world teaches us to climb, rung by rung. Jesus takes a towel, kneels before His disciples, and washes their feet. The first Christians took this downward path as their own. They measured greatness by service, and it could be seen from the street.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be someone at the table who has never seen the ordinance of humility, or someone from another church. The note in block 3 explains what it is. Talk about it calmly and without comparisons.",
+      "The word “service” is sometimes used to keep people down. Someone at the table may know this from home or from work. Jesus goes down by His own free choice. The text does not teach anyone to accept mistreatment.",
+      "The conversation easily veers into complaining about bosses, politicians, or leaders. Every time, go back to the text and to the words “among you.”",
+      "Bare feet can be embarrassing. Feeling shy about your body is an ordinary human thing. Don’t make anyone feel ashamed."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t organize a foot washing without announcing it in advance, don’t judge the practice of other churches, and don’t turn humility into a competition.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone who did something for you that they didn’t have to do at all. Something a little beneath their position. Say in one sentence what you felt at the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on other people’s answers, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "No One Got Up",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 13:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "It was now just before the Passover Feast, and Jesus knew that His hour had come to leave this world and return to the Father. Having loved His own who were in the world, He loved them to the very end. The evening meal was underway, and the devil had already put into the heart of Judas, the son of Simon Iscariot, to betray Jesus. Jesus knew that the Father had delivered all things into His hands, and that He had come from God and was returning to God. So He got up from the supper, laid aside His outer garments, and wrapped a towel around His waist. After that, He poured water into a basin and began to wash the disciples’ feet and dry them with the towel that was around Him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice John writes what Jesus knew. **How is that knowledge connected with what He did a moment later?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verses 4 and 5 slowly, one verb at a time. **Which of these movements surprises you the most?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Feet were washed before a meal, but here the supper is already underway. **What might have been going on at the table before Jesus got up?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Middle East, a host would provide guests with water for their feet. The actual washing of other people’s feet was left to slaves, or to the women of the house. The roads were dusty, and people walked in sandals. In that room there were no servants. None of the Twelve moved. Luke records that on that evening they were arguing about which of them was the greatest. Jesus gets up into that silence. The words “to the very end” can also mean “to the fullest measure.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Water at the Entrance of the Tent",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 18:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent. And Abraham looked up and saw three men standing nearby. When he saw them, he ran from the entrance of his tent to meet them and bowed low to the ground. “My lord,” said Abraham, “if I have found favor in your sight, please do not pass your servant by. Let a little water be brought, that you may wash your feet and rest yourselves under the tree. And I will bring a bit of bread so that you may refresh yourselves. This is why you have passed your servant’s way. After that, you may continue on your way.” “Yes,” they replied, “you may do as you have said.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham runs out, bows low, and calls himself a servant. **What does his hospitality say about how he sees these travelers?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham has water brought, and the guests wash their own feet. **So what does Jesus’ gesture go beyond?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 4 Jesus “laid aside” His garments. In verse 12 He takes them again. John uses two Greek verbs here, `tithēmi` and `lambanō`. Jesus used the same words about His own life in John 10:17-18: “I lay down My life in order to take it up again.” So the scene with the basin tells in miniature what is about to happen on the cross and at the empty tomb.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does this overlap of words add to the scene with the towel?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Peter Pulls His Feet Back",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 13:6-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "He came to Simon Peter, who asked Him, “Lord, are You going to wash my feet?” Jesus replied, “You do not realize now what I am doing, but later you will understand.” “Never shall You wash my feet!” Peter told Him. Jesus answered, “Unless I wash you, you have no part with Me.” “Then, Lord,” Simon Peter replied, “not only my feet, but my hands and my head as well!” Jesus told him, “Whoever has already bathed needs only to wash his feet, and he will be completely clean. And you are clean, though not all of you.” For He knew who would betray Him. That is why He said, “Not all of you are clean.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "First Peter refuses, and a moment later he wants to be washed all over. **What do both reactions say about how he sees Jesus and himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus says that without this washing Peter will have no part with Him. **Why is it sometimes harder to receive service than to give it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus knows who will betray Him, and He washes that man’s feet too. **What does that say about His service?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Judas sat at the same table. His feet were washed too. A gesture performed by Jesus Himself did not open a heart that had closed. No ritual works by itself. Verse 10 also says something comforting. Whoever has already bathed needs only to wash his feet. The dust of the road clings every day, even to people who belong to Jesus.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "You Also",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 13:12-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus had washed their feet and put on His outer garments, He reclined with them again and asked, “Do you know what I have done for you? You call Me Teacher and Lord, and rightly so, because I am. So if I, your Lord and Teacher, have washed your feet, you also should wash one another’s feet. I have set you an example so that you should do as I have done for you. Truly, truly, I tell you, no servant is greater than his master, nor is a messenger greater than the one who sent him. If you know these things, you will be blessed if you do them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t stop being Lord and Teacher. He says so plainly in verse 13. **How do authority and service fit into one person in this scene?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus says “one another’s.” **What does that one word change in a community where some people usually serve and others are usually served?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 17 ties blessing to doing. **Why isn’t understanding this scene enough?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Many Christians also read this text literally. In the Seventh-day Adventist Church, before the Lord’s Supper, the participants pair up and wash one another’s feet. It is called the ordinance of humility. There is a basin, water, a towel, and a short prayer for the person beside you. Then everyone returns to the shared table with the bread and the cup. The ordinance is a reminder that Christ cleanses us. It also teaches us to serve one another. At the basin, everyone kneels once and offers their feet once.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "She Washed the Feet of the Saints",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul writes to Timothy about how the church in Ephesus should care for older widows.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Timothy 5:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "A widow should be enrolled if she is at least sixty years old, the wife of one man, and well known for good deeds such as bringing up children, entertaining strangers, washing the feet of the saints, imparting relief to the afflicted, and devoting herself to every good work."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Among this woman’s good deeds is washing the feet of the saints. **What does this brief mention tell us about the everyday life of the first churches?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why does this gesture appear on the list next to hospitality and bringing relief to the afflicted?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A Gesture or an Attitude",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Did Jesus establish a gesture to be repeated, or did He show an attitude? The text says both. In verse 14 Jesus says, “you also ought to wash one another’s feet” (WEB), meaning you are under obligation. In verse 15 the word is “example.”",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Adventists take both words at once. They wash one another’s feet before every Lord’s Supper. They also know that a gesture without the attitude is empty. In many other churches the gesture comes back once a year, on Holy Thursday. Other communities see this scene above all as a pattern for everyday service. All of them share one conviction: a disciple of Jesus doesn’t put himself above another person.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What happens to an attitude that never takes visible shape? What happens to a gesture with no heart behind it?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Which of Us Is the Greatest",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 10:35-45",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then James and John, the sons of Zebedee, came to Jesus and declared, “Teacher, we want You to do for us whatever we ask.” “What do you want Me to do for you?” He inquired. They answered, “Grant that one of us may sit at Your right hand and the other at Your left in Your glory.” “You do not know what you are asking,” Jesus replied. “Can you drink the cup I will drink, or be baptized with the baptism I will undergo?” “We can,” the brothers answered. “You will drink the cup that I drink,” Jesus said, “and you will be baptized with the baptism that I undergo. But to sit at My right or left is not Mine to grant. These seats belong to those for whom they have been prepared.” When the ten heard about this, they became indignant with James and John. So Jesus called them together and said, “You know that those regarded as rulers of the Gentiles lord it over them, and their superiors exercise authority over them. But it shall not be this way among you. Instead, whoever wants to become great among you must be your servant, and whoever wants to be first must be the slave of all. For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Luke records the same argument at the table of the Last Supper.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 22:24-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "A dispute also arose among the disciples as to which of them would be considered the greatest. So Jesus declared, “The kings of the Gentiles lord it over them, and those in authority over them call themselves benefactors. But you shall not be like them. Instead, the greatest among you should be like the youngest, and the one who leads like the one who serves. For who is greater, the one who reclines at the table or the one who serves? Is it not the one who reclines? But I am among you as one who serves."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "James and John ask for the places at His right and left. The other ten become indignant. **What does that indignation give away about the rest of the disciples?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus describes how the rulers of the Gentiles govern, and says, “it shall not be this way among you.” **What specifically is supposed to look different?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The argument comes back at the Last Supper, after three years with Jesus. **Why is this issue so hard to kill in people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The rulers of that world loved the title of benefactor. The wealthy paid for bathhouses, temples, and statues. Then they had their gifts carved in stone. Status was bought with generosity and put on public display. Jesus doesn’t take the longing for greatness away from His disciples. He shows them a different road to it. In Mark, the places at Jesus’ right and left were later taken by two crucified criminals. That is what the throne the two brothers asked for looked like.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Race in the Other Direction",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 12:10-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Be devoted to one another in brotherly love. Outdo yourselves in honoring one another. Do not let your zeal subside; keep your spiritual fervor, serving the Lord. Be joyful in hope, patient in affliction, persistent in prayer. Share with the saints who are in need. Practice hospitality."
+       ]
+      },
+      {
+       "odnosnik": "Galatians 5:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you, brothers, were called to freedom; but do not use your freedom as an opportunity for the flesh. Rather, serve one another in love."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul keeps the competition and only changes its goal. We are to outdo ourselves in honoring one another. **What would that kind of race look like in an ordinary week of a community?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul links service with freedom. **How can the two go together, when we usually set them against each other?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Mark uses two words for service. In verse 43 the great one is to be a `diakonos`, someone who waits on tables. In verse 44 the first is to be a `doulos`, a slave, and a slave of all at that. The second word is harsher than the first. The higher someone wants to stand, the lower Jesus sends them.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Verse 45 adds the word `lytron`, translated “ransom.” It comes from the slave market and meant the price paid for someone to go free. The One who became a servant Himself pays with His own life for the freedom of others.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in the words about service when you read them alongside the word about the ransom?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Way Down",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 2:3-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves. Each of you should look not only to your own interests, but also to the interests of others. Let this mind be in you which was also in Christ Jesus: Who, existing in the form of God, did not consider equality with God something to be grasped, but emptied Himself, taking the form of a servant, being made in human likeness. And being found in appearance as a man, He humbled Himself and became obedient to death—even death on a cross. Therefore God exalted Him to the highest place and gave Him the name above all names, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Go through verses 6-8 and name each step down. **Where does this road end, and what makes it so deep?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul starts with selfish ambition and empty pride in the church, and then sings about Christ. **Why put a hymn like this in a letter about ordinary quarrels?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Exaltation comes only in verse 9, and it is God who gives it. **What happens to a person who stops exalting themselves?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Philippi was a Roman colony and lived by the Roman order of honor. Everyone knew their place in that ranking. You could tell from clothing who was owed more respect. A career climbed the ladder of public offices, rung by rung, and achievements were inscribed in stone. The hymn about Christ runs in the opposite direction. It starts with equality with God and goes down to the form of a servant. It ends on a cross, the most shameful death of that world. In a city like that, the call to consider others more important than yourselves sounded subversive.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Someone Like Timothy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 2:19-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I learn how you are doing. I have nobody else like him who will genuinely care for your needs. For all the others look after their own interests, not those of Jesus Christ. But you know Timothy’s proven worth, that as a child with his father he has served with me to advance the gospel."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Right after the hymn, Paul writes about a specific person. **How can you tell that Timothy has the same mind that was in Christ?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“All the others look after their own interests.” **In an ordinary week, how do you recognize that you are looking after your own interests?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Verse 6 contains a rare Greek word, `harpagmos`. It means something that can be used for one’s own advantage. Christ was God and did not use that for Himself. In verse 7 the Greek verb `ekenōsen` literally means “emptied Himself,” and that is how the BSB renders it. Christ did not leave His divinity behind in heaven. He remained God in a human body. The emptying consisted in taking the form of a servant, `morphē doulou`. The same word `doulos` appears in Mark 10:44.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean for us that Jesus had everything and did not use it for Himself?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in your week are you waiting for someone else to get up from the table and take the towel?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**From whom would it be hardest for you to accept help, and what does that say about you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In what area do you feel pulled upward today, even though you sense Jesus inviting you down?** Answer if you want to share.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus tells the first to be the servant of all. Yet every community needs people who lead and make decisions. **How do you lead without climbing? How do you serve without disappearing?**",
+     "poziom": 3
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "For the leader. There’s no single answer here, and don’t try to produce one. It helps if someone brings up the observation from Luke 22:26. Jesus doesn’t abolish leadership. He turns its direction around.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jesus didn’t take away our longing for greatness. He showed us that its place is on our knees, beside a basin of water.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Mark 10:45 or John 13:14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of one person you serve reluctantly, or not at all. Ask yourself what stands between you and the towel. Pride, tiredness, an old grievance, or maybe something else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This week, notice the moments when you are mentally ranking who is higher and who is lower. Don’t judge yourself for it. Bring those moments to God just as they are.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Let someone do something for you, even though you could do it yourself. Pay attention to what goes on inside you when they do.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Can I take part in an ordinance like this as a guest?”** Yes, if you believe in Jesus and want to. In Adventist churches, any believer may take part in the foot washing and the Lord’s Supper. No one has to. You can also simply come and be there alongside everyone else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“We do it differently in our church,” or “That’s going too far.”** Don’t get into comparisons. Say that today the group is reading John’s text and that every community responds to it in its own way. Go back to the question of what this text does with us.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Service is a nice word, but people take advantage of me.”** Take this seriously. Jesus goes down by His own free choice, and He knows who He is, as John 13:3 says. Humility does not mean accepting abuse or humiliation. If someone talks about abuse at home or at work, talk with them after the meeting, and don’t carry it alone. Professional help is necessary in that case. Point them to a crisis line in your country, and in an emergency, to your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into complaining about bosses, leaders, or politicians.** Agree that power is often abused, because the text says so. Then go back to the words “among you.” Jesus is saying this to His disciples. The question is what I will do with it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone feels embarrassed at the very thought of bare feet.** That’s normal. Peter pulled his feet back too. Don’t pressure anyone, and don’t joke about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off so much that you won’t get through the material.** Skip block 2 and go to block 3, then to block 5. Without block 5, the meeting loses its direction.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Can I take part in an ordinance like this as a guest?”",
+     "odpowiedz": "Yes, if you believe in Jesus and want to. In Adventist churches, any believer may take part in the foot washing and the Lord’s Supper. No one has to. You can also simply come and be there alongside everyone else."
+    },
+    {
+     "sytuacja": "“We do it differently in our church,” or “That’s going too far.”",
+     "odpowiedz": "Don’t get into comparisons. Say that today the group is reading John’s text and that every community responds to it in its own way. Go back to the question of what this text does with us."
+    },
+    {
+     "sytuacja": "“Service is a nice word, but people take advantage of me.”",
+     "odpowiedz": "Take this seriously. Jesus goes down by His own free choice, and He knows who He is, as John 13:3 says. Humility does not mean accepting abuse or humiliation. If someone talks about abuse at home or at work, talk with them after the meeting, and don’t carry it alone. Professional help is necessary in that case. Point them to a crisis line in your country, and in an emergency, to your local emergency number."
+    },
+    {
+     "sytuacja": "The conversation turns into complaining about bosses, leaders, or politicians.",
+     "odpowiedz": "Agree that power is often abused, because the text says so. Then go back to the words “among you.” Jesus is saying this to His disciples. The question is what I will do with it."
+    },
+    {
+     "sytuacja": "Someone feels embarrassed at the very thought of bare feet.",
+     "odpowiedz": "That’s normal. Peter pulled his feet back too. Don’t pressure anyone, and don’t joke about it."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "The conversation takes off so much that you won’t get through the material.",
+     "odpowiedz": "Skip block 2 and go to block 3, then to block 5. Without block 5, the meeting loses its direction."
+    }
+   ]
+  }
+ ]
+}

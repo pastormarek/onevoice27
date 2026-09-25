@@ -39,7 +39,9 @@ def compare(a, b, path, errs):
 
 
 def main():
-    pl_files = sorted(glob.glob(os.path.join(PL, '*-*.json')))
+    # seria, ktorej nie ma jeszcze w polskiej aplikacji: zrodlo wyciagniete z one27 do tools/pl_groups_extra/
+    extra = os.path.join(ROOT, 'tools', 'pl_groups_extra')
+    pl_files = sorted(glob.glob(os.path.join(PL, '*-*.json')) + glob.glob(os.path.join(extra, '*-*.json')))
     ok = 0
     for p in pl_files:
         gid = os.path.basename(p)[:-5]

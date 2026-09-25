@@ -1,0 +1,803 @@
+{
+ "tytul": "The Spirit in Us, Through Us, and Around Us",
+ "id": "PK-05",
+ "seria": "The Secret of the Early Church",
+ "opis": "The Holy Spirit changes our character, hands out gifts for the sake of others, and is already waiting for us among the people we go to.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Galatians 5:16, 22-25; 1 Corinthians 12:4-11; Acts 8:26-31, 35; Acts 10:19-20, 44-48; Acts 11:15-18",
+  "p2": "Ezekiel 36:26-27; Romans 5:5; 1 Peter 4:8-11; Isaiah 56:3-5; Acts 8:36; Acts 10:27-29",
+  "p3": "2 Corinthians 13:14; John 16:7-8; Acts 11:13-14"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "Holy Spirit",
+  "fruit of the Spirit",
+  "spiritual gifts",
+  "community",
+  "mission",
+  "church"
+ ],
+ "wersja": 1,
+ "zdanie": "The Spirit changes us from the inside, gives us away to others, and goes ahead of us to people we don’t know yet.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The first church had no strategy and no buildings. What it had was the Holy Spirit, working in three directions. In people, He was shaping character. Through people, He was giving others what they needed. Around them, He was going on ahead and waiting for them among strangers. This meeting sets out to show all three directions in the text. Mission then looks humbler and more joyful. We join God where He is already at work.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone may think they have no gift at all, or that the Spirit can’t be seen in them. The text says “to each one.” Don’t let the conversation turn into checking who has the Spirit and who doesn’t.",
+      "The topic of gifts easily veers into tongues, miracles, and healings. Someone at the table may have had that kind of experience, or been hurt by one. Listen respectfully and keep coming back to the words “for the common good.”",
+      "There may be someone at the table from outside the church, even from another faith. Don’t make them an example of Cornelius. They are meant to be a guest, not a topic.",
+      "The line about the Spirit working around us is easy to read as a claim that every religion leads to God. The texts don’t say that. They speak of a God who prepares people to meet Jesus."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t judge anyone’s spirituality by their gifts. Don’t compare churches. Don’t hand out gifts to people at the table like labels. If the question of salvation for people of other religions comes up, you can point to the meeting “Is Jesus the Only Way?”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone who showed up in your life exactly when they were needed. Don’t tell the whole story. Say in a word or two what that person was for you.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Fruit No One Manufactures",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul is writing to the churches in Galatia, which have fallen out over what makes a person a true believer.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 5:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "So I say, walk by the Spirit, and you will not gratify the desires of the flesh."
+       ]
+      },
+      {
+       "odnosnik": "Galatians 5:22-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Against such things there is no law. Those who belong to Christ Jesus have crucified the flesh with its passions and desires. Since we live by the Spirit, let us walk in step with the Spirit."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Go slowly through the list in verses 22 and 23. **How many of these things can you have on your own, without another person beside you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t write “fruits.” He writes “fruit.” **How is fruit different from the result of hard work, and what does that change in the way you look at your own character?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 25 speaks of living by the Spirit and of walking in step with the Spirit. **Where do you see the difference between the two?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A few verses earlier, Paul lists the “acts of the flesh.” The acts are plural; the fruit is singular. Sin breaks a person and a community into pieces. The Spirit bears one fruit, love, which has many faces. The acts are a human product. The fruit grows out of what the Spirit has planted. So the first sign of the Spirit in the church isn’t anything spectacular. It’s the way people treat one another.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A New Heart",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 36:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances."
+       ]
+      },
+      {
+       "odnosnik": "Romans 5:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Ezekiel, almost every sentence begins with what God will do. **What is left for a human being to do in this promise?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes that God has “poured out His love into our hearts.” **How is love poured out like that different from love a person squeezes out of themselves?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "To Each One, for Everyone",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The church in Corinth had plenty of gifts, and plenty of arguments over whose gift mattered more.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 12:4-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "There are different gifts, but the same Spirit. There are different ministries, but the same Lord. There are different ways of working, but the same God works all things in all people. Now to each one the manifestation of the Spirit is given for the common good. To one there is given through the Spirit the message of wisdom, to another the message of knowledge by the same Spirit, to another faith by the same Spirit, to another gifts of healing by that one Spirit, to another the working of miracles, to another prophecy, to another distinguishing between spirits, to another speaking in various tongues, and to still another the interpretation of tongues. All these are the work of one and the same Spirit, who apportions them to each one as He determines."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count how many times you find “the same,” and how many times “different,” “one,” “another.” **What is Paul trying to say by putting them side by side?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 7 says in whom the Spirit shows Himself, and for what purpose. **What would change in a group like ours if everyone took that sentence seriously?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The passage ends with the words “as He determines.” **What does that phrase take off a person’s shoulders, and what does it not allow them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Corinth, some people treated the showy gifts as proof of a higher spirituality. Paul answers with the words “to each one.” A few verses earlier he writes that no one can say “Jesus is Lord” except by the Holy Spirit. Before any list appears, the gift has already been given. The lists of gifts in the New Testament differ from one another. They are examples, not a catalog. What they share is one thing: a gift is never private.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Hospitality Is a Gift Too",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Peter 4:8-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Above all, love one another deeply, because love covers over a multitude of sins. Show hospitality to one another without complaining. As good stewards of the manifold grace of God, each of you should use whatever gift he has received to serve one another. If anyone speaks, he should speak as one conveying the words of God. If anyone serves, he should serve with the strength God provides, so that in all things God may be glorified through Jesus Christ, to whom be the glory and the power forever and ever. Amen."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter puts hospitality right next to the gifts of grace. **What other ordinary things could stand on a list like that?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A steward manages something that doesn’t belong to him. **How does that word change the way you think about your own abilities?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek `charisma`, a gift of grace, comes from `charis`, grace. By its very name, a gift is something received for free. It can’t be earned, and it can’t be used to put yourself above others.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paul closes his second letter to the Corinthians with the wish that “the fellowship of the Holy Spirit” would be with them, 2 Corinthians 13:14. The word translated as fellowship is `koinonia`, a shared participation in one and the same thing. The Spirit doesn’t only live in an individual person. He binds people together, because they all share in the same God.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Spirit Says: Go Over",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Philip, one of the seven chosen to serve at the tables, is preaching in Samaria. Suddenly he is told to go out to an empty road.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 8:26-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now an angel of the Lord said to Philip, “Get up and go south to the desert road that goes down from Jerusalem to Gaza.” So he started out, and on his way he met an Ethiopian eunuch, a court official in charge of the entire treasury of Candace, queen of the Ethiopians. He had gone to Jerusalem to worship, and on his return was sitting in his chariot reading Isaiah the prophet. The Spirit said to Philip, “Go over to that chariot and stay by it.” So Philip ran up and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked. “How can I,” he said, “unless someone guides me?” And he invited Philip to come up and sit with him."
+       ]
+      },
+      {
+       "odnosnik": "Acts 8:35",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Philip began with this very Scripture and told him the good news about Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What was happening with the court official before Philip ran up?** List everything the text says about him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Philip begins with a question about what the man is reading. **What does that beginning tell us about how you join in work that God has already started?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Spirit says “Go over,” and Philip runs. **What usually stands in us between hearing a nudge like that and taking the first step?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the ancient world people read aloud. That is the only reason Philip heard what the man in the chariot was reading. The official was a high-ranking officer and, at the same time, someone shut out. Deuteronomy 23:1 barred eunuchs from the assembly. Even so, he had traveled an enormous distance to worship. He invited a stranger from the road into his chariot. Philip didn’t bring God into the desert. God was there before him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Promise a Few Chapters Later",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 56:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let no foreigner who has joined himself to the LORD say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.” For this is what the LORD says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant— I will give them, in My house and within My walls, a memorial and a name better than that of sons and daughters. I will give them an everlasting name that will not be cut off."
+       ]
+      },
+      {
+       "odnosnik": "Acts 8:36",
+       "przeklad": "BSB",
+       "akapity": [
+        "As they traveled along the road and came to some water, the eunuch said, “Look, here is water! What is there to prevent me from being baptized?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The eunuch in Isaiah’s promise is exactly what the court official on the chariot was.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The official was reading Isaiah. A few chapters further on in the same scroll stood a promise for people like him. **What might have stirred in him when he asked, “What is there to prevent me?”**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who around us might God already have assured that they are not a dry tree, before any of us ever went up to them?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Spirit Got There First",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Peter is staying in Joppa. He has just had a vision he doesn’t yet understand. Meanwhile, men sent by the Roman centurion Cornelius are knocking at the door.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 10:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "As Peter continued to reflect on the vision, the Spirit said to him, “Behold, three men are looking for you. So get up! Go downstairs and accompany them without hesitation, because I have sent them.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Peter goes to Caesarea, enters Cornelius’s house, and tells the people gathered there about Jesus.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 10:44-48",
+       "przeklad": "BSB",
+       "akapity": [
+        "While Peter was still speaking these words, the Holy Spirit fell upon all who heard his message. All the circumcised believers who had accompanied Peter were astounded that the gift of the Holy Spirit had been poured out even on the Gentiles. For they heard them speaking in tongues and exalting God. Then Peter said, “Can anyone withhold the water to baptize these people? They have received the Holy Spirit just as we have!” So he ordered that they be baptized in the name of Jesus Christ. Then they asked him to stay for a few days."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Spirit says of Cornelius’s messengers, “I have sent them.” Later He comes down before Peter has finished speaking. **Who is leading in this story the whole time, and who is trying to keep up?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter says the Gentiles have received the Spirit “just as we have.” **What did those few words do to the boundary that he and his companions carried inside them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "At the end, it’s the hosts who ask Peter to stay with them. **Who is welcoming whom here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Luke writes that Peter’s companions were “astounded.” The Greek word literally means they were beside themselves. The Spirit came before baptism, without circumcision, and without any preparation on the human side. Here, speaking in tongues and praising God were a sign for the Jewish believers. They were meant to see that this was the same gift they themselves had received. Cornelius had long been praying and giving to the poor. God prepared his household before Peter ever came down from the roof.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Wall That Stood Beside Scripture",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 10:27-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "As Peter talked with him, he went inside and found many people gathered together. He said to them, “You know how unlawful it is for a Jew to associate with a foreigner or visit him. But God has shown me that I should not call any man impure or unclean. So when I was invited, I came without objection. I ask, then, why have you sent for me?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter begins by honestly admitting how hard it is for him to be there. **What might a sentence like that have done to the atmosphere in Cornelius’s house?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The wall between Jews and Gentiles grew out of custom. The Torah gave foreigners a place among God’s people. **Which walls inside us come more from habit than from the Word?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Spirit Among People Who Don’t Know Jesus Yet",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If the Spirit was in Cornelius’s house before Peter, does every sincere religious life lead to God? The text answers more carefully than we might like.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 16:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "But I tell you the truth, it is for your benefit that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send Him to you. And when He comes, He will convict the world in regard to sin and righteousness and judgment:"
+       ]
+      },
+      {
+       "odnosnik": "Acts 11:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "He told us how he had seen an angel standing in his house and saying, ‘Send to Joppa for Simon who is called Peter. He will convey to you a message by which you and all your household will be saved.’"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jesus says the Spirit is at work in the world. Luke shows that Cornelius’s prayers were heard. And yet God sends Peter to him with the news about Jesus. The Spirit doesn’t replace the gospel. He leads both the person and the messenger to it at the same time.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does the conviction that the Spirit may be with someone before we are change the way we treat other people?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God could have handled everything through the angel, and yet He sent a human being. **Why?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Who Was I?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "In Jerusalem, some of the believers hold it against Peter that he went in to uncircumcised men and ate with them. Peter tells them step by step what happened.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 11:15-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "As I began to speak, the Holy Spirit fell upon them, just as He had fallen upon us at the beginning. Then I remembered the word of the Lord, as He used to say, ‘John baptized with water, but you will be baptized with the Holy Spirit.’ So if God gave them the same gift He gave us who believed in the Lord Jesus Christ, who was I to hinder the work of God?” When they heard this, their objections were put to rest, and they glorified God, saying, “So then, God has granted even the Gentiles repentance unto life.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter doesn’t defend himself with a learned argument. He tells what he saw. **Why was that enough to put the objections to rest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Who was I to hinder the work of God?” **In what situations can believers stand in God’s way, even with good intentions?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In verse 18 it isn’t only the Gentiles who change. **Who else changes their mind, and about what?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Telling the story in Jerusalem, Peter places the emphasis differently than he did in Cornelius’s house. He says less about the Roman officer and more about what God did. This story is the conversion of Cornelius and, at the same time, the conversion of Peter. After that encounter, the church was different from what it had been before. The Spirit who goes ahead of us doesn’t only change the people we go to. He changes us too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Where in your week are you trying to produce patience or gentleness by sheer willpower? **What happens when the willpower runs out?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who around you might be like the court official with the open scroll? How could you tell?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **where do you sense that God is ahead of you while you are still standing still?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter recognized the Spirit’s work by its effects, which others saw too. **How do we tell today a place where the Spirit really is going ahead of us from a place we would simply like to go?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t look for a ready-made recipe here. It helps if two things from today’s texts come up. Philip and Peter didn’t act alone; they discerned in harmony with Scripture and with the other believers. And both of them went where they would never have gone on their own.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The Spirit changes us from the inside, gives us away to others, and goes ahead of us to people we don’t know yet.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Galatians 5:25 or 1 Corinthians 12:7.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Admit before God which quality on the list in Galatians 5 you lack the most. Tell Him plainly that you can’t grow it in yourself on your own. Stay with that admission, without making resolutions.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone you believe God is far away from. Ask yourself whether the Spirit might have been with them before you. Ask, too, what would have to change in you for you to see it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Tell someone in the group what gift of the Spirit you see in them. Keep it short, without evaluating, as a thank-you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t think I have any gift.”** Don’t try to talk them into it, and don’t run a gift test. You can say that Paul writes “to each one.” Confessing that Jesus is Lord is already the Spirit’s work. Often others see a person’s gift before they do.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“You can’t see that fruit in me.”** That sentence carries shame. Don’t deny it and don’t agree with it. Remind the group that fruit grows slowly and that the list in Galatians 5 isn’t a measuring stick for judging yourself or others. No one at this table is being examined.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone holds up tongues, miracles, or healings as proof that a person has the Spirit.** Listen respectfully, without arguing and without comparing churches. Go back to the text. Paul lists these gifts alongside quiet ones and tells us to look at the common good. The first fruit of the Spirit he names is love.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If the Spirit is at work everywhere, then every religion leads to God.”** Don’t get into a debate. Show that God heard Cornelius’s prayers and that this is exactly why He sent Peter to him with the message about Jesus, Acts 11:14. The meeting “Is Jesus the Only Way?” takes this topic further.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone of another faith, or someone who doesn’t believe, is at the table.** Don’t direct questions about Cornelius or the court official at them. Make sure they feel like a guest. The Spirit at work around us is not a recruitment plan.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into complaining about your own church.** Shift sentences like “nobody in our church has any gifts” or “our church is closed off” to “we.” Ask where what you are reading about can already be seen in this group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off so much that you won’t get through the material.** Skip block 3 and its higher levels. Blocks 1, 2, and 4 carry the three directions of the Spirit’s work. Without block 5, the meeting loses its point about a church that is itself changed.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“I don’t think I have any gift.”",
+     "odpowiedz": "Don’t try to talk them into it, and don’t run a gift test. You can say that Paul writes “to each one.” Confessing that Jesus is Lord is already the Spirit’s work. Often others see a person’s gift before they do."
+    },
+    {
+     "sytuacja": "“You can’t see that fruit in me.”",
+     "odpowiedz": "That sentence carries shame. Don’t deny it and don’t agree with it. Remind the group that fruit grows slowly and that the list in Galatians 5 isn’t a measuring stick for judging yourself or others. No one at this table is being examined."
+    },
+    {
+     "sytuacja": "Someone holds up tongues, miracles, or healings as proof that a person has the Spirit.",
+     "odpowiedz": "Listen respectfully, without arguing and without comparing churches. Go back to the text. Paul lists these gifts alongside quiet ones and tells us to look at the common good. The first fruit of the Spirit he names is love."
+    },
+    {
+     "sytuacja": "“If the Spirit is at work everywhere, then every religion leads to God.”",
+     "odpowiedz": "Don’t get into a debate. Show that God heard Cornelius’s prayers and that this is exactly why He sent Peter to him with the message about Jesus, Acts 11:14. The meeting “Is Jesus the Only Way?” takes this topic further."
+    },
+    {
+     "sytuacja": "Someone of another faith, or someone who doesn’t believe, is at the table.",
+     "odpowiedz": "Don’t direct questions about Cornelius or the court official at them. Make sure they feel like a guest. The Spirit at work around us is not a recruitment plan."
+    },
+    {
+     "sytuacja": "The conversation turns into complaining about your own church.",
+     "odpowiedz": "Shift sentences like “nobody in our church has any gifts” or “our church is closed off” to “we.” Ask where what you are reading about can already be seen in this group."
+    },
+    {
+     "sytuacja": "The conversation takes off so much that you won’t get through the material.",
+     "odpowiedz": "Skip block 3 and its higher levels. Blocks 1, 2, and 4 carry the three directions of the Spirit’s work. Without block 5, the meeting loses its point about a church that is itself changed."
+    }
+   ]
+  }
+ ]
+}

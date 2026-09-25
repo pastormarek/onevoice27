@@ -21,6 +21,7 @@ SERIES = {
     'K': ('Crises and Turning Points', 'Eight meetings for people whose world has fallen apart: grief, illness, divorce, starting over.'),
     'S': ('The Sabbath as a Gift', 'Five meetings from exhaustion to the rest God built into the week.'),
     'PJ': ('Parables of Jesus', 'Each parable is a complete meeting. You can start anywhere.'),
+    'PK': ('The Secret of the Early Church', 'Seven meetings about the life of the first Christians: a shared table, a shared life, and a God who wants to live among His people.'),
     'D': ('The Book of Daniel', 'Twelve meetings, chapter by chapter: faithfulness in exile and the God who guides history.'),
 }
 
@@ -48,7 +49,16 @@ def groups():
            'note': 'Scripture quotations are from the Berean Standard Bible (public domain) unless otherwise noted.',
            'serie': []}
     missing = []
-    for s in pl['serie']:
+    serie = list(pl['serie'])
+    # serie, ktorych nie ma jeszcze w polskim spisie (Apka_Marka), a sa po angielsku: przed Danielem
+    known = set(s['prefiks'] for s in serie)
+    for pref in SERIES:
+        if pref not in known and glob.glob(os.path.join(EN, 'groups', pref + '-*.json')):
+            ids = sorted(os.path.basename(p)[:-5] for p in glob.glob(os.path.join(EN, 'groups', pref + '-*.json')))
+            pos = next((i for i, s in enumerate(serie) if s['prefiks'] == 'D'), len(serie))
+            serie.insert(pos, {'prefiks': pref, 'tytul': '', 'opis': '', 'tryb': 'tematyczny',
+                               'items': [{'id': i, 'dlugosc': None, 'liczbaPytan': None} for i in ids]})
+    for s in serie:
         title, desc = SERIES[s['prefiks']]
         items = []
         for it in s['items']:
@@ -59,7 +69,8 @@ def groups():
             d = load(p)
             items.append({'id': it['id'], 'tytul': d['tytul'], 'opis': d['opis'],
                           'teksty': teksty_str(d.get('teksty')), 'zdanie': d.get('zdanie', ''),
-                          'dlugosc': it['dlugosc'], 'liczbaPytan': it['liczbaPytan'], 'tagi': d.get('tagi', [])})
+                          'dlugosc': d.get('dlugosc') or it['dlugosc'], 'liczbaPytan': d.get('liczbaPytan') or it['liczbaPytan'],
+                          'tagi': d.get('tagi', [])})
         entry = dict(s)
         entry.update({'tytul': title, 'opis': desc, 'items': items})
         out['serie'].append(entry)

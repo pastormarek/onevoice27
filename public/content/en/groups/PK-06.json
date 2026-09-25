@@ -1,0 +1,815 @@
+{
+ "tytul": "Different, at One Table",
+ "id": "PK-06",
+ "seria": "The Secret of the Early Church",
+ "opis": "Why God doesn’t build unity out of identical people, and how people who differ stay at one table.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 11:1-9; Acts 2:1-11; Acts 15:1-2, 6-11; Acts 15:19-20, 28-31; Ephesians 4:1-6",
+  "p2": "Genesis 9:1; Genesis 12:1-2; Revelation 7:9-10; Acts 11:1-3, 17-18; Acts 15:13-18; Ephesians 3:8-10",
+  "p3": "Genesis 11:3, 7, 9; Acts 2:6, 8; Revelation 22:1-2"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "church",
+  "unity",
+  "differences",
+  "community",
+  "Holy Spirit",
+  "disagreement"
+ ],
+ "wersja": 1,
+ "zdanie": "Babel built unity out of identical bricks. The Spirit gathers different people at one table.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting puts two scenes side by side. At Babel, people build unity out of identical bricks and identical words. In Jerusalem, the Spirit gathers people from all over the world, and each one hears about God in their own language. Later, that same church argues sharply over whom to let in to the table, and it stays at the table. The subject is a unity God gives before anyone has a chance to manufacture it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meetings: Conflict and Different from Me. Those deal with a dispute between two people and with living alongside a brother who thinks differently. This one asks where unity among people who differ comes from in the first place.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Luke never mentions Babel. Setting the two scenes side by side is a reading you may suggest. Don’t say the author of Acts planned it that way.",
+      "Acts 15 can easily turn into an argument about the law, the Sabbath, or food regulations. Read the second red flag before the meeting.",
+      "A conversation about nations and languages can veer into politics or current church disputes. Don’t let it.",
+      "There may be someone at the table of another nationality or from another church. They will hear every “them” and “those people.”"
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t settle any dispute from your church. Don’t set up Babel as a picture of particular people or institutions. Don’t close the topic with a slogan that differences are always good.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a moment when, somewhere unfamiliar, someone spoke to you in your own language or understood you without any explaining. Say in one word what you felt.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on other people’s answers, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A City of One Speech",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 11:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the whole world had one language and a common form of speech. And as people journeyed eastward, they found a plain in the land of Shinar and settled there. And they said to one another, “Come, let us make bricks and bake them thoroughly.” So they used brick instead of stone, and tar instead of mortar. “Come,” they said, “let us build for ourselves a city with a tower that reaches to the heavens, that we may make a name for ourselves and not be scattered over the face of all the earth.” Then the LORD came down to see the city and the tower that the sons of men were building. And the LORD said, “If they have begun to do this as one people speaking the same language, then nothing they devise will be beyond them. Come, let Us go down and confuse their language, so that they will not understand one another’s speech.” So the LORD scattered them from there over the face of all the earth, and they stopped building the city. That is why it is called Babel, for there the LORD confused the language of the whole world, and from that place the LORD scattered them over the face of all the earth."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 4 again. **What are these people afraid of, and what are they building against that fear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The whole world has “one language and a common form of speech.” **What is attractive about that kind of unity, and what is unsettling about it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The tower was supposed to reach the heavens, and yet the LORD has to come down to see it. **What does that detail tell us about the tower and its builders?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“A common form of speech” is more than a shared language. It means the same sentences and the same outlook, a city where no one says anything differently. The builders also want to “make a name” for themselves. In Genesis, a name is usually given by someone higher. The scattering looks like a punishment, but it also works as a brake. It keeps people from setting in stone what they have started. Here God breaks up a counterfeit unity, built out of fear and for their own glory.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Name Made and a Name Given",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 9:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 12:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you. I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God tells people to fill the earth. The people in Shinar build so that they won’t be scattered. **What does that say about where their idea of unity comes from?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "At Babel people say, “Let us make a name for ourselves.” To Abram, God says, “I will make your name great.” **How is a name you make different from a name you receive?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Babel story plays with words. In verse 3 the people say `nilbena`, “let us make bricks.” In verse 7 God answers `nawla`, “let us confuse.” In Hebrew these are almost the same letters in reverse order. The name Babel, in turn, sounds like the verb `balal`, “to confuse.” The people of Mesopotamia understood the name as “gate of god.” Genesis answers that what came out of it was confusion.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God answers the builders with their own word read backward. **What does that say about where the confusion really came from?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Each in Their Own Language",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Fifty days after the resurrection, Jesus’ disciples are together in Jerusalem. Jews from all over the world of that time have come to the city for the festival.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 2:1-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the day of Pentecost came, they were all together in one place. Suddenly a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting. They saw tongues like flames of fire that separated and came to rest on each of them. And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them. Now there were dwelling in Jerusalem God-fearing Jews from every nation under heaven. And when this sound rang out, a crowd came together in bewilderment, because each one heard them speaking his own language. Astounded and amazed, they asked, “Are not all these men who are speaking Galileans? How is it then that each of us hears them in his own native language? Parthians, Medes, and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; visitors from Rome, both Jews and converts to Judaism; Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Pentecost was the Jewish harvest festival.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Spirit could have made everyone suddenly understand the apostles’ one language. Read verses 6 and 8. **What does He do instead, and what follows from that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Lay Genesis 11 and Acts 2 side by side. **What repeats in these two scenes, and what is turned around?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Luke names more than a dozen peoples, one after another. **What would be lost if he had simply written “people from many countries”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Luke never mentions Babel. Still, readers of the Bible have long set these two scenes side by side. At Babel, the confusion came from no one understanding anyone. In Jerusalem, the crowd is amazed because everyone understands. The languages remain. Each person hears about the wonders of God in the language they were born into. The list of peoples runs to all four points of the compass, from the Parthians in the east to Rome in the west. Galileans, people from one province with one regional accent, speak to the whole world.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Crowd from Every Tongue",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 7:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "After this I looked and saw a multitude too large to count, from every nation and tribe and people and tongue, standing before the throne and before the Lamb. They were wearing white robes and holding palm branches in their hands. And they cried out in a loud voice: “Salvation to our God, who sits on the throne, and to the Lamb!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John sees people from every nation and tongue already standing before God’s throne. **What does that say about whether God wants to erase the differences between people?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The crowd is diverse, and yet it cries out with one sentence. **What unites them, if not language?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verses 4 and 11 Luke uses the word `glossa`, tongue or language. In verses 6 and 8 a different word appears, `dialektos`. It is the speech of a particular region, with its own sound and accent. Most of the pilgrims probably understood Greek, the common language of that world. The Spirit gave them more. They heard the speech of home.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What difference does it make that God speaks to a person in the speech of their home?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "An Argument About the Threshold",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "More than a decade later, the church already includes people from Gentile nations. In Antioch, an argument breaks out over the terms on which they belong.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 15:1-2, 6-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.” And after engaging these men in sharp debate, Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question. … So the apostles and elders met to look into this matter. After much discussion, Peter got up and said to them, “Brothers, you know that in the early days God made a choice among you that the Gentiles would hear from my lips the message of the gospel and believe. And God, who knows the heart, showed His approval by giving the Holy Spirit to them, just as He did to us. He made no distinction between us and them, for He cleansed their hearts by faith. Now then, why do you test God by placing on the necks of the disciples a yoke that neither we nor our fathers have been able to bear? On the contrary, we believe it is through the grace of the Lord Jesus that we are saved, just as they are.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 1. **According to the men from Judea, what would a Gentile have to become in order to belong to God’s people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter ends with the words, “it is through the grace of the Lord Jesus that we are saved, just as they are.” **In that sentence, who becomes like whom? What might his listeners have expected?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Peter says God “made no distinction.” **What does he base that statement on: an argument, or what he saw with his own eyes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Circumcision was the sign of the covenant given to Abraham. Over time it also became a sign of belonging to the nation. So a Gentile who wanted to belong fully to God’s people first had to become a Jew. The men from Judea had a long and venerable practice behind them. Peter answers with what he saw in the house of the Roman centurion Cornelius. There God gave the Gentiles the Spirit before anyone had a chance to set conditions for them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "You Ate with Them",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A few years before this argument, Peter returns to Jerusalem from Cornelius’s house.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 11:1-3, 17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God. So when Peter went up to Jerusalem, the circumcised believers took issue with him and said, “You visited uncircumcised men and ate with them.” … So if God gave them the same gift He gave us who believed in the Lord Jesus Christ, who was I to hinder the work of God?” When they heard this, their objections were put to rest, and they glorified God, saying, “So then, God has granted even the Gentiles repentance unto life.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The charge against Peter is about the table. **Why was a shared meal harder for his accusers to swallow than the preaching itself?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 18 describes people who were making accusations only a moment ago. **What must have happened in them between verse 3 and verse 18?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Letter That Brought Joy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After Peter, Barnabas and Paul speak, and then James, the Lord’s brother, who leads the church in Jerusalem.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 15:19-20, 28-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is my judgment, therefore, that we should not cause trouble for the Gentiles who are turning to God. Instead, we should write and tell them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals, and from blood. … It seemed good to the Holy Spirit and to us not to burden you with anything beyond these essential requirements: You must abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality. You will do well to avoid these things. Farewell. So the men were sent off and went down to Antioch, where they assembled the congregation and delivered the letter. When the people read it, they rejoiced at its encouraging message."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Verses 28-31 come from the letter the apostles and elders sent to Antioch.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The letter says, “It seemed good to the Holy Spirit and to us.” **What does that sentence tell us about how the decision was made? What would change if it said only “it seemed good to us”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Gentiles aren’t given a yoke, and yet they are given a few requests. **Why ask anything of them at all, if salvation is by grace? Think about who was supposed to sit down at the table with whom.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "When the letter was read in Antioch, the people “rejoiced.” **What might they have been afraid of before the letter arrived?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The requests in the letter resemble the rules the Law of Moses set for foreigners living among Israel, in Leviticus 17 and 18. Their purpose was to let believers from among the Jews and believers from among the Gentiles eat at one table without giving offense. A Jew didn’t have to stop being a Jew. A Gentile didn’t have to become one. Both sides gave something up so that the table would stay one. No one gave up the gospel of grace.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who Is Building",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 15:13-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "When they had finished speaking, James declared, “Brothers, listen to me! Simon has told us how God first visited the Gentiles to take from them a people to be His own. The words of the prophets agree with this, as it is written: ‘After this I will return and rebuild the fallen tent of David. Its ruins I will rebuild, and I will restore it, so that the remnant of men may seek the Lord, and all the Gentiles who are called by My name, says the Lord who does these things that have been known for ages.’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the prophecy James quotes, someone is building too. **Who is building, and for whom? Compare this with the builders in Shinar.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James says that God “first visited the Gentiles to take from them a people.” **What does that word “first” change in the argument over the terms of acceptance?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Unity No One Manufactures",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 4:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "As a prisoner in the Lord, then, I urge you to walk in a manner worthy of the calling you have received: with all humility and gentleness, with patience, bearing with one another in love, and with diligence to preserve the unity of the Spirit through the bond of peace. There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul lists seven things that are one. **Which of them did any of us build ourselves? Compare this with the city in Shinar.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before Paul speaks about unity, he names humility, gentleness, patience, and bearing with one another in love. **Why does unity among different people need exactly these attitudes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The list ends with one Father of all. **How is an argument between siblings at their father’s table different from an argument between business partners?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paul tells us to preserve unity. So he assumes it already exists. The New Testament calls it `koinonia`, a shared participation in one God that also binds people to one another. At Babel, unity was a product made of brick and shared fear. Here it is the gift of one Spirit. A family can argue at the table and still be a family. What holds it together is the Father sitting at the head of the table.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Manifold Wisdom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 3:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Though I am less than the least of all the saints, this grace was given me: to preach to the Gentiles the unsearchable riches of Christ, and to illuminate for everyone the stewardship of this mystery, which for ages past was kept hidden in God, who created all things. His purpose was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes that through the church even the heavenly powers come to know “the manifold wisdom of God.” **What in a church made up of Jews and Gentiles could have shown them that wisdom?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would be left of that lesson if everyone in the church were the same?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Reversing Babel or Healing It",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Does Pentecost undo what happened at Babel?",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 22:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb down the middle of the main street of the city. On either side of the river stood a tree of life, bearing twelve kinds of fruit and yielding a fresh crop for each month. And the leaves of the tree are for the healing of the nations."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some read Pentecost as a reversal of Babel. Judgment divided people, and the Spirit gathers them back into one people. Others point out that in Acts 2 the languages remain while the barriers disappear. In Revelation 7 the nations and tongues are still recognizable before the throne. In Revelation 22 the leaves of the tree of life are for the healing of the nations. The wounds of division heal, and the peoples remain. Both sides agree on the most important thing. In the Bible, human unity is a gift that comes down from God. A tower climbing up to heaven will never build it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In God’s plan, will the differences between people disappear one day? Which ones are meant to remain, and which are meant to heal?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Where in your life is Babel-style unity easiest to come by, with people who talk and think like you? **What makes it so comfortable?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s texts rubs you the wrong way the most, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share, think of the table you would most like to get up and leave. **What keeps you there, and what pushes you toward the door?** You don’t have to say who it’s about.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Jerusalem both sides gave something up so that the table would stay one. **Where is the line? What must never be given up, even for the sake of a shared table, and what do we need to be able to give up?**",
+     "poziom": 3
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "For the leader. There’s no ready-made list here, and don’t try to draw one up. It’s worth noticing that in Acts 15 the grace of verse 11 was never up for bargaining. What people gave ground on were customs that helped them sit together.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Babel built unity out of identical bricks. The Spirit gathers different people at one table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Ephesians 4:3 or Acts 2:8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone in your church or your family who speaks “a different language” from yours. Ask yourself honestly **what you really want from them**. For them to understand you, or for them to start talking the way you do?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Admit before God one thing you quietly set as a condition for others. **Is it God’s condition, or yours?** Stay with that question, even if the answer doesn’t come right away.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Listen all the way through to someone you disagree with. Then repeat their thought in your own words, so that they recognize themselves in it. Only then say what you think.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So truth doesn’t matter, as long as everyone gets along.”** Acts 15 shows something else. Peter and James didn’t give way on grace, verse 11. They gave way on customs that divided the table. You can say that unity in the Bible stands on a shared gospel, and Scripture remains its measure.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Does that mean Gentiles don’t have to keep the commandments or the Sabbath?”** The dispute was about circumcision as a condition of salvation, verses 1 and 5. The chapter says nothing about the Sabbath or the Ten Commandments. Verse 21 mentions that Moses is read in the synagogues “on every Sabbath.” Don’t develop the topic of the law today. A related meeting is Jesus and the Sabbath.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about speaking in tongues today?”** In Acts 2 the listeners hear real languages of their own countries, verses 6 and 8. That much the text says. Don’t pass judgment on the practices of other communities, and go back to the question of what God did with the difference in languages.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation veers into politics or a current dispute in the church.** Stop it calmly. Say that today we’re looking at how God gathers different people, and go back to the text. Don’t comment on either side.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table is of another nationality or from another church and feels singled out.** Watch for the words “them” and “those people.” If someone wants to share what it’s like to be an outsider in a church, listen without apologizing on everyone’s behalf.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone tells how they left the table, or how they were pushed away from it.** Listen all the way through and say thank you. Don’t try to work out who was at fault. If it’s a fresh wound, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off so much that you won’t get through the material.** Skip block 4 and go straight from block 3 to block 5. Without blocks 1 and 2, the meeting loses its backbone.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So truth doesn’t matter, as long as everyone gets along.”",
+     "odpowiedz": "Acts 15 shows something else. Peter and James didn’t give way on grace, verse 11. They gave way on customs that divided the table. You can say that unity in the Bible stands on a shared gospel, and Scripture remains its measure."
+    },
+    {
+     "sytuacja": "“Does that mean Gentiles don’t have to keep the commandments or the Sabbath?”",
+     "odpowiedz": "The dispute was about circumcision as a condition of salvation, verses 1 and 5. The chapter says nothing about the Sabbath or the Ten Commandments. Verse 21 mentions that Moses is read in the synagogues “on every Sabbath.” Don’t develop the topic of the law today. A related meeting is Jesus and the Sabbath."
+    },
+    {
+     "sytuacja": "“What about speaking in tongues today?”",
+     "odpowiedz": "In Acts 2 the listeners hear real languages of their own countries, verses 6 and 8. That much the text says. Don’t pass judgment on the practices of other communities, and go back to the question of what God did with the difference in languages."
+    },
+    {
+     "sytuacja": "The conversation veers into politics or a current dispute in the church.",
+     "odpowiedz": "Stop it calmly. Say that today we’re looking at how God gathers different people, and go back to the text. Don’t comment on either side."
+    },
+    {
+     "sytuacja": "Someone at the table is of another nationality or from another church and feels singled out.",
+     "odpowiedz": "Watch for the words “them” and “those people.” If someone wants to share what it’s like to be an outsider in a church, listen without apologizing on everyone’s behalf."
+    },
+    {
+     "sytuacja": "Someone tells how they left the table, or how they were pushed away from it.",
+     "odpowiedz": "Listen all the way through and say thank you. Don’t try to work out who was at fault. If it’s a fresh wound, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "The conversation takes off so much that you won’t get through the material.",
+     "odpowiedz": "Skip block 4 and go straight from block 3 to block 5. Without blocks 1 and 2, the meeting loses its backbone."
+    }
+   ]
+  }
+ ]
+}
