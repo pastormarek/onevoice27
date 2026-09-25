@@ -1,0 +1,839 @@
+{
+ "tytul": "Friendship",
+ "id": "R-08",
+ "seria": "Relationships",
+ "opis": "Friendship as a covenant. From Jonathan and David to Jesus, who calls His disciples friends.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Samuel 18:1-4; 1 Samuel 20:12-17, 41-42; Proverbs 17:17; 27:5-6, 9, 17; Ecclesiastes 4:9-12; John 15:12-16",
+  "p2": "1 Samuel 23:15-18; 2 Samuel 9:1, 3, 6-7; Job 6:14-17; Luke 5:18-20; Exodus 33:11; James 2:23",
+  "p3": "Genesis 44:30; 1 Samuel 20:30-34; Matthew 26:48-50"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "relationships",
+  "friendship",
+  "faithfulness",
+  "covenant",
+  "loneliness",
+  "truth"
+ ],
+ "wersja": 1,
+ "zdanie": "Friendship begins with a robe given away, and it proves itself in the wilderness.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Bible talks about friendship more seriously than we are used to. Friends swear an oath to each other, call on God as their witness, and take responsibility for each other’s children. A friend tells the truth that hurts, and comes out to the wilderness when others have pulled away. The meeting leads from Jonathan and David to the words Jesus speaks on the night before the cross: “I have called you friends.” That is the point it is all heading toward. Friendship between people turns out to be a picture of how God wants to be with us.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may not have a single friend and may have been ashamed of it for years. For them the whole meeting may sound like a description of someone else’s wealth.",
+      "Someone may recently have been betrayed or abandoned by a friend.",
+      "Adults, especially men, find it hard to talk about friendship without making a joke. Don’t force seriousness, but don’t defuse it yourself either.",
+      "The conversation easily turns into complaining that there are no real bonds in the church."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone directly whether they have friends. Don’t assure lonely people that “they have us” if nothing stands behind that sentence. Don’t praise any particular friendship within the group in front of everyone, because the rest will hear that they don’t belong to it. A related meeting in the Emotions series is Loneliness.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of the friendship that has lasted, or did last, the longest in your life. Name one thing that told you this was a friend and not just an acquaintance.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in two sentences. If someone says they have no one to talk about, thank them and move on without comment.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Robe and Sword",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "David, the shepherd from Bethlehem, has just killed Goliath and stands before King Saul. Jonathan, the king’s son and heir to the throne, is watching.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 18:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself. And from that day Saul kept David with him and did not let him return to his father’s house. Then Jonathan made a covenant with David because he loved him as himself. And Jonathan removed the robe he was wearing and gave it to David, along with his tunic, his sword, his bow, and his belt."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonathan is a prince; David is a shepherd who has suddenly become a hero. **What does Jonathan give away along with his robe, his sword, and his bow?** What does that say about where friendship begins?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice the text repeats “as himself.” **How is this kind of love different from admiration, from a business relationship, and from ordinary liking?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonathan had every reason to see David as a rival. **What decides whether we see someone more gifted than ourselves as a threat or as a friend?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A prince’s robe and weapons are signs of his position. The first thing Jonathan does toward the man who may one day take the throne from him is to give him those signs. A few verses later his father looks at the same David and sees a rival. Father and son see the same thing and choose opposite ways. From the first day, Jonathan’s friendship costs him something, and he knows it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The BSB’s “were knit together” renders a Hebrew verb that means “was bound,” as with a knot. Judah uses the same word in Egypt when he explains why old Jacob will not survive losing Benjamin; there the BSB has “wrapped up in.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 44:30",
+       "przeklad": "BSB",
+       "akapity": [
+        "So if the boy is not with us when I return to your servant, and if my father, whose life is wrapped up in the boy’s life,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bible describes Jonathan’s friendship with the same word it uses for a father’s love for his youngest son. **What does that say about the weight Scripture gives to friendship?** Do we value it that highly?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Covenant",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Time passes. Saul is trying to kill David, and David has to flee. Jonathan promises to find out what his father intends and to warn his friend.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 20:12-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "and Jonathan said, “By the LORD, the God of Israel, I will sound out my father by this time tomorrow or the next day. If he is favorable toward you, will I not send for you and tell you? But if my father intends to bring evil on you, then may the LORD punish me, and ever so severely, if I do not tell you and send you on your way in safety. May the LORD be with you, just as He has been with my father. And as long as I live, treat me with the LORD’s loving devotion, that I may not die, and do not ever cut off your loving devotion from my household—not even when the LORD cuts off every one of David’s enemies from the face of the earth.” So Jonathan made a covenant with the house of David, saying, “May the LORD hold David’s enemies accountable.” And Jonathan had David reaffirm his vow out of love for him, for Jonathan loved David as he loved himself."
+       ]
+      },
+      {
+       "odnosnik": "1 Samuel 20:41-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the young man had gone, David got up from the south side of the stone, fell facedown, and bowed three times. Then he and Jonathan kissed each other and wept together—though David wept more. And Jonathan said to David, “Go in peace, for the two of us have sworn in the name of the LORD, saying, ‘May the LORD be a witness between you and me, and between your descendants and mine forever.’” Then David got up and departed, and Jonathan went back into the city."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The two friends swear an oath to each other and call on God as their witness. **Why does a friendship need a covenant? What does a word spoken out loud give that feeling alone does not?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonathan asks for something for the time after his own death: for his household and his descendants. **What does that say about how far friendship reaches as the Bible understands it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "When they say goodbye, both of them weep, and David weeps more. **What makes it hard for adults today to show a friend how much they mean to them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In those days a new king often killed his predecessor’s family, so that no one could lay claim to the throne. So Jonathan’s request is very concrete: when you become king, don’t kill my children. In saying this, Saul’s son admits out loud that David will be king, not he. The tender scene turns out to be a political act as well, and that makes it all the stronger. Jonathan knows what this friendship is costing him, and he swears again.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "In the Wilderness of Ziph",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 23:15-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "While David was in Horesh in the Wilderness of Ziph, he saw that Saul had come out to take his life. And Saul’s son Jonathan came to David in Horesh and strengthened his hand in God, saying, “Do not be afraid, for my father Saul will never lay a hand on you. And you will be king over Israel, and I will be your second-in-command. Even my father Saul knows this is true.” So the two of them made a covenant before the LORD. And David remained in Horesh, while Jonathan went home."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonathan brings no army and no supplies. **What does he bring? What does it mean to strengthen someone’s hand “in God,” and not in yourself or in good advice?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is their last meeting. Jonathan says, “I will be your second-in-command,” and soon afterward he dies in battle at his father’s side. **Does the fact that his hope was not fulfilled cancel out what he did for David in the wilderness?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At the King’s Table",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Samuel 9:1, 3, 6-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?” … So the king asked, “Is there anyone left of Saul’s family to whom I can show the kindness of God?” Ziba answered, “There is still Jonathan’s son, who is lame in both feet.” … And when Mephibosheth son of Jonathan, the son of Saul, came to David, he fell facedown in reverence. Then David said, “Mephibosheth!” “I am your servant,” he replied. “Do not be afraid,” said David, “for surely I will show you kindness for the sake of your father Jonathan. I will restore to you all the land of your grandfather Saul, and you will always eat at my table.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonathan has been dead for years, and no one would have demanded that the oath be kept. **What does this scene say about a friendship that lasts when the friend is gone?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mephibosheth falls facedown and hears, “Do not be afraid.” **What was he afraid of, and why did he have reason to be?** Go back to Jonathan’s request in section 2.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Father or Friend",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 20:30-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse and rebellious woman! Do I not know that you have chosen the son of Jesse to your own shame and to the disgrace of the mother who bore you? For as long as the son of Jesse lives on this earth, neither you nor your kingship shall be established. Now send for him and bring him to me, for he must surely die!” “Why must he be put to death?” Jonathan replied. “What has he done?” Then Saul hurled his spear at Jonathan to kill him; so Jonathan knew that his father was determined to kill David. Jonathan got up from the table in fierce anger and did not eat any food that second day of the month, for he was grieved by his father’s shameful treatment of David."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jonathan never betrayed David, and he never abandoned his father. He warned his friend, then went back home, and he died on the hills of Gilboa fighting at Saul’s side.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can you be loyal to two people when one of them wants to kill the other?** Where did Jonathan draw a line with his father, and where didn’t he?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Wounds of a Friend",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 17:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "A friend loves at all times, and a brother is born for adversity."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 27:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Better an open rebuke than love that is concealed. The wounds of a friend are faithful, but the kisses of an enemy are deceitful."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 27:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Oil and incense bring joy to the heart, and the sweetness of a friend is counsel to the soul."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 27:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "As iron sharpens iron, so one man sharpens another."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The wounds of a friend are faithful.” **How do you tell a wound from a friend apart from ordinary criticism?** What has to be true about a relationship for a hard word to be received?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A brother “is born for adversity.” **What does adversity show about friendship that you can’t see in good times?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Iron sharpens iron through friction. **Is a friendship with no friction at all still a friendship?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Stream That Dries Up",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 6:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "A despairing man should have the kindness of his friend, even if he forsakes the fear of the Almighty. But my brothers are as faithless as wadis, as seasonal streams that overflow, darkened because of the ice and the inflow of melting snow, but ceasing in the dry season and vanishing from their channels in the heat."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Job says this to three friends who came to comfort him and ended up trying to prove his guilt.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A wilderness stream is full in winter and vanishes in summer, exactly when water is needed. **What exactly is Job accusing his friends of with this picture?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Even if he forsakes the fear of the Almighty.” **What does Job say about friendship toward someone who, in suffering, loses faith or says things about God that one isn’t supposed to say?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Two Are Better Than One",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ecclesiastes 4:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Two are better than one, because they have a good return for their labor. For if one falls down, his companion can lift him up; but pity the one who falls without another to help him up! Again, if two lie down together, they will keep warm; but how can one keep warm alone? And though one may be overpowered, two can resist. Moreover, a cord of three strands is not quickly broken."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Teacher lists what the presence of another person brings: the fruit of shared work, being lifted up after a fall, warmth, protection. **Which of these is most lacking for the people you know?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text doesn’t say “pity the one who falls.” It says, “pity the one who falls without another to help him up!” **What is the difference?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The passage has been about two, and at the end a cord of three strands appears. **Who or what could the third strand be?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Four on the Roof",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 5:18-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Just then some men came carrying a paralyzed man on a mat. They tried to bring him inside to set him before Jesus, but they could not find a way through the crowd. So they went up on the roof and lowered him on his mat through the tiles into the middle of the crowd, right in front of Jesus. When Jesus saw their faith, He said, “Friend, your sins are forgiven.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Whose faith does Jesus see?** What does that say about what friends can do for someone who can’t make it to Jesus on their own?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "I Have Called You Friends",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 15:12-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is My commandment, that you love one another as I have loved you. Greater love has no one than this, that he lay down his life for his friends. You are My friends if you do what I command you. No longer do I call you servants, for a servant does not understand what his master is doing. But I have called you friends, because everything I have learned from My Father I have made known to you. You did not choose Me, but I chose you. And I appointed you to go and bear fruit—fruit that will remain—so that whatever you ask the Father in My name, He will give you."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to Jesus, how is a servant different from a friend?** What does a friend know that a servant doesn’t?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks about laying down one’s life for one’s friends on the night before the cross. **Put this next to Jonathan, who gave up his robe, his sword, and the throne. What do these two friendships have in common?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“You did not choose Me, but I chose you.” **What does that sentence mean for someone who feels that no one has ever chosen them as a friend?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A few hours earlier Jesus wrapped a towel around His waist and washed His disciples’ feet, doing what was a slave’s job. Now He reverses the roles a second time: those who at most had the right to call themselves His servants, He calls friends. In the Old Testament, “servant of the LORD” is an honorable title, borne by Moses and David. Jesus gives more than that honor. The measure of friendship here is being let in on things: a friend knows what his master intends.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Friend of God",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 33:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Thus the LORD would speak to Moses face to face, as a man speaks to his friend. Then Moses would return to the camp, but his young assistant Joshua son of Nun would not leave the tent."
+       ]
+      },
+      {
+       "odnosnik": "James 2:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bible twice calls a human being a friend of God. **In these two sentences, what makes up the substance of that friendship?** Look for it: conversation face to face, trust.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would your prayer look like if you took seriously the words “as a man speaks to his friend”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In John 15 Jesus uses the Greek `philos`, “someone loved, someone close.” In the garden of Gethsemane He addresses Judas with a different word.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 26:48-50",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him.” Going directly to Jesus, he said, “Greetings, Rabbi!” and kissed Him. “Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Here the word is `hetairos`, “companion”; the BSB renders it “Friend.” In the New Testament this word occurs only in Matthew, three times, always as a form of address: to the worker who grumbles against the owner of the vineyard, to the guest without wedding clothes, and to Judas. Each time it is heard by someone who has just disregarded the bond that joined them.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Proverbs said, “The kisses of an enemy are deceitful.” **What is Jesus doing when He calls Judas “companion” at that moment? Is it irony, or a last outstretched hand?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Today we have seen three pictures of a friend: the one who gives away his robe, the one who tells the truth, and the one who comes out to the wilderness. **Which of them are you most often, and which least often?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonathan strengthened David’s hand in God. **Who does that for you? And for whom do you do it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there a friendship that faded or broke off that you miss?** You don’t have to say whose.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“You are My friends if you do what I command you.” Between people, a friend who gives orders stops being a friend. **So is friendship with Jesus a friendship in the ordinary sense? What changes when the only commandment mentioned here is “that you love one another”?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can you be someone’s friend without being their equal?** Jonathan and David were not equals at the beginning, and they were not equals at the end.",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this off. It helps if someone points out that Jesus doesn’t abolish the difference between Himself and His disciples; He crosses it of His own free will, just as Jonathan crossed the difference between a prince and a shepherd.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Friendship begins with a robe given away, and it proves itself in the wilderness.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Proverbs 17:17 or John 15:15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone who is in their own Wilderness of Ziph today: afraid, hiding, left alone. Ask yourself: **what would it mean to go to them and strengthen their hand in God, not with good advice?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself honestly: **whom do I allow to tell me the truth?** If no one, stay with the question why. Don’t rush to find someone to blame.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** Jesus calls you a friend, someone who has the right to know and to ask. Talk with Him the way you talk with a friend, not the way you deal with an institution. Tell Him one thing you wouldn’t say out loud in church.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t have a single friend.”** Don’t contradict them, and don’t comfort them with “But you have us.” Thank them for their honesty, because it cost them a lot. In section 5 there is a sentence for this person: “You did not choose Me, but I chose you.” After the meeting, do something concrete: call during the week, invite them for a meal. One invitation means more than reassurance at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a friend who betrayed them.** Listen, don’t judge the person who isn’t there, and don’t push for forgiveness. The Bible knows this pain; Psalm 55 speaks of a close friend with whom “we shared sweet fellowship together.” If the wound is fresh, suggest talking after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“There was something more than friendship between David and Jonathan.”** Don’t be scandalized, and don’t get into an argument. The text speaks the language of covenant, and the phrase “as himself” is the same one Leviticus 19:18 uses for love of neighbor: “love your neighbor as yourself.” Both men have wives and children, whom the text mentions explicitly. You can add that this question says more about our own times, which find it hard to imagine a deep bond without eroticism, than about theirs. Then go back to the question from the section.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into complaining that there are no real friendships in the church.** Agree that this hurts, and shift the question to the first person: “To whom have I given my robe in the past year?” Jonathan didn’t wait for David to take the first step.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks about friendship between a man and a woman, or says their spouse is jealous of their friendships.** The texts in this meeting don’t give a rule here, and don’t pretend they do. Say that this is a good question for a conversation between two or three people, not for the whole group. If in the background a spouse is controlling who they can see, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Jokes defuse every more serious question.** Allow the laughter, then repeat the question in the same words and answer it first yourself, seriously and briefly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time for the material.** Skip section 4. Sections 1 and 2 tell Jonathan’s story, section 3 adds the truth, and section 5 is the point without which the meeting stays at the level of psychology.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“I don’t have a single friend.”",
+     "odpowiedz": "Don’t contradict them, and don’t comfort them with “But you have us.” Thank them for their honesty, because it cost them a lot. In section 5 there is a sentence for this person: “You did not choose Me, but I chose you.” After the meeting, do something concrete: call during the week, invite them for a meal. One invitation means more than reassurance at the table."
+    },
+    {
+     "sytuacja": "Someone talks about a friend who betrayed them.",
+     "odpowiedz": "Listen, don’t judge the person who isn’t there, and don’t push for forgiveness. The Bible knows this pain; Psalm 55 speaks of a close friend with whom “we shared sweet fellowship together.” If the wound is fresh, suggest talking after the meeting."
+    },
+    {
+     "sytuacja": "“There was something more than friendship between David and Jonathan.”",
+     "odpowiedz": "Don’t be scandalized, and don’t get into an argument. The text speaks the language of covenant, and the phrase “as himself” is the same one Leviticus 19:18 uses for love of neighbor: “love your neighbor as yourself.” Both men have wives and children, whom the text mentions explicitly. You can add that this question says more about our own times, which find it hard to imagine a deep bond without eroticism, than about theirs. Then go back to the question from the section."
+    },
+    {
+     "sytuacja": "The conversation turns into complaining that there are no real friendships in the church.",
+     "odpowiedz": "Agree that this hurts, and shift the question to the first person: “To whom have I given my robe in the past year?” Jonathan didn’t wait for David to take the first step."
+    },
+    {
+     "sytuacja": "Someone asks about friendship between a man and a woman, or says their spouse is jealous of their friendships.",
+     "odpowiedz": "The texts in this meeting don’t give a rule here, and don’t pretend they do. Say that this is a good question for a conversation between two or three people, not for the whole group. If in the background a spouse is controlling who they can see, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "Jokes defuse every more serious question.",
+     "odpowiedz": "Allow the laughter, then repeat the question in the same words and answer it first yourself, seriously and briefly."
+    },
+    {
+     "sytuacja": "You’re running out of time for the material.",
+     "odpowiedz": "Skip section 4. Sections 1 and 2 tell Jonathan’s story, section 3 adds the truth, and section 5 is the point without which the meeting stays at the level of psychology."
+    }
+   ]
+  }
+ ]
+}

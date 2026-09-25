@@ -1,0 +1,517 @@
+{
+ "tytul": "Discouragement",
+ "id": "E-08",
+ "seria": "Emotions",
+ "opis": "Discouragement comes to people who have done a great deal. Elijah the day after his greatest victory.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Kings 19:3-9; Numbers 11:11-15; Luke 24:17-24; Galatians 6:9; 2 Corinthians 4:8-9, 16-18",
+  "p2": "Isaiah 40:29-31",
+  "p3": "1 Kings 19:9"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 20,
+  "p3": 21
+ },
+ "tagi": [
+  "emotions",
+  "burnout",
+  "perseverance",
+  "ministry"
+ ],
+ "wersja": 1,
+ "zdanie": "God did not start with a sermon for Elijah. He started with sleep and food, and saved the conversation for later.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In the Bible, discouragement usually doesn’t come to people who do nothing. It comes to those who have done a great deal. Elijah loses heart the day after his greatest victory, Moses in the middle of his calling. So this meeting is more for the weary than for the lazy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Burnout in ministry can be a painful and political subject in a congregation. You may hear complaints aimed at specific people. Don’t allow names.",
+      "Discouragement and depression look similar from the outside, but they need different things. Don’t diagnose.",
+      "Elijah says, “Take my life.” Someone at the table may have a personal history with that sentence."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give pep talks. Don’t say, “You just have to keep going.” Notice that with Elijah, God starts with food and sleep, and don’t rush to spiritual conclusions yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "One word: how do you know you’ve had enough? Not how others can tell, but how you can.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and be specific.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Under the Broom Tree",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 19:3-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Elijah was afraid and ran for his life. When he came to Beersheba in Judah, he left his servant there, while he himself traveled on a day’s journey into the wilderness. He sat down under a broom tree and prayed that he might die. “I have had enough, LORD,” he said. “Take my life, for I am no better than my fathers.” Then he lay down under the broom tree and fell asleep. Suddenly an angel touched him and said, “Get up and eat.” And he looked around, and there by his head was a cake of bread baked over hot coals, and a jar of water. So he ate and drank and lay down again. A second time the angel of the LORD returned and touched him, saying, “Get up and eat, or the journey will be too much for you.” So he got up and ate and drank. And strengthened by that food, he walked forty days and forty nights until he reached Horeb, the mountain of God. There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This happens right after Elijah stood alone against hundreds of prophets and won. **How can a day like that be followed by a day like this?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God does not answer Elijah’s words. **What does He do instead? List, in order, what happens in verses 5 to 7.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Elijah says, “I am no better than my fathers.” **What is he actually comparing himself to, and where does that comparison come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The first question God asks is, “What are you doing here?” **Is that a rebuke or a question?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God does not begin with a theological correction or a reminder of yesterday’s victory. He begins with sleep, food, and a second meal. Only after that comes a conversation, and not right away. The text gives four verses to what we would call basic recovery today. That is worth remembering when someone tells you they can’t cope. Very often the first thing they need is not a spiritual conversation.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Not by Myself",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 11:11-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Moses asked the LORD, “Why have You brought this trouble on Your servant? Why have I not found favor in Your sight, that You have laid upon me the burden of all these people? Did I conceive all these people? Did I give them birth, so that You should tell me, ‘Carry them in your bosom, as a nurse carries an infant,’ to the land that You swore to give their fathers? Where can I get meat for all these people? For they keep crying out to me, ‘Give us meat to eat!’ I cannot carry all these people by myself; it is too burdensome for me. If this is how You are going to treat me, please kill me right now—if I have found favor in Your eyes—and let me not see my own wretchedness.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses says all of this directly to God, including an accusation and a request to die. **What does that tell us about what we are allowed to say to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 14: “I cannot carry all these people by myself.” **Is that a complaint or a diagnosis?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The rest of the chapter shows God solving the problem by sharing the responsibility among seventy elders. **What does that not change, and what does it change?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "But We Were Hoping",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 24:17-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "He asked them, “What are you discussing so intently as you walk along?” They stood still, with sadness on their faces. One of them, named Cleopas, asked Him, “Are You the only visitor to Jerusalem who does not know the things that have happened there in recent days?” “What things?” He asked. “The events involving Jesus of Nazareth,” they answered. “This man was a prophet, powerful in speech and action before God and all the people. Our chief priests and rulers delivered Him up to the sentence of death, and they crucified Him. But we were hoping He was the One who would redeem Israel. And besides all this, it is the third day since these things took place. Furthermore, some of our women astounded us. They were at the tomb early this morning, but they did not find His body. They came and told us they had seen a vision of angels, who said that Jesus was alive. Then some of our companions went to the tomb and found it just as the women had described. But Him they did not see.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The most important sentence in this conversation is “But we were hoping.” **What exactly let them down: the facts or their expectations?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "They already know about the empty tomb and the angels. Even so, they are walking away downcast, in the opposite direction. **Why didn’t the news help them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus walks a good stretch of the road with them and asks questions instead of revealing Himself right away. **Why the delay?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Discouragement rarely comes from a lack of information. These two know everything they need to know, including the women’s report of the empty tomb, and they are still heading home. The problem lies in the words “we were hoping,” in the gap between what they expected and what actually happened. God did something greater than they had planned, and they take it as a defeat because it looks different from what they had imagined.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Let Us Not Grow Weary",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 6:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let us not grow weary in well-doing, for in due time we will reap a harvest if we do not give up."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t promise that the weariness will go away. He promises something else. **What exactly, and when?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“In due time” is a condition nobody likes. **Why doesn’t Paul leave it out?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Struck Down, but Not Destroyed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 4:8-9, 16-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "We are hard pressed on all sides, but not crushed; perplexed, but not in despair; persecuted, but not forsaken; struck down, but not destroyed. … Therefore we do not lose heart. Though our outer self is wasting away, yet our inner self is being renewed day by day. For our light and momentary affliction is producing for us an eternal weight of glory that is far beyond comparison. So we fix our eyes not on what is seen, but on what is unseen. For what is seen is temporary, but what is unseen is eternal."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Four times Paul sets two things side by side: what happens to him, and what still does not happen to him. **List those pairs. What is missing from them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 16 speaks of one thing wasting away while another is renewed at the same time. **What does that mean in practice for someone who is exhausted?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul calls his affliction “light and momentary,” even though we know the list of what he went through. **Where does he get that measure?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Those Who Wait upon the LORD",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 40:29-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "He gives power to the faint and increases the strength of the weak. Even youths grow tired and weary, and young men stumble and fall. But those who wait upon the LORD will renew their strength; they will mount up with wings like eagles; they will run and not grow weary, they will walk and not faint."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The order in verse 31 is the reverse of what we would write: they mount up, then run, then walk. **Why is walking at the end and not at the beginning?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 30 says that even the young grow tired. **What belief is it written against?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "After resting and after meeting God, Elijah still says exactly what he said before, word for word. **What does that tell us about how fast people come out of discouragement? Is there ever a moment when it’s okay to tell someone, “That’s enough, pull yourself together”?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "God doesn’t say that to Elijah. He gives him food, silence, a new task, and a person to work with. That is four things, and none of them is a reprimand.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Elijah got sleep and food first. **What does your discouragement need first: rest, a conversation with another person, or a conversation with God?** Be honest about the order.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The two disciples lost heart over the words “we were hoping.” **What were you hoping for that you didn’t get?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something you’ve been doing for a long time without seeing results?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God did not start with a sermon for Elijah. He started with sleep and food, and saved the conversation for later.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Galatians 6:9 or Isaiah 40:31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Check whether your discouragement is weariness or disappointment. **The first passes after rest; the second does not.** If it’s the second, name the expectation that let you down. It is usually very specific.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Moses told God straight out that it was too heavy and that he couldn’t carry it by himself. **Say the same thing if that’s how it is. Without softening it, and without explaining that others have it worse.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you are carrying something you shouldn’t carry alone, hand one thing over to someone this week. Not the whole load. One thing.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into complaints about specific people in the church.** Cut it off: “No names, let’s get back to the text.” Discouragement in ministry almost always has faces, but a home group is not the place for settling scores.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says there’s no point in living.** Take it seriously, not just spiritually. Don’t leave it without a next step after the meeting. Don’t quote Elijah to them as a comfort.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“You just have to keep going.”** The answer is in the text: God didn’t say that to Elijah. He gave him something to eat.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts giving others pep talks.** At this meeting, pep talks are what the advice of Job’s friends was. Gently go back to the question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If you’re serving God, you shouldn’t burn out.”** Moses, Elijah, and Paul say otherwise. Point to the text, not to your own opinion.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Silence.** Natural with this topic, because in church admitting exhaustion costs more than admitting anger.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "The conversation turns into complaints about specific people in the church.",
+     "odpowiedz": "Cut it off: “No names, let’s get back to the text.” Discouragement in ministry almost always has faces, but a home group is not the place for settling scores."
+    },
+    {
+     "sytuacja": "Someone says there’s no point in living.",
+     "odpowiedz": "Take it seriously, not just spiritually. Don’t leave it without a next step after the meeting. Don’t quote Elijah to them as a comfort."
+    },
+    {
+     "sytuacja": "“You just have to keep going.”",
+     "odpowiedz": "The answer is in the text: God didn’t say that to Elijah. He gave him something to eat."
+    },
+    {
+     "sytuacja": "Someone starts giving others pep talks.",
+     "odpowiedz": "At this meeting, pep talks are what the advice of Job’s friends was. Gently go back to the question."
+    },
+    {
+     "sytuacja": "“If you’re serving God, you shouldn’t burn out.”",
+     "odpowiedz": "Moses, Elijah, and Paul say otherwise. Point to the text, not to your own opinion."
+    },
+    {
+     "sytuacja": "Silence.",
+     "odpowiedz": "Natural with this topic, because in church admitting exhaustion costs more than admitting anger."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "tytul": "A Day for Free People",
+ "id": "S-03",
+ "seria": "The Sabbath as a Gift",
+ "opis": "The second reason for the Sabbath: you were a slave. A day for those who can’t give themselves a break.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Deuteronomy 5:12-15; Exodus 23:9-12; Leviticus 25:1-7; Amos 8:4-6; Isaiah 58:3, 6-10",
+  "p2": "Deuteronomy 15:12-15; Leviticus 25:8-10, 23; 2 Chronicles 36:20-21",
+  "p3": "Deuteronomy 5:13-15; Exodus 20:11; Exodus 21:2; Philemon 15-16"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "Sabbath",
+  "freedom",
+  "justice",
+  "work",
+  "foreigner",
+  "creation"
+ ],
+ "wersja": 1,
+ "zdanie": "A free person celebrates their freedom by letting others catch their breath.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Exodus grounds the Sabbath in creation. Deuteronomy gives a second reason: you were a slave. This meeting follows that second reason. It shows that from the start the day of rest was meant also for those who can’t give themselves a break: the servant, the foreigner, the animal, and even the land. The question of this meeting isn’t “Am I resting?” but “Who rests because of me, and who can’t rest because of me?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The topic of work and exploitation can turn within minutes into a conversation about politics, labor unions, Sunday trading laws, or immigration. The material takes no side in these debates, and neither should you.",
+      "There may be an employer at the table, and there may be someone who is treated badly at work. Neither of them is on trial today or put on display as a victim.",
+      "Someone may work on the Sabbath because they’re a nurse or a driver, or because they care for a sick person. This meeting isn’t about them, and they must not be made to feel that it is.",
+      "The texts speak about slaves without condemning the institution itself. Someone will notice. Level 3 has a separate section on this."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t point to anyone as guilty, either at the table or outside it. Don’t turn the meeting into a list of demands. Don’t use the Sabbath as a measure of who is righteous.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when someone else decided how you spent your time: at school, in the military, in the hospital, at work. Say in one sentence what you missed most then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and briefly, to set the length. Don’t comment on other people’s answers, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "You Were a Slave",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 5:12-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Observe the Sabbath day by keeping it holy, as the LORD your God has commanded you. Six days you shall labor and do all your work, but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant, nor your ox or donkey or any of your livestock, nor the foreigner within your gates, so that your manservant and maidservant may rest as you do. Remember that you were a slave in the land of Egypt, and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. That is why the LORD your God has commanded you to keep the Sabbath day."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read the list of those who are to rest, from beginning to end. **Which direction does this list go? Whom does the law name separately, when it could simply have said “no one in your household”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“So that your manservant and maidservant may rest as you do.” **What do the last three words mean? What happens, for one day a week, to the difference between master and servant?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The commandment tells people to remember their own slavery precisely when it speaks about other people’s rest. **Why? What does a person whose life has gotten better forget most easily?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "This commandment is heard by people who will soon have fields, servants, and animals of their own. **What is it meant to guard them against, before they even own anything?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Exodus the Sabbath reminds us that God created the world. Here it reminds us that God brought His people out of slavery. The two reasons don’t exclude each other: since every human being is created by God, no one may be someone else’s tool without a break. This is also the only commandment in the Decalogue that, in a single sentence, turns a person toward God and toward the people under their roof. A former slave celebrates his freedom by giving others a day off.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Background",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "For the first hearers, the phrase “with a mighty hand and an outstretched arm” was an obvious allusion. In Egypt the raised, powerful arm was the official emblem of Pharaoh. That’s how he was shown in reliefs: with his hand raised to strike over the defeated. The story of the exodus takes this image and turns it upside down. An arm stronger than Pharaoh’s is raised not to force people to work, but to lead them out of it.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Deuteronomy 5:13-15 the Hebrew root `avad`, “to work, to serve,” occurs four times. It forms a frame: “you shall labor,” literally “you shall serve”; then “your manservant and maidservant” are not to work; then “your manservant and maidservant” are to rest; and finally “you were a slave in the land of Egypt.” The BSB has to use several different words here (“labor,” “manservant,” “slave”); Hebrew has just one. The KJV comes closer at the end: “thou wast a servant in the land of Egypt.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If “Six days you shall labor” and “you were a slave in the land of Egypt” come from the same root, **then according to this commandment, how is a free person’s work different from a slave’s?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "That They May Be Refreshed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 23:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not oppress a foreign resident, since you yourselves know how it feels to be foreigners; for you were foreigners in the land of Egypt. For six years you are to sow your land and gather its produce, but in the seventh year you must let it rest and lie fallow, so that the poor among your people may eat from the field and the wild animals may consume what they leave. Do the same with your vineyard and olive grove. For six days you are to do your work, but on the seventh day you must cease, so that your ox and your donkey may rest and the son of your maidservant may be refreshed, as well as the foreign resident."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verse 12 the householder is to cease “so that” someone else may rest. **Who is the aim of this commandment? List them all, one by one.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In that world, the son of a maidservant and the foreign resident were people at the very bottom. **What do they have in common? To whom could they appeal if someone made them work without a break?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“You yourselves know how it feels to be foreigners.” **What does God base this law on: the threat of punishment, or something else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This version of the commandment doesn’t mention the householder or his children. It names only those who can’t demand rest for themselves: the working animal, the child of a slave woman, the outsider. When people like that are told to work, they have no one to complain to, so the law speaks up for them in advance. Here the same rhythm of six and one covers the field as well: every seventh year the poor gather from it, and after them the wild animals.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Seventh Year",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 15:12-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "If a fellow Hebrew, a man or a woman, is sold to you and serves you six years, then in the seventh year you must set him free. And when you release him, do not send him away empty-handed. You are to furnish him liberally from your flock, your threshing floor, and your winepress. You shall give to him as the LORD your God has blessed you. Remember that you were slaves in the land of Egypt, and the LORD your God redeemed you; that is why I am giving you this command today."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Six and seven come back here on the scale of years. **What links this law with the Sabbath commandment? Find the sentence that repeats almost word for word.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The master is to release his servant not empty-handed but generously provided for. **How did God release Israel from Egypt? What does that say about where a person should learn how to treat someone weaker?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Land Too",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 25:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Moses on Mount Sinai, “Speak to the Israelites and say to them: When you enter the land that I am giving you, the land itself must observe a Sabbath to the LORD. For six years you may sow your field and prune your vineyard and gather its crops. But in the seventh year there shall be a Sabbath of complete rest for the land—a Sabbath to the LORD. You are not to sow your field or prune your vineyard. You are not to reap the aftergrowth of your harvest or gather the grapes of your untended vines. The land must have a year of complete rest. Whatever the land yields during the Sabbath year shall be food for you—for yourself, your manservant and maidservant, the hired hand or foreigner who stays with you, and for your livestock and the wild animals in your land. All its growth may serve as food."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text doesn’t say that the farmer lets the land rest. It says that “the land itself must observe a Sabbath,” and that it is a Sabbath “to the LORD.” **What does that say about who the field belongs to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In the seventh year everyone eats what grows by itself: the householder, the servant, the hired hand, the guest, the livestock, and the wild animals. **What happens during that year to the difference between the owner and everyone else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "A year without sowing or harvest is a real risk for a farmer. **What did he have to be sure of to leave the plow in the shed?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Liberty for All Its Inhabitants",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 25:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And you shall count off seven Sabbaths of years—seven times seven years—so that the seven Sabbaths of years amount to forty-nine years. Then you are to sound the horn far and wide on the tenth day of the seventh month, the Day of Atonement. You shall sound it throughout your land. So you are to consecrate the fiftieth year and proclaim liberty in the land for all its inhabitants. It shall be your Jubilee, when each of you is to return to his property and to his clan."
+       ]
+      },
+      {
+       "odnosnik": "Leviticus 25:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "The land must not be sold permanently, because it is Mine, and you are but foreigners and residents with Me."
+       ]
+      },
+      {
+       "odnosnik": "2 Chronicles 36:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon, and they became servants to him and his sons until the kingdom of Persia came to power. So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD through Jeremiah."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A day, a year, seven times seven years. **What grows along with the scale? What does a person receive on the Sabbath, what in the seventh year, and what in the Jubilee year?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“You are but foreigners and residents with Me.” **How does this sentence change the way we look at the foreigner in the fourth commandment?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Chronicler explains the seventy years of exile by the land’s overdue Sabbaths. **What does that say about how seriously God takes rest that someone denied someone else?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "When Will the Sabbath End?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Amos 8:4-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Hear this, you who trample the needy, who do away with the poor of the land, asking, “When will the New Moon be over, that we may sell grain? When will the Sabbath end, that we may market wheat? Let us reduce the ephah and increase the shekel; let us cheat with dishonest scales. Let us buy the poor with silver and the needy for a pair of sandals, selling even the chaff with the wheat!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "These merchants don’t break the Sabbath. They close their stalls and wait. **So what is wrong? Where are their thoughts on the day of rest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "For one day a week, the dishonest scales sit unused. **Whom does the Sabbath protect even when it is kept by people who can’t stand it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Can you keep the day of rest to the letter and lose everything it was given for? What would that look like today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The ephah was a measure of volume used to measure out the grain being sold, and the shekel was the weight against which the buyer’s silver was weighed. A smaller measure and a heavier weight mean the poor person gets less and pays more. Amos doesn’t accuse these people of working on the Sabbath. He accuses them of treating the Sabbath as nothing more than a pause in profiting from other people’s poverty. The day that was meant to give the poor a breather, they sit out watching the clock.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Tear Off Every Yoke",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 58:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Why have we fasted, and You have not seen? Why have we humbled ourselves, and You have not noticed?” “Behold, on the day of your fast, you do as you please, and you oppress all your workers."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 58:6-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Isn’t this the fast that I have chosen: to break the chains of wickedness, to untie the cords of the yoke, to set the oppressed free and tear off every yoke? Isn’t it to share your bread with the hungry, to bring the poor and homeless into your home, to clothe the naked when you see him, and not to turn away from your own flesh and blood? Then your light will break forth like the dawn, and your healing will come quickly. Your righteousness will go before you, and the glory of the LORD will be your rear guard. Then you will call, and the LORD will answer; you will cry out, and He will say, ‘Here I am.’ If you remove the yoke from your midst, the pointing of the finger and malicious talk, and if you give yourself to the hungry and satisfy the afflicted soul, then your light will go forth in the darkness, and your night will be like noonday."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The people are devout, and they resent that God doesn’t see it. **What does God see instead of their fasting?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The word “yoke” appears three times in this passage. **Whose yoke is it, and who put it on them? What does God call the kind of observance that pleases Him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Alongside the yoke, Isaiah names “the pointing of the finger and malicious talk.” **What does contempt have to do with exploitation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This chapter of Isaiah begins with fasting and ends with words about the Sabbath as a delight. The prophet puts the two side by side on purpose. A holy day on which “you oppress all your workers” is not a holy day in God’s eyes. The broken yoke, the shared bread, and the open home aren’t an add-on to keeping the day. They are its very substance, in line with what the commandment said from the beginning: “so that your manservant and maidservant may rest as you do.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The commandment names those who rest thanks to the householder. **Who works today so that you can have a day off and a comfortable week? Think of people you usually don’t see.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Remember that you were a slave.” **What is your Egypt, the one that’s easy to forget when you think about people who have it harder today than you do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there someone, at home or at work, whom you could let catch their breath, and you don’t?** You don’t have to say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Two Reasons for One Commandment",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Ten Commandments appear in the Bible twice. In Exodus the Sabbath is grounded in creation: “in six days the LORD made the heavens and the earth … but on the seventh day He rested” (Exodus 20:11). In Deuteronomy the reason is the exodus from Egypt. Some conclude from this that the Sabbath commemorates Israel’s national liberation and applies only to Israel. Others see one idea in both versions. The difference was noticed already in ancient times: one of the Dead Sea manuscripts merges the two versions into a single text and gives both reasons together.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Does the second reason cancel the first, or complete it?** If the exodus from slavery was the beginning of a people, just as creation was the beginning of the world, what do the two reasons have in common?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first generation at Sinai remembered Egypt. The generation listening to Moses forty years later did not. **Why is it precisely this generation that God reminds of slavery when He speaks of the Sabbath?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A Law That Doesn’t Abolish Slavery",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The commandment gives the servant a day of rest “as you do,” but it doesn’t forbid owning servants. The law of Moses limits slavery instead of abolishing it: “If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything” (Exodus 21:2). Paul sends a runaway slave back to his master, but with a letter asking him to receive him “no longer as a slave, but better than a slave, as a beloved brother” (Philemon 16).",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why didn’t God abolish slavery with a single sentence?** What does a weekly day on which both are equal, together with the sentence “Remember that you were a slave,” do to a person who owns a slave?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t defend the Bible by force, and don’t pretend the difficulty isn’t there. It is worth someone making the observation, though, that the Sabbath law plants in the middle of the social order of the time something that order can’t survive in the long run: a day on which master and servant stand before God the same way.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "While I rest on the Sabbath, someone is keeping watch at a power plant, driving a bus, or on duty at a hospital, and someone else sewed my clothes in a country where there’s no day off. **How do I keep the words “so that your manservant and maidservant may rest as you do” today, when my “servants” are scattered all over the world and I don’t know their names? Where does my responsibility end?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the material deliberately gives no answer. Don’t let the conversation turn into a list of things you mustn’t buy, or into a helpless shrug. Let the question stay a question.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A free person celebrates their freedom by letting others catch their breath.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Deuteronomy 5:15 or Isaiah 58:6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "On your next day of rest, look around and ask yourself: **who is working right now so that I don’t have to?** Not to feel guilty. To see these people.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Remember your Egypt: a time when things were hard for you and someone or something brought you out of it. Thank God for it and ask Him **who needs that memory of yours today**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask yourself whether there is someone for whom you are sometimes Pharaoh: at home, at work, at church. Stay with that question before you start explaining yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation veers into politics: wages, unions, Sunday trading laws, immigration.** Interrupt calmly: “Each of us has our own opinion here, and we don’t need to agree on it today. The text doesn’t ask whom I vote for, but who rests under my roof.” Go back to the last passage you read.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So the Bible supports slavery?”** Don’t brush it off. Admit that the law of Moses doesn’t abolish slavery but limits it, and show what the commandment does: it gives the servant the same day as the master, and tells the master to remember that he himself was a slave. If the group is working at level 3, go to the section on this tension. If not, write the question down for a separate conversation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone works on the Sabbath and starts justifying themselves, or goes quiet.** Say plainly that today’s texts speak to those who have power over other people’s time, not to those who have to work. There’s a separate meeting on lifesaving work and what Jesus did on the Sabbath: “Jesus and the Sabbath.” Don’t let anyone at the table judge this person.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who employs people feels attacked.** Point out that the commandment assumes a householder who has servants and fields, and doesn’t hold it against him. It asks only one thing: do these people rest as he does? That question applies to anyone who has influence over anyone else, parents included.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“At least we don’t do business on the Sabbath, unlike others.”** Go back to Amos: “Those merchants didn’t do business either. What did the prophet have to say to them?” Here the Sabbath isn’t a way to feel superior.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes silent after a question.** That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off and you won’t get through the material.** Skip section 3 and go to sections 4 and 5. Without Amos and Isaiah the meeting stays stuck at the level of regulations, and it’s the prophets who show what happens when the day remains but its meaning disappears.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "The conversation veers into politics: wages, unions, Sunday trading laws, immigration.",
+     "odpowiedz": "Interrupt calmly: “Each of us has our own opinion here, and we don’t need to agree on it today. The text doesn’t ask whom I vote for, but who rests under my roof.” Go back to the last passage you read."
+    },
+    {
+     "sytuacja": "“So the Bible supports slavery?”",
+     "odpowiedz": "Don’t brush it off. Admit that the law of Moses doesn’t abolish slavery but limits it, and show what the commandment does: it gives the servant the same day as the master, and tells the master to remember that he himself was a slave. If the group is working at level 3, go to the section on this tension. If not, write the question down for a separate conversation."
+    },
+    {
+     "sytuacja": "Someone works on the Sabbath and starts justifying themselves, or goes quiet.",
+     "odpowiedz": "Say plainly that today’s texts speak to those who have power over other people’s time, not to those who have to work. There’s a separate meeting on lifesaving work and what Jesus did on the Sabbath: “Jesus and the Sabbath.” Don’t let anyone at the table judge this person."
+    },
+    {
+     "sytuacja": "Someone who employs people feels attacked.",
+     "odpowiedz": "Point out that the commandment assumes a householder who has servants and fields, and doesn’t hold it against him. It asks only one thing: do these people rest as he does? That question applies to anyone who has influence over anyone else, parents included."
+    },
+    {
+     "sytuacja": "“At least we don’t do business on the Sabbath, unlike others.”",
+     "odpowiedz": "Go back to Amos: “Those merchants didn’t do business either. What did the prophet have to say to them?” Here the Sabbath isn’t a way to feel superior."
+    },
+    {
+     "sytuacja": "The group goes silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "The conversation takes off and you won’t get through the material.",
+     "odpowiedz": "Skip section 3 and go to sections 4 and 5. Without Amos and Isaiah the meeting stays stuck at the level of regulations, and it’s the prophets who show what happens when the day remains but its meaning disappears."
+    }
+   ]
+  }
+ ]
+}

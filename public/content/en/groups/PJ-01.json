@@ -1,0 +1,936 @@
+{
+ "tytul": "The Sower",
+ "id": "PJ-01",
+ "seria": "Parables of Jesus",
+ "opis": "The same sower, the same seed, four ways of listening. And a God who sows even where no one else would.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mark 4:1-20; Mark 4:26-29",
+  "p2": "Psalm 126:5-6; Isaiah 55:10-11; Mark 4:33-34; Matthew 13:16-17; Luke 8:12-13; Jeremiah 4:3; Hosea 10:12; Luke 8:14-15; Genesis 26:12; Ezekiel 36:26-27",
+  "p3": "Deuteronomy 6:4-5; Matthew 13:1, 3; Isaiah 6:9-10; Mark 4:22"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 20,
+  "p2": 32,
+  "p3": 37
+ },
+ "tagi": [
+  "parables",
+  "listening",
+  "the Word",
+  "heart",
+  "kingdom of God"
+ ],
+ "wersja": 1,
+ "zdanie": "The sower doesn’t write off any part of the field in advance. My part is not to block the way in.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not a test to show what kind of soil each person is. The parable begins and ends with a word about listening, and its main character is a sower who doesn’t spare the seed. The four soils don’t divide people into four types. They run through the middle of every heart, including yours. The question of this meeting is: what happens to the word once I have heard it?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The false picture of God that this parable corrects is a calculating God: one who invests only in promising prospects and hands out grades to listeners. Jesus’ sower sows across the whole field and doesn’t write off any part of it in advance. The first key question leads to this picture.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The group will very quickly start assigning soils to people who aren’t there: a husband, children, a neighbor. There may be a parent at the table whose child has left the church, and for them this is no game.",
+      "Someone may hear in this parable a verdict on themselves: “I’m the rocky ground; nothing will ever come of me.”",
+      "“The worries of this life” can easily sound like an accusation against someone with real troubles: illness at home, a mortgage, a lost job.",
+      "Verses 11-12 sound as if Jesus didn’t want people to understand. If you aren’t leading level 3, don’t open that debate yourself. If someone asks, use the answer in Red Flags."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone which soil they are. Don’t let the group judge third parties. Don’t end with the call “Let’s try to be better soil,” because soil doesn’t plow itself, and the parable doesn’t say that at all.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a sentence someone once said to you that stayed with you for years. Don’t say what the sentence was. Just say who said it and how old you were at the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Farmer Went Out",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Once again Jesus began to teach beside the sea, and such a large crowd gathered around Him that He got into a boat and sat in it, while all the people crowded along the shore. And He taught them many things in parables, and in His teaching He said, “Listen! A farmer went out to sow his seed. And as he was sowing, some seed fell along the path, and the birds came and devoured it. Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow. But when the sun rose, the seedlings were scorched, and they withered because they had no root. Other seed fell among thorns, which grew up and choked the seedlings, and they yielded no crop. Still other seed fell on good soil, where it sprouted, grew up, and produced a crop—one bearing thirtyfold, another sixtyfold, and another a hundredfold.” Then Jesus said, “He who has ears to hear, let him hear.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "For now, stay with the story itself, without the explanation. **What does the farmer do, and what doesn’t he do?** How would someone who counts every seed judge his work?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Every farmer knows that most of the seed lands in good soil. In Jesus’ story, three out of four stories end in failure. **Why does Jesus set up the proportions this way? What is the listener supposed to feel before hearing about the harvest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The story begins with “Listen!” and ends with “He who has ears to hear, let him hear.” **What does this frame say about it? What is a story about if it has to begin and end with the same call?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**At what point does each of the first three seeds die: right away, after a while, after a long time?** What follows from this for someone who looks at the field after a week?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The cove between Capernaum and Tabgha has been measured with acoustic equipment. A voice from the waterline carries up the slope so well that several thousand people can hear a speaker without effort. The boat wasn’t an escape from the crowd but a pulpit. Sowing was often done before plowing, on ground that was hard after the summer. In Galilee, fertile soil, shallow rock, and stones can lie side by side in a single field. On the surface it all looked the same; the differences lay underneath.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Galilee, the lakeshore, a crowd. A chapter earlier, Mark shows how differently people respond to the same teaching. The Pharisees are plotting how to kill Jesus. His relatives say He is out of His mind. The scribes from Jerusalem claim He works by the power of Beelzebul. And around Him sit people of whom He says: here are My mother and My brothers. One word, four responses. The parable of the sower is the first major parable in Mark, and it answers the question hanging in the air: why is it like this?",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** People were waiting for a kingdom that would come like a harvest. John the Baptist announced a Mightier One with a winnowing fork in His hand, who would separate the wheat from the chaff. Jesus begins with sowing: quietly, without force, with apparent losses. Sowing as a picture of teaching was familiar to His listeners. What was new was that the Messiah comes first as a sower, and not immediately as a reaper.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Recall those four responses from the previous chapter. **How does listening to the parable change when we know Jesus tells it after weeks like these?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sowing in Tears, a Word Like Rain",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 126:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Those who sow in tears will reap with shouts of joy. He who goes out weeping, bearing a trail of seed, will surely return with shouts of joy, carrying sheaves of grain."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 55:10-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat, so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus’ listeners knew both of these texts. **What does each of them add to the picture of a farmer going out to sow?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah says the word will not return empty. Jesus tells of seed that dies in three places. **How do these two pictures fit together? Do they have to agree in every detail?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Only Mark begins the parable with the call “Listen!” Matthew and Luke don’t have it. To a Jewish ear, this word opened the most important confession of faith, recited morning and evening:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 6:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Hear, O Israel: The LORD our God, the LORD is One. And you shall love the LORD your God with all your heart and with all your soul and with all your strength."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `shema` means both “listen” and “obey.” Biblical Hebrew usually expresses obedience with the same verb as listening. Whoever has truly heard goes and does.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in the parable if “listen” means the same thing as in Deuteronomy 6:4?** Which of the four soils listened in that sense?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: Went Out",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Matthew opens the same scene with two sentences that use the same Greek verb.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "That same day Jesus went out of the house and sat by the sea."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 13:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "And He told them many things in parables, saying, “A farmer went out to sow his seed."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Gospel writer stitches the two scenes together with one word: first Jesus goes out, then the farmer goes out. **What is the listener supposed to understand from this about who the sower is and where he came out from?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "In Private",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:10-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "As soon as Jesus was alone with the Twelve and those around Him, they asked Him about the parable. He replied, “The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables, so that, ‘they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven.’” Then Jesus said to them, “Do you not understand this parable? Then how will you understand any of the parables?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look at who is asking. It isn’t only the Twelve, but also “those around Him.” The disciples didn’t understand either. **So what sets them apart from the crowd that went home?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus says this parable is the key to all the others. **Why this one? What do you have to grasp from it before you can listen to the rest at all?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Where in this passage does the line run between those who are inside and “those on the outside”? Who draws it, and can it be crossed?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "To the Extent That They Could Understand",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:33-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "With many such parables Jesus spoke the word to them, to the extent that they could understand. He did not tell them anything without using a parable. But privately He explained everything to His own disciples."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 13:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "But blessed are your eyes because they see, and your ears because they hear. For truly I tell you, many prophets and righteous men longed to see what you see but did not see it, and to hear what you hear but did not hear it."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mark sums up the whole day of teaching by saying that Jesus spoke “to the extent that they could understand.” **How does this sentence shed light on the difficult verses 11-12? Does the parable hide, or does it reveal?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Matthew’s version, at the same point Jesus tells the disciples they are blessed. **Blessed because of what, exactly? Is it their own merit?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “So That … Never Understanding”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Read literally, verses 11-12 say that Jesus teaches in parables so that people on the outside won’t understand and turn. Here Jesus quotes Isaiah’s call:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 6:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And He replied: “Go and tell this people, ‘Be ever hearing, but never understanding; be ever seeing, but never perceiving.’ Make the hearts of this people calloused; deafen their ears and close their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn and be healed.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two main ways of reading this. The first takes “so that” as purpose: the parable is a judgment on those who had already rejected a clear word. The second reads the Greek `hina` as result, “with the result that,” and sees here a description of what actually happens, not of what God wants. Both positions share one thing: neither Isaiah stopped speaking, nor did Jesus. The prophet who heard these words went on preaching for the rest of his life. And a few sentences later, Jesus says plainly:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:22",
+       "przeklad": "BSB",
+       "akapity": [
+        "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be brought to light."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If God wanted people not to understand, why would He send Isaiah at all, and why would Jesus get into the boat?** What do these two facts say about how to read the words “so that”?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A riddle stops only the person who doesn’t ask. **What did the disciples do with what they didn’t understand, and what would have happened if anyone in the crowd had done the same?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle the grammatical debate. It’s enough for the group to see that the text itself resists the picture of a God who hides salvation.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Path and the Rocky Ground",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "The farmer sows the word. Some are like the seeds along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them. Some are like the seeds sown on rocky ground. They hear the word and at once receive it with joy. But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count how many times “hear” appears in verses 14-20. **What follows from this: how do these four groups differ, if all of them hear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "On the rocky ground everything happens fast: they “at once receive it with joy” and “quickly fall away.” **What is wrong with this enthusiasm? What does the text not hold against it, and what does it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The path is ground that has been trampled down because many feet have walked over it. **What in a person’s life can trample a place so hard that the word just lies on the surface?** Talk about the mechanism, not about particular people.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same in Luke",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 8:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "The seeds along the path are those who hear, but the devil comes and takes away the word from their hearts, so that they may not believe and be saved. The seeds on rocky ground are those who hear the word and receive it with joy, but they have no root. They believe for a season, but in the time of testing, they fall away."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare with Mark. **What does Luke say differently, and what does that help us see more clearly?** Notice the words “from their hearts” and “they believe for a season.”",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Mark the test is trouble and persecution; in Luke it is “the time of testing.” **What does such a test look like where no one persecutes you for your faith?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Thorns and Good Soil",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:18-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Others are like the seeds sown among the thorns. They hear the word, but the worries of this life, the deceitfulness of wealth, and the desire for other things come in and choke the word, and it becomes unfruitful. Still others are like the seeds sown on good soil. They hear the word, receive it, and produce a crop—thirtyfold, sixtyfold, or a hundredfold.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The thorns are three things: worries, the deceitfulness of wealth, and the desire for other things. The first two look like opposites, because one affects those who lack and the other those who have. **What do they have in common? Why is the result the same?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "About the good soil, Jesus says only three things: they hear, they receive, they produce a crop. **What is missing from this list that we might expect?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Among the thorns, the seed doesn’t die. It grows, it just doesn’t yield a crop. **From the outside, how does such faith differ from faith in good soil? Who sees the difference?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus names three different yields and faults none of them. **What does this say to someone who compares their life with someone else’s?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The text doesn’t say that the good soil is people who are better by nature. It only says what they did with the word: they received it. The listeners knew the hundredfold harvest from the story of Isaac, where it is explicitly called the result of blessing, not of hard work. Thirty, sixty, and a hundred are not three grades on a report card. They are the same message three times: in this seed there is a life at work that is not ours.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Unplowed Ground among the Thorns",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 4:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this is what the LORD says to the men of Judah and Jerusalem: “Break up your unplowed ground, and do not sow among the thorns."
+       ]
+      },
+      {
+       "odnosnik": "Hosea 10:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Sow for yourselves righteousness and reap the fruit of loving devotion; break up your unplowed ground. For it is time to seek the LORD until He comes and sends righteousness upon you like rain."
+       ]
+      },
+      {
+       "odnosnik": "Luke 8:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "The seeds that fell among the thorns are those who hear, but as they go on their way, they are choked by the worries, riches, and pleasures of this life, and their fruit does not mature. But the seeds on good soil are those with a noble and good heart, who hear the word, cling to it, and by persevering produce a crop."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The picture of sowing among thorns isn’t new. The prophets used it centuries earlier. **Were Jeremiah and Hosea speaking to pagans or to religious people?** What does that change in how we hear the parable?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Luke adds two words to the description of the good soil: “cling to it” and “by persevering.” **What do these words say about the pace at which a crop comes?** Set this beside “at once” and “quickly” from the rocky ground.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 26:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is the only hundredfold harvest in the Old Testament, and the chapter begins with the news that there was a famine in the land. **What does the text credit this result to?** What did a listener who knew this story hear in the ending of the parable?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "An ordinary yield in those conditions was roughly seven to ten grains for every one sown. Thirty is already abundance, and a hundred is close to the limit of anything ever recorded. Jesus isn’t telling a story about a miracle that breaks the laws of the field. He is telling a story about a field where, despite all the losses, the harvest exceeds what the farmer had any right to expect.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "All by Itself",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After the explanation, Jesus adds a few short sayings about light and about measure, and then returns to the field.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:26-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus also said, “The kingdom of God is like a man who scatters seed on the ground. Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how. All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within. And as soon as the grain is ripe, he swings the sickle, because the harvest has come.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Only Mark recorded this parable, and he placed it right after the sower. **What does it say to someone who, after the first parable, decided to pull themselves together and become better soil?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The man in this parable sleeps and wakes, and the seed grows, “though he knows not how.” **So what belongs to the person, and what doesn’t?** Look for the answer in both parables at once.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“First the stalk, then the head, then grain that ripens within.” **How does this sentence sound to someone who is impatient with themselves, or with someone close to them?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who Removes the Stone",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 36:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "List all the verbs in this passage and check who their subject is. **According to Ezekiel, who deals with the rock in a person?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiah says, “Break up your unplowed ground”; Ezekiel says, “I will remove… I will give.” **Do these two sentences contradict each other? What would the life of someone who takes both seriously look like?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The four soils are not four kinds of people. The same person can be good soil toward one word and a trampled path toward another. **How does that work? Toward what kind of words is it easiest to be good soil, and toward what kind is it hardest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of the three dangers is closest to you in this season of life: a word that never had time to sink in, enthusiasm without roots, or thorns growing up alongside your faith?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q36",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a word you have been hearing for a long time that still lies on the surface?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q37",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Soil doesn’t plow itself, and God doesn’t force His way onto the field. **So what is it, in this parable, that belongs to the person? Where does “they receive the word” end and “I try to be better” begin?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "Christians have placed the emphasis differently here for centuries, and you won’t settle it at the table. It helps if both halves come up: the harvest is not the soil’s achievement, and a heart, unlike a field, can open or close.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The sower doesn’t write off any part of the field in advance. My part is not to block the way in.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Mark 4:20 or Mark 4:9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This week, when you open the Bible or hear a sermon, ask yourself one question before you begin: **do I want to hear something today, or only to confirm what I already know?** Don’t correct the answer. It’s enough that it’s honest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Name your thorns before God. Not the ones from years ago, and not someone else’s, but the ones that are choking the word this month. Don’t promise to pull them out. **Tell Him that you see them, and ask Him what He wants to do with them.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of a person you long ago wrote off as a path or as rocky ground. Ask yourself whether the sower in this parable would have skipped that spot. Stay with the answer for a moment.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“My husband is a typical path.” “My kids are thorns.”** Interrupt gently and right away. You can say, “Jesus told this to people about themselves, not about their families. Let’s stay with ourselves.” If it’s a parent whose child has left the faith, hear the pain in it, not a judgment. Add one sentence: the sower in this story sows even where no one else would, and he doesn’t stop.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m the rocky ground. Nothing will ever come of me.”** Don’t rush to contradict, and don’t comfort with generalities. Go back to the text: the parable doesn’t say the soil stays that way forever, and Ezekiel says who removes the stone. The very fact that this diagnosis hurts someone is a sign that the word isn’t just lying on the surface.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So Jesus deliberately spoke unclearly so that people wouldn’t turn?”** If you aren’t leading level 3, answer briefly with three facts from the text. Jesus begins with “Listen!” and ends with a call to everyone who has ears. Mark writes that He spoke “to the extent that they could understand.” And the explanation was given to everyone who stayed and asked, not only to the Twelve. The parable doesn’t close the door. It shows who walks through it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone with real troubles hears an accusation in “the worries of this life.”** Say plainly that Jesus doesn’t blame people for having worries. He describes what worries do to the word when a person is left alone with them. Elsewhere He says to the same people, “Come to Me, all you who are weary and burdened.” Don’t get into giving financial or medical advice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into complaining about other listeners: young people, the congregation, preachers.** Go back to the text with a question: “In the parable, the seed is the same everywhere, and so is the sower. So what is the only variable?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So do I have to do something or not?”** Don’t cut it off; it’s a good question. Set Jeremiah 4:3 beside Ezekiel 36:26, or at least Mark 4:20 beside Mark 4:27-28. A person receives and clings to the word. Growth and harvest are not in their hands. If the group wants to go deeper, this is exactly the level 3 question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So three-quarters of people are lost?”** The parable has one point, and it isn’t a statistic of the saved. The proportions serve the story: the listener is supposed to feel the losses before hearing about the harvest. A farmer sows in a field he has prepared himself, so most of the seed lands in good soil anyway. No doctrine is built on a side detail of a parable.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You run out of time.** Drop block 2 and go from block 1 straight to blocks 3 and 4. Don’t skip block 5. Without it, the meeting ends with a diagnosis, while the parable ends with a harvest.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“My husband is a typical path.” “My kids are thorns.”",
+     "odpowiedz": "Interrupt gently and right away. You can say, “Jesus told this to people about themselves, not about their families. Let’s stay with ourselves.” If it’s a parent whose child has left the faith, hear the pain in it, not a judgment. Add one sentence: the sower in this story sows even where no one else would, and he doesn’t stop."
+    },
+    {
+     "sytuacja": "“I’m the rocky ground. Nothing will ever come of me.”",
+     "odpowiedz": "Don’t rush to contradict, and don’t comfort with generalities. Go back to the text: the parable doesn’t say the soil stays that way forever, and Ezekiel says who removes the stone. The very fact that this diagnosis hurts someone is a sign that the word isn’t just lying on the surface."
+    },
+    {
+     "sytuacja": "“So Jesus deliberately spoke unclearly so that people wouldn’t turn?”",
+     "odpowiedz": "If you aren’t leading level 3, answer briefly with three facts from the text. Jesus begins with “Listen!” and ends with a call to everyone who has ears. Mark writes that He spoke “to the extent that they could understand.” And the explanation was given to everyone who stayed and asked, not only to the Twelve. The parable doesn’t close the door. It shows who walks through it."
+    },
+    {
+     "sytuacja": "Someone with real troubles hears an accusation in “the worries of this life.”",
+     "odpowiedz": "Say plainly that Jesus doesn’t blame people for having worries. He describes what worries do to the word when a person is left alone with them. Elsewhere He says to the same people, “Come to Me, all you who are weary and burdened.” Don’t get into giving financial or medical advice."
+    },
+    {
+     "sytuacja": "The conversation turns into complaining about other listeners: young people, the congregation, preachers.",
+     "odpowiedz": "Go back to the text with a question: “In the parable, the seed is the same everywhere, and so is the sower. So what is the only variable?”"
+    },
+    {
+     "sytuacja": "“So do I have to do something or not?”",
+     "odpowiedz": "Don’t cut it off; it’s a good question. Set Jeremiah 4:3 beside Ezekiel 36:26, or at least Mark 4:20 beside Mark 4:27-28. A person receives and clings to the word. Growth and harvest are not in their hands. If the group wants to go deeper, this is exactly the level 3 question."
+    },
+    {
+     "sytuacja": "“So three-quarters of people are lost?”",
+     "odpowiedz": "The parable has one point, and it isn’t a statistic of the saved. The proportions serve the story: the listener is supposed to feel the losses before hearing about the harvest. A farmer sows in a field he has prepared himself, so most of the seed lands in good soil anyway. No doctrine is built on a side detail of a parable."
+    },
+    {
+     "sytuacja": "You run out of time.",
+     "odpowiedz": "Drop block 2 and go from block 1 straight to blocks 3 and 4. Don’t skip block 5. Without it, the meeting ends with a diagnosis, while the parable ends with a harvest."
+    }
+   ]
+  }
+ ]
+}

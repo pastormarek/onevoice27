@@ -1,0 +1,811 @@
+{
+ "tytul": "Starting Over",
+ "id": "K-08",
+ "seria": "Crises and Turning Points",
+ "opis": "For those for whom something has ended. Naomi comes home empty-handed and doesn’t see who is walking beside her.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ruth 1:1-7; Ruth 1:14-22; Jeremiah 29:4-7; Jeremiah 29:8-14; Isaiah 43:16-19; Philippians 3:12-14",
+  "p2": "Ruth 1:8-13; Ruth 2:1-3, 19-20; Psalm 137:1-6; Genesis 12:1-4; Ruth 2:11-12; Psalm 92:12-15",
+  "p3": "Ruth 3:17; Deuteronomy 8:2; Isaiah 43:25"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 31
+ },
+ "tagi": [
+  "crisis",
+  "new beginning",
+  "emigration",
+  "old age",
+  "loss",
+  "hope",
+  "Ruth",
+  "exile"
+ ],
+ "wersja": 1,
+ "zdanie": "A new beginning rarely looks like a beginning. More often it looks like a daughter-in-law walking beside you, barley in the field, or a garden planted somewhere you didn’t want to be.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is for people for whom something has ended and who have to start again, often not where and not when they wanted. After a loss, after a divorce, after a move, after the children have gone to live in another country, in retirement. The Bible shows two beginnings like this. Naomi comes home empty-handed and doesn’t see who is walking beside her. The exiles in Babylon receive a letter telling them to build houses in a place they didn’t choose. In both stories the new beginning doesn’t look like a beginning.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The material doesn’t promise that things will be better than they were. It shows that God is already in the new place before a person has had time to come to like it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone may be right in the middle of it: a week after a funeral, a month after a breakup, just after a move. For them the words “new beginning” sound like pressure.",
+      "At the table there may be parents whose children and grandchildren live abroad, and people who have emigrated themselves or come back. The subject of emigration carries guilt on both sides.",
+      "Many people know Jeremiah 29:11 as a personal promise of prosperity. The verse stands in a paragraph about seventy years. This needs to be shown in a way that takes no one’s comfort away.",
+      "Older participants may hear in this topic that their time is over. This material says the opposite."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t offer shortcut comfort. Don’t tell anyone that “God has a better plan.” Don’t advise anyone whether to move away, move back, sell the house, or retire. The group listens and walks alongside.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think back to one of your own beginnings: a first job, a move, a first day somewhere new. Name one thing you brought with you from your old life.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t comment on the answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Ten Years in a Foreign Field",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 1:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab. The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there. Then Naomi’s husband Elimelech died, and she was left with her two sons, who took Moabite women as their wives, one named Orpah and the other named Ruth. And after they had lived in Moab about ten years, both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband. When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab. Accompanied by her two daughters-in-law, she left the place where she had been living and set out on the road leading back to the land of Judah."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The family left to find bread, for a while. **Trace how “for a while” turns into ten years and three graves.** At what point might Naomi have felt that this was no longer a stay abroad but her life?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Naomi receives no vision and no promise. Out in the country she hears news that there is bread at home again. **What is her decision to start over based on? Is that a lot or a little?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text doesn’t judge whether going to Moab was a mistake. **Why might the author have left that out?** What would change in the story if we knew?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Bethlehem means “house of bread.” The story begins with the house of bread running out of bread and ends with a harvest. Moab lay on the other side of the Dead Sea, a few days’ journey from Bethlehem, but for an Israelite it was a foreign country in every sense. There Naomi is a widow with no sons, which means no one to support her. She sets out without a plan. All she has is a report that God is giving bread again.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Return Home, My Daughters",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 1:8-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Naomi said to her two daughters-in-law, “Go back, each of you to your mother’s home. May the LORD show you loving devotion, as you have shown to your dead and to me. May the LORD enable each of you to find rest in the home of your new husband.” And she kissed them as they wept aloud and said, “Surely we will return with you to your people.” But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands? Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons, would you wait for them to grow up? Would you refrain from having husbands? No, my daughters, it grieves me very much for your sakes that the hand of the LORD has gone out against me.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naomi wishes her daughters-in-law the LORD’s loving devotion, and in the same conversation says that the hand of the LORD has gone out against her. **How do these two statements fit inside one person?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naomi does the math: I’m too old, I won’t bear sons, you won’t wait for them. The math is correct. **What is missing from her calculation?** When are our own projections of the future correct and still incomplete?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Empty?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 1:14-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clung to her. “Look,” said Naomi, “your sister-in-law has gone back to her people and her gods; follow her back home.” But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God. Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.” When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her. So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole city was stirred because of them, and the women of the city exclaimed, “Can this be Naomi?” “Do not call me Naomi,” she replied. “Call me Mara, because the Almighty has dealt quite bitterly with me. I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.” So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ruth makes one of the strongest declarations in the whole Bible. **How does Naomi respond to it?** Read verse 18 carefully. What does it say about the state Naomi is in?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Naomi stands at the town gate and tells the women she has come back with nothing. **Who is standing beside her as she says it?** How could she have left that out of the count?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Compare what Naomi says with what the narrator adds in the last sentence. **What two things does the narrator see that Naomi doesn’t see yet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "No one in this scene corrects Naomi. Neither the women, nor Ruth, nor the narrator tells her she is wrong. **Why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ruth’s declaration is an oath. Ruth calls the God of Israel as her witness, using His name, and binds herself to Naomi beyond Naomi’s death: she wants to be buried in a foreign land. She isn’t going in search of a husband or a better life, because Naomi has just spelled out for her that there is nothing like that there. The narrator ends the chapter with two quiet pieces of information: Ruth is there, and in Bethlehem the harvest is beginning. The new beginning is already standing at the gate; it just doesn’t have a name yet.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "She Happened to Come to the Field",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 2:1-3, 19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Naomi had a relative on her husband’s side, a prominent man of noble character from the clan of Elimelech, whose name was Boaz. And Ruth the Moabitess said to Naomi, “Please let me go into the fields and glean heads of grain after someone in whose sight I may find favor.” “Go ahead, my daughter,” Naomi replied. So Ruth departed and went out into the field and gleaned after the harvesters. And she happened to come to the part of the field belonging to Boaz, who was from the clan of Elimelech. … Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.” So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said. Then Naomi said to her daughter-in-law, “May he be blessed by the LORD, who has not withdrawn His kindness from the living or the dead.” Naomi continued, “The man is a close relative. He is one of our kinsman-redeemers.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The new beginning doesn’t start with a miracle. It starts with someone getting up in the morning and going to glean in someone else’s field. **What does that say about what the first steps after a loss look like?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare Naomi at the gate with Naomi in verse 20. **What has changed in the way she speaks about God, and what brought about the change?** How much has actually changed in her situation so far?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 21 Naomi says, “I went away full, but the LORD has brought me back empty.” The Hebrew is just that simple and that sharp. The word “empty” comes back once more in this book, two chapters later, when Ruth brings barley from Boaz.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 3:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "And she said, “He gave me these six measures of barley, for he said, ‘Do not go back to your mother-in-law empty-handed.’”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The author deliberately puts the same word in Naomi’s mouth and in Boaz’s. **Who in this story answers Naomi’s complaint, and how?** Does God say anything at all in this book?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Build Houses",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Several centuries later thousands of people from Jerusalem end up in Babylon as deportees. They didn’t choose the place, and they are waiting until they can go back. The prophet Jeremiah sends them a letter.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 29:4-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the LORD of Hosts, the God of Israel, says to all the exiles who were carried away from Jerusalem to Babylon: “Build houses and settle down. Plant gardens and eat their produce. Take wives and have sons and daughters. Take wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Multiply there; do not decrease. Seek the prosperity of the city to which I have sent you as exiles. Pray to the LORD on its behalf, for if it prospers, you too will prosper.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A house, a garden, children’s weddings, grandchildren. **What do all these instructions have in common?** How long does it take to eat the fruit of a garden that is only now being planted?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "These people were living out of suitcases, waiting to go back. **What happens to a person who for years treats their present life as a waiting room?** What is this letter trying to protect them from?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "God tells them to pray for the city that carried them off. **How do you understand the statement that your prosperity depends on its prosperity?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The letter doesn’t tell the exiles to like Babylon or to accept that what happened was good. Nor does it tell them to forget Jerusalem. It tells them to live where they are: plant, build, marry off their children. Twice the letter says that it was God who sent them there. So in the place they didn’t choose, they are not beyond His reach. In this letter, the first step of a new beginning is unpacking your suitcases.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The LORD’s Song in a Foreign Land",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This psalm was written by the people to whom Jeremiah’s letter was sent.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 137:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "By the rivers of Babylon we sat and wept when we remembered Zion. There on the willows we hung our harps, for there our captors requested a song; our tormentors demanded songs of joy: “Sing us a song of Zion.” How can we sing a song of the LORD in a foreign land? If I forget you, O Jerusalem, may my right hand cease to function. May my tongue cling to the roof of my mouth if I do not remember you, if I do not exalt Jerusalem as my greatest joy!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm weeps by the river, and the letter says to plant gardens. Both texts are in the Bible. **Do they contradict each other, or do they need each other?** What would have happened to the exiles if they had only one of them?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“How can we sing a song of the LORD in a foreign land?” **How does that question sound from someone who has left their country, or from someone left alone in a home everyone else has left?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Seventy Years",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 29:8-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this is what the LORD of Hosts, the God of Israel, says: “Do not be deceived by the prophets and diviners among you, and do not listen to the dreams you elicit from them. For they are falsely prophesying to you in My name; I have not sent them, declares the LORD.” For this is what the LORD says: “When Babylon’s seventy years are complete, I will attend to you and confirm My promise to restore you to this place. For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, to give you a future and a hope. Then you will call upon Me and come and pray to Me, and I will listen to you. You will seek Me and find Me when you search for Me with all your heart. I will be found by you, declares the LORD, and I will restore you from captivity and gather you from all the nations and places to which I have banished you, declares the LORD. I will restore you to the place from which I sent you into exile.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "False prophets in Babylon were predicting a quick return. **Why is a promise like that dangerous for someone who needs to start over?** What does the hope that everything will soon go back to normal do to a person?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Many people know verse 11 by heart. Read it together with verse 10. **To whom is God saying this, and for when?** How many of those who heard the letter could have lived to see the return?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The return is far off, but one thing is available right away, in Babylon, without a temple. **What is it, according to verses 12-14?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Seventy years is longer than an adult lifetime. Most of the people who heard this letter died in Babylon, and it was their children and grandchildren who returned to Jerusalem. So verse 11 doesn’t promise its hearers a quick turn for the better. It says something that reaches further: God intends good for them even when circumstances don’t change, and His plans run on a scale longer than one lifetime. The houses, gardens and weddings at the start of the letter were the way that future was going to arrive.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Is Jeremiah 29:11 About Me?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "There are two ways to read this verse. The first says: this is a letter to specific people in a specific year; the “you” is plural and means the nation, and the promise concerns the return from exile after seventy years. Taking the sentence out of the letter and hanging it on the wall as a guarantee that my plans will succeed does to the text exactly what the false prophets of verse 8 did. The second says: the addressees are historical, but the One speaking doesn’t change. If this is how He thinks about people He Himself sent into exile, then the verse tells the truth about His character, and we may lean on it.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both positions share one thing. The promise isn’t about circumstances; it’s about God. Where the BSB has “plans to prosper you” (the KJV: “thoughts of peace”), the Hebrew word is `shalom`, the same word that appears three times in verse 7, where the BSB speaks of the city’s “prosperity.” God promises `shalom` to people whom a moment earlier He told to seek the `shalom` of Babylon. And the sentence about searching with all your heart isn’t a condition to be met. It comes after the sentence about God’s plans and is the response to them.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What is left of this verse for someone who knows their situation won’t change: the illness won’t go away, the children won’t come back from abroad, the husband won’t come back?** Is that less or more than a promise of a quick turnaround?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Something New",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 43:16-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Thus says the LORD, who makes a way in the sea and a path through the surging waters, who brings out the chariots and horses, the armies and warriors together, to lie down, never to rise again; to be extinguished, snuffed out like a wick: “Do not call to mind the former things; pay no attention to the things of old. Behold, I am about to do something new; even now it is coming. Do you not see it? Indeed, I will make a way in the wilderness and streams in the desert."
+       ]
+      },
+      {
+       "odnosnik": "Philippians 3:12-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Not that I have already obtained all this, or have already been made perfect, but I press on to take hold of that for which Christ Jesus took hold of me. Brothers, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize of God’s heavenly calling in Christ Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God first recalls the crossing of the sea, the greatest miracle in Israel’s history, and right after that says: do not call it to mind. **Why can even the best memory get in the way of a new beginning?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Even now it is coming. Do you not see it?” Go back for a moment to Naomi at the gate of Bethlehem. **What keeps a person from seeing what is already growing right beside them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul writes this as an old man, from prison. **What does “forgetting what is behind” mean coming from him?** Is it only about failures?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A few sentences earlier Paul lists what lies behind him, and these aren’t defeats. They are his achievements: his ancestry, his education, his zeal, his blameless reputation. For him, forgetting doesn’t mean losing his memory, since he has just listed all of it. It means that the past, neither the bad nor the good, tells him any longer who he is. The sentence this rests on is in verse 12: Christ Jesus took hold of me. Paul runs forward because Someone is already holding him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Past Seventy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 12:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you. I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing. I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.” So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran."
+       ]
+      },
+      {
+       "odnosnik": "Ruth 2:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Boaz replied, “I have been made fully aware of all you have done for your mother-in-law since the death of your husband, how you left your father and mother and the land of your birth, and how you came to a people you did not know before. May the LORD repay your work, and may you receive a rich reward from the LORD, the God of Israel, under whose wings you have taken refuge.”"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 92:12-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "The righteous will flourish like a palm tree, and grow like a cedar in Lebanon. Planted in the house of the LORD, they will flourish in the courts of our God. In old age they will still bear fruit; healthy and green they will remain, to proclaim, “The LORD is upright; He is my Rock, and in Him there is no unrighteousness.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The greatest story of the Old Testament begins with a man who is seventy-five years old and hears “Leave.” **What does that say to someone who thinks that at their age nothing new begins?** What kind of fruit do people bear “in old age”?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare Boaz’s words about Ruth with God’s words to Abram. **What do they have in common?** How is the start made by Abram, who sets out with possessions and a promise, different from the start made by a young widow from Moab?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Forget or Remember?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Isaiah says, “Do not call to mind the former things.” The same Bible says the opposite dozens of times.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 8:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Remember that these forty years the LORD your God led you all the way in the wilderness, so that He might humble you and test you in order to know what was in your heart, whether or not you would keep His commandments."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 43:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "I, yes I, am He who blots out your transgressions for My own sake and remembers your sins no more."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the same chapter in which the people are not to call the former things to mind, God says that He Himself will remember their sins no more. **What kind of memory does the Bible tell us to cherish, and what kind to set aside?** How can you tell when a memory has stopped nourishing you and started imprisoning you?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The exiles were to unpack their suitcases. **Where in your life are the suitcases still packed, that is, what are you putting off until circumstances change?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naomi said she came back empty, and Ruth was standing beside her. **Who or what might be your Ruth today, something that is already with you but that you don’t count?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what in your life has just ended, or is ending?** You don’t have to say what you think about it or what you plan to do.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Most of those who received Jeremiah’s letter didn’t live to see the return. They built houses and planted gardens for their grandchildren. **What does it mean to start over if I may never see the fruit of this beginning? Is a new beginning at eighty something different from one at thirty, or does it only seem that way to us?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. If there are older people in the group, let them speak first, and don’t correct them.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A new beginning rarely looks like a beginning. More often it looks like a daughter-in-law walking beside you, barley in the field, or a garden planted somewhere you didn’t want to be.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Isaiah 43:19, or Jeremiah 29:11 together with verse 10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Naomi had a ready-made sentence about her life: I came back empty. Ask yourself **what one sentence you use today to tell your story** to yourself and to others. Then ask God what is missing from that sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a place where you are not by your own choice: a city, a home, a state of health, loneliness. Stay with the question: **what would it mean to plant a garden here?** Don’t make plans. First notice what rebels in you when you hear that question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit before God what you would most like to go back to, and what, deep down, you are still demanding back from Him. Tell Him plainly, and don’t rush to add that you accept it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is in a fresh crisis: a recent funeral, a breakup, the loss of a home or a job.** For them it’s too early for a conversation about a new beginning, and they mustn’t be dragged into one. No one corrected Naomi at the gate. Let this person simply listen. The group walks alongside; it doesn’t treat and doesn’t give medical, legal, financial or psychological advice. If you see that someone isn’t coping, or says there’s nothing left to live for, don’t carry it alone, and help them reach a professional. Point them to a crisis line in your country, and in an emergency call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God has a wonderful plan for you. You’ll see, it will be even better than before.”** Interrupt gently. The text doesn’t promise that. Most of those to whom Jeremiah 29:11 was addressed died in Babylon. You can say: “The letter didn’t promise them things would be the way they used to be. It promised that God was with them where they were.” That is more honest, and in the long run more comforting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A parent talks with sorrow about children who have moved abroad. Or someone who moved away talks about guilt toward their aging parents.** Don’t judge anyone’s decision, and don’t let the group judge. The book of Ruth doesn’t say whether going to Moab was a mistake. Go back to the question about the garden: what can be built within things as they are, even at a distance?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“At my age all that’s left is waiting.”** Don’t contradict and don’t cheerlead. Ask what this person thinks of Abram, who was seventy-five, and of the exiles planting gardens for their grandchildren. If you are leading level 1, you can still read Psalm 92:14.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks the group for advice: move abroad or stay, move back home, sell the house, move in with the children.** The group isn’t there for decisions like these. Ask whether they would like the group to pray for them, and suggest a quiet conversation after the meeting with someone they trust.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone takes “start over” as encouragement to go back to an abusive relationship or place.** Say plainly that none of today’s texts tells anyone to go back where they are being harmed. Naomi goes back to where there is bread and safety. Domestic violence calls for professional help, not a Bible study.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into reminiscing about how good things used to be.** Allow it for a while; that is grief too. Then go back to Isaiah 43:18-19 and ask in the text’s own words: what is already coming that we do not see?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Just read block 1 aloud, without discussion. Blocks 2 and 3 carry the meeting: Naomi at the gate and the letter about gardens.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone is in a fresh crisis: a recent funeral, a breakup, the loss of a home or a job.",
+     "odpowiedz": "For them it’s too early for a conversation about a new beginning, and they mustn’t be dragged into one. No one corrected Naomi at the gate. Let this person simply listen. The group walks alongside; it doesn’t treat and doesn’t give medical, legal, financial or psychological advice. If you see that someone isn’t coping, or says there’s nothing left to live for, don’t carry it alone, and help them reach a professional. Point them to a crisis line in your country, and in an emergency call your local emergency number."
+    },
+    {
+     "sytuacja": "“God has a wonderful plan for you. You’ll see, it will be even better than before.”",
+     "odpowiedz": "Interrupt gently. The text doesn’t promise that. Most of those to whom Jeremiah 29:11 was addressed died in Babylon. You can say: “The letter didn’t promise them things would be the way they used to be. It promised that God was with them where they were.” That is more honest, and in the long run more comforting."
+    },
+    {
+     "sytuacja": "A parent talks with sorrow about children who have moved abroad. Or someone who moved away talks about guilt toward their aging parents.",
+     "odpowiedz": "Don’t judge anyone’s decision, and don’t let the group judge. The book of Ruth doesn’t say whether going to Moab was a mistake. Go back to the question about the garden: what can be built within things as they are, even at a distance?"
+    },
+    {
+     "sytuacja": "“At my age all that’s left is waiting.”",
+     "odpowiedz": "Don’t contradict and don’t cheerlead. Ask what this person thinks of Abram, who was seventy-five, and of the exiles planting gardens for their grandchildren. If you are leading level 1, you can still read Psalm 92:14."
+    },
+    {
+     "sytuacja": "Someone asks the group for advice: move abroad or stay, move back home, sell the house, move in with the children.",
+     "odpowiedz": "The group isn’t there for decisions like these. Ask whether they would like the group to pray for them, and suggest a quiet conversation after the meeting with someone they trust."
+    },
+    {
+     "sytuacja": "Someone takes “start over” as encouragement to go back to an abusive relationship or place.",
+     "odpowiedz": "Say plainly that none of today’s texts tells anyone to go back where they are being harmed. Naomi goes back to where there is bread and safety. Domestic violence calls for professional help, not a Bible study."
+    },
+    {
+     "sytuacja": "The conversation turns into reminiscing about how good things used to be.",
+     "odpowiedz": "Allow it for a while; that is grief too. Then go back to Isaiah 43:18-19 and ask in the text’s own words: what is already coming that we do not see?"
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Just read block 1 aloud, without discussion. Blocks 2 and 3 carry the meeting: Naomi at the gate and the letter about gardens."
+    }
+   ]
+  }
+ ]
+}

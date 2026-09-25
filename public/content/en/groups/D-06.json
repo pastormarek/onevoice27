@@ -1,0 +1,851 @@
+{
+ "tytul": "Daniel 6. The Open Window",
+ "id": "D-06",
+ "seria": "The Book of Daniel",
+ "opis": "On the day prayer becomes a crime, Daniel does nothing new. Faithfulness as a habit, not a sudden burst.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 5:31-6:5; 6:6-9; 6:10-11; 6:14-18; 6:19-23, 25-28",
+  "p2": "1 Kings 8:48-49; Psalm 55:16-17; Acts 5:27-29; Matthew 27:65-66; 28:1-2",
+  "p3": "Matthew 6:5-6; Romans 13:1-2; Daniel 6:24; Deuteronomy 24:16; Hebrews 11:33-38"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 31
+ },
+ "tagi": [
+  "Daniel",
+  "prayer",
+  "faithfulness",
+  "habit",
+  "conscience",
+  "law",
+  "work"
+ ],
+ "wersja": 1,
+ "zdanie": "On the day of testing you will not become someone other than who you were yesterday at the open window.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Everyone knows about the lions. This meeting is about the window. Daniel is over eighty, and on the day prayer becomes a crime he does nothing new. He goes home and prays “just as he had done before.” His faithfulness is not a sudden burst but a habit that is decades old. The second thread is the law: the officials don’t break any regulation; they write one. The third is a king who means well and cannot take back his own signature.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Today you will read almost the whole chapter, in five sections. Two short passages are summarized in an italic line. Read those aloud to the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Law used against conscience immediately brings current disputes to mind. This material points to no present-day state, law, or politician, and the group shouldn’t either.",
+      "Someone at the table prayed for rescue and rescue didn’t come. A story with a happy ending may hurt them. There is a separate question about this at level 3, and a ready response in the Red Flags.",
+      "Three times a day, on his knees, his whole life long. Some in the group will hear that as a reproach. Daniel is not the measuring stick for the people in the room.",
+      "Verse 24, in which the accusers’ wives and children also die, is at level 3. If someone reads on to it in their own Bible, don’t pretend it isn’t there."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone what their prayer life looks like. Don’t promise that God always shuts the mouths of lions. Don’t turn the open window into a model for putting your faith on display.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of one thing you have done every day for so long that you no longer think about it. In one sentence, say what it is.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Man with Nothing to Hold Against Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 5:31-6:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "and Darius the Mede received the kingdom at the age of sixty-two. Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom, and over them three administrators, including Daniel, to whom these satraps were accountable so that the king would not suffer loss. Soon, by his extraordinary spirit, Daniel distinguished himself among the administrators and satraps. So the king planned to set him over the whole kingdom. Thus the administrators and satraps sought a charge against Daniel concerning the kingdom, but they could find no charge or corruption, because he was trustworthy, and no negligence or corruption was found in him. Finally these men said, “We will never find any charge against this Daniel, unless we find something against him concerning the law of his God.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Someone ordered a full audit of several decades of Daniel’s work. **What did they find? From verse 4, list everything the text says about him as an official.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "His enemies conclude that Daniel’s only weak spot is his God. **What must they have known about him to be so sure of that? How did they know it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel is now serving his third ruler, and a new empire at that. **Why does one government after another want the same man working for them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel came to Babylon as a teenager, and nearly seventy years have passed since then. So he is over eighty. The officials don’t look for a fault in him out of jealousy over his faith. They look because he is about to get the position they were counting on. His faith becomes the target only when his integrity gives them nothing to hold on to. It is worth remembering: the plan against Daniel assumes that he will not change. His predictability is the only thing his enemies can rely on.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** In the last of the six court stories. Chapter 3 told of the three friends and the furnace; this one tells of Daniel himself and the den. Both have the same skeleton: a command, a refusal, a sentence, a rescue, a royal decree. From the next chapter on, the book changes character and the visions begin.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Babylon has fallen; the Medes and Persians are in power. The seventy years of exile that Jeremiah foretold are coming to an end, and Jerusalem still lies in ruins. We know nothing certain about Darius the Mede from other sources. It has been proposed that he was one of Cyrus’s generals, but these are hypotheses. The text is interested in him as a person, not as a date.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 5 the Aramaic text uses the word `dat`, “law,” and the BSB renders it literally: “the law of his God.” The same word returns in verses 8, 12, and 15 as “the law of the Medes and Persians.” So in one chapter the author sets two laws against each other, each of which is considered unchangeable.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The officials understand that Daniel lives under two laws at once, and they plan to make them collide. **What does it say about Daniel’s faith that from the outside it looked like a law, not like a mood?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Document",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 6:6-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "So the administrators and satraps went together to the king and said, “O King Darius, may you live forever! All the royal administrators, prefects, satraps, advisers, and governors have agreed that the king should establish an ordinance and enforce a decree that for thirty days anyone who petitions any god or man except you, O king, will be thrown into the den of lions. Therefore, O king, establish the decree and sign the document so that it cannot be changed—in accordance with the law of the Medes and Persians, which cannot be repealed.” Therefore King Darius signed the written decree."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“All the royal administrators” have agreed. **Who was missing from “all”? What kind of lie contains not one false word about Daniel?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The officials don’t break the law. They write it. **How is harm done against the law different from harm done in accordance with the law? Which is harder to defend yourself against?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Thirty days during which the king is the only one anyone may petition. **What in Darius were the authors of this proposal counting on?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Open Window",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 6:10-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now when Daniel learned that the document had been signed, he went into his house, where the windows of his upper room opened toward Jerusalem, and three times a day he got down on his knees, prayed, and gave thanks to his God, just as he had done before. Then these men went as a group and found Daniel petitioning and imploring his God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List everything Daniel does after he hears about the decree.** Now list what he doesn’t do, though he could: he doesn’t go to the king, doesn’t file an appeal, doesn’t close the window, doesn’t wait out the thirty days. What else?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Just as he had done before.” **What do these five words change in the whole scene?** How is a person who starts praying in a crisis different from a person who, in a crisis, simply doesn’t stop?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "It would have been enough to pray quietly for a month, with the window shut, and no one could have proven anything. **Why didn’t Daniel do that? What would have changed in him if he had shut the window?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The death penalty is for petitioning, and Daniel also “gave thanks.” **What can a person give thanks for who has just read his own death sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A well-to-do man’s house had a flat roof with an upper room built on it, with large windows covered at most by an open lattice to let the air through. Anyone praying there could be seen and heard from the street. So Daniel is not staging a demonstration. He doesn’t go up on the roof or open the window in defiance. The window was open yesterday and the day before. The scene is created not by a heroic decision but by the absence of a decision to hide. Jerusalem, the direction he faces, has been a ruin for decades.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Toward the City",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "When Solomon dedicated the temple, he also prayed for people who would one day be taken captive:",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 8:48-49",
+       "przeklad": "BSB",
+       "akapity": [
+        "and when they return to You with all their heart and soul in the land of the enemies who took them captive, and when they pray to You in the direction of the land that You gave to their fathers, the city You have chosen, and the house I have built for Your Name, then may You hear from heaven, Your dwelling place, their prayer and petition, and may You uphold their cause."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 55:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "But I call to God, and the LORD saves me. Morning, noon, and night, I cry out in distress, and He hears my voice."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel invented neither the direction nor the times of his prayer. **What did it give him to pray in a form older than himself, one he didn’t have to reinvent every day?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "There is no temple, the city is rubble, and three times a day he turns in that direction. **What is a prayer turned toward something that lies in ruins?** What does he tell God by the direction alone?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Rather Than Men",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 5:27-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "They brought them in and made them stand before the Sanhedrin, where the high priest interrogated them. “We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us responsible for this man’s blood.” But Peter and the other apostles replied, “We must obey God rather than men."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter puts obeying God above obeying men; he doesn’t say that human authority counts for nothing. **How does that order describe the whole life of Daniel, the model official of three rulers?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The apostles say it out loud, before a court. Daniel says nothing; he simply kneels. **Are these two different stances, or the same one?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Window and the Inner Room",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 6:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when you pray, do not be like the hypocrites. For they love to pray standing in the synagogues and on the street corners to be seen by men. Truly I tell you, they already have their full reward. But when you pray, go into your inner room, shut your door, and pray to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jesus says to shut the door. Daniel doesn’t shut the window. The custom of praying at fixed times was common in Jesus’ day, and that is exactly why it could be abused: you only had to arrange your day so that the hour of prayer found you on a street corner.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Do Jesus and Daniel contradict each other?** Ask about each of them: what would he gain if people saw him, and what would he gain if he hid?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can I tell whether the visibility of my faith is Daniel’s window or the street corner?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The King Who Could Not",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The officials go straight to the king. First they make him confirm that the decree stands, and only then do they give the name: Daniel, one of the exiles from Judah, shows no regard for you, O king.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 6:14-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "As soon as the king heard this, he was deeply distressed and set his mind on delivering Daniel, and he labored until sundown to rescue him. Then the men approached the king together and said to him, “Remember, O king, that by the law of the Medes and Persians no decree or ordinance established by the king can be changed.” So the king gave the order, and they brought Daniel and threw him into the den of lions. The king said to Daniel, “May your God, whom you serve continually, deliver you!” A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that nothing concerning Daniel could be changed. Then the king went to his palace and spent the night fasting. No entertainment was brought before him, and sleep fled from him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The most powerful man in the empire spends the whole day trying to save one official and fails. **Who is really in charge in this scene? What tied the king’s hands?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Your God, whom you serve continually.” A pagan who has known Daniel only a short time says this. **What must he have seen in him to use the word “continually”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text describes the king’s night in detail: fasting, no entertainment, sleeplessness. About Daniel’s night it says nothing. **Who is sitting in the den that night, and who is really imprisoned?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The drama of the chapter rests on one legal principle: an ordinance issued by the king of the Medes and Persians could not be revoked, not even by the king himself. The absolute ruler turns out to be the prisoner of his own signature. The den was probably an underground chamber with an opening at the top. The seal on the stone worked both ways. It guaranteed to the nobles that the king would not secretly pull Daniel out, and to the king that no one would finish Daniel off in the night if the lions spared him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Stone and the Seal",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 27:65-66",
+       "przeklad": "BSB",
+       "akapity": [
+        "“You have a guard,” Pilate said. “Go, make the tomb as secure as you know how.” So they went and secured the tomb by sealing the stone and posting the guard."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 28:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb. Suddenly there was a great earthquake, for an angel of the Lord descended from heaven, rolled away the stone, and sat on it."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "An innocent man condemned by a ruler who would rather have set him free. A stone, an official seal, a night, and at dawn someone hurries to the tomb. **List everything the two scenes have in common.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Now the difference: Daniel comes out of the den alive, because the lions didn’t touch him. **What could this story not yet tell, that only the morning after the crucifixion tells?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Obedient Disobedient",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 13:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God. Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel broke the law in force, knowingly and with the window open. In a moment he will tell the king, “I have done no wrong against you, O king.” Some Christians put the emphasis on Paul’s words and point out that Daniel was loyal his whole life and refused in one matter. Others put the emphasis on the refusal and point out that an authority that reaches for the conscience goes beyond what it has been given. Both sides agree on two things: Daniel doesn’t organize resistance, and he doesn’t run from the punishment.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can Daniel claim he has done the king no wrong when he broke the king’s decree?** According to this chapter, where does what belongs to the king end?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "At Dawn",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 6:19-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "At the first light of dawn, the king got up and hurried to the den of lions. When he reached the den, he cried out in a voice of anguish, “O Daniel, servant of the living God, has your God, whom you serve continually, been able to deliver you from the lions?” Then Daniel replied, “O king, may you live forever! My God sent His angel and shut the mouths of the lions. They have not hurt me, for I was found innocent in His sight, and I have done no wrong against you, O king.” The king was overjoyed and gave orders to lift Daniel out of the den, and when Daniel was lifted out of the den, no wounds whatsoever were found on him, because he had trusted in his God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The king has the accusers thrown into the den. This time the lions don’t wait.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 6:25-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then King Darius wrote to the people of every nation and language throughout the land: “May your prosperity abound. I hereby decree that in every part of my kingdom, men are to tremble in fear before the God of Daniel: For He is the living God, and He endures forever; His kingdom will never be destroyed, and His dominion will never end. He delivers and rescues; He performs signs and wonders in the heavens and on the earth, for He has rescued Daniel from the power of the lions.” So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God didn’t stop the decree, didn’t soften the officials, and didn’t spare Daniel the den. The angel came only down below. **What does that say about where and when God rescues?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The chapter begins with one royal document and ends with another. **Who was the first one about, and who is the second one about? What had to happen in between for a pagan to write a sentence about a kingdom that will never be destroyed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Because he had trusted in his God.” Nowhere does the text say that Daniel knew he would come out. **What does it mean to trust when you go down without a guarantee?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Verse 24",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 6:24",
+       "przeklad": "BSB",
+       "akapity": [
+        "At the command of the king, the men who had falsely accused Daniel were brought and thrown into the den of lions—they and their children and wives. And before they had reached the bottom of the den, the lions overpowered them and crushed all their bones."
+       ]
+      },
+      {
+       "odnosnik": "Deuteronomy 24:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Fathers shall not be put to death for their children, nor children for their fathers; each is to die for his own sin."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who gives this order, and by whose law is he acting?** Does the text say anywhere that God or Daniel wanted this? What does it mean for reading the Bible that it also records deeds it does not approve of?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t defend this verse and don’t soften it. This is the justice of a Persian king, not God’s. The law of Moses explicitly forbade punishing children for their fathers.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel’s faith on the day of testing was exactly what it was on an ordinary Tuesday. **What in your week is steady enough that in a crisis you wouldn’t have to invent it from scratch?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel’s enemies could count on him not changing. **What could the people you work or live with say with certainty about you and your God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there a window you have quietly shut because it felt safer?** You don’t have to say which one.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:33-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions, quenched the raging fire, and escaped the edge of the sword; who gained strength from weakness, became mighty in battle, and put foreign armies to flight. Women received back their dead, raised to life again. Others were tortured and refused their release, so that they might gain a better resurrection. Still others endured mocking and flogging, and even chains and imprisonment. They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated. The world was not worthy of them. They wandered in deserts and mountains, and hid in caves and holes in the ground."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same faith, the same passage, and in the middle the word “Others.” For some, the mouths of lions were shut; others were sawed in two. **Why does God lead some out of the den and not others? And what, then, does the sixth chapter of Daniel promise, if it doesn’t promise rescue?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t manufacture an answer. It helps if one observation gets made: the Letter to the Hebrews calls both groups the same thing, people of faith, and doesn’t consider either one less heard by God.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "On the day of testing you will not become someone other than who you were yesterday at the open window.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 6:10 or Daniel 6:26b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Daniel didn’t have to decide anything in the crisis, because he had decided long before. Ask yourself: **if my faith started costing me something tomorrow, what would I keep doing without a second thought, and what would I have to start from scratch?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel’s window faced ruins, and he prayed in that direction anyway. Think of something in your life that has been lying in ruins for years. Tell God about it once more, even if you have told Him a hundred times and nothing has changed.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit before God whom you hide what you believe from, and why. Don’t promise right away that you will stop. First name what you are afraid of.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“It’s just like here and now,” followed by the name of a law, a government, a party, or an institution.** Interrupt calmly and right away. This chapter is not a tool for judging current politics, and people with different views are sitting at the table. Say, “Let’s stay with Daniel. What did he do, and what didn’t he do?” Point out that Daniel doesn’t protest, doesn’t organize anyone, and doesn’t say a single word against the king.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts laying out when and where believers will be persecuted, with dates and scenarios.** The text foretells nothing of the kind. It tells of one man and one month. Go back to the question about habit: what prepares us for the future is what we do today, not knowing what will happen.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I prayed, and the lions’ mouths didn’t shut.”** This is not an objection to be answered; it is pain. Don’t explain, and don’t comfort with a verse. You can say that the Bible knows both stories, that the Letter to the Hebrews puts them in one passage, and that it calls those who were not rescued people of whom “the world was not worthy.” Stay with this person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone feels accused: “I can’t be that regular, so I probably have no faith at all.”** Daniel has eighty years of practice. No one starts with three times a day on their knees. Ask instead what small, steady thing would be possible for this person, and don’t press for details in front of everyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So we should parade our faith, let everyone see it.”** Daniel doesn’t show anything off. He just doesn’t hide what he has always done. The difference is in the motive: do I want to be seen, or do I simply not want to hide? At level 3 there is a comparison with Matthew 6 on this.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone describes a real conflict of conscience at work and asks for a verdict.** The group doesn’t hand down verdicts. Thank them, ask whether they would like prayer, and offer to talk after the meeting. Don’t let others start telling them what they should do.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Historians don’t know of any Darius the Mede.”** It is true that outside the Bible there is no certain attestation of this name. There are several proposals as to who he might have been, and none is settled. Say so honestly and don’t turn it into an argument at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Just read Block 2 aloud. Don’t shorten Block 3, because the whole meeting stands on it. From Block 5, keep the question about where and when the angel came.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“It’s just like here and now,” followed by the name of a law, a government, a party, or an institution.",
+     "odpowiedz": "Interrupt calmly and right away. This chapter is not a tool for judging current politics, and people with different views are sitting at the table. Say, “Let’s stay with Daniel. What did he do, and what didn’t he do?” Point out that Daniel doesn’t protest, doesn’t organize anyone, and doesn’t say a single word against the king."
+    },
+    {
+     "sytuacja": "Someone starts laying out when and where believers will be persecuted, with dates and scenarios.",
+     "odpowiedz": "The text foretells nothing of the kind. It tells of one man and one month. Go back to the question about habit: what prepares us for the future is what we do today, not knowing what will happen."
+    },
+    {
+     "sytuacja": "“I prayed, and the lions’ mouths didn’t shut.”",
+     "odpowiedz": "This is not an objection to be answered; it is pain. Don’t explain, and don’t comfort with a verse. You can say that the Bible knows both stories, that the Letter to the Hebrews puts them in one passage, and that it calls those who were not rescued people of whom “the world was not worthy.” Stay with this person after the meeting."
+    },
+    {
+     "sytuacja": "Someone feels accused: “I can’t be that regular, so I probably have no faith at all.”",
+     "odpowiedz": "Daniel has eighty years of practice. No one starts with three times a day on their knees. Ask instead what small, steady thing would be possible for this person, and don’t press for details in front of everyone."
+    },
+    {
+     "sytuacja": "“So we should parade our faith, let everyone see it.”",
+     "odpowiedz": "Daniel doesn’t show anything off. He just doesn’t hide what he has always done. The difference is in the motive: do I want to be seen, or do I simply not want to hide? At level 3 there is a comparison with Matthew 6 on this."
+    },
+    {
+     "sytuacja": "Someone describes a real conflict of conscience at work and asks for a verdict.",
+     "odpowiedz": "The group doesn’t hand down verdicts. Thank them, ask whether they would like prayer, and offer to talk after the meeting. Don’t let others start telling them what they should do."
+    },
+    {
+     "sytuacja": "“Historians don’t know of any Darius the Mede.”",
+     "odpowiedz": "It is true that outside the Bible there is no certain attestation of this name. There are several proposals as to who he might have been, and none is settled. Say so honestly and don’t turn it into an argument at the table."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Just read Block 2 aloud. Don’t shorten Block 3, because the whole meeting stands on it. From Block 5, keep the question about where and when the angel came."
+    }
+   ]
+  }
+ ]
+}

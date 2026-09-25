@@ -1,0 +1,832 @@
+{
+ "tytul": "Did Jesus Really Rise from the Dead?",
+ "id": "P-06",
+ "seria": "Questions People Ask",
+ "opis": "All of Christianity stands on this event. What do we actually have: witnesses, an empty tomb, Thomas.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Corinthians 15:1-8; Luke 24:1-12; Matthew 28:11-15; Luke 24:36-43; John 20:24-29",
+  "p2": "1 Corinthians 15:12-19; Mark 16:1-8; Matthew 27:62-66; John 20:1-10; Matthew 28:16-17; 1 Peter 1:8-9",
+  "p3": "Acts 2:29-32; Acts 10:39-41"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 29,
+  "p3": 34
+ },
+ "tagi": [
+  "resurrection",
+  "witnesses",
+  "doubts",
+  "Thomas",
+  "empty tomb",
+  "hope"
+ ],
+ "wersja": 1,
+ "zdanie": "The disciples were not gullible, and no one asked them to be. Jesus came to them through locked doors, and He came a second time, for the one who couldn’t believe yet.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "All of Christianity stands on this one event, and the New Testament says so bluntly: if Christ has not been raised, faith is futile. That is why it’s worth looking honestly at what we actually have. No one saw the resurrection itself, and no Gospel claims otherwise. We have witnesses to the empty tomb and witnesses to encounters. We have a very old confession of faith with a list of names. We have the opponents’ version. And we have disciples who themselves did not believe for a long time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not meant to back anyone into a corner. History brings a person to the threshold and stops there. You cross the threshold another way, and Thomas shows that Jesus knows how to wait for those who can’t yet.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may not believe in the resurrection, or may understand it as a symbol. If they feel this meeting is an ambush, they will shut down or not come back.",
+      "A believer may feel threatened by the very asking of the question. To them, an honest reading of the opponents’ version will sound like undermining the faith.",
+      "The topic is tempting for trivia and for evidence from outside the Bible. Stick to the texts.",
+      "A grieving person will hear all this not as a topic but as a question about their own loved one. The studies “What Happens After Death?” and “Grief” follow that thread further."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone directly whether they believe. Don’t say “the evidence is irrefutable.” Don’t let the group gang up to persuade one person. Don’t shame someone who doubts, and don’t make Thomas a negative example, because the text doesn’t.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a piece of news, good or bad, that at first you couldn’t believe. Say in one sentence what finally convinced you.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on the answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Oldest Confession",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 15:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm. By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain. For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that He was buried, that He was raised on the third day according to the Scriptures, and that He appeared to Cephas and then to the Twelve. After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep. Then He appeared to James, then to all the apostles. And last of all He appeared to me also, as to one of untimely birth."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes: “what I received I passed on to you.” **What does that say about the origin and age of this confession? List the four things it states; each begins with “that.”**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Beside the five hundred brothers Paul adds: “most of whom are still living.” **Why add that in a letter that will be read publicly? What is he inviting the reader to do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The list includes James, the brother of Jesus, who according to the Gospels did not believe in Him during His lifetime, and Paul, who had imprisoned Christians. **What do these two names add to the list of witnesses?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“Received” and “passed on” were the expressions used in that world for the careful handing down of teaching from teacher to student. Paul writes this letter about twenty-five years after the crucifixion, and he quotes a formula older than the letter. It’s worth noticing that the appearances to Peter and to James, the two leaders of the first church, take up half a sentence here, and no one ever described them anywhere. Someone making up a legend starts with the most useful scenes.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What If Not",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 15:12-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead? If there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, our preaching is worthless, and so is your faith. In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised. For if the dead are not raised, then not even Christ has been raised. And if Christ has not been raised, your faith is futile; you are still in your sins. Then those also who have fallen asleep in Christ have perished. If our hope in Christ is for this life alone, we are to be pitied more than all men."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul himself considers the possibility that all of this is untrue, and he lists the consequences. **List them. What does it say about him as a witness that he puts the matter so sharply?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Many people value Christianity for its values and tradition and treat the resurrection as an add-on. **Would Paul agree that Christianity without the resurrection still makes sense? Why?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Words That Seemed Like Nonsense",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 24:1-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared. They found the stone rolled away from the tomb, but when they entered, they did not find the body of the Lord Jesus. While they were puzzling over this, suddenly two men in radiant apparel stood beside them. As the women bowed their faces to the ground in terror, the two men asked them, “Why do you look for the living among the dead? He is not here; He has risen! Remember how He told you while He was still in Galilee: ‘The Son of Man must be delivered into the hands of sinful men, and be crucified, and on the third day rise again.’” Then they remembered His words. And when they returned from the tomb, they reported all these things to the Eleven and to all the others. It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles. But their words seemed like nonsense to them, and they did not believe the women. Peter, however, got up and ran to the tomb. And after bending down and seeing only the linen cloths, he went away, wondering to himself what had happened."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The women go with spices. **What did they expect that morning? What does that say about whether the disciples were people ready to believe anything?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke records that the apostles thought the women’s report was nonsense. **How do the future leaders of the church come across in this scene? Why would an author who wants to convince the reader record something like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Peter ran, saw the linen cloths, and went away “wondering.” **How is wondering different from faith? What can an empty tomb prove on its own, and what can’t it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that world a woman’s testimony carried little weight, and in court it often didn’t count at all. There’s no need to turn this into a mathematical proof, because there were exceptions. One thing is certain: someone who invents a story in order to persuade doesn’t start with the witnesses easiest to dismiss. All four Gospels start with exactly those witnesses, and Luke adds that the first people who didn’t believe them were the apostles.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Fear at the Tomb",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 16:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint the body of Jesus. Very early on the first day of the week, just after sunrise, they went to the tomb. They were asking one another, “Who will roll away the stone from the entrance of the tomb?” But when they looked up, they saw that the stone had been rolled away, even though it was extremely large. When they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were alarmed. But he said to them, “Do not be alarmed. You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here! See the place where they put Him. But go, tell His disciples and Peter, ‘He is going ahead of you into Galilee. There you will see Him, just as He told you.’” So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The oldest manuscripts of Mark’s Gospel end here: with flight, fear, and silence. **What impression does that make as the ending of a story about the greatest victory? What does it say about people’s first reaction to the resurrection?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Tell His disciples and Peter.” **Why is Peter named separately? What did that sentence mean to a man who had denied Jesus three days earlier?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Nonsense” in Luke 24:11 is the Greek `lēros`. It appears only here in the New Testament. In the literature of the time it meant empty chatter, and in medical texts the delirium of a patient with a fever. Luke, whom tradition calls a physician, chose a word that cuts the apostles no slack at all.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does the reader gain from an author who doesn’t spare the heroes of his own story?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Opponents’ Version",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 28:11-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "While the women were on their way, some of the guards went into the city and reported to the chief priests all that had happened. And after the chief priests had met with the elders and formed a plan, they gave the soldiers a large sum of money and instructed them: “You are to say, ‘His disciples came by night and stole Him away while we were asleep.’ If this report reaches the governor, we will satisfy him and keep you out of trouble.” So the guards took the money and did as they were instructed. And this account has been circulated among the Jews to this very day."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Two sides tell what happened to the body, and each says something different. **Even so, what do both sides take for granted?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look closely at the version with the guards who were asleep. **What are its weak points? And from a skeptic’s point of view, what are the weak points of Matthew’s account?** Try to treat both fairly.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Matthew writes that this story has been circulated “to this very day.” **What does that say about the situation he is writing in, and about readers who could have known the other version firsthand?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Sources outside the Bible confirm that the theft charge really did circulate. As late as the middle of the second century, a Christian writer cites it as what the opponents were spreading: the disciples stole the body from the tomb by night. In a hundred years of dispute, no one on the other side claimed that the body was lying where it had been laid. The argument was about why the tomb was empty, not about whether it was empty.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Guard",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 27:62-66",
+       "przeklad": "BSB",
+       "akapity": [
+        "The next day, the one after Preparation Day, the chief priests and Pharisees assembled before Pilate. “Sir,” they said, “we remember that while He was alive that deceiver said, ‘After three days I will rise again.’ So give the order that the tomb be secured until the third day. Otherwise, His disciples may come and steal Him away and tell the people He has risen from the dead. And this last deception would be worse than the first.” “You have a guard,” Pilate said. “Go, make the tomb as secure as you know how.” So they went and secured the tomb by sealing the stone and posting the guard."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who in this scene remembers the prediction of the resurrection, and who has forgotten it?** What is ironic about that contrast?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "During these days the disciples are sitting behind locked doors out of fear. **How likely is it that these same men stole the body from under the guards’ noses, and then suffered for that lie for the rest of their lives?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Not a Ghost",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 24:36-43",
+       "przeklad": "BSB",
+       "akapity": [
+        "While they were describing these events, Jesus Himself stood among them and said, “Peace be with you.” But they were startled and frightened, thinking they had seen a spirit. “Why are you troubled,” Jesus asked, “and why do doubts arise in your hearts? Look at My hands and My feet. It is I Myself. Touch Me and see—for a spirit does not have flesh and bones, as you see I have.” And when He had said this, He showed them His hands and feet. While they were still in disbelief because of their joy and amazement, He asked them, “Do you have anything here to eat?” So they gave Him a piece of broiled fish, and He took it and ate it in front of them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples have a ready explanation: it’s a spirit. **What does Jesus do, step by step, to take that explanation away from them? Why does it matter so much to Him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Still in disbelief because of their joy.” **What kind of state is that? Do you know it from your own life?** Notice that Jesus doesn’t scold them for it; He asks for something to eat.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The risen One has the marks of the nails. **What does that say about the connection between His new life and what He went through? What might it mean for our wounds?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A detail that is easy to miss: none of the four accounts of the crucifixion mentions nails. They only say that He was crucified. We learn about the nails only from these scenes, when Jesus shows His hands and feet. The best-known detail of the Passion is known to us solely from the testimony to the resurrection. The Gospel writers are not telling about a spiritual experience the disciples had. They are telling about a body that can be recognized by its wounds and that eats fish.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Linen Cloths",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 20:1-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance. So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!” Then Peter and the other disciple set out for the tomb. The two were running together, but the other disciple outran Peter and reached the tomb first. He bent down and looked in at the linen cloths lying there, but he did not go in. Simon Peter arrived just after him. He entered the tomb and saw the linen cloths lying there. The cloth that had been around Jesus’ head was rolled up, lying separate from the linen cloths. Then the other disciple, who had reached the tomb first, also went in. And he saw and believed. For they still did not understand from the Scripture that Jesus had to rise from the dead. Then the disciples returned to their homes."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What is the first explanation of the empty tomb that occurs to Mary?** What does that say about the disciples’ state of mind?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John describes the linen cloths and the separately rolled-up head cloth with the precision of an official report. **What did “the other disciple” see in that sight that made him believe? What would someone taking away a body have done with the linen cloths?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The text notes that the disciple had to bend down to look in. The entrances to Jewish tombs of that time are low, only two or three feet high. **What do small details like this say about who stands behind this account?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Thomas",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 20:24-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came. So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.” Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.” Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.” Thomas replied, “My Lord and my God!” Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Thomas sets conditions. **How does Jesus respond to them? How does He know them word for word when He wasn’t there for that conversation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Eight days pass between the first encounter and the second. Thomas doesn’t believe, and he is “with them.” **What did the disciples do, and what didn’t they do, with their unbelieving friend during that week? What does that teach our group?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Blessed are those who have not seen and yet have believed.” **Whom is Jesus talking about? If not on seeing, what is these people’s faith supposed to rest on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The fullest confession of faith in the whole Gospel of John comes from the lips of a man who a week earlier said “I will never believe.” The Gospel begins with the statement that the Word was God, and it ends with the same statement spoken by a doubter. The text doesn’t say whether Thomas finally put his hand into Jesus’ side. It looks as if, when he could, he no longer needed to.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Some Doubted",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 28:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, the eleven disciples went to Galilee, to the mountain Jesus had designated. When they saw Him, they worshiped Him, but some doubted."
+       ]
+      },
+      {
+       "odnosnik": "1 Peter 1:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy, now that you are receiving the goal of your faith, the salvation of your souls."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Matthew ends his Gospel with a scene in which the disciples worship Jesus while at the same time some of them waver. Right after that, all of them without exception receive the same task. **What does that say about how much certainty Jesus requires of the people He sends?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter writes to people who never saw Jesus. **According to him, what do they have instead of seeing? Is this a description you recognize yourselves in?**",
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The word translated “doubted” means something closer to “hesitated.” In the Gospels it appears only one other time: of Peter walking on the water. It is not a description of unbelief but of faith mixed with hesitation, in someone who has already set foot on the water.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Accounts Differ in the Details",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "How many women went to the tomb? In John, one; in Matthew, two; in Mark, three; in Luke, more. One angel or two? One approach arranges the accounts into a single sequence: there were several women, each author names the ones he wants to mention, and where there were two angels, there was also one. The second approach accepts that we have independent memories that no one coordinated. The two observations support each other. In John, Mary is alone, yet she says, “we do not know where they have put Him.” The plural betrays that the author knows about the other women. Nor do the authors add to the list people they knew if those people weren’t at the tomb. The differences are at the edges. The core is the same everywhere: the first day of the week, the women, the empty tomb, the message, the disciples’ disbelief.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If the four authors had wanted to deceive, what would they have done with these differences before releasing their books into the world? What does it say about them that they didn’t remove them?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Other Explanations",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Other explanations have been proposed from the beginning. The body was stolen. Jesus didn’t die; He only fainted. The disciples had visions born of grief. The resurrection story is a late legend. Honesty requires saying two things. Here the historian hits a wall: a historian’s tools cannot confirm a miracle, only examine its effects. And every explanation, including the skeptical ones, has to carry the same effects all at once: an empty tomb that the opponents did not dispute, the conviction of many people that they had seen Him and eaten with Him, the transformation of frightened disciples, and two opponents, James and Paul. On top of that, the Jews of that era expected the resurrection of everyone at the end of time. No one expected the resurrection of one man in the middle of history, so the disciples had no ready-made pattern to fit their story to.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 2:29-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Brothers, I can tell you with confidence that the patriarch David died and was buried, and his tomb is with us to this day. But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne. Foreseeing this, David spoke about the resurrection of the Christ, that He was not abandoned to Hades, nor did His body see decay. God has raised this Jesus to life, to which we are all witnesses."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter says this in Jerusalem, seven weeks after the crucifixion, a short walk from Jesus’ tomb, and he points to David’s tomb. **What is he exposing himself to by saying this right there? Which of the other explanations is hardest to reconcile with this scene?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of the four explanations seems strongest to you, and which facts does it handle worst?** Take them seriously, without ridicule.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 10:39-41",
+       "przeklad": "BSB",
+       "akapity": [
+        "We are witnesses of all that He did, both in the land of the Jews and in Jerusalem. And although they put Him to death by hanging Him on a tree, God raised Him up on the third day and caused Him to be seen— not by all the people, but by the witnesses God had chosen beforehand, by us who ate and drank with Him after He rose from the dead."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The risen One could have stood before Pilate, before Caiaphas, in the temple courts. The case would have been closed. **Why did He show Himself only to those who had known Him before? What does that say about the kind of faith God is looking for, and the kind He doesn’t want to force?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "there is no single answer here. It’s worth someone making the observation from the parable of the rich man and Lazarus: whoever will not listen to Moses and the prophets will not be persuaded even if someone rises from the dead. And a second one: a God who reveals Himself through witnesses leaves a person free.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which figure in today’s texts are you closest to today:** the women with the spices, the apostles hearing nonsense, Peter wondering, the disciples in disbelief because of joy, Thomas? Why?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would actually change in your ordinary week if you were completely sure that Jesus is alive?** And what would change if you were sure He isn’t?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something you would need to see or touch in order to believe more firmly?** Thomas said it out loud, and no one threw him out for it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The disciples were not gullible, and no one asked them to be. Jesus came to them through locked doors, and He came a second time, for the one who couldn’t believe yet.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** John 20:29 or 1 Corinthians 15:20.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Thomas knew exactly what he was missing in order to believe, and he could name it. Ask yourself: **what am I missing?** Evidence, experience, trust in the people who talk about it, willingness to accept what would follow from it. Name it as precisely as he did.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jesus showed the disciples His wounds, not a triumph. Think of one of your own wounds that you would rather have no trace of after the resurrection. Ask Him: **what do You want to do with it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you don’t believe or aren’t sure, tell Him so directly, as you would tell someone standing in the room. Thomas didn’t get an answer for eight days. For that time, stay “with them.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“For me the resurrection is a symbol. He lives in us, in our memory.”** Don’t attack. Ask what the text does with that view: “Let’s see whether Luke lets us read it that way. Why is there a fish in his story?” The Gospel writers knew the idea of a spirit or a ghost, and they say plainly that this was not it. A person may disagree with them, but they can’t say the writers themselves meant a symbol.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The disciples were grieving, and grieving people see the dead.”** That is a serious argument, and it deserves a serious answer. Acknowledge that such experiences exist. Then ask what the texts do with that explanation: the empty tomb, group encounters, a meal, Paul and James, who were not grieving. You don’t have to win. It’s enough that the conversation stays with the facts that need explaining.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’d like to believe, but I can’t.”** That is the most important sentence that could be said today. Don’t fix it, and don’t let the group rush in with advice. Say: “Thomas was in the same place, and the disciples kept him with them for eight days. I’m glad you’re with us.” And leave it there.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone pressures a doubter: “You just have to believe; it’s a matter of decision.”** Interrupt calmly. Jesus didn’t say that to Thomas. He came to him and showed him exactly what he had asked for. Faith can’t be ordered, and the text doesn’t try.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“In other religions gods also died and came back to life.”** The first critics of Christianity knew those myths very well, and they didn’t reach for that objection. They accused the disciples of fraud or delusion, because they understood that Christians were talking about a specific man, a specific tomb, and a bodily return, not about nature’s yearly cycle. You can say this briefly and go back to the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation runs off into the Shroud of Turin, documentaries, and sensational claims.** Say these are interesting topics for another occasion. Today’s meeting rests on what everyone can read and evaluate for themselves.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone grieving asks through tears, “So I will see him again?”** Set the material aside. Answer with what Paul says: Christ is the first sheaf of the harvest, and after Him will come those who belong to Him. Don’t add a lecture. Stay with that person after the meeting. The group listens and keeps company; it doesn’t fix. The “Grief” study was written for exactly this kind of moment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Block 1 lays the foundation, blocks 2 and 4 show disciples who don’t believe, and block 5 is the one without which the meeting loses its heart.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“For me the resurrection is a symbol. He lives in us, in our memory.”",
+     "odpowiedz": "Don’t attack. Ask what the text does with that view: “Let’s see whether Luke lets us read it that way. Why is there a fish in his story?” The Gospel writers knew the idea of a spirit or a ghost, and they say plainly that this was not it. A person may disagree with them, but they can’t say the writers themselves meant a symbol."
+    },
+    {
+     "sytuacja": "“The disciples were grieving, and grieving people see the dead.”",
+     "odpowiedz": "That is a serious argument, and it deserves a serious answer. Acknowledge that such experiences exist. Then ask what the texts do with that explanation: the empty tomb, group encounters, a meal, Paul and James, who were not grieving. You don’t have to win. It’s enough that the conversation stays with the facts that need explaining."
+    },
+    {
+     "sytuacja": "“I’d like to believe, but I can’t.”",
+     "odpowiedz": "That is the most important sentence that could be said today. Don’t fix it, and don’t let the group rush in with advice. Say: “Thomas was in the same place, and the disciples kept him with them for eight days. I’m glad you’re with us.” And leave it there."
+    },
+    {
+     "sytuacja": "Someone pressures a doubter: “You just have to believe; it’s a matter of decision.”",
+     "odpowiedz": "Interrupt calmly. Jesus didn’t say that to Thomas. He came to him and showed him exactly what he had asked for. Faith can’t be ordered, and the text doesn’t try."
+    },
+    {
+     "sytuacja": "“In other religions gods also died and came back to life.”",
+     "odpowiedz": "The first critics of Christianity knew those myths very well, and they didn’t reach for that objection. They accused the disciples of fraud or delusion, because they understood that Christians were talking about a specific man, a specific tomb, and a bodily return, not about nature’s yearly cycle. You can say this briefly and go back to the text."
+    },
+    {
+     "sytuacja": "The conversation runs off into the Shroud of Turin, documentaries, and sensational claims.",
+     "odpowiedz": "Say these are interesting topics for another occasion. Today’s meeting rests on what everyone can read and evaluate for themselves."
+    },
+    {
+     "sytuacja": "Someone grieving asks through tears, “So I will see him again?”",
+     "odpowiedz": "Set the material aside. Answer with what Paul says: Christ is the first sheaf of the harvest, and after Him will come those who belong to Him. Don’t add a lecture. Stay with that person after the meeting. The group listens and keeps company; it doesn’t fix. The “Grief” study was written for exactly this kind of moment."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Block 1 lays the foundation, blocks 2 and 4 show disciples who don’t believe, and block 5 is the one without which the meeting loses its heart."
+    }
+   ]
+  }
+ ]
+}

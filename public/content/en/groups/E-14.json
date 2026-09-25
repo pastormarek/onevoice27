@@ -1,0 +1,541 @@
+{
+ "tytul": "Impatience",
+ "id": "E-14",
+ "seria": "Emotions",
+ "opis": "Impatience looks like resourcefulness. On a kind of waiting that isn’t passivity.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 16:1-4; 1 Samuel 13:8-14; Psalm 13:1-6; Psalm 130:5-6; James 5:7-8",
+  "p2": "Exodus 32:1; Hebrews 6:12, 15",
+  "p3": "Psalm 13:1"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 23,
+  "p3": 23
+ },
+ "tagi": [
+  "emotions",
+  "waiting",
+  "trust",
+  "control"
+ ],
+ "wersja": 1,
+ "zdanie": "Impatience rarely chooses evil. Most often it chooses something good a few years too early.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Impatience rarely looks like an emotion. Most often it looks like resourcefulness. In both main stories of this meeting, people don’t rebel against God. They take matters into their own hands because the waiting has become unbearable. This material aims to distinguish waiting from passivity and to show that the Bible also makes room for an impatient “How long?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have been waiting for years for something very specific: a child, a job, healing, a loved one coming to faith. Sarah’s story may hurt.",
+      "The section on Saul easily slides into condemnation. Be careful, because his decision was quite reasonable.",
+      "Don’t tell anyone they simply need to trust more."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t promise that if someone waits long enough, they’ll get it. Hebrews 11 speaks of people who didn’t live to see it. Don’t present patience as a virtue of the spiritually superior.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "What irritated you most about waiting this week: a line, a traffic jam, someone else dragging their feet, something else? One word.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "start with something trivial. We’ll get to the serious things on our own.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Perhaps I Can Build a Family by Her",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 16:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar. So Sarai said to Abram, “Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her.” And Abram listened to the voice of Sarai. So after he had lived in Canaan for ten years, his wife Sarai took her Egyptian maidservant Hagar and gave her to Abram to be his wife. And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 3 gives a detail that’s easy to miss: this was after ten years. **How does that number change the way we judge what Sarai did?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sarai begins with the words “the LORD has prevented me from bearing children.” **Is that unbelief? What is she actually stating?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In that culture her idea was legal and sensible. **What was wrong with it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram doesn’t object; he just listens. **Who bears the responsibility here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ten years is a long time. Sarai doesn’t abandon faith in the promise; she tries to help it along. Her plan fits the law, custom, and common sense, and the only thing it lacks is waiting. The consequences show up in verse 4 and in the rest of this story: contempt, conflict, and harm done to the woman who was used for it. Impatience rarely chooses something bad. Usually it chooses something good a few years too early.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "We Do Not Know What Has Happened to Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 32:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The reason given outright is that Moses was delayed. **How much time has to pass before the people’s patience runs out?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "They ask for gods who will go before them. **What do they really want: a different god, or anything at all that moves?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "I Felt Compelled",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 13:8-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Saul waited seven days for the time appointed by Samuel, but Samuel did not come to Gilgal, and the troops began to desert Saul. So he said, “Bring me the burnt offering and the peace offerings.” And he offered up the burnt offering. Just as he finished offering the burnt offering, Samuel arrived, and Saul went out to greet him. “What have you done?” Samuel asked. And Saul replied, “When I saw that the troops were deserting me, and that you did not come at the appointed time and the Philistines were gathering at Michmash, I thought, ‘Now the Philistines will descend upon me at Gilgal, and I have not sought the favor of the LORD.’ So I felt compelled to offer the burnt offering.” “You have acted foolishly,” Samuel declared. “You have not kept the command that the LORD your God gave you; if you had, the LORD would have established your kingdom over Israel for all time. But now your kingdom will not endure; the LORD has sought a man after His own heart and appointed him ruler over His people, because you have not kept the command of the LORD.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul waited seven days, exactly as long as agreed. **What did he lack?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read his explanation in verses 11 and 12. **How much of it is true?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul says he had not yet sought the favor of the LORD. His motive is religious. **What does that tell us about how impatience disguises itself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Samuel calls it foolishness, not rebellion. **What’s the difference?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "How Long, O LORD?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 13:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "How long, O LORD? Will You forget me forever? How long will You hide Your face from me? How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me? Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death, lest my enemy say, “I have overcome him,” and my foes rejoice when I fall. But I have trusted in Your loving devotion; my heart will rejoice in Your salvation. I will sing to the LORD, for He has been good to me."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The words “How long” come four times. **To whom does the psalmist direct this impatience?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verse 5 the tone changes completely, even though nothing in the situation has changed. **What happened between verse 4 and verse 5?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This psalm was included in Israel’s prayer book. **What does that say about the tone that’s allowed when we talk to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Psalm 13 shows a third way, besides taking matters into your own hands and pretending to be calm. The psalmist doesn’t solve his situation, and he doesn’t suppress the tension. He brings it to God as a complaint, four times in two verses. The turn comes not through an answer from heaven or a change in circumstances, but through remembering whom he had trusted before. Impatience spoken to God has somewhere to go.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "My Soul Waits",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 130:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "I wait for the LORD; my soul does wait, and in His word I put my hope. My soul waits for the Lord more than watchmen wait for the morning—more than watchmen wait for the morning."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The comparison is very precise: “more than watchmen wait for the morning.” **A night watchman can’t make the dawn come sooner, but he knows it will come. What does that say about waiting?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist says he puts his hope in God’s word. **How is waiting for a word different from waiting for a solution?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Farmer Waits",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 5:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Be patient, then, brothers, until the Lord’s coming. See how the farmer awaits the precious fruit of the soil—how patient he is for the fall and spring rains. You, too, be patient and strengthen your hearts, because the Lord’s coming is near."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "James chooses the picture of a farmer, not of someone idle. **What does a farmer do while he waits, and what can’t he do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "He speaks of the fall and spring rains, two seasons no one can control. **Where does work end and waiting begin?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Strengthen your hearts.” **In this picture, is waiting passive?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "He Obtained the Promise",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 6:12, 15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then you will not be sluggish, but will imitate those who through faith and patience inherit what has been promised. … And so Abraham, after waiting patiently, obtained the promise."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The author pairs faith with patience, two things needed together. **What happens when there is faith without patience?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham received the promise, but he didn’t live to see it fully fulfilled, as Hebrews 11 says. **How do we square that with verse 15?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sarai and Saul made sensible decisions that came a few years, or a few hours, too early. **What are you waiting for right now, and what plan B do you already have ready?** That plan usually already exists.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 13 asks “How long” four times. **Do you allow yourself to say something like that to God, or do you consider it improper?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there something you’ve been waiting for so long that you’ve stopped asking for it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Impatience rarely chooses evil. Most often it chooses something good a few years too early.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 130:6 or James 5:7.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Name one thing you’re waiting for, and look at what you’ve already done to speed it up. **Ask yourself whether it was a farmer’s work or Sarai’s idea.** The difference is whether the action stays within what is yours to do.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Tell God your “How long?” and say it plainly. **Psalm 13 wasn’t removed from the Bible for saying it.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you know you moved too soon somewhere and it hurt someone, admit it to yourself. That’s harder than admitting a mistake, because it was about something good.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts condemning Sarah or Saul.** Stop it. Both actions were sensible and understandable, and that’s exactly why they’re in the Bible. Easy condemnation shuts the topic down for everyone who has done something similar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone has been waiting for years for a child, healing, or the return of a loved one.** Don’t offer hope you can’t back up. Don’t say, “You’ll get it for sure.” Listen and move on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“You just have to trust God.”** True, and empty at that moment. Go back to Psalm 13, where trust appears only after four complaints.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Waiting is passivity. God helps those who act.”** Point to James 5:7. The farmer works, and still he can’t make the rain come sooner.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone admits they did something prematurely and it hurt their family.** Don’t moralize. Thank them for their honesty. Don’t let the group give advice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to the Second Coming and dates.** Cut it off gently. That’s a topic for a separate meeting.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "The group starts condemning Sarah or Saul.",
+     "odpowiedz": "Stop it. Both actions were sensible and understandable, and that’s exactly why they’re in the Bible. Easy condemnation shuts the topic down for everyone who has done something similar."
+    },
+    {
+     "sytuacja": "Someone has been waiting for years for a child, healing, or the return of a loved one.",
+     "odpowiedz": "Don’t offer hope you can’t back up. Don’t say, “You’ll get it for sure.” Listen and move on."
+    },
+    {
+     "sytuacja": "“You just have to trust God.”",
+     "odpowiedz": "True, and empty at that moment. Go back to Psalm 13, where trust appears only after four complaints."
+    },
+    {
+     "sytuacja": "“Waiting is passivity. God helps those who act.”",
+     "odpowiedz": "Point to James 5:7. The farmer works, and still he can’t make the rain come sooner."
+    },
+    {
+     "sytuacja": "Someone admits they did something prematurely and it hurt their family.",
+     "odpowiedz": "Don’t moralize. Thank them for their honesty. Don’t let the group give advice."
+    },
+    {
+     "sytuacja": "The conversation drifts to the Second Coming and dates.",
+     "odpowiedz": "Cut it off gently. That’s a topic for a separate meeting."
+    }
+   ]
+  }
+ ]
+}

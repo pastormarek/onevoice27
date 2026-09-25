@@ -1,0 +1,923 @@
+{
+ "tytul": "Will God Punish Me? Judgment and Hell",
+ "id": "P-08",
+ "seria": "Questions People Ask",
+ "opis": "Judgment as good news for the wronged, and what the Bible really says about hell.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Psalm 96:10-13; Psalm 9:7-10; John 3:16-21; John 5:24; Malachi 4:1-3; Matthew 10:28; Romans 6:23; Ezekiel 18:23; 1 Timothy 2:3-6; Revelation 20:11-15; 21:1-4",
+  "p2": "Genesis 18:25; Daniel 7:21-22; Romans 8:31-34; Psalm 37:9-11, 20; Obadiah 16; Jude 7; 2 Peter 2:6",
+  "p3": "Matthew 25:41, 46; Hebrews 9:12; 2 Thessalonians 1:8-9; Revelation 14:9-11; 20:9-10; Isaiah 34:8-10; Mark 9:43-48; Isaiah 66:22-24"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 31
+ },
+ "tagi": [
+  "judgment",
+  "hell",
+  "punishment",
+  "justice",
+  "fear",
+  "picture of God",
+  "hope"
+ ],
+ "wersja": 1,
+ "zdanie": "Judgment exists so that evil will end, not so that it will last forever. Whoever has trusted the Judge has a defender in Him.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Two groups of people sit side by side with this question, and they are afraid of opposite things. Some are afraid that God will punish them. Others are afraid that God will punish no one, including the person who hurt them. This meeting is meant to serve both. It moves in three steps. First, judgment in the Bible is good news for the wronged. Then Jesus says plainly who does not come into judgment. Finally, the texts show how evil ends: not in torment without end, but in an end. God does not keep anyone alive so that they can suffer. Most Christians read this differently, and level 3 honestly presents the texts they rely on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have been frightened with hell since childhood. For them the topic itself triggers the body, not just the mind. Don’t joke about it, and don’t rush.",
+      "Someone else carries a wound. They may hear the sentence “God won’t torment anyone” as “the person who abused you has nothing to fear.” The text says something different: the books will be opened, and nothing is forgotten.",
+      "Someone may have a loved one who died without believing. For them this is not a conversation about doctrine.",
+      "There may be Catholics and other Christians at the table for whom eternal hell is part of their faith. Don’t try to win against them. Read together."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t use this topic to frighten anyone or to push them into anything. Don’t pronounce on the fate of any particular person, living or dead. The question of what happens to a person at the moment of death has its own study in this series. Don’t open it today.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When you hear the words “God’s judgment,” what do you feel first: relief, fear, indifference, something else? One word.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first. Don’t comment on the answers. Remember how many people said “fear.” You will come back to that at the end.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Let Them Rejoice",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 96:10-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Declare among the nations: “The LORD reigns!” The world is firmly established; it cannot be moved; He will judge the peoples with equity. Let the heavens be glad and the earth rejoice; let the sea resound, and all that fills it. Let the fields exult, and all that is in them. Then all the trees of the forest will sing for joy before the LORD, for He is coming—He is coming to judge the earth. He will judge the world in righteousness and the peoples in His faithfulness."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 9:7-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the LORD abides forever; He has established His throne for judgment. He judges the world with justice; He governs the people with equity. The LORD is a refuge for the oppressed, a stronghold in times of trouble. Those who know Your name trust in You, for You, O LORD, have not forsaken those who seek You."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalm calls the fields, the sea, and the trees to rejoice. **For what reason? What situation would a person have to be in for news of a coming judge to be the best news of their day?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Psalm 9, right next to the throne of judgment stands “a refuge for the oppressed.” **What connects these two things? What would a world without judgment be like?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Today the word “judgment” mostly stirs up fear. **From whose place are we looking when we are afraid, and from whose place is the psalmist looking?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Bible, the ones who watch for judgment are above all the wronged: the widow, the orphan, the cheated worker, the foreigner without rights. The Judge is the one who comes and sets things right. A world without judgment is a world where the last word belongs to the stronger. That is why the psalms sing about judgment rather than whisper about it. Before we ask whether God will punish us, it’s worth listening to those who for centuries have been asking Him to come at last.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Judge of All the Earth",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Abraham learns that Sodom is to be destroyed, and he begins to bargain with God.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 18:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "Far be it from You to do such a thing—to kill the righteous with the wicked, so that the righteous and the wicked are treated alike. Far be it from You! Will not the Judge of all the earth do what is right?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abraham demands justice from God, and God doesn’t rebuke him for it. **What does that say about whether we are allowed to evaluate the pictures of judgment that have been handed down to us?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**When it comes to the fate of particular people, for whom is Abraham’s sentence enough: the Judge of all the earth will do what is right?** For whom is it not enough, and why?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Verdict in Their Favor",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "As I watched, this horn was waging war against the saints and prevailing against them, until the Ancient of Days arrived and pronounced judgment in favor of the saints of the Most High, and the time came for them to possess the kingdom."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel sees a judgment whose outcome is a verdict for someone, not against someone. **How does the picture of the courtroom change if those who belong to God sit in it on the side of the wronged, and not in the dock?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Who Does Not Come into Judgment",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 3:16-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life. For God did not send His Son into the world to condemn the world, but to save the world through Him. Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son. And this is the verdict: The Light has come into the world, but men loved the darkness rather than the Light because their deeds were evil. Everyone who does evil hates the Light, and does not come into the Light for fear that his deeds will be exposed. But whoever practices the truth comes into the Light, so that it may be seen clearly that what he has done has been accomplished in God.”"
+       ]
+      },
+      {
+       "odnosnik": "John 5:24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Truly, truly, I tell you, whoever hears My word and believes Him who sent Me has eternal life and will not come under judgment. Indeed, he has crossed over from death to life."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to verse 17, why did God send the Son? So, according to verse 19, what is “the verdict”?** In this description, who is judging whom?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look at the tenses in John 5:24: “has,” “will not come,” “has crossed over.” **What do these three words say to someone who has lived for years in fear of the day of judgment?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Light came to save, not to condemn, and yet people run from it. **Why? What is a person afraid of who doesn’t want to come out of the shadows?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In these words of Jesus, judgment is not an ambush set at the end of life. The Light has come and is standing here. What is being decided is what a person does with it: moves toward it or backs away. According to Jesus, whoever has come to it already has life and will not stand trial as the accused. The question “Will God punish me?” gets a very personal answer here. It does not depend on a balance sheet of deeds, but on whom a person has trusted.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who Will Bring a Charge",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 8:31-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "What then shall we say in response to these things? If God is for us, who can be against us? He who did not spare His own Son but gave Him up for us all, how will He not also, along with Him, freely give us all things? Who will bring any charge against God’s elect? It is God who justifies. Who is there to condemn us? For Christ Jesus, who died, and more than that was raised to life, is at the right hand of God—and He is interceding for us."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul looks around the courtroom and searches for an accuser. **Whom does he find in the judge’s seat, and whom in the defender’s place?** What is left of a trial in which the judge and the defender are on the same side?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**So who still accuses a person who has trusted Christ?** Where does that voice come from?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Day That Burns",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Malachi 4:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "“For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.” “But for you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall. Then you will trample the wicked, for they will be ashes under the soles of your feet on the day I am preparing,” says the LORD of Hosts."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 10:28",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the One who can destroy both soul and body in hell."
+       ]
+      },
+      {
+       "odnosnik": "Romans 6:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "In some editions of the Bible, following the Hebrew text, this passage of Malachi is numbered 3:19-21.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List from Malachi what is left of those who did evil.** What kind of end do these images portray: lasting in torment, or ceasing to exist?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Romans 6:23 sets two words against each other. **According to this sentence, who has eternal life, and where does it come from? What follows from that for those who have not accepted the gift?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What verb does Jesus use in Matthew 10:28 for what God can do with soul and body?** How is that different from what you heard about hell as a child?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “hell” in Matthew 10:28 is Gehenna in the original, the name of a valley below the walls of Jerusalem. Under Kings Ahaz and Manasseh children were burned there as sacrifices. Jeremiah foretold that it would become a place of judgment and of corpses. Jesus’ listeners could simply look in its direction. The image speaks of a destruction after which nothing remains. In the Bible eternal life is a gift for those who are in Christ. No one has it by nature, not even in order to suffer forever.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "As If They Had Never Existed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 37:9-11, 20",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the evildoers will be cut off, but those who hope in the LORD will inherit the land. Yet a little while, and the wicked will be no more; though you look for them, they will not be found. But the meek will inherit the land and delight in abundant prosperity. … But the wicked and enemies of the LORD will perish like the glory of the fields. They will vanish; like smoke they will fade away."
+       ]
+      },
+      {
+       "odnosnik": "Obadiah 16",
+       "przeklad": "BSB",
+       "akapity": [
+        "For as you drank on My holy mountain, so all the nations will drink continually. They will drink and gulp it down; they will be as if they had never existed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Gather the verbs and images from both texts.** What do they say about the end of evil, and what is missing from them?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus quotes Psalm 37:11 in the Beatitudes: the meek will inherit the earth. **What does that say about the place where the end of this story will be played out?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Eternal Fire",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jude 7",
+       "przeklad": "BSB",
+       "akapity": [
+        "In like manner, Sodom and Gomorrah and the cities around them, who indulged in sexual immorality and pursued strange flesh, are on display as an example of those who sustain the punishment of eternal fire."
+       ]
+      },
+      {
+       "odnosnik": "2 Peter 2:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jude calls the fire of Sodom “eternal,” and Peter says the cities were reduced “to ashes.” Sodom is not burning today. **So what is eternal about this fire?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both authors call Sodom “an example.” **An example of what: how long the punishment lasts, or how final its result is?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Eternal Punishment",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:41, 46",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then He will say to those on His left, ‘Depart from Me, you who are cursed, into the eternal fire prepared for the devil and his angels. … And they will go away into eternal punishment, but the righteous into eternal life.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This is the strongest text for those who believe in a hell without end, and it needs to be heard at full strength. Their argument goes like this: eternal punishment and eternal life stand side by side in one sentence. If the life lasts without end, so does the punishment. That is how most Christians read these words for centuries.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second reading points out that the Bible also speaks of “eternal redemption” in Hebrews 9:12 and of “eternal judgment” in Hebrews 6:2. Redeeming and judging do not go on without end. Their result is eternal. So eternal punishment would be a punishment with no appeal, not punishing that never stops. Paul calls it by name:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Thessalonians 1:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "in blazing fire, inflicting vengeance on those who do not know God and do not obey the gospel of our Lord Jesus. They will suffer the penalty of eternal destruction, separated from the presence of the Lord and the glory of His might,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides have more in common than it seems. Both treat judgment as real and irreversible. Both see that Jesus speaks about it in order to warn, not to paralyze. Both agree that losing life with God is a loss beyond measure. It is also worth noticing whom, according to verse 41, the fire was prepared for.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which part of this sentence of Jesus weighs most for you: “eternal,” “punishment,” or “prepared for the devil and his angels”?** What does each of these words say about God?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Smoke Forever and Ever",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 14:9-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "And a third angel followed them, calling out in a loud voice, “If anyone worships the beast and its image, and receives its mark on his forehead or on his hand, he too will drink the wine of God’s anger, poured undiluted into the cup of His wrath. And he will be tormented in fire and sulfur in the presence of the holy angels and of the Lamb. And the smoke of their torment rises forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who receives the mark of its name.”"
+       ]
+      },
+      {
+       "odnosnik": "Revelation 20:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And they marched across the broad expanse of the earth and surrounded the camp of the saints and the beloved city. But fire came down from heaven and consumed them. And the devil who had deceived them was thrown into the lake of fire and sulfur, into which the beast and the false prophet had already been thrown. There they will be tormented day and night forever and ever."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "John did not invent this language. He took it from the prophets:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 34:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the LORD has a day of vengeance, a year of recompense for the cause of Zion. Edom’s streams will be turned to tar, and her soil to sulfur; her land will become a blazing pitch. It will not be quenched—day or night. Its smoke will ascend forever. From generation to generation it will lie desolate; no one will ever again pass through it."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first position: the words “day and night forever and ever” cannot be weakened, especially in Revelation 20:10, which speaks outright of torment. The second position: Isaiah used the same language about Edom, and Edom stopped burning long ago. This is the language of final ruin, not a measurement of time. Revelation is a book of images; the beast and the false prophet in it are symbols of powers, and the text itself explains the lake of fire as “the second death.” In verse 9 the fire “consumed” the people. In honesty we must admit that Revelation 20:10 remains the hardest text for this second reading. Both sides share the conviction that evil will not return and that God will not leave it unanswered.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How should we read a book that contains a dragon, beasts, and a lake of fire: which sentences do we take literally, and which as images?** How do you tell the difference in other places in the Bible?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Worm That Never Dies",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 9:43-48",
+       "przeklad": "WEB",
+       "akapity": [
+        "If your hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna, into the unquenchable fire, ‘where their worm doesn’t die, and the fire is not quenched.’ If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, into the fire that will never be quenched — ‘where their worm doesn’t die, and the fire is not quenched.’ If your eye causes you to stumble, cast it out. It is better for you to enter into God’s Kingdom with one eye, rather than having two eyes to be cast into the Gehenna of fire, ‘where their worm doesn’t die, and the fire is not quenched.’"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Here Jesus quotes the last verse of the book of Isaiah:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 66:22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "“For just as the new heavens and the new earth, which I will make, will endure before Me,” declares the LORD, “so your descendants and your name will endure. From one New Moon to another and from one Sabbath to another, all mankind will come to worship before Me,” says the LORD. “As they go forth, they will see the corpses of the men who have rebelled against Me; for their worm will never die, their fire will never be quenched, and they will be a horror to all mankind.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first position: Jesus takes the prophet’s image and applies it to a person’s fate after the judgment, and He repeats it three times. You don’t speak that way about something that lasts a moment. The second position: in Isaiah the worm and the fire act on corpses, not on the living. “Unquenchable” fire in the language of the prophets is fire that no one can put out before it has finished its work. Jeremiah foretold such a fire in the gates of Jerusalem in Jeremiah 17:27, and those gates stopped burning long ago. Both sides agree on the heart of Jesus’ words: there are things in life worth losing a hand for, because your whole life is at stake.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks about cutting off a hand to people He loves. **Why does He use such sharp language? How is warning different from frightening?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "What the Judge Wants",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 18:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do I take any pleasure in the death of the wicked? declares the Lord GOD. Wouldn’t I prefer that he turn from his ways and live?"
+       ]
+      },
+      {
+       "odnosnik": "1 Timothy 2:3-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is good and pleasing in the sight of God our Savior, who wants everyone to be saved and to come to the knowledge of the truth. For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave Himself as a ransom for all—the testimony that was given at just the right time."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Ezekiel God asks a question to which the answer seems obvious to Him. **What does that question reveal about what people thought of Him? What do we think?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to Paul, what does God want, for how many people, and what did He do to make it possible?** How does that fit with a picture of a God who is waiting for us to slip up?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "God takes no pleasure in anyone’s death, and yet evil will come to an end. **What does that say about how God Himself experiences the day of judgment?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Second Death and a World Without Tears",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 20:11-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I saw a great white throne and the One seated on it. Earth and heaven fled from His presence, and no place was found for them. And I saw the dead, great and small, standing before the throne. And there were open books, and one of them was the Book of Life. And the dead were judged according to their deeds, as recorded in the books. The sea gave up its dead, and Death and Hades gave up their dead, and each one was judged according to his deeds. Then Death and Hades were thrown into the lake of fire. This is the second death—the lake of fire. And if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 21:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I saw a new heaven and a new earth, for the first heaven and earth had passed away, and the sea was no more. I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God. ‘He will wipe away every tear from their eyes,’ and there will be no more death or mourning or crying or pain, for the former things have passed away.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to verse 14, what is thrown into the lake of fire, and what does the text itself call that lake?** What does it mean that in the end Death and Hades perish?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List from Revelation 21:4 what will be no more. **Would such a world be possible if somewhere alongside it someone’s suffering went on without end?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“And there were open books.” **What does that sentence mean for someone whose wrongs no one ever acknowledged?** And what does the existence of another book, the Book of Life, mean?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“Hades” in verses 13 and 14 (the KJV has “hell”) is the Greek `hades`, the realm of the dead, the grave. Here it is not a place of torment but something that gives up its dead and is then destroyed itself. So the Bible ends differently than many of us were taught. It does not have two eternal kingdoms, a bright one and a dark one, lasting side by side. It has one world in which there is no more death, because death was the last thing to die.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which side do you instinctively stand on when you think about judgment: those who fear it, or those who are waiting for it?** Where did that come from in you?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in prayer, in raising children, in telling others about God, if God is not someone who will torment anyone without end?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there a fear of God in you that shifted a little today?** You don’t have to say where it comes from.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A person who has done great evil turns to Christ in the last hour of life, and according to John 5:24 will not come under judgment. Their victim may never have heard the words “I’m sorry” from them. **Is that fair? What would have to happen at the judgment for the victim to be able to say: yes, justice has been done?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t defend God faster than the Bible does. It’s worth making sure two things get said. First: grace does not mean the evil was hushed up, because someone died for it. Second: the books are opened also so that the wronged can see that God saw everything. The rest stays open.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Judgment exists so that evil will end, not so that it will last forever. Whoever has trusted the Judge has a defender in Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** John 5:24 or Romans 6:23.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Recall who first told you about hell and how they did it. Ask yourself: **what kind of God emerged from that story, and how much of Him is still in me today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If you carry a wrong that no one has judged, tell God plainly: **this is in Your books, and I want You to be the one to deal with it.** Notice what happens in you as you say it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask yourself whether there is someone you secretly wish would go to hell. Don’t fix it right away. Admit it before God, who takes no pleasure in anyone’s death.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they have been afraid of hell since childhood, and you can see the topic is stirring them.** Slow down. Don’t explain to them that they were afraid for nothing. Read John 5:24 again and just ask what they hear in the words “crossed over.” If the fear is strong and keeps coming back, offer a conversation after the meeting with you or with the pastor. When fear makes life difficult, getting help from a psychologist is not a lack of faith.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So the person who hurt me gets off with nothing?”** The texts don’t say that. The books are opened, every deed is named, and whoever did not want life from God loses it forever. That is not leniency. The difference is that God does not torture. Don’t push for forgiveness, and don’t tell that person what they should feel. The group listens and keeps company; it doesn’t do therapy. If the harm is still going on, stay with that person after the meeting and help them find professional help, such as a crisis line in your country, or your local emergency number if they are in danger.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about the rich man and Lazarus? There’s fire and a conversation after death there.”** That is a parable in which Jesus uses a story familiar to His listeners to say something about wealth and about deafness to Scripture. It deserves a meeting of its own, together with the question of what happens after death. Write it down and don’t open it today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The Church has taught eternal hell for two thousand years. You know better?”** Don’t get into an argument about churches. Say that it’s true: most Christians read these texts that way and have their reasons, which level 3 presents honestly. The view of final destruction also has a long history in Christianity and serious defenders in various denominations. At this table we don’t vote; we read.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So why try, if the wicked will simply cease to exist?”** Ask whether losing everything forever is a small thing. Then go back to Romans 6:23: the alternative to death is not peace and quiet but life with God, which is a gift. No one loves out of fear of torture, and God is looking for love.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks about a loved one who died without believing.** Don’t pronounce a verdict either way. Read Genesis 18:25 and Ezekiel 18:23. We know what the Judge is like, and we know He knows that person better than any of us. That is enough, and it is a lot.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts using the topic to admonish others at the table.** Interrupt calmly. Jesus spoke most sharply about judgment to people who were self-assured and religious, and most gently to those who were frightened. Go back to the questions in the first person.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 4. Blocks 1, 2, and 5 carry the meeting: whom judgment serves, who doesn’t come into it, and how the story ends. Don’t cut block 3 down to just the note, because without the text from Malachi the case for final destruction hangs in the air.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says they have been afraid of hell since childhood, and you can see the topic is stirring them.",
+     "odpowiedz": "Slow down. Don’t explain to them that they were afraid for nothing. Read John 5:24 again and just ask what they hear in the words “crossed over.” If the fear is strong and keeps coming back, offer a conversation after the meeting with you or with the pastor. When fear makes life difficult, getting help from a psychologist is not a lack of faith."
+    },
+    {
+     "sytuacja": "“So the person who hurt me gets off with nothing?”",
+     "odpowiedz": "The texts don’t say that. The books are opened, every deed is named, and whoever did not want life from God loses it forever. That is not leniency. The difference is that God does not torture. Don’t push for forgiveness, and don’t tell that person what they should feel. The group listens and keeps company; it doesn’t do therapy. If the harm is still going on, stay with that person after the meeting and help them find professional help, such as a crisis line in your country, or your local emergency number if they are in danger."
+    },
+    {
+     "sytuacja": "“What about the rich man and Lazarus? There’s fire and a conversation after death there.”",
+     "odpowiedz": "That is a parable in which Jesus uses a story familiar to His listeners to say something about wealth and about deafness to Scripture. It deserves a meeting of its own, together with the question of what happens after death. Write it down and don’t open it today."
+    },
+    {
+     "sytuacja": "“The Church has taught eternal hell for two thousand years. You know better?”",
+     "odpowiedz": "Don’t get into an argument about churches. Say that it’s true: most Christians read these texts that way and have their reasons, which level 3 presents honestly. The view of final destruction also has a long history in Christianity and serious defenders in various denominations. At this table we don’t vote; we read."
+    },
+    {
+     "sytuacja": "“So why try, if the wicked will simply cease to exist?”",
+     "odpowiedz": "Ask whether losing everything forever is a small thing. Then go back to Romans 6:23: the alternative to death is not peace and quiet but life with God, which is a gift. No one loves out of fear of torture, and God is looking for love."
+    },
+    {
+     "sytuacja": "Someone asks about a loved one who died without believing.",
+     "odpowiedz": "Don’t pronounce a verdict either way. Read Genesis 18:25 and Ezekiel 18:23. We know what the Judge is like, and we know He knows that person better than any of us. That is enough, and it is a lot."
+    },
+    {
+     "sytuacja": "Someone starts using the topic to admonish others at the table.",
+     "odpowiedz": "Interrupt calmly. Jesus spoke most sharply about judgment to people who were self-assured and religious, and most gently to those who were frightened. Go back to the questions in the first person."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 4. Blocks 1, 2, and 5 carry the meeting: whom judgment serves, who doesn’t come into it, and how the story ends. Don’t cut block 3 down to just the note, because without the text from Malachi the case for final destruction hangs in the air."
+    }
+   ]
+  }
+ ]
+}

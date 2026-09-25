@@ -1,0 +1,835 @@
+{
+ "tytul": "Daniel 9, Part 1. We Have Sinned",
+ "id": "D-09",
+ "seria": "The Book of Daniel",
+ "opis": "The prayer of a man who says “we have sinned” though he himself was not to blame, and who appeals to no merit of his own.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 9:1-3; 9:4-6; 9:7-10; 9:11-14; 9:15-19",
+  "p2": "Jeremiah 29:10-14; Nehemiah 1:4-7; Leviticus 26:40-42; Exodus 32:11-14",
+  "p3": "2 Chronicles 36:20-21; 1 John 1:8-9; Ezekiel 18:20"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "Daniel",
+  "prayer",
+  "confession",
+  "intercession",
+  "mercy",
+  "promise"
+ ],
+ "wersja": 1,
+ "zdanie": "Prayer doesn’t rest on what we are like. It rests on what God is like.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "After two chapters full of beasts, horns and numbers, this one is different, and it’s meant to be. There’s no vision here at all. There’s an old man reading the scroll of Jeremiah. He finds a promise with a deadline in it, and instead of counting down the days, he starts to pray. He prays using the word “we,” though the book doesn’t record a single wrong he did. And in the end he appeals to nothing that he or his people have done. He appeals only to what God is like. The whole meeting revolves around these three things: reading that leads to prayer, “we” instead of “they,” and mercy instead of merit.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The seventy weeks and Gabriel’s visit have a meeting of their own: “Daniel 9:20-27. Seventy Weeks.” Today you stay with the prayer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table is carrying a heavy load of guilt. This prayer could crush them if all they hear in it is “we have sinned” and “shame.” Make sure verses 9 and 18 ring out just as strongly.",
+      "Someone has been hurt by their family or by the church. They may hear the word “we” as a demand to take the guilt of the one who hurt them on themselves. Daniel doesn’t do that, and this material doesn’t ask it.",
+      "Daniel says disaster came as a consequence of the nation’s sin. Someone may apply that to their own illness or loss. The text is about God’s covenant with Israel and about warnings repeated over centuries. It doesn’t give us a key for explaining personal misfortunes.",
+      "Talk about collective guilt easily slides into national history, settling old scores, and current politics. Don’t go there."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone to confess sins out loud. Don’t ask what “our church” or “our nation” ought to apologize for. Don’t explain anyone else’s suffering as punishment.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when you said “we dropped the ball,” though you could have said “they dropped the ball.” Or the other way around. In one sentence, say what made you choose.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short, ideally with an example from work or home, not from church. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Man Who Reads",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans— in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years. So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel himself has visions and talks with angels. **Where does he get his understanding of his situation this time?** What does that say about how even a prophet looks for answers?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel finds a promise with a deadline: seventy years, which are just coming to an end. He could simply sit back and wait. **What does he do instead, and why, do you think?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Fasting, sackcloth and ashes are signs of mourning. **What is this high imperial official mourning, when he personally lacks nothing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "At the time, the scroll of Jeremiah was recent writing. Jeremiah prophesied in Jerusalem when Daniel was a boy. So Daniel is reading a prophet from his own generation the way we read the Bible: looking in someone else’s words for light on his own time. Here the book shows an ordinary path, open to anyone. First comes reading, then prayer, and only in the next scene an angel.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Between Daniel’s second and third visions. Chapter 8 ended with the words “it was beyond understanding.” Chapter 9 has two parts: the prayer we’re reading today, and the answer Gabriel brings, the prophecy of the seventy weeks. That second part has a meeting of its own. This is the only prayer of such length in the whole book, and the only chapter in which the name of God revealed to Moses appears, which the BSB renders as “LORD.”",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Babylon has just fallen, as chapter 5 told, and the Medes and Persians have taken power. Daniel has been in Babylon for nearly seventy years, so he is over eighty. Jerusalem and the temple lie in ruins. In the vision of chapter 8 he heard that the restoration of the sanctuary would be a long time coming. In Jeremiah he reads that the exile is to last seventy years. These two pieces of news just won’t fit together for him.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What He Read",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 29:10-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this is what the LORD says: “When Babylon’s seventy years are complete, I will attend to you and confirm My promise to restore you to this place. For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, to give you a future and a hope. Then you will call upon Me and come and pray to Me, and I will listen to you. You will seek Me and find Me when you search for Me with all your heart. I will be found by you, declares the LORD, and I will restore you from captivity and gather you from all the nations and places to which I have banished you, declares the LORD. I will restore you to the place from which I sent you into exile.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in this letter is God’s promise, and what is an invitation to people?** Read verses 12 and 13 carefully.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel is praying for something God has already promised. **Is that a lack of trust, or trust itself?** How does this letter help settle the question?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel may have feared that the people’s sin would push the promise further away. **Do you ever think that one of God’s promises no longer applies to you because you messed something up?** What does verse 11 of the letter say to that?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "We",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:4-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion to those who love Him and keep His commandments, we have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances. We have not listened to Your servants the prophets, who spoke in Your name to our kings, leaders, and fathers, and to all the people of the land."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count the verbs in verse 5 and notice what person they’re in. The book of Daniel doesn’t record a single sin of his, and in chapter 6 his enemies couldn’t find anything against him. **Why does he say “we” and not “they”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before Daniel says anything about sin, he says something about God. **What exactly?** What would change in this prayer if it began with verse 5?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**How is the prayer “God, forgive them” different from the prayer “God, forgive us”?** What does each one say about the person praying?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel was a teenager when he was taken from Jerusalem. He bore less responsibility than anyone for the kings’ policies and the nation’s deafness to the prophets. Even so, he doesn’t stand beside his people holding a list of charges. He stands in their midst. That’s how someone prays who loves the people he’s praying for. It’s also worth noticing what Daniel doesn’t do: he doesn’t make anyone else take the blame. He says “we” on his own behalf, and freely.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Pronoun",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Several decades later, another high official at a foreign court gets bad news from Jerusalem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 1:4-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "When I heard these words, I sat down and wept. I mourned for days, fasting and praying before the God of heaven. Then I said: “O LORD, God of heaven, the great and awesome God who keeps His covenant of loving devotion with those who love Him and keep His commandments, let Your eyes be open and Your ears attentive to hear the prayer that I, Your servant, now pray before You day and night for Your servants, the Israelites. I confess the sins that we Israelites have committed against You. Both I and my father’s house have sinned. We have behaved corruptly against You and have not kept the commandments, statutes, and ordinances that You gave Your servant Moses."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does Nehemiah’s prayer have in common with Daniel’s?** List the similarities, including in the first sentence.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both had comfortable lives at court, and both could have said that Jerusalem’s troubles were none of their business. **What makes a person start treating other people’s hardship and other people’s guilt as their own?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Shame and Mercy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:7-10",
+       "przeklad": "WEB",
+       "akapity": [
+        "Lord, righteousness belongs to you, but to us confusion of face, as it is today; to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, who are near, and who are far off, through all the countries where you have driven them, because of their trespass that they have trespassed against you. Lord, to us belongs confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against you. To the Lord our God belong mercies and forgiveness; for we have rebelled against him; neither have we obeyed Yahweh our God’s voice, to walk in his laws, which he set before us by his servants the prophets."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel sets two things side by side: “to you” and “to us.” **List what, according to these verses, belongs to God and what is on our side.** Which list is longer?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 9 slowly. We’d expect: God forgives, even though we have rebelled. Daniel says: “for we have rebelled” (WEB). **What does this surprising “for” mean?** Who is forgiveness for in the first place?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel calls shame by its name and doesn’t run from it. **What is the difference between shame that leads us to God and shame that makes us hide from Him?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 7 Daniel says: “To You, O Lord, belongs righteousness.” In verse 16 he will ask: “in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away.” That’s surprising, because we’d expect a plea for grace in spite of justice. But the Hebrew `tsedaqah` means more than handing out punishment. It means faithfulness to what someone has committed to. God is righteous when He keeps His covenant, and part of the covenant was the promise of forgiveness for those who return. We find the same pairing of words in the New Testament.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 1:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John doesn’t write that God is “kind and lenient,” but that He is “faithful and just,” and that this is exactly why He forgives. **What changes in a person’s prayer when they realize that forgiveness is not an exception to God’s justice but part of it?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "God Was Right",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "In this passage Daniel speaks of the nation’s downfall as the result of a broken covenant. He is talking about Israel’s history and about the warnings the nation heard for centuries. It is not a key for explaining anyone’s personal illness or loss.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "All Israel has transgressed Your law and turned away, refusing to obey Your voice; so the oath and the curse written in the Law of Moses the servant of God has been poured out on us, because we have sinned against You. You have carried out the words spoken against us and against our rulers by bringing upon us a great disaster. For under all of heaven, nothing has ever been done like what has been done to Jerusalem. Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our iniquities and giving attention to Your truth. Therefore the LORD has kept the calamity in store and brought it upon us. For the LORD our God is righteous in all He does; yet we have not obeyed His voice."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel doesn’t say God overreacted, and he doesn’t say things just turned out that way. He says: “You have carried out the words spoken against us” and “the LORD our God is righteous in all He does.” **What might those words have cost a man whose home and youth were taken by the exile?** What in these verses shows that he doesn’t say them lightly?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 13 again. Disaster has already struck, and Daniel adds: “yet we have not sought the favor of the LORD our God.” **What, in his view, was missing even after the catastrophe?** What does that say about whether suffering by itself changes a person?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Twice we hear “written in the Law of Moses.” **What difference does it make that the warning had been in writing for centuries, where anyone could read it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel is referring to the closing chapters of the Law, where Moses described where faithfulness to the covenant leads and where breaking it leads. He doesn’t look for someone to blame outside. He doesn’t accuse Babylon, though he’d have plenty to accuse it of. Nor does he defend God like a lawyer. He simply admits that everything went the way it was foretold. And in that admission lies hope: if God kept His word about the exile, He will keep it about the return, too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Way Back Was Written Too",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The same chapter of the Law that foretold exile goes on to say more.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 26:40-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "But if they will confess their iniquity and that of their fathers in the unfaithfulness that they practiced against Me, by which they have also walked in hostility toward Me— and I acted with hostility toward them and brought them into the land of their enemies—and if their uncircumcised hearts will be humbled and they will make amends for their iniquity, then I will remember My covenant with Jacob and My covenant with Isaac and My covenant with Abraham, and I will remember the land."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**According to these verses, what do the people in exile do, and what does God promise to do?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare verse 40 with Daniel’s prayer. **Is Daniel composing his own prayer, or doing what he has read?** What does this say about the connection between reading Scripture and prayer?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: The Land Rested",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The book of Chronicles adds an explanation of the seventy years that isn’t in Jeremiah’s letter.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 36:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon, and they became servants to him and his sons until the kingdom of Persia came to power. So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD through Jeremiah."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Law commanded that every seventh year the fields be left fallow, so that the land, the servants and the animals could rest. The same chapter of Leviticus that holds the way back also warned that if the nation would not give the land its rest, the land would take that rest for itself when its people were gone.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "According to Chronicles, the exile was also the land’s overdue rest. **What does it say about God that even in describing a disaster He remembers the land and the rest it was denied?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Not Because of Our Righteous Acts",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:15-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now, O Lord our God, who brought Your people out of the land of Egypt with a mighty hand, and who made for Yourself a name renowned to this day, we have sinned; we have acted wickedly. O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us. So now, our God, hear the prayers and petitions of Your servant. For Your sake, O Lord, cause Your face to shine upon Your desolate sanctuary. Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion. O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List all the reasons Daniel gives God for hearing him.** How many of them are about what the people have done or will do, and how many are about who God is?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“We are not presenting our petitions before You because of our righteous acts, but because of Your great compassion.” These are the words of a man in whom even his enemies could find no fault. **According to Daniel, what can a prayer rest on at all?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The prayer begins with long, solemn sentences and ends with short cries: listen, forgive, hear and act, do not delay. **What happened to Daniel along the way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel begins with the exodus from Egypt, the moment when God rescued people before giving them a single commandment. Then again and again he repeats “Your”: Your city, Your holy mountain, Your sanctuary, Your people. He asks for no reward and promises nothing in return. The whole request rests on one thing: God Himself has tied His name to these people and this place. Whoever prays like this doesn’t have to get their act together first in order to be heard.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "This Is How Moses Prayed",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The nation has just cast the golden calf. Moses stands before God alone.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 32:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Moses sought the favor of the LORD his God, saying, “O LORD, why does Your anger burn against Your people, whom You brought out of the land of Egypt with great power and a mighty hand? Why should the Egyptians declare, ‘He brought them out with evil intent, to kill them in the mountains and wipe them from the face of the earth’? Turn from Your fierce anger and relent from doing harm to Your people. Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’” So the LORD relented from the calamity He had threatened to bring on His people."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does Moses appeal to?** Compare his arguments with Daniel’s, point by point.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Neither Moses nor Daniel says “they had it coming,” though both would have been right. **What do their prayers teach us about praying for people who really are to blame?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Can You Confess Other People’s Sins?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ezekiel, a prophet of the same exile, says something that looks like a contradiction of Daniel’s prayer.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 18:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some readers put the emphasis on Ezekiel. Each person answers to God for himself; no one inherits guilt, and no one can confess it on someone else’s behalf. Others put the emphasis on Daniel and Nehemiah. A person belongs to a family, a nation and a church, benefits from their good and carries their history, and so can stand before God together with them. The two views meet at one point: no one charges Daniel with other people’s sins, and he himself doesn’t ask to be punished for them. Standing together in prayer is not the same thing as being answerable in court.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where is the line between saying “I’m taking someone else’s guilt on myself” and saying “I stand before God together with my people”?** Which one describes Daniel?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**When is the word “we” in prayer honest, and when does it become a convenient way to make sure no one in particular has to answer for anything?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "if someone at the table has been hurt, say plainly that no one is obliged to say “we” together with the person who hurt them. Daniel chooses that word himself.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel found a promise and began to pray. **What do you usually do with a promise you find in the Bible: wait, calculate, or talk it over with God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who do you most easily call “they”: in your family, at work, at church, in your country?** What would change if, just once, you prayed for them using the word “we”?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there something in your life where you still try to earn it first before you ask for anything?** You don’t have to say what.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel says Jerusalem’s disaster was just. Yet in the same city there were people who listened to the prophets, and children who had done nothing wrong. Daniel himself paid for other people’s decisions with his whole life. **How do we reconcile the words “the LORD our God is righteous in all He does” with the fact that the consequences of some people’s sin fall on others?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. It is worth, though, for someone to notice that Daniel doesn’t resolve it either. He takes it to God and says “we.”",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Prayer doesn’t rest on what we are like. It rests on what God is like.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 9:18b or Daniel 9:9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of the people you call “they” with resentment. Before you say anything about them to God, ask yourself: **what do I have in common with them that I’d rather not see?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think back to the last prayer in which you asked for something. **What were you quietly appealing to: your own efforts, your own need, or what God is like?** Stay with that question, and don’t rush to correct yourself.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** there’s something where God was right, and you’re still arguing with Him about it. Tell Him, as Daniel did, that He “is righteous in all He does.” If those words stick in your throat, tell Him that too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So I’m supposed to apologize to God for what my father or my husband did?”** No. Daniel says “we” freely, and no one charges him with other people’s sins. Ezekiel, from the same exile, says plainly that a son does not bear the iniquity of his father. A person who has been hurt does not confess the guilt of the one who hurt them. If there’s real harm behind the question, don’t dig into it in front of the group. Stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So my illness is probably a punishment too.”** Stop this right away, and calmly. Daniel is speaking about God’s covenant with a nation that had heard the prophets’ warnings for centuries. He gives no key for explaining anyone’s illness or loss. When the disciples asked Jesus, beside the man born blind, who had sinned, He rejected the question itself.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts into the nation’s wrongs, settling historical scores, or current politics.** Interrupt. Say: “Daniel doesn’t draw up a list of other people’s sins; he prays in the first person. Let’s stay with who I call ‘they.’” This text doesn’t comment on any modern state or any dispute. Nor is it for working out dates. The reckoning of years has a meeting of its own: “Daniel 9:20-27. Seventy Weeks.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If God has promised it anyway, why pray?”** That’s a good question, and the text answers it. In Jeremiah’s letter, promise and invitation stand side by side: “you will call upon Me … and I will listen to you.” Daniel doesn’t treat the promise like a train timetable. He treats it as an invitation to a conversation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone goes quiet, cries, or says there’s no forgiveness left for them.** Don’t push, and don’t force comfort on them. Read verse 9 and verse 18 again. Stay with that person after the meeting. If they talk about hopelessness or not wanting to live, don’t carry that alone: help them reach a crisis line in your country, and in an emergency, your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about those seventy weeks?”** There’s a separate meeting on that: “Daniel 9:20-27. Seventy Weeks.” Today you stay with the prayer, because Gabriel’s answer is an answer to exactly this prayer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s fine. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Just read block 4 aloud, without the questions. Blocks 2 and 5 carry the whole meeting: “we” and “not because of our righteous acts.”",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So I’m supposed to apologize to God for what my father or my husband did?”",
+     "odpowiedz": "No. Daniel says “we” freely, and no one charges him with other people’s sins. Ezekiel, from the same exile, says plainly that a son does not bear the iniquity of his father. A person who has been hurt does not confess the guilt of the one who hurt them. If there’s real harm behind the question, don’t dig into it in front of the group. Stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "“So my illness is probably a punishment too.”",
+     "odpowiedz": "Stop this right away, and calmly. Daniel is speaking about God’s covenant with a nation that had heard the prophets’ warnings for centuries. He gives no key for explaining anyone’s illness or loss. When the disciples asked Jesus, beside the man born blind, who had sinned, He rejected the question itself."
+    },
+    {
+     "sytuacja": "The conversation drifts into the nation’s wrongs, settling historical scores, or current politics.",
+     "odpowiedz": "Interrupt. Say: “Daniel doesn’t draw up a list of other people’s sins; he prays in the first person. Let’s stay with who I call ‘they.’” This text doesn’t comment on any modern state or any dispute. Nor is it for working out dates. The reckoning of years has a meeting of its own: “Daniel 9:20-27. Seventy Weeks.”"
+    },
+    {
+     "sytuacja": "“If God has promised it anyway, why pray?”",
+     "odpowiedz": "That’s a good question, and the text answers it. In Jeremiah’s letter, promise and invitation stand side by side: “you will call upon Me … and I will listen to you.” Daniel doesn’t treat the promise like a train timetable. He treats it as an invitation to a conversation."
+    },
+    {
+     "sytuacja": "Someone goes quiet, cries, or says there’s no forgiveness left for them.",
+     "odpowiedz": "Don’t push, and don’t force comfort on them. Read verse 9 and verse 18 again. Stay with that person after the meeting. If they talk about hopelessness or not wanting to live, don’t carry that alone: help them reach a crisis line in your country, and in an emergency, your local emergency number."
+    },
+    {
+     "sytuacja": "“What about those seventy weeks?”",
+     "odpowiedz": "There’s a separate meeting on that: “Daniel 9:20-27. Seventy Weeks.” Today you stay with the prayer, because Gabriel’s answer is an answer to exactly this prayer."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s fine. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Just read block 4 aloud, without the questions. Blocks 2 and 5 carry the whole meeting: “we” and “not because of our righteous acts.”"
+    }
+   ]
+  }
+ ]
+}

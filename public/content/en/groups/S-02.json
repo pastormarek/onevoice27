@@ -1,0 +1,692 @@
+{
+ "tytul": "The Day That Was There in the Beginning",
+ "id": "S-02",
+ "seria": "The Sabbath as a Gift",
+ "opis": "Humanity’s first full day was a day of rest after work that Someone else had done.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 1:31; 2:1-3; Exodus 16:22-30; Exodus 20:8-11; Mark 2:27; Isaiah 56:3-7",
+  "p2": "Exodus 16:4-5; Psalm 92:4-5; Isaiah 66:22-23",
+  "p3": "Genesis 2:2-3; Exodus 16:29; Nehemiah 9:13-14; Exodus 31:12-13; Genesis 26:5"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 16,
+  "p2": 22,
+  "p3": 26
+ },
+ "tagi": [
+  "Sabbath",
+  "creation",
+  "grace",
+  "rest",
+  "manna"
+ ],
+ "wersja": 1,
+ "zdanie": "Humanity’s first full day was a day of rest. God begins with a gift, not a quota.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Most of us live by the rule: first earn it, then rest. The Bible begins the other way around. The first full day a human being lived was a day of rest after work that someone else had done. This meeting follows the Sabbath from the garden, through the wilderness, to Sinai, and asks what this day says about God before it says anything about duty.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The creation account can turn within a minute into an argument about the age of the earth and the length of the days. That’s not the topic of this meeting. Today the text asks what the seventh day was for, not how long the others lasted.",
+      "There may be Christians at the table who keep Sunday. They are not a party on trial here. We read what the texts say and give people time.",
+      "Someone raised in a home where the Sabbath was a list of prohibitions may react to the very topic with reluctance. They have every right to. There’s a separate meeting on the practice of keeping the day: “A Delight, Not a Burden.”",
+      "The question “Who is the Sabbath for?” easily slides into talking about Jewish people in a superior tone. Watch for that."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t try to win the discussion. Don’t wrap up the meeting with a conclusion the group hasn’t voiced itself. Don’t judge anyone’s religious practice.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Finish the sentence with one phrase: “I’ll rest when…”",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and briefly, to set the length. Don’t comment on other people’s answers. Remember them, because they’ll come in handy in the first section.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The First Full Day",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 1:31",
+       "przeklad": "BSB",
+       "akapity": [
+        "And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning—the sixth day."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 2:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Thus the heavens and the earth were completed in all their vast array. And by the seventh day God had finished the work He had been doing; so on that day He rested from all His work. Then God blessed the seventh day and sanctified it, because on that day He rested from all the work of creation that He had accomplished."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List everything God does with the seventh day and on the seventh day. **What is missing from these three verses that you would expect to find?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Humans were created on the sixth day, at the very end. **So what was their first full day of life? What had they managed to do before they were given rest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "God blesses and sanctifies not a place or an object, but a day. **What does it mean that time is holy? What can you do with time that you can’t do with a building?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The seventh-day rest is out of place twice over. The One who rests is God, who doesn’t get tired. Resting with Him are people who haven’t worked a single hour, because all week long someone was working for them before they even appeared. It’s hard to find a simpler picture of grace: a human being begins by receiving what is already finished, and only afterward goes out to tend the garden. In the world of the Bible the order is “rest, then work,” not the other way around.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Genesis 2:2-3 there is no noun “Sabbath.” There is only the verb `shabat`, “he ceased, he rested,” from which the day takes its name. The noun first appears in the Bible only in the manna story.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second observation is about something missing. Each of the six days ends with the line “And there was evening, and there was morning.” The seventh day has no such closing. Jewish and Christian readers since ancient times have seen in this a sign that God’s rest remains open and that it is possible to enter it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in how we understand the Sabbath if it is first something God does, and only later the name of a day on the calendar?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Bread for Two Days",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The people left Egypt a few weeks earlier. They haven’t reached Sinai yet, and they haven’t heard the Ten Commandments. There isn’t enough food in the wilderness, and God begins to give manna.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 16:22-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "On the sixth day, they gathered twice as much food—two omers per person—and all the leaders of the congregation came and reported this to Moses. He told them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’” So they set it aside until morning as Moses had commanded, and it did not smell or contain any maggots. “Eat it today,” Moses said, “because today is a Sabbath to the LORD. Today you will not find anything in the field. For six days you may gather, but on the seventh day, the Sabbath, it will not be there.” Yet on the seventh day some of the people went out to gather, but they did not find anything. Then the LORD said to Moses, “How long will you refuse to keep My commandments and instructions? Understand that the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.” So the people rested on the seventh day."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This happens before Sinai. **How does the text talk about the Sabbath: as something new that has yet to be announced, or as something that already exists? How can you tell?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 29 again: the LORD has given a day of rest, and that is why on the sixth day He gives bread for two days. **What does God have to do so that a person can rest without fear? What does someone learn who doesn’t go out gathering on the seventh day?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Some went out with their baskets anyway. **What drove them? They had only just been slaves. What does slavery do to a person’s ability to rest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God teaches the Sabbath not with a lecture but with the way He serves food. On ordinary days, manna left overnight spoiled and stank. On the Sabbath night it stayed fresh, and so it went every week for forty years. In the Sabbath passage there are several instructions about preparing, but the day itself gets only one: “Eat it today.” Notice, too, that on the sixth day the leaders are surprised by the double portion, yet no one asks what the Sabbath is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Test Before the Gift",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 16:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions. Then on the sixth day, when they prepare what they bring in, it will be twice as much as they gather on the other days.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God speaks of “My instructions” before He gave the commandments at Sinai. **What does that tell us about where the people knew the rhythm of six days and a seventh from?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Gather each day as much as you need, and no more. **What is the test? What is harder about it: working for six days, or trusting on the seventh?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 29 Moses uses the same verb, “give,” in two forms. The LORD “has given” the Sabbath: a completed form, an action closed in the past. He gives bread for two days: a form describing an action that continues and repeats. The gift of the day is older than the wilderness, and keeping that gift going happens every week.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In this same chapter the noun “Sabbath” appears for the first time in the Bible. The name of the day is born in a story about food, not in a law code.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Remember",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 20:8-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates. For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The commandment doesn’t begin with “learn” or “from now on,” but with “Remember.” **What does a person who never stops forget? Themselves, others, God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The commandment gives its own reason. **Where does it send us? Compare verse 11 with what you read in the first section.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Almost all of the Ten Commandments begin with “You shall not.” This is one of two that say what to do. **What difference does it make that a commandment begins with an invitation rather than a prohibition?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The day comes from the earth’s rotation, the month from the phases of the moon, the year from the orbit around the sun. Nothing in the sky marks out the week. The seven-day rhythm has no source in nature, and the commandment points to the only one it knows: this is how God worked and how He rested. Whoever stops every seven days re-creates the first page of the Bible in their calendar and admits that the world has an Author, and that they are not it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Song for the Day",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 92:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "For You, O LORD, have made me glad by Your deeds; I sing for joy at the works of Your hands. How great are Your works, O LORD, how deep are Your thoughts!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This psalm’s heading reads, “A song for the Sabbath day,” and it’s the only psalm with a heading like that. **Whose works does a person sing about on the day when they themselves don’t work?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What is the mood of this song? Compare it with the picture of the Sabbath you brought with you to this meeting.**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "For Whom?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 2:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus declared, “The Sabbath was made for man, not man for the Sabbath."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 56:3-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let no foreigner who has joined himself to the LORD say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.” For this is what the LORD says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant— I will give them, in My house and within My walls, a memorial and a name better than that of sons and daughters. I will give them an everlasting name that will not be cut off. And the foreigners who join themselves to the LORD to minister to Him, to love the name of the LORD, and to be His servants—all who keep the Sabbath without profaning it and who hold fast to My covenant— I will bring them to My holy mountain and make them joyful in My house of prayer. Their burnt offerings and sacrifices will be accepted on My altar, for My house will be called a house of prayer for all the nations.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus says the Sabbath was made “for man.” **To which moment in history does the word “made” point? Who was “man” back then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Isaiah names two groups of people convinced they are shut out: the foreigner and the eunuch, a mutilated man who could not have children or enter the temple. **What does each of them say about himself? What does God answer each of them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus sets the order: the day is for people, not people for the day. **What does a day of rest look like when people exist for it? What does it look like when it exists for people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Who today says of themselves, “The LORD will utterly exclude me from His people”? What would Isaiah’s words mean to someone like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Greek word Mark uses means a human being in general, not a member of one nation. Jesus doesn’t say the Sabbath was made for Israel, but for people. That fits the first section: in the garden there was not yet an Israel or any other nation. Isaiah goes in the same direction, and the examples he picks are precisely those for whom the regulations of the day closed the way to the temple.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At the End as at the Beginning",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 66:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "“For just as the new heavens and the new earth, which I will make, will endure before Me,” declares the LORD, “so your descendants and your name will endure. From one New Moon to another and from one Sabbath to another, all mankind will come to worship before Me,” says the LORD."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Sabbath stands on the first page of the Bible, before sin, and in the picture of the new earth, after it. **What does that say about whether this day is a remedy for some problem or part of a good world?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“All mankind.” **How does that phrase relate to Jesus’ words in Mark’s Gospel?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Go back to your sentences from the opening: “I’ll rest when…” **How would that sentence sound if you really started with rest, like the first human being?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The people with baskets went out on the seventh day to look for manna. **What is your basket? What do you go out for, even though you’ve already been given enough for two days?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **can you accept something you didn’t earn? What does that look like in your relationship with God?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: From Creation or from Sinai?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Christians hold two readings. According to the first, the Sabbath has been a gift to humanity since creation. According to the second, it is a sign given to Israel at Sinai, because Genesis 2 contains no command to humans, and other texts speak of the Sabbath as something announced to Israel:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 9:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "You came down on Mount Sinai and spoke with them from heaven. You gave them just ordinances, true laws, and good statutes and commandments. You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 31:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD said to Moses, “Tell the Israelites, ‘Surely you must keep My Sabbaths, for this will be a sign between Me and you for the generations to come, so that you may know that I am the LORD who sanctifies you."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides agree on two things: that on the seventh day God rested, blessed that day, and sanctified it, and that rest is His gift, not a way of earning anything.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Does the absence of a command in Genesis 2 mean the day wasn’t for humans?** Keep in mind that in Genesis 2 God doesn’t command anything about marriage either, and that you can only bless and sanctify a day for someone.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiah says God “revealed” the Sabbath at Sinai, yet the manna fell in a Sabbath rhythm before the people ever got to Sinai. **How do we reconcile these two texts? Can you make known something that already exists?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Genesis tells at length about Noah, Abraham, Isaac, and Jacob, and never once mentions that they kept the Sabbath. Of Abraham it says only, in general terms, that he kept “My commandments, My statutes, and My laws” (Genesis 26:5). **What do we do with this silence? What does the silence of a text prove, and what doesn’t it prove?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the material deliberately gives no answer here. It would be honest to say that from silence you can conclude neither that the patriarchs kept the Sabbath nor that they didn’t know it.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Humanity’s first full day was a day of rest. God begins with a gift, not a quota.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Genesis 2:3 or Mark 2:27.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This week, notice a moment when you tell yourself, “First I have to…” Ask yourself: **how do I know I have to do that first? Who taught me that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Find fifteen minutes in which you produce nothing and catch up on nothing. Notice what speaks up in you then: peace, restlessness, guilt. Tell God about it in whatever words you have.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask yourself honestly how much you would be worth in your own eyes if for a long stretch of time you couldn’t do anything. Then ask God the same question.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So God got tired?”** A good question, and worth handing back to the group: “If He doesn’t get tired, then why did He rest, and for whom did He bless the day?” The text doesn’t talk about tiredness, only about finishing the work and about a day God shares with humanity.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation veers into the age of the earth, evolution, or the length of the creation days.** Interrupt kindly: “Those are important questions, but we won’t settle them today, and what this text is asking doesn’t depend on them. Let’s go back to the seventh day.” If the topic keeps coming back, suggest a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The Sabbath is for the Jews; we have Sunday.”** Don’t argue with the person. Go back to the texts: “Let’s look again at who, according to Genesis 2 and Mark 2:27, this day was given to.” If someone wants to talk about how Sunday observance came about, say that it’s a historical topic for another conversation, and offer to have it after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A longtime member says with satisfaction, “Exactly, and other people just don’t get it.”** Change direction: “The people with the baskets were in the camp too, and they knew the rules. Where do we go out with our baskets?” The Sabbath isn’t here for judging anyone, including people who aren’t in the room.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says that in their home the Sabbath was a day of prohibitions and boredom.** Don’t defend their parents, and don’t accuse them. Say that this is a common experience, and that Jesus argued against exactly that way of living the day. You can add that there’s a separate meeting about it: “A Delight, Not a Burden.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes silent after a question.** That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off and you won’t get through the material.** Skip section 3 and go to section 4 and the application. Sections 1 and 2 carry the main idea of the meeting, and section 4 answers a question that will come up anyway.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So God got tired?”",
+     "odpowiedz": "A good question, and worth handing back to the group: “If He doesn’t get tired, then why did He rest, and for whom did He bless the day?” The text doesn’t talk about tiredness, only about finishing the work and about a day God shares with humanity."
+    },
+    {
+     "sytuacja": "The conversation veers into the age of the earth, evolution, or the length of the creation days.",
+     "odpowiedz": "Interrupt kindly: “Those are important questions, but we won’t settle them today, and what this text is asking doesn’t depend on them. Let’s go back to the seventh day.” If the topic keeps coming back, suggest a separate meeting."
+    },
+    {
+     "sytuacja": "“The Sabbath is for the Jews; we have Sunday.”",
+     "odpowiedz": "Don’t argue with the person. Go back to the texts: “Let’s look again at who, according to Genesis 2 and Mark 2:27, this day was given to.” If someone wants to talk about how Sunday observance came about, say that it’s a historical topic for another conversation, and offer to have it after the meeting."
+    },
+    {
+     "sytuacja": "A longtime member says with satisfaction, “Exactly, and other people just don’t get it.”",
+     "odpowiedz": "Change direction: “The people with the baskets were in the camp too, and they knew the rules. Where do we go out with our baskets?” The Sabbath isn’t here for judging anyone, including people who aren’t in the room."
+    },
+    {
+     "sytuacja": "Someone says that in their home the Sabbath was a day of prohibitions and boredom.",
+     "odpowiedz": "Don’t defend their parents, and don’t accuse them. Say that this is a common experience, and that Jesus argued against exactly that way of living the day. You can add that there’s a separate meeting about it: “A Delight, Not a Burden.”"
+    },
+    {
+     "sytuacja": "The group goes silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "The conversation takes off and you won’t get through the material.",
+     "odpowiedz": "Skip section 3 and go to section 4 and the application. Sections 1 and 2 carry the main idea of the meeting, and section 4 answers a question that will come up anyway."
+    }
+   ]
+  }
+ ]
+}

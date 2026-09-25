@@ -1,0 +1,821 @@
+{
+ "tytul": "Anger",
+ "id": "E-01",
+ "seria": "Emotions",
+ "opis": "What we do in the moment between feeling angry and reacting, and why the Bible doesn’t tell anger to disappear.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 4:3-8; Ephesians 4:26-27, 31-32; Psalm 37:8; James 1:19-20; Proverbs 14:29; 15:1; 16:32; 29:11; Mark 3:1-5; Romans 12:17-21",
+  "p2": "Numbers 20:9-12; Matthew 5:21-24; Luke 15:25-32; Jonah 4:1-4, 9-11; Colossians 3:8; 1 Peter 3:9",
+  "p3": "Psalm 4:4; Exodus 34:6; Romans 12:19"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 28,
+  "p3": 31
+ },
+ "tagi": [
+  "emotions",
+  "relationships",
+  "forgiveness",
+  "heart"
+ ],
+ "wersja": 3,
+ "zdanie": "Anger is not a verdict. It is a threshold, and on a threshold you can still stop.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t about learning to stop getting angry. It’s about what we do in the window of time between the moment anger shows up and the moment we react. The Bible doesn’t tell the feeling to vanish. It tells us not to hand it the wheel.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have a real anger problem at home, or may be living with someone who hurts them. Don’t press anyone to open up.",
+      "The topic easily slides into practical tips like “count to ten.” Every time it does, bring the group back to the text.",
+      "A person who says they never get angry usually has anger pushed down, not an absence of anger. That’s not a conversation for the whole group."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t hold anyone up as an example, good or bad. Don’t sum up what someone said with “So you have a problem with…” Don’t diagnose.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of the last time you felt angry and were sure you were right. Don’t tell the story. Just say one word that describes what you did.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on other people’s answers or ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Conversation Before a Murder",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 4:3-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "So in the course of time, Cain brought some of the fruit of the soil as an offering to the LORD, while Abel brought the best portions of the firstborn of his flock. And the LORD looked with favor on Abel and his offering, but He had no regard for Cain and his offering. So Cain became very angry, and his countenance fell. “Why are you angry,” said the LORD to Cain, “and why has your countenance fallen? If you do what is right, will you not be accepted? But if you refuse to do what is right, sin is crouching at your door; it desires you, but you must master it.” Then Cain said to his brother Abel, “Let us go out to the field.” And while they were in the field, Cain rose up against his brother Abel and killed him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Verse 7 is the hinge of the story. If someone is reading from the KJV and stumbles over “unto thee shall be his desire, and thou shalt rule over him” (KJV), read it again in the BSB: sin “desires you, but you must master it.”",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God talks with Cain when Cain is already angry. **What does God not do in this conversation?** List what is missing from His words.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God tells Cain, “you must master it.” **What does it mean that anger is something you master, not simply something you either have or don’t have?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What had to happen between verse 5 and verse 8?** List the steps.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God doesn’t tell Cain, “Don’t be angry.” He doesn’t judge the feeling or tell him to suppress it. Sin is described as something outside, lying at the door and waiting to be let in. God’s last sentence is a sentence about authority. Between Cain’s anger and Abel’s death there is a whole conversation with God, an invitation to go out to the field, and the walk to that field. That is not the distance of a single second.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Moses",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 20:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Moses took the staff from the LORD’s presence, just as he had been commanded. Then Moses and Aaron gathered the assembly in front of the rock, and Moses said to them, “Listen now, you rebels, must we bring you water out of this rock?” Then Moses raised his hand and struck the rock twice with his staff, so that a great amount of water gushed out, and the congregation and their livestock were able to drink. But the LORD said to Moses and Aaron, “Because you did not trust Me to show My holiness in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses had reason to be furious, and he didn’t kill anyone. **What did his anger change anyway?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is what God told him to do different from what Moses did?** The water flowed anyway. Why didn’t that settle the matter?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Word Study",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrew describes anger through the body. The verb `charah` means “to burn,” and the noun `af` means “nose, nostrils.” Verse 5 reads literally something like this: “it burned to Cain greatly, and his face fell.” The Bible uses the same vocabulary of God, so the word itself doesn’t decide whether anger is bad.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In verse 7, sin is described with the participle `rovets`, meaning “lying down, crouching,” used of an animal waiting motionless. In neighboring languages, a related word referred to a demon lurking at the door of a house.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Deadline",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 4:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Be angry, yet do not sin.” Do not let the sun set upon your anger, and do not give the devil a foothold."
+       ]
+      },
+      {
+       "odnosnik": "Ephesians 4:31-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Get rid of all bitterness, rage and anger, outcry and slander, along with every form of malice. Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 37:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Refrain from anger and abandon wrath; do not fret—it can only bring harm."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t forbid anger. **So what does he forbid? What exactly does the sentence about the setting sun add?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 31 lists five things in a row: bitterness, rage, anger, outcry, slander. **Is it a random list or a sequence? If it’s a sequence, a sequence of what?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The psalm says anger “can only bring harm.” **Where exactly did it lead in the story we just read?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Anger that goes unnamed and unresolved changes shape. It stops being a reaction to a specific event and becomes an attitude toward a person. You’re no longer angry about what someone said on Tuesday. You’re angry at that person. Notice that the whole chapter is about community, not about an individual. A few verses earlier Paul writes that “we are all members of one another.” Anger kept in your pocket is not a private matter.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Interrupted Worship Service",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 5:21-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "You have heard that it was said to the ancients, ‘Do not murder’ and ‘Anyone who murders will be subject to judgment.’ But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, ‘Raca,’ will be subject to the Sanhedrin. But anyone who says, ‘You fool!’ will be subject to the fire of hell. So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus puts anger side by side with murder. **What, in His view, connects the two?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Read carefully: it’s **your brother who has something against you**, not you against him. **So who is supposed to take the first step?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says to leave the gift and walk out of the temple. **What does that say about how urgent this is?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Word Study",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Greek distinguishes what English tends to lump together as “anger.” `Thymos` is an outburst, something that rises fast and falls fast. `Orgē` is settled anger, an attitude, something that stays. In Ephesians 4:26 Paul uses yet another word, `parorgismos`, meaning irritation or exasperation. The command in the second half of the verse is about exactly that: don’t go to sleep irritated.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first half of verse 26 is a quotation of Psalm 4:4 in the Greek translation of the Old Testament. The Hebrew original reads more like “tremble, and do not sin.” Paul isn’t inventing a new rule; he reaches for a line people knew from a sung psalm.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Who’s Right",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 1:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "My beloved brothers, understand this: Everyone should be quick to listen, slow to speak, and slow to anger, for man’s anger does not bring about the righteousness that God desires."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 14:29",
+       "przeklad": "BSB",
+       "akapity": [
+        "A patient man has great understanding, but a quick-tempered man promotes folly."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 15:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "A gentle answer turns away wrath, but a harsh word stirs up anger."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 16:32",
+       "przeklad": "BSB",
+       "akapity": [
+        "He who is slow to anger is better than a warrior, and he who controls his temper is greater than one who captures a city."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 29:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "A fool vents all his anger, but a wise man holds it back."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Anger almost always feels like justice being done. **What does James do with that feeling?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Notice James’s order: listening, speaking, anger. **At what point in that chain can you still do something?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Proverbs talks about anger in the language of strength and war: controlling yourself is worth more than capturing a city. **Why that particular picture?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Older Brother",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:28-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "The older son became angry and refused to go in. So his father came out and pleaded with him. But he answered his father, ‘Look, all these years I have served you and never disobeyed a commandment of yours. Yet you never gave me even a young goat so I could celebrate with my friends. But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The older brother’s anger is well founded, and everything he says is true. **What in his words shows who he is really angry at?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The father doesn’t tell him he’s wrong. **What does he do instead?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The parable ends before we find out whether the older brother went in. **Why did Jesus leave it that way?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Anger That Heals",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 3:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Once again Jesus entered the synagogue, and a man with a withered hand was there. In order to accuse Jesus, they were watching to see if He would heal on the Sabbath. Then Jesus said to the man with the withered hand, “Stand up among us.” And He asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?” But they were silent. Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand.” So he stretched it out, and it was restored."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "We’re told that Jesus looked at them with anger. **How does that fit with everything we’ve read so far? What makes this anger different from Cain’s?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mark writes that Jesus was also grieved. **What does it mean that anger and sorrow appear together here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Who in this scene walked out and began plotting a killing?** What follows from that?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mark uses the same Greek word Paul uses for the anger that is to be put away from among us. So the difference isn’t in the feeling. It’s in the direction and in the outcome. Cain’s anger is about Cain, and it ends with a dead body. Jesus’ anger is about the man with the withered hand, and it ends with healing. Here is a simple test to take home: does my anger still see a person in the other one, or has it turned them into an obstacle?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jonah",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 4:1-4, 9-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jonah, however, was greatly displeased, and he became angry. So he prayed to the LORD, saying, “O LORD, is this not what I said while I was still in my own country? This is why I was so quick to flee toward Tarshish. I knew that You are a gracious and compassionate God, slow to anger, abounding in loving devotion—One who relents from sending disaster. And now, O LORD, please take my life from me, for it is better for me to die than to live.” But the LORD replied, “Have you any right to be angry?” … Then God asked Jonah, “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!” But the LORD said, “You cared about the plant, which you neither tended nor made grow. It sprang up in a night and perished in a night. So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonah is furious with God because God showed mercy. **God asks him the same thing twice. Why doesn’t He just tell him he’s wrong?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God doesn’t argue about who is right; He asks about proportion. **What does His question reveal about what Jonah really loves?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: God’s Anger",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If human anger is so dangerous, why does the Bible speak of God’s anger hundreds of times?",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 34:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD passed in front of Moses and called out: “The LORD, the LORD God, is compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God describes Himself as “slow to anger.” The Hebrew expression literally means “long of nostrils,” someone who takes a long time to catch fire. **What does that say about the place of anger in God’s character?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the Bible, God’s anger is never a loss of self-control. **List what else sets it apart from ours.**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the question of eternal punishment and hell will almost certainly come up here. Don’t get into it today. Write the question down and make it a separate meeting.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Instead of Revenge",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 12:17-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not repay anyone evil for evil. Carefully consider what is right in the eyes of everybody. If it is possible on your part, live at peace with everyone. Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.” On the contrary, “If your enemy is hungry, feed him; if he is thirsty, give him a drink. For in so doing, you will heap burning coals on his head.” Do not be overcome by evil, but overcome evil with good."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t say the wrong didn’t matter. **So what does he do with the wrong? Where does he send it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“If it is possible on your part.” **Why does Paul add this condition? What is he not promising?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The ban on revenge doesn’t rest on the idea that the wrong was trivial. It rests on the fact that judgment has an owner, and it isn’t us. Paradoxically, it’s precisely the existence of God’s wrath that lets us set our own down. We don’t have to settle the score ourselves, because there’s no risk that no one will ever count it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Short Ones",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 3:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "But now you must put aside all such things as these: anger, rage, malice, slander, and filthy language from your lips."
+       ]
+      },
+      {
+       "odnosnik": "1 Peter 3:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Three different authors write the same thing three times. **What does that say about how common this problem was in the first churches?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Where in your week is that window between feeling angry and reacting? **What actually happens in those few seconds?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s texts rubs you the wrong way the most, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there someone the sun has already set on many times?** You don’t have to say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul talks about closing the matter before the sun goes down. **What do you do when the other person won’t talk, has died, or when a conversation would be dangerous? Can you close the day one-sidedly, and if so, what exactly are you closing?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "there is no single answer here, so don’t try to manufacture one. It does help, though, if someone names the difference between reconciliation, which takes two people and isn’t always possible, and laying anger down, which takes one.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Anger is not a verdict. It is a threshold, and on a threshold you can still stop.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Ephesians 4:26 or Genesis 4:7b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Anger is almost always guarding something. The next time you feel angry, before you do anything, ask yourself: **what just got violated?** Pride, a sense of fairness, safety, someone’s good opinion of you, something else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of the person you’ve held anger against the longest. Ask God one thing: **what are you afraid would happen if you set this anger down?** Stay with that question, even if the answer doesn’t come right away.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask someone who knows you well to tell you what your anger looks like from the outside. Listen to the end and don’t explain yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“I just don’t get angry.”** Don’t confront. You might say, “James talks about being ‘slow to anger’ as something we learn. What did that look like for you in the past?” Suppressed anger can be harder than the explosive kind, but that’s not a conversation for the whole group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Sometimes you have to get mad, or people walk all over you.”** Agree with the observation, because it’s accurate, and shift the question: “Mark 3 shows anger that ends in healing. What would have to be true about my anger for it to end the same way?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I’m supposed to pretend nothing happened?”** No. Ephesians 4:26 assumes that something did happen and that it has to be dealt with before nightfall, not hidden away. Paul says to close the matter, not to keep quiet about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about being angry at God?”** It’s a real question, and the Bible is full of it: the Psalms, Jonah, Job, Jeremiah. Don’t brush it off. Say that God can handle honest anger better than polite silence, and suggest a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone tells a long story about how they were wronged.** Listen to the end, say thank you, don’t diagnose and don’t give advice. Then calmly bring the group back to the text with a question. If it’s serious, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words, not different ones.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off and you won’t get through the material.** Skip blocks 3 and 5, go straight to block 4 and the application. Block 4 is the one without which the meeting loses its point.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“I just don’t get angry.”",
+     "odpowiedz": "Don’t confront. You might say, “James talks about being ‘slow to anger’ as something we learn. What did that look like for you in the past?” Suppressed anger can be harder than the explosive kind, but that’s not a conversation for the whole group."
+    },
+    {
+     "sytuacja": "“Sometimes you have to get mad, or people walk all over you.”",
+     "odpowiedz": "Agree with the observation, because it’s accurate, and shift the question: “Mark 3 shows anger that ends in healing. What would have to be true about my anger for it to end the same way?”"
+    },
+    {
+     "sytuacja": "“So I’m supposed to pretend nothing happened?”",
+     "odpowiedz": "No. Ephesians 4:26 assumes that something did happen and that it has to be dealt with before nightfall, not hidden away. Paul says to close the matter, not to keep quiet about it."
+    },
+    {
+     "sytuacja": "“What about being angry at God?”",
+     "odpowiedz": "It’s a real question, and the Bible is full of it: the Psalms, Jonah, Job, Jeremiah. Don’t brush it off. Say that God can handle honest anger better than polite silence, and suggest a separate meeting."
+    },
+    {
+     "sytuacja": "Someone tells a long story about how they were wronged.",
+     "odpowiedz": "Listen to the end, say thank you, don’t diagnose and don’t give advice. Then calmly bring the group back to the text with a question. If it’s serious, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words, not different ones."
+    },
+    {
+     "sytuacja": "The conversation takes off and you won’t get through the material.",
+     "odpowiedz": "Skip blocks 3 and 5, go straight to block 4 and the application. Block 4 is the one without which the meeting loses its point."
+    }
+   ]
+  }
+ ]
+}

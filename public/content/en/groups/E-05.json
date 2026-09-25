@@ -1,0 +1,597 @@
+{
+ "tytul": "Guilt",
+ "id": "E-05",
+ "seria": "Emotions",
+ "opis": "Guilt sometimes tells the truth and sometimes lies. Two men, one night, two endings.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Psalm 32:3-5; 2 Samuel 12:7, 9, 13; Matthew 26:75; Matthew 27:3-5; John 21:15-17; 1 John 1:9; Romans 8:1",
+  "p2": "Psalm 51:1-2, 10-12; Micah 7:18-19",
+  "p3": "2 Corinthians 7:10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 23,
+  "p3": 25
+ },
+ "tagi": [
+  "emotions",
+  "forgiveness",
+  "conscience",
+  "repentance"
+ ],
+ "wersja": 1,
+ "zdanie": "Guilt left alone with itself kills. Guilt brought to God becomes the way back.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Guilt is an emotion that sometimes tells the truth, and then you need to listen to it, and sometimes lies, and then you need to call it what it is. This meeting is meant to help tell the two apart. At its center are two men who failed on the same night and ended up in different places.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be living with guilt that no one knows about, and this meeting may stir it up. Don’t ask for details, ever.",
+      "An oversensitive conscience, feeling guilty about everything, is more common among religious people than among others. For such a person this topic may be painful rather than freeing.",
+      "Not every feeling of guilt comes from God. Not every one is false, either. Don’t decide that for anyone."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t encourage public confessions. Don’t hand out prescriptions like “just accept forgiveness.” Don’t compare sins by how heavy they are.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when someone said “I’m sorry” to you and you felt real relief. Don’t tell the story. Just say what it was about that apology that made it work.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, briefly.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "When I Kept Silent",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 32:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "When I kept silent, my bones became brittle from my groaning all day long. For day and night Your hand was heavy upon me; my strength was drained as in the summer heat. Selah Then I acknowledged my sin to You and did not hide my iniquity. I said, “I will confess my transgressions to the LORD,” and You forgave the guilt of my sin. Selah"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalmist describes his silence in physical terms: his bones became brittle, his strength was drained. **What is he actually describing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The change comes in verse 5, and it comes very fast. **What exactly did he do, and what happened immediately afterward?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The same action appears three times in one verse, described in different words. **List them.**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Hebrew text speaks of a silence that isn’t peace but clenching. A person doesn’t stop thinking about their guilt; they stop talking about it. The psalm ties this directly to the state of the body, because guilt left unnamed looks for another outlet: sleeplessness, irritability, tiredness for no reason. Verse 5 doesn’t describe a long process or penance. It describes one sentence spoken to God and what came right after it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "You Are That Man",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Samuel 12:7, 9, 13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Nathan said to David, “You are that man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you from the hand of Saul. … Why then have you despised the command of the LORD by doing evil in His sight? You put Uriah the Hittite to the sword and took his wife as your own, for you have slain him with the sword of the Ammonites. … Then David said to Nathan, “I have sinned against the LORD.” “The LORD has taken away your sin,” Nathan replied. “You will not die."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nathan comes to David almost a year after it all happened. **What does that say about how long a person can live with guilt without naming it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God lays out David’s guilt very specifically, with no generalities. **Why wasn’t it enough to say, “You have sinned”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David’s answer is one short sentence. **What is missing from it? List what he doesn’t try to explain away.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Forgiveness comes immediately, but the consequences remain, as the rest of the chapter shows. **How do we hold these two together?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Psalm Written After That Conversation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 51:1-2, 10-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions. Wash me clean of my iniquity and cleanse me from my sin. … Create in me a clean heart, O God, and renew a right spirit within me. Cast me not away from Your presence; take not Your Holy Spirit from me. Restore to me the joy of Your salvation, and sustain me with a willing spirit."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David doesn’t ask for the consequences to be undone or for his good reputation back. **What does he ask for in verses 10 and 11?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Restore to me the joy of Your salvation.” **What does this sentence not say about joy?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Two Men, One Night",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 26:75",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Peter remembered the word that Jesus had spoken: “Before the rooster crows, you will deny Me three times.” And he went outside and wept bitterly."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 27:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders. “I have sinned by betraying innocent blood,” he said. “What is that to us?” they replied. “You bear the responsibility.” So Judas threw the silver into the temple and left. Then he went away and hanged himself."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Both failed, both regretted it, both felt it deeply. **List what each of them does afterward. Where do their paths split?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Judas says, “I have sinned by betraying innocent blood.” That’s a correct confession. **Who does he address it to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The chief priests answer, “What is that to us? You bear the responsibility.” **What happens to a person who brings their guilt to someone who has nothing to forgive it with?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The difference doesn’t lie in how serious the wrong was or how strong the regret was. Judas’s remorse is genuine, and he tries to make amends: he gives back the money. But he takes it to people who have no power to forgive, and then he is left alone with his guilt. Peter goes out and weeps; at this stage he does nothing more. What will make the difference is that he comes back to where Jesus is. Guilt kills when it is left alone with itself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Three Questions by the Fire",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 21:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "When they had finished eating, Jesus asked Simon Peter, “Simon son of John, do you love Me more than these?” “Yes, Lord,” he answered, “You know I love You.” Jesus replied, “Feed My lambs.” Jesus asked a second time, “Simon son of John, do you love Me?” “Yes, Lord,” he answered, “You know I love You.” Jesus told him, “Shepherd My sheep.” Jesus asked a third time, “Simon son of John, do you love Me?” Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?” “Lord, You know all things,” he replied. “You know I love You.” Jesus said to him, “Feed My sheep."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus asks three times, even though Peter answers the first time. **Why three, of all numbers?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "There isn’t a single word here about the denial. No reproach, no settling of accounts. **How does Jesus treat Peter’s past?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "After each answer comes a command: feed, shepherd, feed My sheep. **What does it mean that forgiveness ends with an assignment?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Peter was “deeply hurt” at the third question. **Is that a good kind of sorrow?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "No Condemnation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 1:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
+       ]
+      },
+      {
+       "odnosnik": "Romans 8:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, there is now no condemnation for those who are in Christ Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John writes that God is “faithful and just” to forgive. We might rather expect Him to be merciful. **Why just?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes, “there is now no condemnation.” **So who is condemning a person who has already confessed and still feels condemned?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Where Sins Go",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Micah 7:18-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance—who does not retain His anger forever, because He delights in loving devotion? He will again have compassion on us; He will vanquish our iniquities. You will cast out all our sins into the depths of the sea."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Micah asks, “Who is a God like You?” **What specifically does he see as unique about God?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The picture is physical: cast “into the depths of the sea.” **What does that picture say about the chances of retrieving what was thrown in?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 32 says silence takes a toll on the body. **Is there something you don’t tell God because you think it’s too small or too late?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judas took his guilt to people who couldn’t forgive him. **Who do you take your guilt to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something God has forgiven you that you haven’t forgiven yourself?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Two Kinds of Sorrow",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 7:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul says one sorrow leads to change and the other to death. **Go back to Peter and Judas and match them up.**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can you tell which sorrow you’re living through before you see where it leads? Or do you have to wait for the end of the story?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this is a truly open question, and there’s no simple answer. It helps if someone observes that godly sorrow turns a person toward God, while worldly sorrow shuts them up inside themselves.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Guilt left alone with itself kills. Guilt brought to God becomes the way back.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 32:5 or Romans 8:1.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Check whether your guilt says “I did something bad” or “I am bad.” **The first leads to confession and has an end. The second usually has no end.** Name which one you’re carrying.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There is something you think about most often when you can’t fall asleep. **Ask God directly whether He has already closed it. Stay with that question, even if the answer doesn’t come that same evening.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if there is a person you truly owe something to, take the first step toward them. It doesn’t have to be a full confession. One sentence of truth is enough.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts confessing a specific sin in front of the group.** Stop it gently and offer to talk after the meeting. No one should leave feeling they said something in front of people that can’t be taken back.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone feels guilty about everything, even things they had no control over.** Don’t try to convince them there’s no reason, because a person like that has usually heard it already. Go back to the question from block 5: who is condemning here, if God no longer does?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God has forgiven me, but I can’t forgive myself.”** This is a very common sentence. Don’t brush past it. Ask, “Is your opinion of yourself more important than His?” and let the silence sit.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts comparing sins or passing judgment on Judas.** Cut it off. This material isn’t for pronouncing on anyone’s salvation, Judas’s included. Stay with what guilt does, not with who ended up where.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If it’s forgiven, I can just keep doing it.”** Go back to John 21: forgiveness ends with a command, not with a release from responsibility.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Silence after a question about personal guilt.** Leave it. This question is meant to work after the meeting, not at the table.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone starts confessing a specific sin in front of the group.",
+     "odpowiedz": "Stop it gently and offer to talk after the meeting. No one should leave feeling they said something in front of people that can’t be taken back."
+    },
+    {
+     "sytuacja": "Someone feels guilty about everything, even things they had no control over.",
+     "odpowiedz": "Don’t try to convince them there’s no reason, because a person like that has usually heard it already. Go back to the question from block 5: who is condemning here, if God no longer does?"
+    },
+    {
+     "sytuacja": "“God has forgiven me, but I can’t forgive myself.”",
+     "odpowiedz": "This is a very common sentence. Don’t brush past it. Ask, “Is your opinion of yourself more important than His?” and let the silence sit."
+    },
+    {
+     "sytuacja": "The group starts comparing sins or passing judgment on Judas.",
+     "odpowiedz": "Cut it off. This material isn’t for pronouncing on anyone’s salvation, Judas’s included. Stay with what guilt does, not with who ended up where."
+    },
+    {
+     "sytuacja": "“If it’s forgiven, I can just keep doing it.”",
+     "odpowiedz": "Go back to John 21: forgiveness ends with a command, not with a release from responsibility."
+    },
+    {
+     "sytuacja": "Silence after a question about personal guilt.",
+     "odpowiedz": "Leave it. This question is meant to work after the meeting, not at the table."
+    }
+   ]
+  }
+ ]
+}

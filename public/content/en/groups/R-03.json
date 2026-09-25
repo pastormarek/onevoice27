@@ -1,0 +1,756 @@
+{
+ "tytul": "Reconciliation",
+ "id": "R-03",
+ "seria": "Relationships",
+ "opis": "You can forgive on your own, but reconciliation takes two. Jacob’s road back to Esau.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 32:3-12; Genesis 33:1-11; Genesis 33:12-17; Matthew 5:23-24; Luke 19:8-9; 2 Corinthians 5:17-20",
+  "p2": "Genesis 27:41-45; Genesis 32:24-31; Philemon 10-18; Genesis 33:18-20; 1 John 4:20-21",
+  "p3": "Genesis 33:10-11; Genesis 45:14-15, 24"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "relationships",
+  "reconciliation",
+  "family",
+  "guilt",
+  "first step"
+ ],
+ "wersja": 1,
+ "zdanie": "I can forgive on my own. Reconciliation takes two, and the first step belongs to whoever sees it first.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "You can forgive on your own. Reconciliation takes two. This meeting follows one story, the story of Jacob and Esau, and looks at it mostly through the eyes of the one who did wrong and is coming back. It shows what the road to a brother costs, what being welcomed looks like, and why the reconciled brothers then went their separate ways. At the end, Paul shows that God has dealt with us the same way.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be living with a broken relationship with a parent, a child, or a sibling, and may have heard for years that they “should make peace.” Don’t add to the pressure.",
+      "Someone may have experienced abuse. For that person, reconciliation understood as going back is dangerous. Read the first red flag before the meeting.",
+      "The other person may already have died. Then the topic will stir up grief and regret at never having had the chance to talk."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t urge anyone to take a specific step toward a specific person. Don’t promise that the other side will come running to meet them. Not every Esau runs.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when someone reached out to you first after a fight. No details. Say in one sentence how they did it.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. Don’t comment on other people’s answers, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "I Am Afraid of Him",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Twenty years earlier, Jacob tricked his brother out of their father’s blessing. Esau wanted to kill him for it, so Jacob fled. Now he is coming back with his family and his flocks.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 32:3-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom. He instructed them, “You are to say to my master Esau, ‘Your servant Jacob says: I have been staying with Laban and have remained there until now. I have oxen, donkeys, flocks, menservants, and maidservants. I have sent this message to inform my master, so that I may find favor in your sight.’” When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you—he and four hundred men with him.” In great fear and distress, Jacob divided his people into two camps, as well as the flocks and herds and camels. He thought, “If Esau comes and attacks one camp, then the other camp can escape.” Then Jacob declared, “O God of my father Abraham, God of my father Isaac, the LORD who told me, ‘Go back to your country and to your kindred, and I will make you prosper,’ I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps. Please deliver me from the hand of my brother Esau, for I am afraid that he may come and attack me and the mothers and children with me. But You have said, ‘I will surely make you prosper, and I will make your offspring like the sand of the sea, too numerous to count.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List everything Jacob does before the meeting. **Which of these things are about protecting himself, and which are already a step toward his brother?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jacob is the one who did the harm, and Jacob is the one who is afraid. **What does his fear say about how he carried that old wrong inside him for twenty years?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In the stolen blessing, his father foretold that Jacob’s brothers would serve him. Now Jacob has Esau called “my master” and himself “your servant.” **What is he giving back with those words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "No one forced Jacob into this meeting. He could have given Seir a wide berth. Instead, he sends the messengers himself and lets his brother know he is coming back. Just before this, he met angels on the road and called the place God’s camp. Right after that, he divides his own camp and sends people to his brother. It looks as though he has understood something important: he will not return to the land God promised him by going around the man he wronged.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Until He Forgets",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 27:41-45",
+       "przeklad": "BSB",
+       "akapity": [
+        "Esau held a grudge against Jacob because of the blessing his father had given him. And Esau said in his heart, “The days of mourning for my father are at hand; then I will kill my brother Jacob.” When the words of her older son Esau were relayed to Rebekah, she sent for her younger son Jacob and told him, “Look, your brother Esau is consoling himself by plotting to kill you. So now, my son, obey my voice and flee at once to my brother Laban in Haran. Stay with him for a while, until your brother’s fury subsides— until your brother’s rage against you wanes and he forgets what you have done to him. Then I will send for you and bring you back from there. Why should I lose both of you in one day?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rebekah is counting on time to take care of things. “A while” turned into twenty years, and the Bible never mentions the mother seeing her son again. **In this story, what did time do, and what did it not do?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why was running away sensible at the time, and yet it solved nothing?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Night Before the Meeting",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 32:24-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Jacob was left all alone, and there a man wrestled with him until daybreak. When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled. Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not let you go unless you bless me.” “What is your name?” the man asked. “Jacob,” he replied. Then the man said, “Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed.” And Jacob requested, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed Jacob there. So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face, and yet my life was spared.” The sun rose above him as he passed by Penuel, and he was limping because of his hip."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "When Esau found out about the deception, he said his brother was rightly named Jacob, because he had cheated him twice. **So what does it mean for Jacob to say his own name that night?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jacob comes out of that night with a new name and a limp. **How does each of these prepare him for the morning with his brother?** What does a person look like who goes to make peace limping?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "He Ran to Meet Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 33:1-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants. He put the maidservants and their children in front, Leah and her children next, and Rachel and Joseph at the rear. But Jacob himself went on ahead and bowed to the ground seven times as he approached his brother. Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept. When Esau looked up and saw the women and children, he asked, “Who are these with you?” Jacob answered, “These are the children God has graciously given your servant.” Then the maidservants and their children approached and bowed down. Leah and her children also approached and bowed down, and then Joseph and Rachel approached and bowed down. “What do you mean by sending this whole company to meet me?” asked Esau. “To find favor in your sight, my lord,” Jacob answered. “I already have plenty, my brother,” Esau replied. “Keep what belongs to you.” But Jacob insisted, “No, please! If I have found favor in your sight, then receive this gift from my hand. For indeed, I have seen your face, and it is like seeing the face of God, since you have received me favorably. Please accept my gift that was brought to you, because God has been gracious to me and I have all I need.” So Jacob pressed him until he accepted."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count the verbs in verse 4. **What was Jacob expecting, and what did he get? Which of those verbs already belongs to both brothers?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Esau says he has plenty, and Jacob insists that his brother take the gift. **Why does this matter so much to Jacob? What is this gift, if it isn’t payment?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In the whole scene, no one says “I’m sorry” or “I forgive you.” **How was each of these said without words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“I have seen your face, and it is like seeing the face of God.” **What did Jacob see in his brother’s face?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jacob’s repentance is written in gestures. His father foretold that his brothers would bow to him, and now he is the one bowing seven times and handing over his flocks. Esau’s welcome is written in gestures too: he ran, embraced him, threw his arms around his neck, kissed him. When Jesus tells about the father who runs to his prodigal son, He will use the same images. Listeners who knew Genesis knew where that scene came from.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 11, in Hebrew, Jacob does not ask Esau to accept a “gift.” He says: accept my `beracha`, my blessing. That is exactly the word the whole of chapter 27 revolved around. Jacob gives back to his brother what he once took from him, and he calls it by its name. The BSB smooths this over (“Please accept my gift that was brought to you”), while the KJV keeps it: “Take, I pray thee, my blessing” (KJV).",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second wordplay is about faces. Jacob named the place of the night’s wrestling Peniel, “face of God.” A few hours later he tells Esau that he has seen his `panim`, his face, the way one sees the face of God. Twice within a single day he expected death, and twice he saw a face that welcomed him.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does it change your understanding of the scene to know that Jacob is really saying, take my blessing?** Why is it so important in reconciliation for the guilty one to name for himself what he did?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Each His Own Way",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 33:12-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Esau said, “Let us be on our way, and I will go ahead of you.” But Jacob replied, “My lord knows that the children are frail, and I must care for sheep and cattle that are nursing their young. If they are driven hard for even a day, all the animals will die. Please let my lord go ahead of his servant. I will continue on slowly, at a comfortable pace for the livestock and children, until I come to my lord at Seir.” “Let me leave some of my people with you,” Esau said. But Jacob replied, “Why do that? Let me find favor in the sight of my lord.” So that day Esau started on his way back to Seir, but Jacob went on to Succoth, where he built a house for himself and shelters for his livestock; that is why the place was called Succoth."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Esau suggests they travel together, then offers an escort. Twice Jacob politely declines. **How do you read that: as distrust, as prudence, or maybe as both?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The brothers fell into each other’s arms, and that same day went off in opposite directions. **What does that say about what reconciliation is, and what it doesn’t have to be?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jacob says he will come to Seir, but he goes to Succoth. **What do you make of that?** The text doesn’t comment on it.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Bible doesn’t add a happy ending to this story in which the brothers settle down as neighbors. Reconciliation did not give them back their childhood or turn them into friends. It did something humbler, and enough: it lifted fear off one of them and the desire for revenge off the other, and it let them live apart without hostility. Years later, Genesis mentions them together one more time. They stand side by side at their father’s grave.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Leave Your Gift",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 5:23-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "So if you are offering your gift at the altar and there remember that your brother has something against you, leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift."
+       ]
+      },
+      {
+       "odnosnik": "Luke 19:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.” Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus is talking about a situation in which I am the one who did wrong, and I know it. Jacob knew it too. **Why is the road to the other person longest precisely then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Zacchaeus doesn’t stop at words. **What does he add? What place does making good the damage have in reconciliation?** Compare this with Jacob’s gift.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The altar in the first passage stood in Jerusalem, and Jesus says this in Galilee, several days’ journey away. **What does that distance say about what is more urgent to God?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Charge It to My Account",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Onesimus, Philemon’s slave, ran away from his master and probably stole from him. He ended up with Paul in prison and came to faith. Paul sends him back with a letter.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philemon 10-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "I appeal to you for my child Onesimus, whose father I became while I was in chains. Formerly he was useless to you, but now he has become useful both to you and to me. I am sending back to you him who is my very heart. I would have liked to keep him with me, so that on your behalf he could minister to me in my chains for the gospel. But I did not want to do anything without your consent, so that your goodness will not be out of compulsion, but by your own free will. For perhaps this is why he was separated from you for a while, so that you might have him back for good— no longer as a slave, but better than a slave, as a beloved brother. He is especially beloved to me, but even more so to you, both in person and in the Lord. So if you consider me a partner, receive him as you would receive me. But if he has wronged you in any way or owes you anything, charge it to my account."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul stands between the two parties. **What does he take on himself? What does he not do, despite his authority?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“No longer as a slave, but … as a beloved brother.” **Does reconciliation here restore the old arrangement or create a new one?** What does that mean for relationships we don’t want to go back to in their old form?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Among those sending greetings to Philemon at the end of the letter is Mark, the same Mark whom Paul once refused to take along on a journey. **What does that add to Paul’s request?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Ministry of Reconciliation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 5:17-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come! All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation: that God was reconciling the world to Himself in Christ, not counting men’s trespasses against them. And He has committed to us the message of reconciliation. Therefore we are ambassadors for Christ, as though God were making His appeal through us. We implore you on behalf of Christ: Be reconciled to God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Jacob’s story, the one who did wrong took the first step. **Who takes the first step here? Which side in this relationship was the one wronged?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God has done everything on His side, and still Paul pleads: be reconciled. **What does even God not do for the other side?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "He “gave us the ministry of reconciliation.” **In a divided family or a divided church, how can you recognize a person who has been reconciled?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In this passage God doesn’t stand off to the side as someone who first has to be appeased. He was in Christ and took the initiative Himself, even though He was the one wronged. Here He resembles Esau running to meet his brother, and even more the father in Jesus’ parable. At the same time, He forces nothing. He pleads. Even for God, reconciliation is a road with two sides: you can walk your whole part of it and still be waiting for the other.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Altar After Reconciliation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 33:18-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "After Jacob had come from Paddan-aram, he arrived safely at the city of Shechem in the land of Canaan, and he camped just outside the city. And the plot of ground where he pitched his tent, he purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. There he set up an altar and called it El-Elohe-Israel."
+       ]
+      },
+      {
+       "odnosnik": "1 John 4:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "If anyone says, “I love God,” but hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen. And we have this commandment from Him: Whoever loves God must love his brother as well."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "For twenty years Jacob spoke of “the God of my father.” Israel is his own new name. **What does the name he gives the altar mean (El-Elohe-Israel, God, the God of Israel), and why does it come only now, after meeting his brother?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John links the brother we can see with the God we cannot see. **How does Jacob’s story illustrate that statement?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Reconciliation Is No Guarantee",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 45:14-15, 24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Joseph threw his arms around his brother Benjamin and wept, and Benjamin wept as they embraced. Joseph kissed each of his brothers as he wept over them. And afterward his brothers talked with him. … Then Joseph sent his brothers on their way, and as they were leaving, he said to them, “Do not quarrel on the way!”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A generation later, Jacob’s sons live through their own scene of tears and embraces. Joseph has just been weeping with his brothers, and as they leave he tells them something entirely sober. Many years later, after their father’s death, these same brothers will still be afraid of him.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does Joseph know about reconciliation, if right after the embraces he says, “Do not quarrel on the way!”?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Is reconciliation an event or a road?** What in both Genesis stories points to one, and what to the other?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In this story there is the one who walks with his heart in his throat and the one who runs out to meet him. **Which of these roles do you find yourself in more often? Which is harder for you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What costs you the most in reconciliation: the first step, naming your own guilt, making good the damage, or accepting a hand held out to you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there someone the road to whom leads through your own Jabbok?** You don’t have to say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jacob didn’t know how the meeting would end. Esau was coming with four hundred men, and Jacob arranged his family so that some of them could escape. **When is an attempt at reconciliation courage, and when is it putting yourself and your loved ones at risk? Are there relationships where we have to stop at forgiving from a distance?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t look for a single answer. It helps if someone points out that Jacob went prepared and cautious, and kept his distance after the meeting. It is also worth saying plainly that where the other side is still doing harm, safety comes before reconciliation.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "I can forgive on my own. Reconciliation takes two, and the first step belongs to whoever sees it first.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Genesis 33:10 or 2 Corinthians 5:18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "For twenty years Jacob knew that his brother had something against him. Ask yourself in silence: **who has something against me, and I know it?** Don’t look for excuses. Stay for a moment with just the name.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Before Jacob stood before his brother, he spent a night alone with God and had to say what his name was. Ask God: **what would I have to call by its name before I go to this person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if there is damage that can be made good, admit to yourself what that would be. Something to give back, a word to take back, a sentence to say. Don’t plan anything yet. First, notice what in you resists it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about reconciling with a person who was or still is abusive.** Say clearly: forgiveness does not mean going back to the abuser or giving up protecting yourself and your children. Reconciliation requires two sides and real change in the one who did the harm. It can’t be done alone or by force. Jacob went cautiously and kept his distance after the meeting. Don’t leave the person alone with this; talk after the meeting and help them find professional help. If there is immediate danger, call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I tried. The other person doesn’t want to.”** Don’t probe into what they did wrong. Paul pleads on God’s behalf, “Be reconciled,” so even God is sometimes the side that waits. You can say: “You can walk your part of the road all the way. The other part is out of our hands.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“He’s already dead.”** This is grief, not a topic for discussion. Listen and don’t offer solutions. If the person wants it, you can add that what went unsaid can still be said before God. Stay with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone, stirred by the meeting, wants to call or drive over today.** Gently cool things down. Jacob prepared for a long time: messengers, prayer, a night by the Jabbok. Haste rarely serves reconciliation. Encourage them to talk it over first with God and with someone they trust.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“We made up, and there’s still a chill between us.”** Go back to section 3. The brothers each went their own way, and the Bible doesn’t call that a failure. Reconciliation doesn’t always bring closeness. Sometimes it brings peace, and that is enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table starts trying to reconcile two other people, or pushes: “You should go to her.”** Interrupt calmly. Each of us knows only our own part of the road. This material is about my first step, not someone else’s.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone talks about reconciling with a person who was or still is abusive.",
+     "odpowiedz": "Say clearly: forgiveness does not mean going back to the abuser or giving up protecting yourself and your children. Reconciliation requires two sides and real change in the one who did the harm. It can’t be done alone or by force. Jacob went cautiously and kept his distance after the meeting. Don’t leave the person alone with this; talk after the meeting and help them find professional help. If there is immediate danger, call your local emergency number."
+    },
+    {
+     "sytuacja": "“I tried. The other person doesn’t want to.”",
+     "odpowiedz": "Don’t probe into what they did wrong. Paul pleads on God’s behalf, “Be reconciled,” so even God is sometimes the side that waits. You can say: “You can walk your part of the road all the way. The other part is out of our hands.”"
+    },
+    {
+     "sytuacja": "“He’s already dead.”",
+     "odpowiedz": "This is grief, not a topic for discussion. Listen and don’t offer solutions. If the person wants it, you can add that what went unsaid can still be said before God. Stay with them after the meeting."
+    },
+    {
+     "sytuacja": "Someone, stirred by the meeting, wants to call or drive over today.",
+     "odpowiedz": "Gently cool things down. Jacob prepared for a long time: messengers, prayer, a night by the Jabbok. Haste rarely serves reconciliation. Encourage them to talk it over first with God and with someone they trust."
+    },
+    {
+     "sytuacja": "“We made up, and there’s still a chill between us.”",
+     "odpowiedz": "Go back to section 3. The brothers each went their own way, and the Bible doesn’t call that a failure. Reconciliation doesn’t always bring closeness. Sometimes it brings peace, and that is enough."
+    },
+    {
+     "sytuacja": "Someone at the table starts trying to reconcile two other people, or pushes: “You should go to her.”",
+     "odpowiedz": "Interrupt calmly. Each of us knows only our own part of the road. This material is about my first step, not someone else’s."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words."
+    }
+   ]
+  }
+ ]
+}

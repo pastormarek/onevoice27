@@ -1,0 +1,614 @@
+{
+ "tytul": "Shame",
+ "id": "E-03",
+ "seria": "Emotions",
+ "opis": "Guilt says “I did something bad”; shame says “I am bad.” How God answers the second one.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 3:7-10; Genesis 3:21; Luke 7:37-39, 44-48; John 8:3-11; Hebrews 12:2; Romans 10:11",
+  "p2": "Luke 15:20-24; Psalm 34:5; Isaiah 61:7",
+  "p3": "Psalm 32:1-2; Romans 8:1"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "emotions",
+  "identity",
+  "forgiveness",
+  "dignity"
+ ],
+ "wersja": 1,
+ "zdanie": "God doesn’t dismiss shame, and He doesn’t leave us in fig leaves. He comes with a better covering.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Shame is not the same as guilt. Guilt says, “I did something bad.” Shame says, “I am bad,” and that’s why an apology can’t wash it away. The whole meeting hangs on that difference, because the Bible answers each of them differently.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "This is a very sensitive topic. At the table there may be someone who has been through a divorce, an abortion or prison, someone with a story nobody knows. Don’t ask anyone directly about their shame.",
+      "The group may start discussing other people’s sins as examples. Cut that off immediately.",
+      "Church is sometimes the place where people were given shame rather than freed from it. Someone may say so out loud. Don’t get defensive."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t encourage confessions in front of the group. Don’t say “You have nothing to be ashamed of,” because that dismisses the person. Don’t use the word “sinner” or any other label for anyone at the table.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Finish the sentence with one word: when I feel ashamed, I usually… (go quiet, make jokes, attack, leave, explain myself). No stories about the situation.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first. Don’t ask anyone for the reason.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The First Hiding",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:7-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves. Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden. But the LORD God called out to the man, “Where are you?” “I heard Your voice in the garden,” he replied, “and I was afraid because I was naked; so I hid myself.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before God said anything, they had already done something. **List, in order, what they do in verses 7 and 8.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Adam explains why he hid: “because I was naked.” **Is that the real reason? What is he not saying?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "God asks, “Where are you?” even though He knows. **Why does He ask that question?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Shame shows up in the Bible before any conversation about punishment. The first reaction isn’t remorse but two actions: cover up and disappear. The fig leaves are an attempt to cope with their own resources; hiding among the trees is giving up on the relationship. Adam tells the truth, but not the whole truth. He had been naked before, and it hadn’t bothered him. What changed wasn’t his body but who he felt he was before God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Shame or Guilt",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Guilt is about an action: I did something bad. Shame is about a person: I am bad. That’s why guilt can be confessed and put right, while shame usually leads to hiding, because there’s nothing to put right when the thing that’s broken is the person.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `bosh`, translated as shame, originally means something like “to disappoint, to turn out not to be who you were taken to be.” It’s a word from the world of relationships and honor, not from the courtroom.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Try applying this distinction to the text. **Which of Adam’s sentences are about an action, and which are about himself?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can you apologize for who you are?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Clothes God Made",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:21",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD God made garments of skin for Adam and his wife, and He clothed them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God doesn’t say their shame is unjustified, and He doesn’t tell them to take off the fig leaves. **What does He do instead?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "They made the fig-leaf coverings themselves. God made the garments of skin. **How are these two coverings different, and what had to happen for the second one to exist?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is one of those verses that’s easy to read as a household detail. God doesn’t dismiss the shame, because something really did happen. Instead He does something practical: He gives a covering better than the one they had patched together themselves. The skin had to come from an animal, so the first death in the Bible serves to cover human disgrace. All the later language about the robe of righteousness grows out of this picture.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Woman Who Came Uninvited",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 7:37-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "When a sinful woman from that town learned that Jesus was dining there, she brought an alabaster jar of perfume. As she stood behind Him at His feet weeping, she began to wet His feet with her tears and wipe them with her hair. Then she kissed His feet and anointed them with the perfume. When the Pharisee who had invited Jesus saw this, he said to himself, “If this man were a prophet, He would know who this is and what kind of woman is touching Him—for she is a sinner!”"
+       ]
+      },
+      {
+       "odnosnik": "Luke 7:44-48",
+       "przeklad": "BSB",
+       "akapity": [
+        "And turning toward the woman, He said to Simon, “Do you see this woman? When I entered your house, you did not give Me water for My feet, but she wet My feet with her tears and wiped them with her hair. You did not greet Me with a kiss, but she has not stopped kissing My feet since I arrived. You did not anoint My head with oil, but she has anointed My feet with perfume. Therefore I tell you, because her many sins have been forgiven, she has loved much. But he who has been forgiven little loves little.” Then Jesus said to her, “Your sins are forgiven.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "She doesn’t say a single word in the whole scene. **What does she do instead of speaking, and why that way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Simon thinks about her: “who this is and what kind of woman.” Jesus begins with, “Do you see this woman?” **What does Jesus change with that one question?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus points out to Simon three things he didn’t do that she did. **Who in this scene ought to be ashamed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that culture, a woman walking uninvited into a men’s banquet was a scandal in itself, regardless of her past. She walks into a place where her shame will be recognized instantly, and she does it knowingly. Jesus doesn’t hide her story or deny it. He does something else: He makes Simon see her. Shame feeds on being invisible and looked down on at the same time.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Stones That Were Never Thrown",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 8:3-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "The scribes and Pharisees, however, brought to Him a woman caught in adultery. They made her stand before them and said, “Teacher, this woman was caught in the act of adultery. In the Law Moses commanded us to stone such a woman. So what do You say?” They said this to test Him, in order to have a basis for accusing Him. But Jesus bent down and began to write on the ground with His finger. When they continued to question Him, He straightened up and said to them, “Let him who is without sin among you be the first to cast a stone at her.” And again He bent down and wrote on the ground. When they heard this, they began to go away one by one, beginning with the older ones, until only Jesus was left, with the woman standing there. Then Jesus straightened up and asked her, “Woman, where are your accusers? Has no one condemned you?” “No one, Lord,” she answered. “Then neither do I condemn you,” Jesus declared. “Now go and sin no more.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 3 says, “They made her stand before them.” **Why? What do they need her for?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say she didn’t sin, and He doesn’t say the law doesn’t matter. **What does He say, and why do the accusers leave?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The last sentence has two parts: “neither do I condemn you” and “go and sin no more.” **What would happen if only one of them were left?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "They leave “beginning with the older ones.” **Why in that order?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Father Who Ran",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:20-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him. The son declared, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. Bring the fattened calf and kill it. Let us feast and celebrate. For this son of mine was dead and is alive again! He was lost and is found!’ So they began to celebrate."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The son has a speech prepared, but his father cuts him off halfway through. **What didn’t the son get to say, and why does that matter?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "An older man running through the village had to hitch up his robe, which in that culture was humiliating. **Who in this scene takes the shame on himself?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The robe, the ring and the sandals aren’t gifts. **What does each of them restore?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Shame Despised",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 12:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God."
+       ]
+      },
+      {
+       "odnosnik": "Romans 10:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "We read that Jesus “endured the cross, scorning its shame,” and went through it. Crucifixion was designed to be the ultimate public humiliation. **What does it mean that He agreed to it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul promises that the believer “will never be put to shame.” **Is that a promise that no one will ever humiliate us, or something else?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Sentences from the Old Testament",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 34:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Those who look to Him are radiant with joy; their faces shall never be ashamed."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 61:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Instead of shame, My people will have a double portion, and instead of humiliation, they will rejoice in their share; and so they will inherit a double portion in their land, and everlasting joy will be theirs."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm connects looking to God with what happens to our faces. **Why the face in particular?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah doesn’t promise that there was no shame. **What does he promise instead?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Adam covered himself with leaves. **What do you cover what you’re ashamed of with?** Work, humor, silence, helping others, something else.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Is there an area of your life you think about this way: if people at church knew, they’d look at me differently?** Don’t say what it is. Just say whether there is one.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **has anyone ever seen something good in you at a time when you saw nothing in yourself but shame?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do you do when shame stays even after forgiveness? A person believes God has forgiven them and still can’t stand to look at themselves. Is that a lack of faith in forgiveness, or something that needs a different remedy than confession?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this is a real experience for many believers. Don’t dismiss it by saying you just have to believe. Guilt and shame need different things: guilt needs confession; shame needs to be seen and not rejected.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God doesn’t dismiss shame, and He doesn’t leave us in fig leaves. He comes with a better covering.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Genesis 3:21 or Romans 10:11.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of one thing you wouldn’t tell anyone at church. You don’t have to tell anyone. **Ask yourself: what am I afraid people would see then?** Name that word. There’s usually just one.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Read Genesis 3:21 again and stay with one question: **do you really believe that God sees you as you are and, even so, comes closer rather than moving away?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you’re carrying something no one knows about, find one person who isn’t part of that story and tell them. Shame lives on hiding, and it weakens when it’s seen by someone who doesn’t walk away.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts confessing something serious in front of the whole group.** Don’t cut them off mid-sentence, but don’t let it unfold further. Thank them, say briefly that it took courage, and offer to talk after the meeting. A home group is not a confessional, and no one should leave feeling they said too much.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’ve been shamed more at church than anywhere else.”** Don’t defend the church. Say that it happens, and that in the texts we read today, shame always comes from people and the covering from God. Ask whether they’d like to talk about it after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone brings up another person’s sin as an example.** Cut it off immediately: “Let’s stay with the text.” Don’t comment; move on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“You have nothing to be ashamed of.”** Someone at the table will say this to someone else with good intentions. It’s a dismissive sentence. You can gently turn it around: “Maybe the question isn’t whether there’s a reason, but what God does with it.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question about personal shame.** That’s the most natural reaction. Don’t push. Answer yourself, in general terms, and move on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone turns everything into a joke.** Joking is a form of covering here, exactly the kind the first block talks about. Don’t point it out. Just go back to the question.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone starts confessing something serious in front of the whole group.",
+     "odpowiedz": "Don’t cut them off mid-sentence, but don’t let it unfold further. Thank them, say briefly that it took courage, and offer to talk after the meeting. A home group is not a confessional, and no one should leave feeling they said too much."
+    },
+    {
+     "sytuacja": "“I’ve been shamed more at church than anywhere else.”",
+     "odpowiedz": "Don’t defend the church. Say that it happens, and that in the texts we read today, shame always comes from people and the covering from God. Ask whether they’d like to talk about it after the meeting."
+    },
+    {
+     "sytuacja": "Someone brings up another person’s sin as an example.",
+     "odpowiedz": "Cut it off immediately: “Let’s stay with the text.” Don’t comment; move on."
+    },
+    {
+     "sytuacja": "“You have nothing to be ashamed of.”",
+     "odpowiedz": "Someone at the table will say this to someone else with good intentions. It’s a dismissive sentence. You can gently turn it around: “Maybe the question isn’t whether there’s a reason, but what God does with it.”"
+    },
+    {
+     "sytuacja": "The group goes quiet after a question about personal shame.",
+     "odpowiedz": "That’s the most natural reaction. Don’t push. Answer yourself, in general terms, and move on."
+    },
+    {
+     "sytuacja": "Someone turns everything into a joke.",
+     "odpowiedz": "Joking is a form of covering here, exactly the kind the first block talks about. Don’t point it out. Just go back to the question."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,931 @@
+{
+ "tytul": "Daniel 9:20-27. Seventy Weeks",
+ "id": "D-10",
+ "seria": "The Book of Daniel",
+ "opis": "The answer arrives before the prayer is over, and at its center stands the Anointed One, who will be killed.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 9:1-3, 17-19; 9:20-23; 9:24; 9:25-26; 9:27",
+  "p2": "Jeremiah 29:10; Isaiah 65:24; Daniel 8:26-27; Leviticus 25:8-10; Ezra 7:11-13, 25-26; Mark 1:14-15; Luke 3:1-2, 21-22; Acts 10:37-38",
+  "p3": "Hebrews 8:1-2; Isaiah 53:8; Matthew 26:56; Matthew 24:15-16"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 33
+ },
+ "tagi": [
+  "Daniel",
+  "prophecy",
+  "prayer",
+  "Messiah",
+  "cross",
+  "time"
+ ],
+ "wersja": 1,
+ "zdanie": "The answer went out before the prayer was over, and it had a name: the Anointed One.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "These are some of the most frequently calculated verses in the Bible, and it’s easy to spend the whole meeting doing math. Yet the scene itself is simple. An old man is praying for a ruined city and doesn’t get to finish, because the answer is already standing beside him. He asked for the end of seventy years. He receives a message about seventy weeks and about an Anointed One who will be killed. The meeting asks two things: what kind of God answers before we’ve finished speaking, and what kind of answer has someone’s death at its center?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Level 1 contains not a single date. The calculation is at Level 2, and the different ways of counting are at Level 3. That order is deliberate: first what the text says, then when.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone knows the chart by heart and will want to draw it right away. Ask them to be patient until block 4 and Level 2.",
+      "Verse 26 speaks of a people, a city, and an Anointed One who is killed. The conversation must not slide into blaming the Jews. Daniel prays “we have sinned,” and the New Testament says that Christ died for the sins of all. Correct any sentence like “they killed Him” right away.",
+      "Someone may have heard about a seven-year tribulation, the rapture, and a future temple in Jerusalem. That is a serious, widely known reading, and it is discussed at Level 3. Don’t make fun of it.",
+      "Someone at the table may have been praying about one thing for years without seeing an answer. The words “At the beginning of your petitions, an answer went out” may hurt."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t add dates at Level 1. Don’t connect the prophecy with today’s politics in the Middle East. Don’t promise anyone that their answer will come while they’re still praying, too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when you asked about one thing and got an answer to something much bigger. In one sentence, say how you felt.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "What He Asked For",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans— in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years. So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Daniel confesses his people’s sin as his own. He appeals to no merit of any kind. The prayer ends like this:",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:17-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "So now, our God, hear the prayers and petitions of Your servant. For Your sake, O Lord, cause Your face to shine upon Your desolate sanctuary. Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion. O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List exactly what Daniel is asking for.** For what place, for what time, and on what basis?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The promise of seventy years was there in the book in black and white. **Why does a man who has the promise in writing still fast and plead?** What does that say about how he understood promises?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Do not delay.” **What is someone afraid of when he ends a prayer like that?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** In the second half of chapter 9, and in the third of Daniel’s four visions. Babylon has just fallen; the Medes and Persians are in power. In chapter 8 Daniel heard about a long period of “evenings and mornings,” fell ill from the strain, and wrote that he didn’t understand it. Chapter 9 is the first with no animals and no statues. There is only prayer and conversation.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Daniel is over eighty. Jeremiah’s seventy years are drawing to a close, yet Jerusalem still lies in ruins and no one is going back. Hence the urgency in his prayer.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 29:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this is what the LORD says: “When Babylon’s seventy years are complete, I will attend to you and confirm My promise to restore you to this place."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A prophet reads another prophet to understand his own times. **What does that say about how Daniel himself treated Scripture, and what can we learn from him as readers of his book?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "While I Was Still Praying",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:20-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain— while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice. He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding. At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice Daniel says the answer came while he was still in the middle of praying. **According to verse 23, when did the answer set out?** What does that say about the God Daniel is praying to?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel has just finished listing sins, his own and other people’s. The first thing he hears about himself is “you are highly precious.” **How do those two things fit into one scene?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The temple has been gone for decades, yet Daniel still marks the day by “the time of the evening sacrifice.” **What does that say about what he lived by all those years?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Gabriel doesn’t say he has come with an answer to the prayer. He says he has come to give understanding, and he tells Daniel to understand “the vision.” He goes back to the matter from chapter 8 that Daniel had set aside as beyond understanding. A man asks for one thing, and along the way God picks up a conversation that broke off more than ten years earlier.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Before They Call",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 65:24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Even before they call, I will answer, and while they are still speaking, I will hear."
+       ]
+      },
+      {
+       "odnosnik": "Daniel 8:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "The vision of the evenings and the mornings that has been spoken is true. Now you must seal up the vision, for it concerns the distant future.” I, Daniel, was exhausted and lay ill for days. Then I got up and went about the king’s business. I was confounded by the vision; it was beyond understanding."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah promises exactly what Daniel experienced. **Does this promise mean every answer comes right away?** What in it is certain, and what does it not say?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "For years Daniel carried a vision he didn’t understand, and all that time he “went about the king’s business.” **How do you live with a question to God that stays unanswered for more than ten years?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Highly precious” is a single rare Hebrew word, `chamudot`. It means something valuable, longed for, a treasure. In the Bible it describes valuables and the finest clothing. It is used of a person only in the book of Daniel, three times, and always by a messenger from heaven.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second observation concerns the word “vision.” In chapters 8 and 9 the Hebrew has two different words. `Chazon` is the vision as a whole. `Mareh` is the part of it that dealt with the evenings and mornings, that is, with time. In Daniel 9:23 Gabriel tells him to understand the `mareh`. He goes back to exactly the part that made Daniel ill.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in how you read this chapter once you realize that the answer about the seventy weeks completes the conversation of chapter 8 rather than being a separate topic?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Six Promises",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Seventy weeks are decreed for your people and your holy city to stop their transgression, to put an end to sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy Place."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Count how many things are to happen in this time, and name each one in your own words.** Which of them have to do with walls and buildings?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel asked for a city and a temple. The first thing he hears is about transgression, sin and iniquity. **What does this answer say about what God considers the real desolation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel prayed: “not … because of our righteous acts.” Gabriel promises to “bring in everlasting righteousness.” **Whose righteousness will it be, since the people have none of their own?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Seven Times Seven",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 25:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And you shall count off seven Sabbaths of years—seven times seven years—so that the seven Sabbaths of years amount to forty-nine years. Then you are to sound the horn far and wide on the tenth day of the seventh month, the Day of Atonement. You shall sound it throughout your land. So you are to consecrate the fiftieth year and proclaim liberty in the land for all its inhabitants. It shall be your Jubilee, when each of you is to return to his property and to his clan."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel was counting seventy years. Gabriel speaks of seventy sevens, that is, four hundred ninety years, which is ten Jubilee periods. **What hope does a reckoning carry when it’s patterned on the year when liberty was proclaimed, debts were canceled, and everyone went home to his own?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Seventy years of captivity turn into a wait seven times longer. **Is that good news or bad news?** For whom, and why?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Two words in verse 24 carry more weight than a translation shows.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "“Are decreed” in verse 24 is the Hebrew `chatak`. It appears only here in the entire Hebrew Bible. In later Hebrew it means “to cut, to cut off,” and that’s how the ancient Greek translation renders it too. Some readers conclude from this that the seventy weeks were cut off from a longer period, namely the evenings and mornings of chapter 8. The linguistic fact itself is certain. The conclusion depends on which meaning you adopt.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "“Most Holy” in the Old Testament almost always refers to a place or an object connected with the sanctuary, not to a person. The tabernacle was anointed when the service in it began.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 8:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven, and who ministers in the sanctuary and true tabernacle set up by the Lord, not by man."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If the “Most Holy Place” is a place, and according to verse 26 the temple in Jerusalem is to be destroyed again, **the start of service in which sanctuary could Gabriel be talking about?** What does the letter to the Hebrews suggest?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Anointed One",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem, until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress. Then after the sixty-two weeks the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What does the text say about the Messiah?** Gather everything: who he is, when he comes, what happens to him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Messiah” is Hebrew for “Anointed One”; in Greek, it’s “Christ.” Everyone was waiting for a Messiah who would win. **How do the words “the Messiah will be cut off and will have nothing” sound as an answer to a prayer for rescue?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The city will be rebuilt, but “in times of distress,” and then destroyed again. **What does this prediction do to the hope that all it takes is to go back and rebuild the walls, and everything will be fine?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God’s word divides this time into three segments: seven weeks, sixty-two weeks and one week. The starting point is “the decree to restore and rebuild Jerusalem,” and the finish line is the Messiah. At this level it’s enough to notice one thing: God ties the coming of the Messiah to the calendar. He doesn’t say “someday.” He says where to start counting.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Counting the Weeks",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "A week here means seven years, as in the law of Sabbath years, so the sixty-nine weeks until the Anointed One are four hundred eighty-three years. The book of Ezra records several Persian decrees. The first two concern the temple. Only the third, issued in the seventh year of Artaxerxes, restores to Jerusalem its own law and courts. According to the accepted chronology, that year is 457 BC.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezra 7:11-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is the text of the letter King Artaxerxes had given to Ezra the priest and scribe, an expert in the commandments and statutes of the LORD to Israel: Artaxerxes, king of kings. To Ezra the priest, the scribe of the Law of the God of heaven: Greetings. I hereby decree that any volunteers among the Israelites in my kingdom, including the priests and Levites, may go up with you to Jerusalem."
+       ]
+      },
+      {
+       "odnosnik": "Ezra 7:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "And you, Ezra, according to the wisdom of your God which you possess, are to appoint magistrates and judges to judge all the people west of the Euphrates—all who know the laws of your God. And you are to teach these laws to anyone who does not know them. If anyone does not keep the law of your God and the law of the king, let a strict judgment be executed against him, whether death, banishment, confiscation of property, or imprisonment."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Four hundred eighty-three years counted from that date end in AD 27. The calculation needs one adjustment: the calendar has no year zero, so between 1 BC and AD 1 one year passes, not two. The Gospels don’t give the year of Jesus’ baptism as a number. Luke pins it to the calendar another way:",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 3:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness."
+       ]
+      },
+      {
+       "odnosnik": "Luke 3:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened, and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”"
+       ]
+      },
+      {
+       "odnosnik": "Acts 10:37-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "You yourselves know what has happened throughout Judea, beginning in Galilee with the baptism that John proclaimed: how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how Jesus went around doing good and healing all who were oppressed by the devil, because God was with Him."
+       ]
+      },
+      {
+       "odnosnik": "Mark 1:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God. “The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Luke dates John’s appearance with the names of six rulers. **Why does the Gospel writer pin this moment to the calendar so carefully?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter says God “anointed” Jesus at His baptism. That is exactly what “Messiah” means: the Anointed One. **How does that connect with what Daniel heard?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus’ first words in Mark are: “The time is fulfilled.” **What time might someone who knew the book of Daniel have had in mind?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Last Week",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "And he will confirm a covenant with many for one week, but in the middle of the week he will put an end to sacrifice and offering. And on the wing of the temple will come the abomination that causes desolation, until the decreed destruction is poured out upon him.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This verse is difficult and has been read in different ways. Stay with the words themselves. **What in it is good news, and what is bad news?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The last words of the whole answer set a limit: the abomination that causes desolation lasts only “until the decreed destruction is poured out upon him.” The word “desolation” keeps coming back in this chapter, in the prayer and in the answer. **What does it mean for a man standing over ruins that desolation has a limit set in advance?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel cried out, “do not delay.” He received a plan laid out over almost five centuries, whose end he would not see. **Was his prayer answered?** Back up your answer from the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“In the middle of the week he will put an end to sacrifice and offering.” Many Christians read this sentence alongside the cross. If the Anointed One dies in the middle of the last week, then His death brings the meaning of the sacrifices to an end, because it does once for all what they only pointed to: it makes atonement for iniquity. Then the six promises of verse 24 are fulfilled not in spite of the Anointed One’s death but through it. Level 3 covers other readings.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: “Will Have Nothing”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew phrase the BSB renders “and will have nothing” is very short and literally means “and there is not for him” or “and no one with him.” It can be understood this way: he will be killed, and no one will stand by him.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 53:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "By oppression and judgment He was taken away, and who can recount His descendants? For He was cut off from the land of the living; He was stricken for the transgression of My people."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 26:56",
+       "przeklad": "BSB",
+       "akapity": [
+        "But this has all happened so that the writings of the prophets would be fulfilled.” Then all the disciples deserted Him and fled."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The prophecy says not only that the Anointed One will die, but that He will die alone. **What does that change in the way you read the account of the night in Gethsemane?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah adds what it was for: “for the transgression of My people.” **How does that line connect with Daniel’s prayer, “we have sinned,” and with the promise “to make atonement for iniquity”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Three Ways of Counting",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "These four verses have been read in three main ways, and each one has something to explain.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The historical messianic reading belongs to the oldest school of interpreting Daniel, and it is how Adventists read the passage. The weeks run without a break from the decree of 457 BC. The sixty-nine weeks end with Jesus’ baptism, and in the middle of the last week comes the cross, which takes away the meaning of the sacrifices. The end of the week is when the gospel goes out to the Gentiles. This reading has to explain why the destruction of Jerusalem in AD 70 lies outside the four hundred ninety years. Its answer is that verse 26 foretells it as a consequence, not as part of the count.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The historical-critical reading sees events of the second century BC here. The Anointed One who is killed is then one of the high priests of that time, and the abomination is the pagan worship brought into the temple by Antiochus IV. This reading has to explain why clearly fewer than four hundred ninety years passed between Daniel’s time and Antiochus, and what to do with the words of Jesus, who speaks of the abomination of desolation as something still to come:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 24:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "So when you see standing in the holy place ‘the abomination of desolation,’ described by the prophet Daniel (let the reader understand), then let those who are in Judea flee to the mountains."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The dispensationalist reading, familiar from many evangelical churches, agrees that the sixty-nine weeks lead to Jesus. But then it stops the clock for the whole church age and moves the last week to the end of time as seven years of tribulation. The one who makes the covenant and puts an end to sacrifices is then a future antichrist. This reading has to explain where the gap comes from, since the text says nothing about it, and why putting an end to sacrifices would be the work of an enemy, when according to the letter to the Hebrews it was Christ who did it.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "All three agree on one thing: God did not leave history to run its own course, and desolation has an end.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which words in verses 24-27 are hardest to reconcile with each of the three readings?** Try to be honest, including with the one closest to you.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus said of this prophecy: “let the reader understand.” **What do you think Matthew’s first readers were meant to understand, and what are we meant to understand?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "you don’t have to win this conversation. It’s enough to show that the reading without a gap in the count sticks to the text itself, which announces no gap, and that it leads straight to Jesus. If someone reads it differently, ask which sentence they’re basing that on.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel asked for the end of seventy years, and God answered him about guilt, righteousness and the Anointed One. **Where in your life are you asking for walls to be rebuilt, when God may want to talk about something deeper?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“At the beginning of your petitions, an answer went out.” **What would change in your prayer if you truly accepted that you are heard from the first sentence, even when nothing is visible yet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there something you keep crying “do not delay” about, while the answer seems to be laid out over a longer time than you have strength to wait?** You don’t have to say what.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God told people where to start counting the time until the Messiah, and yet most of those who had this book in their hands did not recognize Him. **Why does God give a prophecy with a calendar if knowing the calendar alone brought no one to faith? What is needed besides the calculation?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question, and don’t let it turn into a judgment on anyone, past or present. It’s worth having someone notice what the chapter itself shows: understanding came to a man who was praying and confessing, not to a man who was only counting.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The answer went out before the prayer was over, and it had a name: the Anointed One.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 9:23a or Daniel 9:26a.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Daniel heard “you are highly precious” right after confessing sin. Ask yourself: **do I believe God can say that about me precisely when I stand before Him with what I’m ashamed of?** If not, what exactly is getting in the way?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a prayer you’ve been repeating for a long time. Instead of repeating it once more, ask God: **has the answer already gone out, and I’m just waiting for a different one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** read Daniel 9:26 slowly and stay with the words “will have nothing.” Tell God in your own words what it means to you that the Anointed One was alone then.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone immediately draws a chart with dates and lays out the whole prophecy in five minutes.** Thank them and ask for patience: “We’ll get to the dates. First let’s see what Daniel asked for and what he heard about himself.” If you’re only leading Level 1, say that the calculation is in the Level 2 material and you can come back to it separately.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Well, the Jews killed the Messiah; they brought it on themselves.”** Interrupt right away, and calmly. The text says the Anointed One will be killed, and it doesn’t point to anyone as guilty. Daniel, a Jew, prays “we have sinned,” and Isaiah says the Servant suffers for the transgression of the people. The New Testament adds that He died for the sins of all people. This prophecy gives no one the right to look down on any nation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The last week is seven years of the great tribulation; there’ll be a rapture and a third temple.”** Don’t make fun of it. Say that many Christians read the text this way and that the material discusses this reading at Level 3. Ask: “Where in these four verses do you see a gap between the sixty-ninth week and the seventieth?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone connects the prophecy with current events in the Middle East or calculates a date for the end of the world.** Stop it. The seventy weeks lead to Jesus’ first coming and end there. This text gives no date still ahead of us and comments on no modern state.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’ve been praying for years, and no angel has come flying to me.”** That is real pain. Don’t explain it away, and don’t promise a quick answer. You can say that Daniel waited more than ten years to understand the vision of chapter 8, and he didn’t live to see this answer fulfilled. The text promises that prayer is heard from the first word. It doesn’t promise a timeline. Stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“How do we know a week means seven years? That’s a stretch.”** That’s a fair question. Seventy ordinary weeks are less than a year and a half, and in that time no one could rebuild a city or live to see the Messiah. Daniel had just been reading about seventy years, and the law of Moses counts years in sevens. Read Leviticus 25:8 from Level 2.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Just read block 1 aloud, without the questions. Don’t shorten blocks 2 and 4. From block 5, keep the question about the limit set on desolation.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone immediately draws a chart with dates and lays out the whole prophecy in five minutes.",
+     "odpowiedz": "Thank them and ask for patience: “We’ll get to the dates. First let’s see what Daniel asked for and what he heard about himself.” If you’re only leading Level 1, say that the calculation is in the Level 2 material and you can come back to it separately."
+    },
+    {
+     "sytuacja": "“Well, the Jews killed the Messiah; they brought it on themselves.”",
+     "odpowiedz": "Interrupt right away, and calmly. The text says the Anointed One will be killed, and it doesn’t point to anyone as guilty. Daniel, a Jew, prays “we have sinned,” and Isaiah says the Servant suffers for the transgression of the people. The New Testament adds that He died for the sins of all people. This prophecy gives no one the right to look down on any nation."
+    },
+    {
+     "sytuacja": "“The last week is seven years of the great tribulation; there’ll be a rapture and a third temple.”",
+     "odpowiedz": "Don’t make fun of it. Say that many Christians read the text this way and that the material discusses this reading at Level 3. Ask: “Where in these four verses do you see a gap between the sixty-ninth week and the seventieth?”"
+    },
+    {
+     "sytuacja": "Someone connects the prophecy with current events in the Middle East or calculates a date for the end of the world.",
+     "odpowiedz": "Stop it. The seventy weeks lead to Jesus’ first coming and end there. This text gives no date still ahead of us and comments on no modern state."
+    },
+    {
+     "sytuacja": "“I’ve been praying for years, and no angel has come flying to me.”",
+     "odpowiedz": "That is real pain. Don’t explain it away, and don’t promise a quick answer. You can say that Daniel waited more than ten years to understand the vision of chapter 8, and he didn’t live to see this answer fulfilled. The text promises that prayer is heard from the first word. It doesn’t promise a timeline. Stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "“How do we know a week means seven years? That’s a stretch.”",
+     "odpowiedz": "That’s a fair question. Seventy ordinary weeks are less than a year and a half, and in that time no one could rebuild a city or live to see the Messiah. Daniel had just been reading about seventy years, and the law of Moses counts years in sevens. Read Leviticus 25:8 from Level 2."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Just read block 1 aloud, without the questions. Don’t shorten blocks 2 and 4. From block 5, keep the question about the limit set on desolation."
+    }
+   ]
+  }
+ ]
+}

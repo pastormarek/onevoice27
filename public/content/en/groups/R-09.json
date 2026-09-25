@@ -1,0 +1,777 @@
+{
+ "tytul": "Boundaries",
+ "id": "R-09",
+ "seria": "Relationships",
+ "opis": "Jesus walked away from crowds who needed Him. Love is not the same thing as being available.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mark 1:32-38; Nehemiah 6:1-4; Galatians 6:1-5; Matthew 5:33-37; Luke 10:38-42",
+  "p2": "Luke 5:15-16; John 6:14-15; Nehemiah 6:5-9; Exodus 18:13-18, 21-24; John 11:20-22, 27; John 12:1-2",
+  "p3": "Matthew 11:30; Matthew 5:38-42; Luke 4:28-30; John 10:17-18"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "relationships",
+  "boundaries",
+  "saying no",
+  "service",
+  "burnout",
+  "calling"
+ ],
+ "wersja": 1,
+ "zdanie": "Jesus could say “no” to people because He had first said “yes” to the Father.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word “boundaries” comes from self-help books, and many believers hear selfishness in it. This meeting doesn’t start with a self-help book. It starts with a scene: the whole town is crowded at the door, and before dawn Jesus slips away, prays, and says, “Let us go on to the neighboring towns.” His “no” doesn’t come from being tired of people. It comes from having first said “yes” to the Father and knowing why He came. That is what the whole meeting is about: love is not the same thing as being available, and saying no can be a form of faithfulness.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may live in a marriage or a family where saying no gets punished. For them this isn’t a conversation about the skill of saying “no.” It’s about safety.",
+      "Someone may be worn out from serving at church and afraid to admit it. The group, or you yourself, may be part of that pressure.",
+      "The topic can be pulled in either direction: some will hear confirmation that they don’t owe anyone anything, while others will become even more convinced that every “no” is a sin. The text allows neither of these shortcuts.",
+      "It’s easy to start talking about people who aren’t there: a mother-in-law, a boss, someone from church."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t use labels like “toxic person.” Don’t let the group discuss people who aren’t at the table. Don’t cast Martha in a bad light. Don’t advise anyone whom to say no to or how.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of the last time you said “yes” when you wanted to say “no.” Don’t say to whom or what it was about. Just say, in one word, how you felt afterward.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one word. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Everyone Is Looking for You",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 1:32-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "That evening, after sunset, people brought to Jesus all who were sick and demon-possessed, and the whole town gathered at the door. And He healed many who were ill with various diseases and drove out many demons. But He would not allow the demons to speak, because they knew who He was. Early in the morning, while it was still dark, Jesus got up and slipped out to a solitary place to pray. Simon and his companions went to look for Him, and when they found Him, they said, “Everyone is looking for You!” But Jesus answered, “Let us go on to the neighboring towns so I can preach there as well, for that is why I have come.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Everyone is looking for You!” Coming from Simon, that sentence is an argument. **An argument for what? What does Simon want Jesus to do, and why does it seem so obvious to him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus answers, “Let us go on to the neighboring towns… for that is why I have come.” **What does He base His “no” on?** Look at what He was doing just before this, and where.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "That morning, people with real needs were left behind in Capernaum. **Did Jesus let them down?** What does this scene say about the difference between someone else’s need and your own calling?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Mark packs these events into a single day: a day in the synagogue, an evening of healing, prayer before dawn, a decision. Jesus’ refusal doesn’t come from a lack of compassion; the evening before, He turned no one away. It comes from knowing what He was sent to do, and He renews that knowledge in prayer before anyone has a chance to tell Him what He ought to do. A boundary here is not a defensive wall. It is the result of a “yes” already given to Someone.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Habit, Not an Exception",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 5:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses. Yet He frequently withdrew to the wilderness to pray."
+       ]
+      },
+      {
+       "odnosnik": "John 6:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the people saw the sign that Jesus had performed, they began to say, “Truly this is the Prophet who is to come into the world.” Then Jesus, realizing that they were about to come and make Him king by force, withdrew again to a mountain by Himself."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Luke, the crowds keep growing and Jesus keeps withdrawing. **How are the two connected? What would have happened to His ministry if He hadn’t done this?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In John, the crowd wants something for Jesus that looks like success. **What good offers do we sometimes have to flee up the mountain from?** Why is it harder to say no to someone who admires us than to someone who attacks us?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "I Cannot Come Down",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Nehemiah, an official of the Persian king, came to ruined Jerusalem to rebuild its wall. The work is nearly finished. The neighboring governors, who have opposed it from the start, change tactics.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 6:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates— Sanballat and Geshem sent me this message: “Come, let us meet together in one of the villages on the plain of Ono.” But they were planning to harm me. So I sent messengers to them, saying, “I am doing a great work and cannot come down. Why should the work stop while I leave it to go down to you?” Four times they sent me the same message, and each time I gave the same reply."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The invitation sounds reasonable: let’s meet and talk. **What does Nehemiah say in reply, and what is missing from his answer?** Notice that he knows what they’re planning and still doesn’t mention it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same message four times, and the same answer four times. **What usually happens to our “no” on the third and fourth try?** Why?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“I am doing a great work.” **Do you have to be rebuilding the wall of Jerusalem to have the right to say no?** What is your great work, the one you must not come down from?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Unsealed Letter",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 6:5-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "The fifth time, Sanballat sent me this same message by his young servant, who had in his hand an unsealed letter that read: “It is reported among the nations—and Geshem agrees—that you and the Jews are plotting to revolt, and this is why you are building the wall. According to these reports, you are to become their king, and you have even appointed prophets in Jerusalem to proclaim on your behalf: ‘There is a king in Judah.’ Soon these rumors will reach the ears of the king. So come, let us confer together.” Then I sent him this reply: “There is nothing to these rumors you are spreading; you are inventing them in your own mind.” For they were all trying to frighten us, saying, “Their hands will be weakened in the work, and it will never be finished.” But now, my God, strengthen my hands."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The fifth time, the letter is unsealed, which means anyone along the way could read it. **How does pressure through “what will people say” work?** Why is it sometimes more effective than a threat?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiah replies in one sentence and goes back to work. **What doesn’t he do, even though he’d have every right to?** How much time and energy does defending your own reputation cost?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Burdens and Loads",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 6:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Brothers, if someone is caught in a trespass, you who are spiritual should restore him with a spirit of gentleness. But watch yourself, or you also may be tempted. Carry one another’s burdens, and in this way you will fulfill the law of Christ. If anyone thinks he is something when he is nothing, he deceives himself. Each one should test his own work. Then he will have reason to boast in himself alone, and not in someone else. For each one should carry his own load."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 2 says, “Carry one another’s burdens.” Verse 5 says, “each one should carry his own load.” **Is Paul contradicting himself?** Give an example of a burden that has to be carried together and a load that no one can carry for someone else.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What happens to a person when someone else is always carrying what belongs to them? And what happens to the one doing the carrying?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“But watch yourself, or you also may be tempted.” **What temptations does the helper face?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Between these two sentences Paul places a warning against deceiving ourselves. It fits both sides. We would rather carry other people’s burdens than let anyone help with our own, and we call that strength, though it is sometimes pride. It also works the other way: we shoulder someone else’s own load and call it love, though we are taking from that person something they were meant to carry themselves. So a boundary has two sides: what not to take on, and what not to refuse yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not Good",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 18:13-18, 21-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "The next day Moses took his seat to judge the people, and they stood around him from morning until evening. When his father-in-law saw all that Moses was doing for the people, he asked, “What is this that you are doing for the people? Why do you sit alone as judge, with all the people standing around you from morning till evening?” “Because the people come to me to inquire of God,” Moses replied. “Whenever they have a dispute, it is brought to me to judge between one man and another, and I make known to them the statutes and laws of God.” But Moses’ father-in-law said to him, “What you are doing is not good. Surely you and these people with you will wear yourselves out, because the task is too heavy for you. You cannot handle it alone. … Furthermore, select capable men from among the people—God-fearing, trustworthy men who are averse to dishonest gain. Appoint them over the people as leaders of thousands, of hundreds, of fifties, and of tens. Have these men judge the people at all times. Then they can bring you any major issue, but all minor cases they can judge on their own, so that your load may be lightened as they share it with you. If you follow this advice and God so directs you, then you will be able to endure, and all these people can go home in peace.” Moses listened to his father-in-law and did everything he said."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses is doing something good, necessary, and godly. **Why does Jethro call it “not good”? Who besides Moses is losing out?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What did Moses have to admit to himself before he could listen to his father-in-law?** Why do people who serve find that so hard to admit?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 2 and verse 5 Paul uses two different Greek words. `Baros` in verse 2 is a weight that crushes, something beyond one person’s strength. `Phortion` in verse 5 is a load to be carried, what falls to someone to carry. Jesus uses this second word when He speaks of Himself. The BSB renders it there as “burden,” the same word it uses for `baros` in Galatians 6:2, so in English the difference is easy to miss.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 11:30",
+       "przeklad": "BSB",
+       "akapity": [
+        "For My yoke is easy and My burden is light.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t promise a life with nothing to carry. He promises a load that is His, and it is light. **How can I tell that I’m carrying what He gave me, and how can I tell that I’m hauling something I picked up myself or that someone else put on me?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Yes and No",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 5:33-37",
+       "przeklad": "BSB",
+       "akapity": [
+        "Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’ But I tell you not to swear at all: either by heaven, for it is God’s throne; or by the earth, for it is His footstool; or by Jerusalem, for it is the city of the great King. Nor should you swear by your head, for you cannot make a single hair white or black. Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus is talking about oaths, but He ends with a sentence about plain, everyday speech. **What does it say about a person when their “yes” needs reinforcing and their “no” needs long explanations?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Why is it so hard to say a plain “no,” without justifying ourselves?** What are we afraid of in that moment?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "There is a “yes” that means “no,” and a “no” that means “maybe, if you insist.” **Who is hurt by that kind of speech, and how?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Martha, Martha",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:38-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "As they traveled along, Jesus entered a village where a woman named Martha welcomed Him into her home. She had a sister named Mary, who sat at the Lord’s feet listening to His message. But Martha was distracted by all the preparations to be made. She came to Jesus and said, “Lord, do You not care that my sister has left me to serve alone? Tell her to help me!” “Martha, Martha,” the Lord replied, “you are worried and upset about many things. But only one thing is necessary. Mary has chosen the good portion, and it will not be taken away from her.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "It was Martha who welcomed Jesus into her home, and she is doing what hospitality requires. **What in her words shows that something went wrong along the way?** Read carefully what she accuses her sister of and what she accuses Jesus Himself of.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say that serving is wrong, and He doesn’t tell Martha to stop. **What exactly does He name as the problem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mary made a choice, and Jesus defends it: “it will not be taken away from her.” **Whose legitimate expectations is Mary disappointing at that moment?** What does this say about saying no to good things?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "To sit at a teacher’s feet meant taking the place of a disciple, and at the time women weren’t expected in that place. Martha is doing exactly what was expected of a hostess, and Luke never describes serving as anything but good. The problem isn’t the kitchen. The problem is distraction, which ends in accusing the Guest of not caring. Jesus doesn’t take Martha’s work away from her. He refuses only one thing: He won’t send Mary away from His feet.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Martha, a Second and Third Time",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 11:20-22, 27",
+       "przeklad": "BSB",
+       "akapity": [
+        "So when Martha heard that Jesus was coming, she went out to meet Him; but Mary stayed at home. Martha said to Jesus, “Lord, if You had been here, my brother would not have died. But even now I know that God will give You whatever You ask of Him.” … “Yes, Lord,” she answered, “I believe that You are the Christ, the Son of God, who was to come into the world.”"
+       ]
+      },
+      {
+       "odnosnik": "John 12:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead. So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John shows us Martha two more times. **How do these scenes change the picture of the sister we’re used to thinking of as the lesser one?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In John 12 Martha is serving again, and this time no one corrects her. **What has changed: the serving, or Martha?** How can you tell from the text?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus knew why He had come because He had His solitary place before dawn. **Where in your week is the place where you remember why you’re here?** If there isn’t one, how do you know what to say “yes” to?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Whose own load are you carrying, even though it belongs to them? And who could help you with your burden if you let them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **who is the hardest person for you to say no to, and what are you afraid will happen when you do?** You don’t have to say who it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Second Mile",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 5:38-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "You have heard that it was said, ‘Eye for eye and tooth for tooth.’ But I tell you not to resist an evil person. If someone slaps you on your right cheek, turn to him the other also; if someone wants to sue you and take your tunic, let him have your cloak as well; and if someone forces you to go one mile, go with him two miles. Give to the one who asks you, and do not turn away from the one who wants to borrow from you."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This is the same chapter that gives us “let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’” Believers read these words in two ways. Some hear in them a call for Jesus’ disciples to set no limit on what others demand of them. Others point out that Jesus is talking about how to respond to insult and coercion, and that He forbids retaliation, not refusal. The word “forces” shows up again later, when the soldiers force Simon of Cyrene to carry the cross. The first mile is compelled. The second is already the gift of a free person, and it takes away the coercer’s control of the situation. Both readings share one thing: it is the disciple who decides what to give, and gives more than required, not less.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is a second mile walked freely different from a first mile walked out of fear?** Can you see the difference from the outside? What about from the inside?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How do you reconcile “Give to the one who asks you” with “Let us go on to the neighboring towns” from block 1?** The same Jesus said both.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 4:28-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "On hearing this, all the people in the synagogue were enraged. They got up, drove Him out of the town, and led Him to the brow of the hill on which the town was built, in order to throw Him over the cliff. But Jesus passed through the crowd and went on His way."
+       ]
+      },
+      {
+       "odnosnik": "John 10:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The reason the Father loves Me is that I lay down My life in order to take it up again. No one takes it from Me, but I lay it down of My own accord. I have authority to lay it down and authority to take it up again. This charge I have received from My Father.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Nazareth, Jesus passes through the crowd and walks away. In Gethsemane He doesn’t walk away, though He could have. **What is the difference between a life given and a life that let itself be taken?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In practice, how do you tell the sacrifice Jesus calls us to apart from a simple inability to say “no”?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t wrap this up with a formula. Be careful with people who were once told that carrying their cross means staying in a home where they are being harmed. Jesus’ cross was the decision of a free man who knew why He was doing it. It was not the result of being unable to walk away.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jesus could say “no” to people because He had first said “yes” to the Father.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Mark 1:35 or Galatians 6:5.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The next time you feel yourself saying “yes” against your own sense, before you answer, ask yourself: **what am I afraid of if I say no?** Anger, rejection, someone’s opinion, my own guilt, something else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask God directly: **what am I sent to do in this season of my life?** Stay with that question for more than a moment. Until it has an answer, every request looks like an obligation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit before God one kind of help you give not out of love but to be needed or to keep the peace. You don’t have to change anything right away. First, call it by its name.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone describes a home or relationship where saying no brings punishment, shouting, the silent treatment, control, or violence.** This is not a matter of assertiveness, and it can’t be solved with good advice around the table. Don’t let the group give advice or pass judgment. Say that what they are describing is serious, and stay with them after the meeting. Help them find professional help, and don’t carry this alone. Make sure they know about a crisis line in your country and your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“A Christian is supposed to deny himself, not set boundaries.”** Agree that Jesus calls us to give our lives. Then go back to block 1: the same Jesus left a whole town at the door and went on to other places. You can only give what you have. Level 3 has a separate question on this.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Exactly, I don’t owe anybody anything either.”** That’s the other shortcut. In Galatians, “Carry one another’s burdens” comes before “carry his own load.” Nehemiah says no in order to build, and Jesus leaves in order to preach somewhere else. Ask: “What is my ‘no’ for? What ‘yes’ does it serve?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is clearly exhausted from serving at church.** Read the scene of Moses and his father-in-law from level 2 with them, even if you’re leading level 1. “What you are doing is not good” is said about good, godly work. Don’t ask them for anything in the coming weeks, and see whether the group can take something off their plate.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m a Martha, and somebody has to do it.”** Agree: somebody does, and Jesus didn’t tell Martha to stop. Ask what in her words to Jesus came from serving and what came from exhaustion and resentment. If you have time, show them the Martha of John 11, who is the first to run out to meet Jesus and makes a confession of faith.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns to a specific person: a mother-in-law, a boss, someone from church.** Calmly interrupt. We don’t talk about people who aren’t here. Turn the question back to the first person: “What am I afraid of when I need to say no to them?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Self-help language comes up: toxic people, energy vampires, cutting people off.** Don’t fight the words, but don’t pick them up either. The Bible doesn’t divide people into toxic and healthy. Go back to the text: Nehemiah didn’t call Sanballat a single name; he simply didn’t come down from the wall.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Skip block 4. Blocks 1 and 2 show a “no” that grows out of calling, block 3 gives the key distinction, and block 5 brings it all home, into the house and the kitchen.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone describes a home or relationship where saying no brings punishment, shouting, the silent treatment, control, or violence.",
+     "odpowiedz": "This is not a matter of assertiveness, and it can’t be solved with good advice around the table. Don’t let the group give advice or pass judgment. Say that what they are describing is serious, and stay with them after the meeting. Help them find professional help, and don’t carry this alone. Make sure they know about a crisis line in your country and your local emergency number."
+    },
+    {
+     "sytuacja": "“A Christian is supposed to deny himself, not set boundaries.”",
+     "odpowiedz": "Agree that Jesus calls us to give our lives. Then go back to block 1: the same Jesus left a whole town at the door and went on to other places. You can only give what you have. Level 3 has a separate question on this."
+    },
+    {
+     "sytuacja": "“Exactly, I don’t owe anybody anything either.”",
+     "odpowiedz": "That’s the other shortcut. In Galatians, “Carry one another’s burdens” comes before “carry his own load.” Nehemiah says no in order to build, and Jesus leaves in order to preach somewhere else. Ask: “What is my ‘no’ for? What ‘yes’ does it serve?”"
+    },
+    {
+     "sytuacja": "Someone is clearly exhausted from serving at church.",
+     "odpowiedz": "Read the scene of Moses and his father-in-law from level 2 with them, even if you’re leading level 1. “What you are doing is not good” is said about good, godly work. Don’t ask them for anything in the coming weeks, and see whether the group can take something off their plate."
+    },
+    {
+     "sytuacja": "“I’m a Martha, and somebody has to do it.”",
+     "odpowiedz": "Agree: somebody does, and Jesus didn’t tell Martha to stop. Ask what in her words to Jesus came from serving and what came from exhaustion and resentment. If you have time, show them the Martha of John 11, who is the first to run out to meet Jesus and makes a confession of faith."
+    },
+    {
+     "sytuacja": "The conversation turns to a specific person: a mother-in-law, a boss, someone from church.",
+     "odpowiedz": "Calmly interrupt. We don’t talk about people who aren’t here. Turn the question back to the first person: “What am I afraid of when I need to say no to them?”"
+    },
+    {
+     "sytuacja": "Self-help language comes up: toxic people, energy vampires, cutting people off.",
+     "odpowiedz": "Don’t fight the words, but don’t pick them up either. The Bible doesn’t divide people into toxic and healthy. Go back to the text: Nehemiah didn’t call Sanballat a single name; he simply didn’t come down from the wall."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Skip block 4. Blocks 1 and 2 show a “no” that grows out of calling, block 3 gives the key distinction, and block 5 brings it all home, into the house and the kitchen."
+    }
+   ]
+  }
+ ]
+}

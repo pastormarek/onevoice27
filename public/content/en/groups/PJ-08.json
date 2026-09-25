@@ -1,0 +1,850 @@
+{
+ "tytul": "The Rich Fool",
+ "id": "PJ-08",
+ "seria": "Parables of Jesus",
+ "opis": "A man who talked only to himself, and the question of whom I am really storing up what I have for.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 12:13-15; Luke 12:16-17; Luke 12:18-19; Luke 12:20-21; Luke 12:22-24, 32-34",
+  "p2": "Luke 12:1; Exodus 2:14; Psalm 133:1; James 4:13-15; Psalm 49:16-17; 1 Timothy 6:17-19; 2 Corinthians 8:9",
+  "p3": "Psalm 14:1; Genesis 41:33-36, 47-49; Proverbs 6:6-8; Proverbs 11:24-26"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 33
+ },
+ "tagi": [
+  "parables",
+  "money",
+  "greed",
+  "loneliness",
+  "death",
+  "trust"
+ ],
+ "wersja": 1,
+ "zdanie": "A good harvest is a package with an address on it. The folly isn’t in having; it’s in planning as if there were no one but me.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The main character of this parable is not a criminal. He hasn’t robbed anyone or exploited anyone, and his plan is sensible: expand the storage, secure the future, finally get some rest. God calls him a fool for a different reason. In his whole plan only one person appears. He talks to himself, about himself, and for himself. In this monologue there is no brother, no neighbor, and no God, from whom the harvest came. This meeting aims to bring the group to the question in the last verse: whom am I storing up for?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Every parable of Jesus corrects some false picture of God. This one corrects two. The man in the crowd treats Jesus as a tool for settling his own affairs: God should take my side in my dispute. The rich man in the parable has a God who can be left out of the accounts: he takes the harvest and doesn’t notice the Giver. Against both, Jesus sets the Father who feeds the ravens and is pleased to give the kingdom. A parable mirrors a single truth, so you don’t build doctrine on its details. God’s conversation with the rich man is a storytelling device, not a lecture on what happens to a person after death.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be in the middle of a dispute over an inheritance, or have been through one, with the family split apart for years.",
+      "Someone may have recently lost a loved one suddenly, at night. They will hear the words “tonight your soul is required of you” (WEB) very personally. See the first red flag.",
+      "People who are well off and people who can’t make it to the end of the month sit at the same table. Both can easily feel judged.",
+      "Retirees and people who save may hear that securing the future is a sin. The text doesn’t say that."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone about their income, savings, or offerings. Don’t end with an appeal for donations to the church. Don’t make the rich man a monster, because then no one will recognize themselves in him. Don’t say God killed him as a punishment, because the text doesn’t say that.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of an important decision you made completely on your own, without talking it over with anyone. Tell us in one sentence why you didn’t ask anyone at the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Voice from the Crowd",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:13-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Someone in the crowd said to Him, “Teacher, tell my brother to divide the inheritance with me.” But Jesus replied, “Man, who appointed Me judge or executor between you?” And He said to them, “Watch out! Guard yourselves against every form of greed, for one’s life does not consist in the abundance of his possessions.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This man doesn’t ask Jesus for advice or for an assessment of the case. He tells Him what to say to his brother. **What does he need Jesus for?** What does a request like that look like in prayer today?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t decide who is right, even though the petitioner may have been. He warns “them,” all His listeners, against greed. **What does He see beneath the inheritance dispute?** Can you be right on paper and still be losing?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What could this man have received from Jesus if he had asked for something other than half the family property?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the East, disputes over a father’s estate were among the most explosive. Brothers often farmed undivided property together, and that was considered a blessing, while the breakup of such a partnership was like a small civil war. The Law of Moses gave the firstborn a double portion, so the man asking is most likely the younger brother. In that language, the address “Man” opened a rebuke. Jesus doesn’t challenge the claim. He refuses a role in which He would divide property between people instead of reconciling them to each other.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Jesus is on His way to Jerusalem. Thousands of people have gathered around Him, and He speaks first to the disciples about ultimate things: about hypocrisy, about whom to fear, about acknowledging Him before others, about the Holy Spirit. In the middle of this talk a voice from the crowd interrupts Him about an inheritance. After the parable Jesus turns back to the disciples and talks about ravens, lilies, and treasure in heaven. So the parable stands between a warning and an invitation to trust.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** People went to a respected teacher for rulings on property matters too, so the request wasn’t unusual. In a culture where important matters were talked over at the town gate, with the elders and neighbors, a person who made decisions alone was a rare thing.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This man stood in the crowd and listened to words about life and death. **What was he hearing the whole time, judging by what he spoke up about?** When can our own concerns drown out everything else like that?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who Made You?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 2:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the man replied, “Who made you ruler and judge over us? Are you planning to kill me as you killed the Egyptian?” Then Moses was afraid and thought, “This thing I have done has surely become known.”"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 133:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Behold, how good and pleasant it is when brothers live together in harmony!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus’ question sounds almost the same as the question once thrown at Moses when he tried to settle a quarrel between two of his countrymen. **Why doesn’t Jesus want to be that kind of judge?** Then what did He come for?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm about brothers living together was sung on the way to the festivals. **What did these two brothers need more than a fair division?** Could a division have given them that?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Bumper Crop",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then He told them a parable: “The ground of a certain rich man produced an abundance. So he thought to himself, ‘What shall I do, since I have nowhere to store my crops?’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the first sentence of the parable the subject is the ground, not the man. **Where did this harvest come from? What did the rich man do to deserve it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The blessing becomes a problem for him, and he asks the question “What shall I do?” of himself. **Whom could he have asked?** List who in his area would have had something to say about surplus grain.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What does it say about a person that on the day of his greatest success he has no one to talk to?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Monologue",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:18-19",
+       "przeklad": "WEB",
+       "akapity": [
+        "He said, ‘This is what I will do. I will pull down my barns, and build bigger ones, and there I will store all my grain and my goods. I will tell my soul, “Soul, you have many goods laid up for many years. Take your ease, eat, drink, be merry.”’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read these two verses again and count the words “I” and “my.” **Who is missing from this plan?** Name everyone who isn’t there.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The plan is logical and harms no one. **What is sensible about it? At what point does good sense turn into something else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The rich man talks to his own soul and promises it grain. **What is he trying to feed it with?** What does a soul need that can’t be stored in a barn?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Greek text of these three verses, “I” and “my” occur eleven times. Until God speaks, there is not a single second person in the parable. The rich man is neither a caricature nor an abuser. He is ordinary, and his monologue sounds like a conversation about providing for retirement. That is why this parable isn’t only about the rich. You can practice the same grammar in a small apartment, and the abundance a person stores up for himself can also be an abundance of time or skills.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "If the Lord Is Willing",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 4:13-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.” You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes. Instead, you ought to say, “If the Lord is willing, we will live and do this or that.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James doesn’t forbid planning or doing business. **What exactly does he correct in the merchants’ plan?** How would the rich man’s monologue sound after that correction?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In this parable Luke plays with the sound of words. The ground “produced an abundance,” in Greek `euphoreō`. The rich man wants to “be merry,” `euphrainō`. And God calls him `aphrōn`, meaning senseless. Three words sound alike, and the last one cancels out the first two. The Greek translation of the Old Testament uses the same word for the fool in the psalm:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 14:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The rich man in the parable never says there is no God. He simply leaves Him out of his plans. **How is atheism in your beliefs different from atheism in your calendar and your budget?** Which one is easier to overlook in yourself?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Tonight",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:20-21",
+       "przeklad": "WEB",
+       "akapity": [
+        "“But God said to him, ‘You foolish one, tonight your soul is required of you. The things which you have prepared — whose will they be?’ So is he who lays up treasure for himself, and is not rich toward God.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The rich man planned for “many years.” God says: “tonight” (WEB). **What did he leave out of his calculations?** Why are those two things so easy to forget when everything is going well?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t condemn barns. He points to a direction: “for himself” or “rich toward God.” **What do you think it means to be rich toward God?** How can you recognize it in everyday life?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“The things which you have prepared… whose will they be?” (WEB) Go back to verse 13. **What will most likely happen over his full barns?** What is Jesus saying this way to the man from the crowd?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is the only parable of Jesus in which God Himself speaks. He speaks in language the rich man understood best. The word translated “required” was a bookkeeping term: it was used for demanding repayment of a loan that had come due. The soul, which the rich man addressed as his own property, had been entrusted to him for a time. The text doesn’t say that God killed him, or that death was a punishment for the harvest. It says that a man died who had left no room in his plans either for God or for death.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "He Will Carry Nothing Away",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 49:16-17",
+       "przeklad": "WEB",
+       "akapity": [
+        "Don’t be afraid when a man is made rich, when the glory of his house is increased; for when he dies he will carry nothing away. His glory won’t descend after him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm begins with the words “Don’t be afraid” (WEB). **What is a person afraid of when they watch others getting rich?** What does the psalmist want to take away from them: envy, or fear?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What can a person take with them, if not their possessions?** What of what you are building today will survive “tonight”?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Consider the Ravens",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jesus turns from the crowd to the disciples. The first word He says to them is “Therefore.”",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:22-24, 32-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus said to His disciples, “Therefore I tell you, do not worry about your life, what you will eat, or about your body, what you will wear. For life is more than food, and the body more than clothes. Consider the ravens: They do not sow or reap, they have no storehouse or barn; yet God feeds them. How much more valuable you are than the birds! … Do not be afraid, little flock, for your Father is pleased to give you the kingdom. Sell your possessions and give to the poor. Provide yourselves with purses that will not wear out, an inexhaustible treasure in heaven, where no thief approaches and no moth destroys. For where your treasure is, there your heart will be also."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The ravens “have no storehouse or barn.” Jesus picks the exact opposite of the rich man. **What do the ravens have that he didn’t?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The rich man stored things up because he wanted security for many years. Jesus says, “Do not be afraid,” because the Father “is pleased to give.” **What lies beneath storing up for yourself, and what, according to Jesus, is the cure for it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Where your treasure is, there your heart will be also.” **Where was the rich man’s heart? Where was the heart of the man from the crowd?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Rich in Good Works",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Timothy 6:17-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Instruct those who are rich in the present age not to be conceited and not to put their hope in the uncertainty of wealth, but in God, who richly provides all things for us to enjoy. Instruct them to do good, to be rich in good works, and to be generous and ready to share, treasuring up for themselves a firm foundation for the future, so that they may take hold of that which is truly life."
+       ]
+      },
+      {
+       "odnosnik": "2 Corinthians 8:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, so that you through His poverty might become rich."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t tell the rich to stop being rich. He says that God provides all things “for us to enjoy.” **So what does he instruct them to do?** What would the rich man in the parable look like if he had listened to this letter?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does the way Jesus handled His own riches compare with the rich man’s plan?** Which way does the hand move in each case?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ravens were unclean birds that could be neither eaten nor offered as a sacrifice. **Why did Jesus choose them, and not some prettier bird?** What does that say about whom God feeds?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think of the rich man’s neighborhood, where someone that year was praying for bread. **Is it possible that the answer to that prayer was sitting in his barns?** How does that thought change the way you look at your own surplus?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Is It Right to Save for the Future?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jesus says, “Sell your possessions,” and tells about a man whose barns were his undoing. Yet the same Bible praises foresight.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 41:33-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now, therefore, Pharaoh should look for a discerning and wise man and set him over the land of Egypt. Let Pharaoh take action and appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance. Under the authority of Pharaoh, let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities. This food will be a reserve for the land during the seven years of famine to come upon the land of Egypt. Then the country will not perish in the famine.”"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 41:47-49",
+       "przeklad": "BSB",
+       "akapity": [
+        "During the seven years of abundance, the land brought forth bountifully. During those seven years, Joseph collected all the excess food in the land of Egypt and stored it in the cities. In every city he laid up the food from the fields around it. So Joseph stored up grain in such abundance, like the sand of the sea, that he stopped keeping track of it; for it was beyond measure."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 6:6-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Walk in the manner of the ant, O slacker; observe its ways and become wise. Without a commander, without an overseer or ruler, it prepares its provisions in summer; it gathers its food at harvest."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Christians place the emphasis differently here. Some read Jesus’ words as literally as possible and see any storing up beyond need as a lack of trust. Others stress that the Bible praises foresight, that owning property is not a sin, and that Abraham and Job were wealthy. What unites both positions is what Jesus says in verse 21: the direction decides it. Joseph and the rich man built similar storehouses. Joseph stored up for other people’s hunger. The rich man stored up for his own feast.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can I tell whether my saving is Joseph’s foresight and not the rich man’s monologue?** Try to come up with two or three practical tests.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of the two positions is closer to you, and what does each one protect against?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 11:24-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "One gives freely, yet gains even more; another withholds what is right, only to become poor. A generous soul will prosper, and he who refreshes others will himself be refreshed. The people will curse the hoarder of grain, but blessing will crown the one who sells it."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Proverbs speaks of a man who hoards grain and of what his neighbors think of him. **What does this text add to the story of the rich man?** Watch out for one thing: is the first sentence a promise of profit, or an observation about life?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does my inner monologue sound like when I plan my money, my time, or my future?** Who besides me appears in it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abundance isn’t only money. **What do I have more of today than I need: time, skills, room in my home, experience?** To whom might it have been addressed?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a dispute over things in your life in which you are winning the property but losing the person?** You don’t have to say who it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t give a figure. He doesn’t say how much you may have, how much you may set aside, and at what point storing up for yourself begins. **Why doesn’t He?** Can a Christian in a wealthy country, where even a modest pension is riches in the eyes of half the world, honestly say this parable isn’t about them?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t give your own standard, and don’t let anyone give one to others. It would be good for someone to observe that instead of a figure, Jesus gives a question about direction and about whether other people are present in my plans, and that the consciences around the table may answer it differently.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A good harvest is a package with an address on it. The folly isn’t in having; it’s in planning as if there were no one but me.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Luke 12:15 or Luke 12:21.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This week, listen to your own monologue: what you tell yourself when you plan spending, a vacation, work, old age. **Don’t correct it. Just notice who appears in it and who is missing.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of one thing you have more of than you need. Ask God: **whom was this addressed to?** Stay with that question before you decide anything.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you are in a dispute over property, an inheritance, or who is owed what, ask yourself honestly: **what do I want more, my share or my brother?** Don’t answer right away. Tell God about both desires, just as they are.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who recently lost a loved one suddenly hears “tonight your soul is required of you” (WEB).** Say calmly that the parable doesn’t explain anyone’s death and doesn’t say that sudden death is a punishment. Jesus tells about one invented man in order to ask the living a question about direction. Don’t let the group search for meaning in someone’s loss. If the grief is fresh, stay with this person after the meeting. The group keeps them company and listens; it doesn’t heal. With suicidal thoughts, don’t handle it alone: help them contact a crisis line in your country, or call your local emergency number if they are in danger.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone describes their own inheritance dispute and looks for allies.** Listen briefly, thank them, and don’t take sides. The group doesn’t know the other party and isn’t a court, and in this scene Jesus Himself refused that role. Don’t tell them to give up their share either, because Jesus didn’t say that. For legal matters, refer them to a lawyer. Go back to the question from block 1: what does this person need most?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So we’re not allowed to save or have a retirement fund.”** The text doesn’t say that. Jesus points to a direction, not a figure. At level 3 there is a Tension block on this with the story of Joseph. You could ask, “What would change in the rich man’s plan if anyone besides him appeared in it?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The rich are thieves,” or the reverse: “the poor have only themselves to blame.”** Calmly interrupt both. The rich man in the parable didn’t rob anyone, and the harvest wasn’t his own doing. The text gives no grounds either for contempt toward the well-off or for judging the poor. If the conversation turns to taxes and politics, go back to verse 21.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God blesses those who give, so let’s give and it will come back with interest.”** That is the same grammar as the rich man’s, just more pious: I give in order to have. Jesus talks about being rich toward God, not about an investment with a guaranteed return. Don’t end the meeting with any appeal for offerings.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who really doesn’t have enough hears “do not worry.”** Don’t lecture someone about trust who is counting the days until payday. Worrying about bread is not greed. Jesus says these words to the disciples as an invitation, not as an accusation. If the group can genuinely help, talk about it after the meeting, discreetly. There is a separate meeting on losing a job in the Crises and Turning Points series.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says of themselves, “I’m that fool; I wasted my life making money.”** Thank them for their honesty, and don’t confirm the verdict. The rich man in the parable didn’t hear the question while he was alive. A person who is hearing it now is in a different place.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Combine blocks 2 and 3 into one reading. Blocks 3, 4, and 5 carry the whole: the monologue, the night, and the ravens.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone who recently lost a loved one suddenly hears “tonight your soul is required of you” (WEB).",
+     "odpowiedz": "Say calmly that the parable doesn’t explain anyone’s death and doesn’t say that sudden death is a punishment. Jesus tells about one invented man in order to ask the living a question about direction. Don’t let the group search for meaning in someone’s loss. If the grief is fresh, stay with this person after the meeting. The group keeps them company and listens; it doesn’t heal. With suicidal thoughts, don’t handle it alone: help them contact a crisis line in your country, or call your local emergency number if they are in danger."
+    },
+    {
+     "sytuacja": "Someone describes their own inheritance dispute and looks for allies.",
+     "odpowiedz": "Listen briefly, thank them, and don’t take sides. The group doesn’t know the other party and isn’t a court, and in this scene Jesus Himself refused that role. Don’t tell them to give up their share either, because Jesus didn’t say that. For legal matters, refer them to a lawyer. Go back to the question from block 1: what does this person need most?"
+    },
+    {
+     "sytuacja": "“So we’re not allowed to save or have a retirement fund.”",
+     "odpowiedz": "The text doesn’t say that. Jesus points to a direction, not a figure. At level 3 there is a Tension block on this with the story of Joseph. You could ask, “What would change in the rich man’s plan if anyone besides him appeared in it?”"
+    },
+    {
+     "sytuacja": "“The rich are thieves,” or the reverse: “the poor have only themselves to blame.”",
+     "odpowiedz": "Calmly interrupt both. The rich man in the parable didn’t rob anyone, and the harvest wasn’t his own doing. The text gives no grounds either for contempt toward the well-off or for judging the poor. If the conversation turns to taxes and politics, go back to verse 21."
+    },
+    {
+     "sytuacja": "“God blesses those who give, so let’s give and it will come back with interest.”",
+     "odpowiedz": "That is the same grammar as the rich man’s, just more pious: I give in order to have. Jesus talks about being rich toward God, not about an investment with a guaranteed return. Don’t end the meeting with any appeal for offerings."
+    },
+    {
+     "sytuacja": "Someone who really doesn’t have enough hears “do not worry.”",
+     "odpowiedz": "Don’t lecture someone about trust who is counting the days until payday. Worrying about bread is not greed. Jesus says these words to the disciples as an invitation, not as an accusation. If the group can genuinely help, talk about it after the meeting, discreetly. There is a separate meeting on losing a job in the Crises and Turning Points series."
+    },
+    {
+     "sytuacja": "Someone says of themselves, “I’m that fool; I wasted my life making money.”",
+     "odpowiedz": "Thank them for their honesty, and don’t confirm the verdict. The rich man in the parable didn’t hear the question while he was alive. A person who is hearing it now is in a different place."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Combine blocks 2 and 3 into one reading. Blocks 3, 4, and 5 carry the whole: the monologue, the night, and the ravens."
+    }
+   ]
+  }
+ ]
+}

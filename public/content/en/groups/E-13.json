@@ -1,0 +1,559 @@
+{
+ "tytul": "Compassion",
+ "id": "E-13",
+ "seria": "Emotions",
+ "opis": "Why we so often feel no compassion, even when we know we should. The stirring deep inside Jesus.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 9:35-36; Luke 10:30-35; Psalm 103:13-14; Romans 12:15; Matthew 25:35-40",
+  "p2": "Mark 1:40-42; Luke 7:12-15",
+  "p3": "Matthew 9:36"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 21,
+  "p3": 23
+ },
+ "tagi": [
+  "emotions",
+  "mercy",
+  "neighbor",
+  "service"
+ ],
+ "wersja": 1,
+ "zdanie": "The priest, the Levite, and the Samaritan all saw the same thing. The difference began with what stirred inside them.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Compassion is an emotion that points outward, not inward. So we don’t ask what to do with it. We ask why we so often don’t feel it, even when we know we should. The Gospels describe Jesus with a word for a physical stirring deep inside, not a decision of the will.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The topic easily slides into guilt trips and a contest over who helps more. That kills it.",
+      "Someone at the table may be burned out from helping, or caring for a sick person at home. To them, a call to compassion sounds like one more burden.",
+      "Matthew 25 is sometimes read as a threat. Don’t steer it that way."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t collect pledges or plan a charity project at this meeting. Don’t praise anyone for what they do, and don’t ask who helps whom.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when a stranger showed you kindness for no reason. One sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first. We start on the side of the one who was helped.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Moved with Compassion",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 9:35-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus went through all the towns and villages, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness. When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 35 describes the sheer volume of Jesus’ work, and verse 36 tells us what He felt as He looked at the crowd. **Does this mean He did all of it out of compassion, or that compassion came in spite of His weariness?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The picture is very concrete: sheep without a shepherd, harassed and helpless. **According to this picture, what did these people lack most?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus looks at a crowd, not at one individual. **Is it possible to feel compassion for a crowd?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek verb used here of Jesus, `splanchnizomai`, comes from a word meaning the inner organs. It describes a physical stirring, a clenching deep inside, not a resolution. In the New Testament it almost always refers to Jesus or to characters in parables who represent Him.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Its Hebrew counterpart, `rachamim`, comes from a word meaning a mother’s womb. So God’s mercy is described with an image from the world of parenthood, not the world of law.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What difference does it make that the Bible describes compassion in the language of the body rather than the language of decision?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can you order yourself to feel something that happens in your gut?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "He Had Compassion",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:30-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus took up this question and said, “A man was going down from Jerusalem to Jericho when he fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead. Now by chance a priest was going down the same road, but when he saw him, he passed by on the other side. So too, when a Levite came to that spot and saw him, he passed by on the other side. But when a Samaritan on a journey came upon him, he looked at him and had compassion. He went to him and bandaged his wounds, pouring on oil and wine. Then he put him on his own animal, brought him to an inn, and took care of him. The next day he took out two denarii and gave them to the innkeeper. ‘Take care of him,’ he said, ‘and on my return I will repay you for any additional expense.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The priest and the Levite saw him and passed by. The Samaritan saw him and had compassion. **All three saw. Where does the difference lie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List, in order, everything the Samaritan does after verse 33. **How much of it is feeling, and how much is money, time, and a commitment for the future?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "He promises to come back and pay the rest. **What does that tell us about the limits of his help?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The priest and the Levite probably had good reasons, such as ritual purity or hurrying to their duties. **How do good reasons crowd out compassion?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The parable doesn’t pit bad people against a good one. The priest and the Levite aren’t described as cruel, only as men who passed by. Jesus tells this story in answer to the question “And who is my neighbor?” and ends with the question turned around: who proved to be a neighbor? He shifts the weight from deciding who deserves help to who we become in the process.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "He Touched Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 1:40-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then a leper came to Jesus, begging on his knees: “If You are willing, You can make me clean.” Moved with compassion, Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately the leprosy left him, and the man was cleansed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus could have healed with a word, as He did in many other places. **Why did He touch someone no one was allowed to touch?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The leper says, “If You are willing.” **What is he unsure about?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "As a Father Has Compassion",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 103:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "As a father has compassion on his children, so the LORD has compassion on those who fear Him. For He knows our frame; He is mindful that we are dust."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "According to verse 14, God’s compassion rests on His knowing what we are made of. **How does knowing someone’s weakness affect what we feel toward them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“He is mindful that we are dust.” **Does that sentence sound dismissive or tender? What does it depend on?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Do Not Weep",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 7:12-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "As He approached the town gate, He saw a dead man being carried out, the only son of his mother, and she was a widow. And a large crowd from the town was with her. When the Lord saw her, He had compassion on her and said, “Do not weep.” Then He went up and touched the coffin, and those carrying it stood still. “Young man,” He said, “I tell you, get up!” And the dead man sat up and began to speak! Then Jesus gave him back to his mother."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "No one asked Him for anything. **What set this whole scene in motion?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The passage ends by saying that He gave him back to his mother. **Why is that the last sentence, and not the raising itself?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Weep with Those Who Weep",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 12:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Rejoice with those who rejoice; weep with those who weep."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul names two things. **Which of them is harder, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is a command without instructions: it doesn’t say what to say or how to help. **So what does it require?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "You Did for Me",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:35-40",
+       "przeklad": "BSB",
+       "akapity": [
+        "For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you took Me in, I was naked and you clothed Me, I was sick and you looked after Me, I was in prison and you visited Me.’ Then the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink? When did we see You a stranger and take You in, or naked and clothe You? When did we see You sick or in prison and visit You?’ And the King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers of Mine, you did for Me.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The list is surprisingly ordinary: food, water, hospitality, clothing, visits. **What’s missing from this list?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The righteous are genuinely surprised and ask, “When?” **What does their surprise tell us about how they acted?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus identifies Himself with the least. **Does that change our motivation for helping, or only its justification?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The most important thing in this scene is the surprise. Those who helped weren’t keeping score, and they didn’t see Jesus in disguise in the people in need. They simply responded to the hunger and sickness in front of them. If they had known it counted, their help would have been something else. The passage describes people in whom compassion had become a reflex, not a strategy.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The priest and the Levite had reasons to pass by. **What are your most common reasons?** No time, not knowing what to do, fear of getting drawn in.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Samaritan set himself a limit: he paid, he came back, but he didn’t take the wounded man home. **Where is your limit, and is it an honest one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there someone you know needs help, and you’ve been putting it off for weeks?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The priest, the Levite, and the Samaritan all saw the same thing. The difference began with what stirred inside them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Luke 10:33 or Matthew 25:40.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This week, notice one moment when you looked away: from a beggar, from the news, from someone who started talking about their problem. **Don’t judge yourself. Ask yourself what you were protecting yourself from.** Compassion costs something, and we usually know how much.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person you judge harshly. **Ask God what you don’t know about them.** Psalm 103 ties compassion to knowing what someone is made of.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** do one thing no one will ever find out about. And don’t tell the group about it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into a guilt trip.** This is the most common way this topic goes wrong. Guilt doesn’t produce compassion, only avoidance. Go back to Matthew 25 and the surprise of the righteous.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts talking about how much they help.** Don’t praise it or build on it. Steer the conversation back to the text in one sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is burned out from caring for a sick family member.** For this person, the whole meeting may sound like a demand for more. Say plainly that the Samaritan set a limit too, and went on his way.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about people who cheat and take advantage of help?”** A real question, but it can swallow the whole meeting. Answer briefly and go back to the text: the parable isn’t concerned with whether the wounded man deserved it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts planning an outreach project.** Good in itself, but not at this meeting. Suggest coming back to it separately.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m just not an emotional person.”** Don’t push back. Point out that the Samaritan is remembered not for his feelings but for the oil, the animal, and the two denarii.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "The conversation turns into a guilt trip.",
+     "odpowiedz": "This is the most common way this topic goes wrong. Guilt doesn’t produce compassion, only avoidance. Go back to Matthew 25 and the surprise of the righteous."
+    },
+    {
+     "sytuacja": "Someone starts talking about how much they help.",
+     "odpowiedz": "Don’t praise it or build on it. Steer the conversation back to the text in one sentence."
+    },
+    {
+     "sytuacja": "Someone is burned out from caring for a sick family member.",
+     "odpowiedz": "For this person, the whole meeting may sound like a demand for more. Say plainly that the Samaritan set a limit too, and went on his way."
+    },
+    {
+     "sytuacja": "“What about people who cheat and take advantage of help?”",
+     "odpowiedz": "A real question, but it can swallow the whole meeting. Answer briefly and go back to the text: the parable isn’t concerned with whether the wounded man deserved it."
+    },
+    {
+     "sytuacja": "The group starts planning an outreach project.",
+     "odpowiedz": "Good in itself, but not at this meeting. Suggest coming back to it separately."
+    },
+    {
+     "sytuacja": "“I’m just not an emotional person.”",
+     "odpowiedz": "Don’t push back. Point out that the Samaritan is remembered not for his feelings but for the oil, the animal, and the two denarii."
+    }
+   ]
+  }
+ ]
+}

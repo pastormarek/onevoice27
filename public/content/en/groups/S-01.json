@@ -1,0 +1,744 @@
+{
+ "tytul": "Weary",
+ "id": "S-01",
+ "seria": "The Sabbath as a Gift",
+ "opis": "Pharaoh gives no break. God Himself rests, and He invites the weary to rest.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 5:1-2, 4-9; Psalm 127:1-2; Mark 6:30-34; Matthew 11:28-30; Exodus 31:16-17",
+  "p2": "Exodus 1:11-14; Ecclesiastes 2:22-23; 4:6-8; Exodus 33:12-14; Isaiah 30:15",
+  "p3": "Exodus 5:5; Matthew 11:28-29; 12:1; Exodus 23:12; Exodus 31:17"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "Sabbath",
+  "rest",
+  "weariness",
+  "work",
+  "freedom"
+ ],
+ "wersja": 1,
+ "zdanie": "Pharaoh counts bricks. God rests first and invites us to Himself.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t about the Sabbath as a commandment. It’s about weariness and where it comes from. The Bible tells of a ruler who gives no break, and of a God who Himself rests and invites others to rest. The day of rest shows up only in the last section, as an answer to a need, not as a thesis to defend. The meeting doesn’t settle which day is the right one or how to keep it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be truly exhausted: a caregiver for a sick relative, a single parent, someone working two jobs. To them, “just rest” sounds like mockery. Don’t give advice.",
+      "Someone may hear this meeting as praise for laziness or criticism of hardworking people. The text says something else: work is good; what’s wrong is a master who won’t let you stop.",
+      "Someone from outside the church may ask right away why Saturday and not Sunday. It’s a fair question, but not for today. This meeting doesn’t settle it.",
+      "A longtime Adventist may want to lay out the whole doctrine of the Sabbath right away. Ask them to stay with the texts on the table today."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone how many hours they work or how they spend their Sabbaths. Don’t compare people. Don’t use the Sabbath as a measure of who at the table is closer to God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When were you last truly rested? Don’t tell the whole story. Just say when it was and how you could tell.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and briefly, to set the length. Don’t comment on other people’s answers, even if someone says they can’t remember.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Master Who Gives No Break",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 5:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’” But Pharaoh replied, “Who is the LORD that I should obey His voice and let Israel go? I do not know the LORD, and I will not let Israel go.”"
+       ]
+      },
+      {
+       "odnosnik": "Exodus 5:4-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the king of Egypt said to them, “Moses and Aaron, why do you draw the people away from their work? Get back to your labor!” Pharaoh also said, “Look, the people of the land are now numerous, and you would be stopping them from their labor.” That same day Pharaoh commanded the taskmasters of the people and their foremen: “You shall no longer supply the people with straw for making bricks. They must go and gather their own straw. But require of them the same quota of bricks as before; do not reduce it. For they are lazy; that is why they are crying out, ‘Let us go and sacrifice to our God.’ Make the work harder on the men so they will be occupied and pay no attention to these lies.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses asks for a few days off for a feast. **How does Pharaoh explain this request to himself? List the words he uses to describe the people and their need.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Pharaoh’s answer to a request for a break is more work with the same quota. **What does he get out of it? According to verse 9, what is supposed to happen to a person who is constantly occupied?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Where do you hear a voice like this today: “they are lazy,” “the same quota of bricks,” “pay no attention to these lies”?** Does that voice always come from outside?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Pharaoh isn’t against Israel’s work; he owns it. In his world a person is worth as many bricks as they can make, and every break is a loss. That’s why he calls the request for a feast laziness, and talk about God lies. Notice what doesn’t exist in Egypt: not a single day that belongs to the slave. In this book, a week without a break is the very definition of slavery.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Where the Bricks Came From",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 1:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "So the Egyptians appointed taskmasters over the Israelites to oppress them with forced labor. As a result, they built Pithom and Rameses as store cities for Pharaoh. But the more they were oppressed, the more they multiplied and flourished; so the Egyptians came to dread the Israelites. They worked the Israelites ruthlessly and made their lives bitter with hard labor in brick and mortar, and with all kinds of work in the fields. Every service they imposed was harsh."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Israel builds store cities, warehouses for stockpiles. **Who are these stockpiles for, and what is the one who hoards them afraid of?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In these four verses, words about labor and coercion come back again and again. **What does the author want us to feel as we read this repetition?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 5, Pharaoh accuses Moses and Aaron of giving the people relief from their burdens. He uses the Hebrew verb `shabat`, “to stop, to rest.” It’s the same root that gives the seventh day its name. The BSB renders it “you would be stopping them”; the KJV has “ye make them rest.” In Pharaoh’s mouth, the word Genesis used for God’s rest sounds like an accusation.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first time Exodus uses a word for rest, it comes from the mouth of a man who forbids rest. **What does that say about what the conflict between God and Pharaoh is really about?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Toiling for Bread",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 127:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain. In vain you rise early and stay up late, toiling for bread to eat—for He gives sleep to His beloved."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "There’s no taskmaster standing over these people. **So who makes them rise early and stay up late? What drives them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalm doesn’t say that building and keeping watch are bad. **What exactly does it call vain? What decides whether the same labor is in vain or not?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“He gives sleep to His beloved.” **What does a person admit when they go to sleep even though not everything is done?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "One Handful",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ecclesiastes 2:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "For what does a man get for all the toil and striving with which he labors under the sun? Indeed, all his days are filled with grief, and his task is sorrowful; even at night, his mind does not rest. This too is futile."
+       ]
+      },
+      {
+       "odnosnik": "Ecclesiastes 4:6-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Better one handful with tranquility than two handfuls with toil and pursuit of the wind. Again, I saw futility under the sun. There is a man all alone, without even a son or brother. And though there is no end to his labor, his eyes are still not content with his wealth: “For whom do I toil and bereave my soul of enjoyment?” This too is futile—a miserable task."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The man in chapter four asks himself, “For whom do I toil?” and keeps on working. **Why doesn’t simply asking the question stop him?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Even at night, his mind does not rest.” **How is physical tiredness different from the weariness the Teacher describes?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Rest for a While",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 6:30-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, the apostles gathered around Jesus and brought Him news of all they had done and taught. And He said to them, “Come with Me privately to a solitary place, and let us rest for a while.” For many people were coming and going, and they did not even have time to eat. So they went away in a boat by themselves to a solitary place. But many people saw them leaving and recognized them. They ran together on foot from all the towns and arrived before them. When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples come back from good, successful work and want to tell all about it. **What does Jesus see in them that they may not have seen themselves?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The plan to rest falls through, because the crowd gets there before them. **Who in this scene takes on the crowd? What does that mean for the disciples?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "People’s needs were real and urgent, and yet Jesus told the disciples to sail away. **What does that say about rest in the life of someone who serves others?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This isn’t rest from bad work. The disciples had been healing and teaching, and people needed them. Jesus doesn’t wait for the needs to run out, because they never will. Notice the words “for a while.” He doesn’t promise them a vacation or a life without crowds, only a break after which they’ll go back. And when the break falls through, He is the one who starts teaching, not them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Different Yoke",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 11:28-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Come to Me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me; for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks of two groups: the weary and the burdened. **How is someone who has worn themselves out working different from someone who has had something loaded onto them? Who and what loads burdens onto people’s shoulders?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say “throw off the yoke,” but “Take My yoke upon you.” **Why doesn’t He promise a life with no yoke at all? How is His yoke different from Pharaoh’s?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Here rest is first a gift, since Jesus says “I will give you rest,” and then something you find by learning from Him. **How do these two fit together?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A yoke is a wooden beam shaped to fit the neck of an ox or the shoulders of a porter. A badly shaped one chafes and wounds; a well-made one lets you carry the load. The oldest surviving tradition outside the Gospels, from the second century, says that Jesus, as a carpenter, made plows and yokes. There’s no way to verify it, but the picture fits His words: “My yoke” is a yoke made to measure. Teachers of that time called the Law a yoke. Jesus doesn’t throw out the Law; He invites us to learn it with Him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Presence That Goes Along",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 33:12-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Moses said to the LORD, “Look, You have been telling me, ‘Lead this people up,’ but You have not let me know whom You will send with me. Yet You have said, ‘I know you by name, and you have found favor in My sight.’ Now if indeed I have found favor in Your sight, please let me know Your ways, that I may know You and find favor in Your sight. Remember that this nation is Your people.” And the LORD answered, “My Presence will go with you, and I will give you rest.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses is overloaded with responsibility for the people, and he asks for a plan. **What does he get instead of a plan?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In one sentence, God ties His presence to Moses’ rest. **What does that say about where rest comes from, according to the Bible?** Compare it with Jesus’ words, “Come to Me.”",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek words the BSB renders in Matthew 11:28-29 as “I will give you rest” and “rest” are `anapauso` and `anapausis`. In the Greek translation of the Old Testament used by the first Christians, this is exactly the word for Sabbath rest, for example in Exodus 16:23, Exodus 23:12, and Deuteronomy 5:14. A listener raised on that translation heard a Sabbath note in Jesus’ invitation.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Matthew reinforces this by the way he arranges his book. Right after these words he opens chapter twelve with the phrase “At that time,” shows Jesus walking through the grainfields on the Sabbath (Matthew 12:1), and tells two Sabbath scenes in a row.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If the invitation “Come to Me” had a Sabbath ring to it, **what is Jesus saying about Himself? And what does it say about where the Sabbath was leading from the very beginning?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The God Who Caught His Breath",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 31:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Israelites must keep the Sabbath, celebrating it as a permanent covenant for the generations to come. It is a sign between Me and the Israelites forever; for in six days the LORD made the heavens and the earth, but on the seventh day He rested and was refreshed.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same people who didn’t have a single day off in Egypt are given a day of rest as a sign. **A sign of what? What does this day tell them every week about whose they are now?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "It says of God that “He rested and was refreshed.” **Compare Him with the Pharaoh of the first section. What kind of master rests himself and lets those who belong to him rest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "God doesn’t get tired, and yet the text speaks of His rest. **Why would God rest, if not from weariness?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the stories of Israel’s neighbors, the gods create humans so that humans will work in their place and the gods can finally have some peace. In the Bible it’s the other way around. God works six days, rests first, and invites people into His rest. The day Israel receives after leaving Egypt isn’t a new brick quota. It’s weekly proof that Pharaoh no longer rules them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "In Quiet Confidence",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 30:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence—but you were not willing.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The prophet is speaking to people who, in a moment of danger, are frantically looking for alliances and safeguards. **Why are rest and quiet called strength here, not weakness?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“But you were not willing.” **Why can a person be unwilling to rest, even when rest is offered to them?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Was refreshed” in Exodus 31:17 is a rare Hebrew verb, `nafash`, meaning “to catch one’s breath, to breathe again.” It occurs only three times in the whole Bible. In Exodus 23:12 it’s about the son of a maidservant and the foreigner, who are to catch their breath on the seventh day. In 2 Samuel 16:14 it’s about David and his men catching their breath as they flee. Here it’s about God. The Bible uses the same word for the Creator’s rest and for the rest of a person on the bottom rung of the ladder.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Pharaoh says: more bricks, less straw, pay no attention to lies. **What does that voice sound like in your week? Does it come from outside or from within?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s texts do you need most right now: the psalm about toiling for bread, “let us rest for a while,” or “Come to Me”? Why that one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what are you afraid will happen if you really stop?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A Rest Not Everyone Can Afford",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "An invitation to rest is easy to accept for someone with a steady job, good health, and a free weekend. It sounds different to a mother raising three children on her own, a son caring for his father after a stroke, or someone who can’t pay the rent without a second job. The Bible knows this difficulty. The first people to receive the day of rest were former slaves, and the commandment separately names the manservant, the maidservant, and the foreigner, the very people who couldn’t give themselves a break.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**So who is the commandment to rest addressed to: the weary person, or the one who has power over their time?** What does that mean for a community where some can rest and others can’t?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus promises “rest for your souls,” and yet the disciples’ rest by the lake fell through. **Can you have the rest Jesus promises when your circumstances give you no relief? And if you can, is a separate day still needed?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this today. There’s a separate meeting on the connection between rest in Christ and seventh-day rest: “A Delight, Not a Burden.” It’s enough that the question gets asked honestly.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Pharaoh counts bricks. God rests first and invites us to Himself.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Matthew 11:28 or Psalm 127:2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "When you catch yourself this week unable to stop, ask yourself: **who is making me do this right now?** The boss, the bills, someone’s expectations, or maybe me. Call that master by name.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Before you go to sleep, instead of tallying up what’s left undone, say one sentence to God, from the end of Psalm 127:2: *You give sleep to Your beloved.* Notice what in you pushes back against that sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone who can’t rest because of you, at home or at work. Ask God what would happen if you let that person catch their breath.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Easy for you to say. I have no time to rest.”** Don’t try to persuade them, and don’t suggest time-management tricks. Say that the first section was written for people just like this: Israel couldn’t stop either, and it wasn’t their fault. If the person wants to keep talking, listen. After the meeting, ask whether the group can help with something specific.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Nothing comes without hard work. The Bible doesn’t praise lazy people.”** Agree, because it’s true: the commandment also says, “Six days you shall labor.” Then go back to the text: “Psalm 127 doesn’t criticize building. So what does it call vain?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Actually, why Saturday and not Sunday?”** Thank them for the question and say plainly that it matters, but this meeting doesn’t settle it. Today we’re staying with why people need a day of rest at all. Don’t get pulled into a lecture. If the person wants to dig further, point them to the separate meetings “The Day That Was There in the Beginning” and “A Delight, Not a Burden.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A longtime member says, “Thankfully, unlike others, we have the Sabbath.”** Calmly change direction: “You can have your Sabbaths free and still carry Pharaoh around inside you. What does that look like for us?” Here the Sabbath isn’t a way of sorting better people from worse ones.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a tiredness that neither sleep nor vacation cures, or says nothing brings them joy anymore.** This may be more than overwork. Don’t diagnose in front of the group. After the meeting, encourage them to talk to a doctor, and ask whether they have someone close by their side. If they are in crisis, point them to a crisis line in your country.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes silent after a question.** That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off and you won’t get through the material.** Skip section 2 and go to sections 4 and 5. Setting the Pharaoh of the first section beside the God who caught His breath is the thing without which the meeting loses its point.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Easy for you to say. I have no time to rest.”",
+     "odpowiedz": "Don’t try to persuade them, and don’t suggest time-management tricks. Say that the first section was written for people just like this: Israel couldn’t stop either, and it wasn’t their fault. If the person wants to keep talking, listen. After the meeting, ask whether the group can help with something specific."
+    },
+    {
+     "sytuacja": "“Nothing comes without hard work. The Bible doesn’t praise lazy people.”",
+     "odpowiedz": "Agree, because it’s true: the commandment also says, “Six days you shall labor.” Then go back to the text: “Psalm 127 doesn’t criticize building. So what does it call vain?”"
+    },
+    {
+     "sytuacja": "“Actually, why Saturday and not Sunday?”",
+     "odpowiedz": "Thank them for the question and say plainly that it matters, but this meeting doesn’t settle it. Today we’re staying with why people need a day of rest at all. Don’t get pulled into a lecture. If the person wants to dig further, point them to the separate meetings “The Day That Was There in the Beginning” and “A Delight, Not a Burden.”"
+    },
+    {
+     "sytuacja": "A longtime member says, “Thankfully, unlike others, we have the Sabbath.”",
+     "odpowiedz": "Calmly change direction: “You can have your Sabbaths free and still carry Pharaoh around inside you. What does that look like for us?” Here the Sabbath isn’t a way of sorting better people from worse ones."
+    },
+    {
+     "sytuacja": "Someone talks about a tiredness that neither sleep nor vacation cures, or says nothing brings them joy anymore.",
+     "odpowiedz": "This may be more than overwork. Don’t diagnose in front of the group. After the meeting, encourage them to talk to a doctor, and ask whether they have someone close by their side. If they are in crisis, point them to a crisis line in your country."
+    },
+    {
+     "sytuacja": "The group goes silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "The conversation takes off and you won’t get through the material.",
+     "odpowiedz": "Skip section 2 and go to sections 4 and 5. Setting the Pharaoh of the first section beside the God who caught His breath is the thing without which the meeting loses its point."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,744 @@
+{
+ "tytul": "A Crisis of Faith",
+ "id": "K-06",
+ "seria": "Crises and Turning Points",
+ "opis": "When someone who believed can no longer pray. The Bible’s most important people went through this.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Psalm 77:1-9; 1 Kings 19:9-14, 18; Lamentations 3:17-26; John 6:60-69; Psalm 77:10-15, 19-20",
+  "p2": "Jeremiah 20:7-9; Lamentations 3:1-8; Luke 22:31-32; Matthew 28:16-20",
+  "p3": "Matthew 14:29-31; Psalm 73:16-17"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 28
+ },
+ "tagi": [
+  "crisis",
+  "faith",
+  "doubt",
+  "hope",
+  "memory",
+  "leaving the faith"
+ ],
+ "wersja": 1,
+ "zdanie": "Faith doesn’t always see footprints. Sometimes it only remembers that the path once led through the sea.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about the moment when faith stops working. Not about curiosity or intellectual questions, but about collapse: something happened, or for a long time nothing happened, and a person who believed can no longer pray. The Bible doesn’t hide that its most important people went through this: the chief of the temple singers, the greatest of the prophets, the author of Lamentations, Jesus’ disciples. None of these texts contains a rebuke. The meeting should give people two things: permission to tell God the truth, and a few of the ways the people of the Bible made it through the night.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There is a separate meeting on questions and doubts as such in the Questions People Ask series. Elijah’s exhaustion under the bush in the wilderness is covered in the meeting on Discouragement. Here we read a later scene, the conversation on Mount Horeb.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may not believe right now and may be coming out of habit or for their family. What matters most for that person is that no one tries to fix them.",
+      "Someone has a child, a husband, or a friend who has left the faith. They will read John 6 with that person in mind.",
+      "A crisis of faith is sometimes the result of harm suffered in the church. Then defending the church is the last thing that person needs.",
+      "What looks like a crisis of faith is sometimes depression. The group won’t recognize it and doesn’t have to, but the leader should keep it in mind."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t hand out prescriptions like “pray more, read more.” Don’t let the group try to argue the doubter back into faith. Don’t ask anyone how their faith is doing right now. Don’t end the meeting on a note of triumph. Psalm 77 doesn’t end that way.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something you once trusted without reservation, and not God: a person, an institution, a life plan. Say in one word what you felt when that trust first wavered.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, with one word and one sentence of explanation. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Questions You’re Not Supposed to Ask",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 77:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "I cried out to God; I cried aloud to God to hear me. In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted. I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah You have kept my eyes from closing; I am too troubled to speak. I considered the days of old, the years long in the past. At night I remembered my song; in my heart I mused, and my spirit pondered: “Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List the questions at the end of this passage.** These aren’t the questions of someone curious, but of someone terrified. What is this man afraid of? What does it mean that questions like these stand in the Bible, in a book of songs sung in worship?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I remembered You, O God, and I groaned.” The thought of God that once carried him now hurts. **How does it come to that?** Why can remembering “the days of old” make things worse instead of helping?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The psalmist can’t sleep and tells God: “You have kept my eyes from closing.” **What does this accusation say about his faith?** Whom does a person address when they have truly stopped believing?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The heading attributes this psalm to Asaph. Asaph was the chief of the singers whom David appointed to minister before the Ark. A man whose job was to lead others in worship writes a song about a night when he himself can’t accept comfort, and gives it to the congregation to sing. So Israel had ready-made words in its hymnbook for the moment when faith crumbles. No one had to invent them alone or be ashamed of them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Prophet Who Wanted to Quit",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 20:7-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "You have deceived me, O LORD, and I was deceived. You have overcome me and prevailed. I am a laughingstock all day long; everyone mocks me. For whenever I speak, I cry out; I proclaim violence and destruction. For the word of the LORD has become to me a reproach and derision all day long. If I say, “I will not mention Him or speak any more in His name,” His message becomes a fire burning in my heart, shut up in my bones, and I become weary of holding it in, and I cannot prevail."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiah tells God that he feels deceived by Him. **What does this say about a relationship in which such a sentence can be spoken?** Do we talk like that to someone we don’t care about?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The prophet decides to stop speaking about God and can’t do it. **What is this “fire burning in my heart, shut up in my bones”?** Do you know that state where you can’t believe and you can’t stop?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "What Are You Doing Here?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After his great victory on Carmel, Elijah flees from the queen, asks to die, sleeps, eats, and walks forty days to Mount Horeb. There he hides in a cave.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 19:9-14, 18",
+       "przeklad": "BSB",
+       "akapity": [
+        "There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?” “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.” Then the LORD said, “Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by.” And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake. After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice. When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?” “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.” … Nevertheless, I have reserved seven thousand in Israel—all whose knees have not bowed to Baal and whose mouths have not kissed him.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God asks the same question twice. Twice Elijah answers word for word, even after the wind, the earthquake, the fire, and the stillness. **What does this say about the state Elijah is in?** What does God do with a person whom nothing can reach right now?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Elijah: “I am the only one left.” God: seven thousand. The prophet was wrong about the facts and was sure of them. **How does a crisis of faith distort what we see: in ourselves, in other believers, in God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "A few days earlier God had answered Elijah with fire from heaven. Now He isn’t in the fire; there is a still, small voice. **What happens to a faith that waits for God in only one form?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In this whole scene God never once rebukes Elijah or asks where his faith has gone. He asks what he is doing here and listens to the same complaint twice. Then He gives him three things: a task for the days ahead, a successor who will go on with him, and a correction. You are not alone, and you never were. Elijah’s loneliness was a real feeling and false information.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "My Hope Has Perished",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lamentations 3:17-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "My soul has been deprived of peace; I have forgotten what prosperity is. So I say, “My strength has perished, along with my hope from the LORD.” Remember my affliction and wandering, the wormwood and the gall. Surely my soul remembers and is humbled within me. Yet I call this to mind, and therefore I have hope: Because of the loving devotion of the LORD we are not consumed, for His mercies never fail. They are new every morning; great is Your faithfulness! “The LORD is my portion,” says my soul, “therefore I will hope in Him.” The LORD is good to those who wait for Him, to the soul who seeks Him. It is good to wait quietly for the salvation of the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Between “my strength has perished, along with my hope” and “therefore I have hope,” nothing changes in the author’s situation. **So what does change?** What does he rest his hope on, if not on circumstances?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Yet I call this to mind.” That sounds like a decision, not a feeling. **How is hope as a mood different from hope as something a person deliberately lays on their own heart?** Is the second honest when your feelings say otherwise?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“New every morning.” **Why is the measure a single day and not a whole life?** What difference does that make for someone who doesn’t know whether they’ll still believe a year from now?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The author is looking at Jerusalem in ruins. The temple burned, the people deported or starving. Hope doesn’t come here from things getting better, because nothing is getting better. It comes from remembering what God has been like until now. The book is made up of five funeral songs, and these words stand in the middle of the third, that is, right at the center of the whole. Hope doesn’t crown the lament. It sits in the middle of it, with ruins on both sides.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Before Hope Came",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lamentations 3:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "I am the man who has seen affliction under the rod of God’s wrath. He has driven me away and made me walk in darkness instead of light. Indeed, He keeps turning His hand against me all day long. He has worn away my flesh and skin; He has shattered my bones. He has besieged me and surrounded me with bitterness and hardship. He has made me dwell in darkness like those dead for ages. He has walled me in so I cannot escape; He has weighed me down with chains. Even when I cry out and plead for help, He shuts out my prayer."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same man in the same chapter says of God, “He shuts out my prayer,” and, “great is Your faithfulness!” **Does the second statement cancel the first?** What would this chapter lose if it began at verse 21?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "We usually say that God leads us into light and to green pastures. Here He leads into darkness. **What are we allowed to say to God about God?** Where is the line, and who drew it?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "To Whom Would We Go?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "In Capernaum Jesus gave a speech that offended His listeners. The day before, the crowd had wanted to make Him king.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 6:60-69",
+       "przeklad": "BSB",
+       "akapity": [
+        "On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?” Aware that His disciples were grumbling about this teaching, Jesus asked them, “Does this offend you? Then what will happen if you see the Son of Man ascend to where He was before? The Spirit gives life; the flesh profits nothing. The words I have spoken to you are spirit and they are life. However, there are some of you who do not believe.” (For Jesus had known from the beginning which of them did not believe and who would betray Him.) Then Jesus said, “This is why I told you that no one can come to Me unless the Father has granted it to him.” From that time on many of His disciples turned back and no longer walked with Him. So Jesus asked the Twelve, “Do you want to leave too?” Simon Peter replied, “Lord, to whom would we go? You have the words of eternal life. We believe and know that You are the Holy One of God.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "It is “disciples” who leave, not enemies. Jesus doesn’t run after them or soften His words, and He asks those closest to Him directly whether they want to leave too. **What does that question say about how Jesus treats human freedom?** How does it sound to someone who is wavering themselves?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter doesn’t say “I understand everything” or “I never doubted.” He says, “Lord, to whom would we go?” **What kind of faith stays because it has nowhere else to go?** Is it a weak faith, or perhaps the most basic kind?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“We believe and know.” **Why in that order?** Are there things you only come to know from the inside, after you’ve stayed?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This confession doesn’t come at the height of Jesus’ popularity. It comes when the group is shrinking before their eyes and no one knows how many more will walk out. Those who left probably didn’t leave because they failed to understand. They understood very well that Jesus would not be the bread king they wanted. A crisis of faith is sometimes a crisis of an image of God we built for ourselves. Then what collapses isn’t always faith.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "I Have Prayed for You",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 22:31-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Simon, Simon, Satan has asked to sift each of you like wheat. But I have prayed for you, Simon, that your faith will not fail. And when you have turned back, strengthen your brothers.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says this to the same Peter a few hours before his denial. He knows what will happen, and He doesn’t say “you won’t fall.” **What did He pray for, and what does that prove about whom the survival of faith in a crisis depends on?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“When you have turned back, strengthen your brothers.” Even before the fall, Jesus gives Peter a task for afterward. **How is a person who has been through a collapse of faith useful to the community?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Some Doubted",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 28:16-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, the eleven disciples went to Galilee, to the mountain Jesus had designated. When they saw Him, they worshiped Him, but some doubted. Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me. Therefore go and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit, and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is the last scene of Matthew’s Gospel. The risen Lord stands before them, “but some doubted.” **What does Jesus do with those who doubt?** Does He send only the ones who are sure? To whom does He say “I am with you”?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek word rendered “doubted” in Matthew 28:17 is `distazo`. It means “to hesitate, to be caught between two ways” more than “to disbelieve.” It appears only one other time in the Gospels.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 14:29-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus. But when he saw the strength of the wind, he was afraid, and beginning to sink, cried out, “Lord, save me!” Immediately Jesus reached out His hand and took hold of Peter. “You of little faith,” He said, “why did you doubt?”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same word describes a man who had just been walking on water. **What does this say about who the “doubters” are in Matthew’s Gospel?** Where is Jesus’ hand in this scene at the moment Peter wavers?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "No Footprints to Be Found",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "We return to the psalm from the beginning. The night goes on; the questions remain unanswered. The psalmist does one thing.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 77:10-15, 19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds. Your way, O God, is holy. What god is so great as our God? You are the God who works wonders; You display Your strength among the peoples. With power You redeemed Your people, the sons of Jacob and Joseph. Selah … Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found. You led Your people like a flock by the hand of Moses and Aaron."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalmist got no answer to any of his questions. **What does he do instead of waiting for an answer?** At the start of the psalm, remembering hurt. What changed in what he remembers, and how?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Your path led through the sea, … but Your footprints were not to be found.” **What was crossing the sea like for the people walking through the middle of it, at night, between walls of water?** What does this sentence say about how God leads, and when you can see it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The psalm breaks off in the middle of a memory. There is no “and now I know” or “and I found peace again.” **Why did someone leave it without an ending?** Who is served by an ending like that?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Your way, O God, is holy.” The Hebrew word `kodesh` means “holiness,” but also “holy place, sanctuary.” So the sentence can be read two ways: Your way is holy, or Your way is in the sanctuary. The KJV takes the second: “Thy way, O God, is in the sanctuary.” Another psalm by the same Asaph describes a similar crisis and a similar turn.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 73:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "When I tried to understand all this, it was troublesome in my sight until I entered God’s sanctuary; then I discerned their end."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Here the turning point is plain: “until I entered God’s sanctuary; then I discerned their end.” In both psalms Asaph doesn’t resolve the crisis alone, in his head, at night. Something shifts when he goes where God’s people tell together what God has done.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why is it that a person in a crisis of faith usually stops coming first?** What would have to be true about a community for it to be possible to come right then, with those questions and without pretending?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Asaph remembers, the author of Lamentations calls something to mind, Peter stays because there’s nowhere else to go, Elijah is given a companion. **Which of these ways of getting through the night is closest to you, and which is the hardest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If someone in this group said out loud today, “I think I’m losing my faith,” **what would they hear?** What would you want them to hear?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a question for God you’ve been carrying for a long time and have never asked out loud?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In John 6 Jesus lets people who had walked with Him leave. He doesn’t chase them or change His words for them. Many of us have someone close who has left the faith. **What does it mean to love someone who has left, if you may neither pursue them nor write them off? Is Jesus’ silence in verse 66 indifference?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t offer a method for winning anyone back. It is worth making sure the observation from Luke 22 comes up, though: Jesus didn’t stop Peter from falling; He prayed for him and waited for him on the other side.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Faith doesn’t always see footprints. Sometimes it only remembers that the path once led through the sea.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Lamentations 3:21-23 or John 6:68.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Asaph wrote down his questions and gave them to be sung. **What is your question for God, the real one, not the one you’re supposed to have?** Say it to Him in the words it has inside you at night. He keeps questions like that in His own book.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The author of Lamentations had no hope for the future, so he reached for memory. Recall one moment when you were sure God was with you. Don’t judge it from where you stand today, and don’t tell yourself you may have imagined it. **Just call it to mind and lay it on your heart, for today, for one morning.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** Elijah was sure he had been left alone, and he was wrong. Ask yourself whether there is someone you could tell the truth about the state of your faith. If there is, stay with the question of what is holding you back.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says plainly, “I don’t think I believe anymore,” or “I’m praying to a wall.”** That is an act of trust toward the group, not an attack on it. Thank them. Don’t fix, don’t argue, and don’t let others do it. You can say: “I’m glad you’re saying this here. Asaph and Jeremiah put it more sharply.” This person should leave convinced that they are welcome at this table as they are, not on the condition that it passes.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is in a fresh crisis after a specific blow: a death, a betrayal, an unanswered prayer for something that mattered most.** The group listens and walks alongside; it doesn’t treat and doesn’t give advice. Don’t explain God. Shorten the material and stay with Psalm 77. After the meeting, ask whether this person has someone to talk to.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What you’re hearing sounds more like depression than a crisis of faith: sleeplessness, no energy, a sense that nothing makes sense, “it would be better if I weren’t here.”** Elijah asked to die, and God first gave him sleep and food. Exhaustion and illness aren’t treated with a Bible study. Encourage a visit to a doctor or a psychologist, and say clearly that this is not a lack of faith. Point them to a crisis line in your country. If someone talks about taking their own life, don’t leave them alone, and call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone’s crisis began with harm suffered in the church.** Don’t defend the church and don’t minimize what happened. Listen. If what you hear involves abuse or exploitation, you don’t carry it alone: report it to the pastor or to church leadership, and help the person who was harmed find professional help. The distinction between God and the people who blocked the view of Him may come later, and not from you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“You just need to pray more and read the Bible.”** Agree that these are good things, and go back to the text: Asaph was praying, and that is exactly when he groaned. Ask: “What did God do for Elijah before He said anything to him?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A parent talks about a child who has left the faith, with guilt or with resentment toward the child.** Don’t give parenting advice, and don’t let the group give it. In John 6 many walked away from Jesus Himself, and He was a perfect teacher. There is a question about this at level 3. You can ask it even if you are leading level 1.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts an argument about evidence: science, contradictions in the Bible, other religions.** That’s a different meeting. Say that there are separate meetings on this in the Questions People Ask series, write the question down, and return to today’s topic: what happens to a person whose faith has collapsed, and what God does then.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2 or block 4, depending on the group. Don’t separate blocks 1 and 5: they are one psalm, and the whole meeting is stretched between its beginning and its end.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says plainly, “I don’t think I believe anymore,” or “I’m praying to a wall.”",
+     "odpowiedz": "That is an act of trust toward the group, not an attack on it. Thank them. Don’t fix, don’t argue, and don’t let others do it. You can say: “I’m glad you’re saying this here. Asaph and Jeremiah put it more sharply.” This person should leave convinced that they are welcome at this table as they are, not on the condition that it passes."
+    },
+    {
+     "sytuacja": "Someone is in a fresh crisis after a specific blow: a death, a betrayal, an unanswered prayer for something that mattered most.",
+     "odpowiedz": "The group listens and walks alongside; it doesn’t treat and doesn’t give advice. Don’t explain God. Shorten the material and stay with Psalm 77. After the meeting, ask whether this person has someone to talk to."
+    },
+    {
+     "sytuacja": "What you’re hearing sounds more like depression than a crisis of faith: sleeplessness, no energy, a sense that nothing makes sense, “it would be better if I weren’t here.”",
+     "odpowiedz": "Elijah asked to die, and God first gave him sleep and food. Exhaustion and illness aren’t treated with a Bible study. Encourage a visit to a doctor or a psychologist, and say clearly that this is not a lack of faith. Point them to a crisis line in your country. If someone talks about taking their own life, don’t leave them alone, and call your local emergency number."
+    },
+    {
+     "sytuacja": "Someone’s crisis began with harm suffered in the church.",
+     "odpowiedz": "Don’t defend the church and don’t minimize what happened. Listen. If what you hear involves abuse or exploitation, you don’t carry it alone: report it to the pastor or to church leadership, and help the person who was harmed find professional help. The distinction between God and the people who blocked the view of Him may come later, and not from you."
+    },
+    {
+     "sytuacja": "“You just need to pray more and read the Bible.”",
+     "odpowiedz": "Agree that these are good things, and go back to the text: Asaph was praying, and that is exactly when he groaned. Ask: “What did God do for Elijah before He said anything to him?”"
+    },
+    {
+     "sytuacja": "A parent talks about a child who has left the faith, with guilt or with resentment toward the child.",
+     "odpowiedz": "Don’t give parenting advice, and don’t let the group give it. In John 6 many walked away from Jesus Himself, and He was a perfect teacher. There is a question about this at level 3. You can ask it even if you are leading level 1."
+    },
+    {
+     "sytuacja": "Someone starts an argument about evidence: science, contradictions in the Bible, other religions.",
+     "odpowiedz": "That’s a different meeting. Say that there are separate meetings on this in the Questions People Ask series, write the question down, and return to today’s topic: what happens to a person whose faith has collapsed, and what God does then."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2 or block 4, depending on the group. Don’t separate blocks 1 and 5: they are one psalm, and the whole meeting is stretched between its beginning and its end."
+    }
+   ]
+  }
+ ]
+}

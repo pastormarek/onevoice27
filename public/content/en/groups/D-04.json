@@ -1,0 +1,767 @@
+{
+ "tytul": "Daniel 4. The King Who Looked Up",
+ "id": "D-04",
+ "seria": "The Book of Daniel",
+ "opis": "The most powerful man in the world tells in his own words how he lost everything, and why he calls it grace.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 4:1-3; 4:4-8; 4:10-17; 4:19-22, 24-27; 4:28-33; 4:34-37",
+  "p2": "Ezekiel 31:3-6, 10-11; Deuteronomy 8:17-18; James 4:6; Luke 18:14",
+  "p3": "Daniel 4:16"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 28
+ },
+ "tagi": [
+  "Daniel",
+  "pride",
+  "humility",
+  "power",
+  "conversion",
+  "grace"
+ ],
+ "wersja": 1,
+ "zdanie": "Humility begins with looking up: with seeing where what I have came from.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This chapter is one of a kind: it was written by a pagan king, in the first person, as an open letter to his entire empire. In it he tells of his greatest humiliation and calls it a wonder that God performed for him. This meeting is not about pride being bad. It is about a God who for three chapters kept following a man who had burned His city, and did not let go until that man looked up.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A note on numbering. English Bibles open chapter 4 with the beginning of the king’s letter (4:1-3), and the chapter has 37 verses. The Aramaic text and many other translations count those opening lines as the end of chapter 3 (3:31-33). If someone at the table is using such a translation, their verse numbers will be off by three.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The chapter is long. You will read five sections, and what falls between them is summarized in italic lines. Read those aloud to the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The king’s seven years among the animals tempts people to make a diagnosis. The text doesn’t make one, and neither does this material. Someone at the table may have gone through a mental health crisis themselves or have someone ill in their family. Mental illness is not a punishment for pride, and the group must be clear on that.",
+      "Pride is easiest to talk about in the third person: the boss, the politician, the father-in-law. The questions lead to the first person. Keep gently steering it there.",
+      "Someone may hear in this story that God breaks people in order to convert them. Point to the year of delay, to Daniel’s advice, and to the stump left in the ground."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t point to anyone as an example of pride, whether someone in the room or someone in the news. Don’t speculate about what exactly was wrong with the king. Don’t turn verse 27 into a promise that good deeds guarantee prosperity.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something in your life that truly worked out. In one sentence, say who or what you owe it to.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The King’s Letter",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 4:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "King Nebuchadnezzar, To the people of every nation and language who dwell in all the earth: May your prosperity be multiplied. I am pleased to declare the signs and wonders that the Most High God has performed for me. How great are His signs, how mighty His wonders! His kingdom is an eternal kingdom; His dominion endures from generation to generation."
+       ]
+      },
+      {
+       "odnosnik": "Daniel 4:4-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "I, Nebuchadnezzar, was at ease in my house and flourishing in my palace. I had a dream, and it frightened me; while in my bed, the images and visions in my mind alarmed me. So I issued a decree that all the wise men of Babylon be brought before me to interpret the dream for me. When the magicians, enchanters, astrologers, and diviners came in, I told them the dream, and they could not interpret it for me. But at last, into my presence came Daniel (whose name is Belteshazzar after the name of my god, and in whom is the spirit of the holy gods). And I told him the dream:"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This is an official royal document addressed to the whole empire. **What is remarkable about it, once you know what he is about to tell?** How do rulers usually write about their failures?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The king begins with the ending: with praise to God. In earlier chapters he spoke of “your God” and of “the God of Shadrach, Meshach, and Abednego.” **How does he speak now? What has changed in the pronouns?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“I, Nebuchadnezzar, was at ease in my house and flourishing in my palace.” **Why does God unsettle a person precisely when everything is going well for him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel comes in “at last,” after everyone else. The wise men of Babylon had already failed the king over the dream of the statue, and he still starts with them. He also still calls Daniel by the name of his own god and speaks of “the spirit of the holy gods.” He writes this letter after it is all over, yet he tells honestly how he thought before. He doesn’t polish his own story.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** In the fourth of the six court stories, and the last one in which Nebuchadnezzar appears. The book has shown him four times: as a conqueror in chapter 1, as a terrified dreamer in chapter 2, as the builder of the statue in chapter 3, and now. Each time he says something more about Daniel’s God, and each time it is not enough. This chapter closes his journey. In the next one, someone else is sitting on the throne.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Nebuchadnezzar reigned for more than forty years and was one of the greatest builders of the ancient world. The Babylon of his day had double walls, a monumental gate faced with glazed brick, palaces, and temples. He had his name stamped into the bricks. When he speaks in verse 30 about the city he built, he is not exaggerating.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Cedar That Reached the Clouds",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The prophet Ezekiel, also an exile in Babylonia, used this same image to describe the might of Assyria in order to warn Pharaoh.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 31:3-6, 10-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Look at Assyria, a cedar in Lebanon, with beautiful branches that shaded the forest. It towered on high; its top was among the clouds. The waters made it grow; the deep springs made it tall, directing their streams all around its base and sending their channels to all the trees of the field. Therefore it towered higher than all the trees of the field. Its branches multiplied, and its boughs grew long as it spread them out because of the abundant waters. All the birds of the air nested in its branches, and all the beasts of the field gave birth beneath its boughs; all the great nations lived in its shade. … Therefore this is what the Lord GOD says: ‘Since it became great in height and set its top among the clouds, and it grew proud on account of its height, I delivered it into the hand of the ruler of the nations, for him to deal with it according to its wickedness. I have banished it."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "It was Babylon that cut Assyria down. Now the king of Babylon dreams this same dream about himself. **What does it say about human power that this image fits one empire after another?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**According to Ezekiel, where did the cedar’s greatness come from?** Look in verse 4. At what point did greatness become a problem?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Tree and the Sentence",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The king tells Daniel what he saw.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 4:10-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "In these visions of my mind as I was lying in bed, I saw this come to pass: There was a tree in the midst of the land, and its height was great. The tree grew large and strong; its top reached the sky, and it was visible to the ends of the earth. Its leaves were beautiful, its fruit was abundant, and upon it was food for all. Under it the beasts of the field found shelter, in its branches the birds of the air nested, and from it every creature was fed. As I lay on my bed, I also saw in the visions of my mind a watcher, a holy one, coming down from heaven. He called out in a loud voice: ‘Cut down the tree and chop off its branches; strip off its leaves and scatter its fruit. Let the beasts flee from under it, and the birds from its branches. But leave the stump with its roots in the ground, and a band of iron and bronze around it, in the tender grass of the field. Let him be drenched with the dew of heaven and graze with the beasts on the grass of the earth. Let his mind be changed from that of a man, and let him be given the mind of a beast till seven times pass him by. This decision is the decree of the watchers, the verdict declared by the holy ones, so that the living will know that the Most High rules over the kingdom of mankind and gives it to whom He wishes, setting over it the lowliest of men.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Describe the tree using only the text. What is good about it?** Who benefits from it? Does the dream condemn the tree itself?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The tree is cut down, but the stump is to stay in the ground, and secured with a band at that. **What does this detail say about the intention of the One who issued the sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 17 gives the purpose of the whole event. **According to the text, who is this lesson for?** What are “the living” supposed to learn?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 16 the BSB, like the KJV, has “seven times.” The Aramaic `iddan` simply means “time, period,” and most translations render it “seven times” or “seven years.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 4:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let his mind be changed from that of a man, and let him be given the mind of a beast till seven times pass him by."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This is about seven years in the life of one man. That is worth noticing, also because in the prophetic part of the book Adventists and many other readers count prophetic periods by the principle that a day stands for a year. Here no one applies that principle, and rightly so: the chapter is a historical narrative, and the sentence concerns one person who is to live through it and write about it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why does it matter that a principle for reading prophecy has limits, and that we know where not to apply it?** What happens to the credibility of an interpretation when one method is used for everything?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Prophet Who Was Alarmed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 4:19-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "For a time, Daniel, who was also known as Belteshazzar, was perplexed, and his thoughts alarmed him. So the king said, “Belteshazzar, do not let the dream or its interpretation alarm you.” “My lord,” replied Belteshazzar, “may the dream apply to those who hate you, and its interpretation to your enemies! The tree you saw that grew large and strong, whose top reached the sky and was visible to all the earth, whose foliage was beautiful and whose fruit was abundant, providing food for all, under which the beasts of the field lived, and in whose branches the birds of the air nested— you, O king, are that tree! For you have become great and strong; your greatness has grown to reach the sky, and your dominion extends to the ends of the earth."
+       ]
+      },
+      {
+       "odnosnik": "Daniel 4:24-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is the interpretation, O king, and this is the decree that the Most High has issued against my lord the king: You will be driven away from mankind, and your dwelling will be with the beasts of the field. You will feed on grass like an ox and be drenched with the dew of heaven, and seven times shall pass you by, until you acknowledge that the Most High rules over the kingdom of mankind and gives it to whom He wishes. As for the command to leave the stump of the tree with its roots, your kingdom will be restored to you as soon as you acknowledge that Heaven rules. Therefore, may my advice be pleasing to you, O king. Break away from your sins by doing what is right, and from your iniquities by showing mercy to the oppressed. Perhaps there will be an extension of your prosperity.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This king destroyed Jerusalem and carried Daniel off as a boy. Now Daniel has to announce his downfall to him. **How does he react? What is missing from his reaction, even though you might have expected it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel doesn’t stop at the sentence; he adds advice. **What exactly does he advise, and what does that advice reveal about how Nebuchadnezzar ruled?** What does pride have to do with the oppressed?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Perhaps there will be an extension of your prosperity.” **What does it say about God that the sentence comes together with a way out?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Aramaic word describing Daniel in verse 19 is strong: it means to be devastated, to be stunned. The king has to calm the prophet, not the other way around. Daniel doesn’t gloat. He wishes that the dream applied to the king’s enemies, and then he tells the truth, all of it and plainly: “you, O king, are that tree!” The bad news is brought by someone whom it breaks. This is what speaking truth to power looks like in this book.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Where Did I Get This?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 8:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "You might say in your heart, “The power and strength of my hands have made this wealth for me.” But remember that it is the LORD your God who gives you the power to gain wealth, in order to confirm His covenant that He swore to your fathers even to this day."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses doesn’t say that people have done nothing. He says where they got the strength to do it. **Where is the line between healthy satisfaction in your own work and the sentence in Deuteronomy 8:17?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In chapter 2 Daniel told the king that the God of heaven “has given” him sovereignty, power, and glory. **What did the king do with that sentence over the following years?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Twelve Months Later",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 4:28-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "All this happened to King Nebuchadnezzar. Twelve months later, as he was walking on the roof of the royal palace of Babylon, the king exclaimed, “Is this not Babylon the Great, which I myself have built by the might of my power as a royal residence and for the glory of my majesty?” While the words were still in the king’s mouth, a voice came from heaven: “It is decreed to you, King Nebuchadnezzar, that the kingdom has departed from you. You will be driven away from mankind to live with the beasts of the field, and you will feed on grass like an ox. And seven times will pass you by, until you acknowledge that the Most High rules over the kingdom of mankind and gives it to whom He wishes.” At that moment the sentence against Nebuchadnezzar was fulfilled. He was driven away from mankind. He ate grass like an ox, and his body was drenched with the dew of heaven, until his hair grew like the feathers of an eagle and his nails like the claws of a bird."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twelve months pass between the dream and its fulfillment. **What was that year on God’s side?** What might have been going on in the king’s head during that time?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 30 again and count the words “I” and “my.” **What in this sentence is true, and what is not?** What is missing from it compared with what the king heard in chapter 2?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The man who wanted to be more than human becomes less than human. **What does this picture say about what pride does to our humanity, even without any miracle?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the text doesn’t name what happened to the king, and it doesn’t make a rule out of it. If someone starts connecting mental illness with God’s punishment, stop it right away. The response is in the Red Flags.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "I Looked Up",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 4:34-37",
+       "przeklad": "BSB",
+       "akapity": [
+        "But at the end of those days I, Nebuchadnezzar, looked up to heaven, and my sanity was restored to me. Then I praised the Most High, and I honored and glorified Him who lives forever: “For His dominion is an everlasting dominion, and His kingdom endures from generation to generation. All the peoples of the earth are counted as nothing, and He does as He pleases with the army of heaven and the peoples of the earth. There is no one who can restrain His hand or say to Him, ‘What have You done?’” At the same time my sanity was restored, my honor and splendor returned to me for the glory of my kingdom. My advisers and nobles sought me out, and I was restored to my throne, and surpassing greatness was added to me. Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, for all His works are true and all His ways are just. And He is able to humble those who walk in pride."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The story returns to the first person: “I, Nebuchadnezzar, looked up to heaven, and my sanity was restored to me.” **What comes first in this sentence: the look upward, or the return of his sanity?** What might that order mean?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "On the palace roof the king looked down at his city. Now he looks up. **What is humility, according to this scene?** How is it different from putting yourself down?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "After it is all over, “surpassing greatness” is added to the king. **What does that say about what God wanted to take away from him, and what He did not?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Nebuchadnezzar’s last words in the Bible are the sentence of a man speaking from experience: those who walk in pride, God is able to humble. It is worth seeing how long God took to get there. The dream of the statue, the fourth figure in the furnace, the dream of the tree, Daniel’s advice, a year of delay. Only then the fall, and after it, restoration. A book that begins with a king plundering the temple gives him a whole chapter for his personal testimony.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Principle in Jesus and James",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 4:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”"
+       ]
+      },
+      {
+       "odnosnik": "Luke 18:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "I tell you, this man, rather than the Pharisee, went home justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The New Testament repeats Nebuchadnezzar’s sentence almost word for word. **Why is pride something God “opposes,” and not simply one fault among many?** What does it do to a relationship in which everything is a gift?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In this story, to whom did God give grace, and at what moment?** Did the king deserve it?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Does God Break People?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This chapter can be read in two ways, and both have support in the text.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading emphasizes sovereignty. The sentence is decided in heaven, a voice thunders, the king is struck down in mid-sentence. No one can “restrain His hand or say to Him, ‘What have You done?’” God does with rulers as He pleases, and people are to acknowledge it. The second reading emphasizes patience. God warns through a dream, sends a prophet who offers a way out, waits twelve months, leaves the stump in the ground, and announces in advance when the punishment will end. Humiliation is not the goal but the last of the means, and the goal is a person who looks up.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "These readings don’t have to exclude each other. What unites them is a sentence that appears in the chapter three times: the Most High rules over the kingdom of mankind. Where they differ is in how they understand that rule: as a force that cannot be resisted, or as a patience that does not give up.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these readings is closer to you, and on which verse do you base it?** What do we lose when we keep only one of them?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 35 says that all the peoples of the earth “are counted as nothing.” **How do we square that sentence with a God who goes to so much trouble over one man?** Who says these words, and at what point in his life?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Everyone has their own palace roof, a place from which they look at what they have built. **What is your Babylon, and what does your version of verse 30 sound like?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel connected the king’s pride with the fate of the oppressed. **Who around you pays the price for your being busy building your own thing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **has there been a humiliation in your life that you can say today saved something in you?** You don’t have to tell the details.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nebuchadnezzar was given dreams, a prophet, a year’s delay, seven years, and restoration. Many tyrants in history were given nothing of the kind and died in their palaces, well fed and sure of themselves. **Why does God stop one proud man and let others keep going? Is the fact that no one has stopped me a good sign?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. Someone may point out that the king’s letter was written to “the people of every nation and language,” and so also to those whom no one will stop. For them, this story is meant to be the thing that stops them.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Humility begins with looking up: with seeing where what I have came from.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 4:37 or Daniel 4:34a.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Choose one thing you are proudest of: your home, your business, your children, your ministry at church, your education. Tell God about it in a sentence that begins with the words “You gave me this.” Notice what happens in you as you say it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel gave the king a year. Ask yourself honestly: **is there something I have been hearing for a long time, from God or from people close to me, that I keep putting off because for now everything works?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone who has authority over you and whom you don’t like. Daniel was alarmed at the fate of the man who destroyed his city. Try for a moment to want good for this person, and tell God about it, even if for now it isn’t entirely sincere.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So mental illness is a punishment for pride,” or jokes about the king who went mad.** Stop it right away, and calmly. The text describes one announced event in the life of one man and doesn’t make a rule out of it. Nor does it give any diagnosis. Someone at the table may have been through a mental health crisis or have someone ill in their family. Say it plainly: illnesses, mental illness included, are not a measure of anyone’s guilt, and the Bible rejects that kind of accounting in many places.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about their own breakdown or depression.** Listen, thank them, and don’t interpret their story through this chapter. The group walks alongside; it doesn’t treat. If the person is in crisis right now, stay with them after the meeting and encourage them to contact a professional. If there is any immediate danger, call your local emergency number or a crisis line in your country.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation about pride turns into a conversation about a boss, a politician, or someone at church.** Agree that there is no shortage of such people, and go back to the first person: “And where is my palace roof?” Don’t allow names.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I’m not supposed to enjoy anything and should say I’m no good at anything?”** No. After it is all over, the king is still king and is given even more. The dream doesn’t condemn a tree that feeds others and gives shade. The problem is not greatness but the sentence “by the might of my power… for the glory of my majesty.” Humility is the truth about where what I have comes from, not pretending I have nothing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God humbled me because I was proud,” said bitterly about an illness, a bankruptcy, or a divorce.** Neither confirm nor deny it. No one at the table knows why something happened to someone, and chapter 4 contains an explanation only because God gave it in advance through a prophet. Ask instead what helped this person look up.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone reads verse 27 as a promise: be good to the poor and you will prosper.** Daniel says “Perhaps.” This is advice to a ruler who was doing harm, telling him to stop doing harm, not a business deal with God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A question about whether this story is confirmed outside the Bible.** The Babylonian chronicles for Nebuchadnezzar’s last years are incomplete and do not describe such an event, which is not surprising for official court records. This material adds nothing further here. What is remarkable is that the book gives the king a voice and lets him tell his own shame.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Just read Block 2 aloud. Don’t shorten Blocks 4 and 5: the palace roof and the eyes lifted up are the backbone of the meeting.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So mental illness is a punishment for pride,” or jokes about the king who went mad.",
+     "odpowiedz": "Stop it right away, and calmly. The text describes one announced event in the life of one man and doesn’t make a rule out of it. Nor does it give any diagnosis. Someone at the table may have been through a mental health crisis or have someone ill in their family. Say it plainly: illnesses, mental illness included, are not a measure of anyone’s guilt, and the Bible rejects that kind of accounting in many places."
+    },
+    {
+     "sytuacja": "Someone talks about their own breakdown or depression.",
+     "odpowiedz": "Listen, thank them, and don’t interpret their story through this chapter. The group walks alongside; it doesn’t treat. If the person is in crisis right now, stay with them after the meeting and encourage them to contact a professional. If there is any immediate danger, call your local emergency number or a crisis line in your country."
+    },
+    {
+     "sytuacja": "The conversation about pride turns into a conversation about a boss, a politician, or someone at church.",
+     "odpowiedz": "Agree that there is no shortage of such people, and go back to the first person: “And where is my palace roof?” Don’t allow names."
+    },
+    {
+     "sytuacja": "“So I’m not supposed to enjoy anything and should say I’m no good at anything?”",
+     "odpowiedz": "No. After it is all over, the king is still king and is given even more. The dream doesn’t condemn a tree that feeds others and gives shade. The problem is not greatness but the sentence “by the might of my power… for the glory of my majesty.” Humility is the truth about where what I have comes from, not pretending I have nothing."
+    },
+    {
+     "sytuacja": "“God humbled me because I was proud,” said bitterly about an illness, a bankruptcy, or a divorce.",
+     "odpowiedz": "Neither confirm nor deny it. No one at the table knows why something happened to someone, and chapter 4 contains an explanation only because God gave it in advance through a prophet. Ask instead what helped this person look up."
+    },
+    {
+     "sytuacja": "Someone reads verse 27 as a promise: be good to the poor and you will prosper.",
+     "odpowiedz": "Daniel says “Perhaps.” This is advice to a ruler who was doing harm, telling him to stop doing harm, not a business deal with God."
+    },
+    {
+     "sytuacja": "A question about whether this story is confirmed outside the Bible.",
+     "odpowiedz": "The Babylonian chronicles for Nebuchadnezzar’s last years are incomplete and do not describe such an event, which is not surprising for official court records. This material adds nothing further here. What is remarkable is that the book gives the king a voice and lets him tell his own shame."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Just read Block 2 aloud. Don’t shorten Blocks 4 and 5: the palace roof and the eyes lifted up are the backbone of the meeting."
+    }
+   ]
+  }
+ ]
+}

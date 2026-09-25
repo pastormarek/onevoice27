@@ -1,0 +1,815 @@
+{
+ "tytul": "Marriage",
+ "id": "R-05",
+ "seria": "Relationships",
+ "opis": "A covenant, not a contract. What kind of love the Bible has in mind when it speaks of husband and wife.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 2:18-23; Genesis 2:24-25; Malachi 2:14; Ephesians 5:21-33; 1 Corinthians 13:4-8; Song of Solomon 8:6-7; Hosea 2:19-20",
+  "p2": "Psalm 121:1-2; Genesis 3:12, 16; Mark 10:42-45; Colossians 3:18-19; Philippians 2:3-5; Revelation 19:7-9",
+  "p3": "Ephesians 5:21-22"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "relationships",
+  "marriage",
+  "covenant",
+  "love",
+  "mutuality"
+ ],
+ "wersja": 1,
+ "zdanie": "Marriage is a covenant between two people who give themselves, and a picture of a love that has room for everyone.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not a how-to guide for couples. It is about what kind of love the Bible has in mind when it speaks of husband and wife: a covenant in which both sides give themselves, and a picture of how God loves people. That is why the last section is no longer about marriage but about God, who betroths Himself to His people. That is where everyone at the table has a place, whatever their marital status.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Around the table there may be people who are single, widowed, divorced, abandoned, and people who were the ones who left. Any sentence along the lines of “marriage is what makes life complete” wounds one of them.",
+      "Someone may be living in a marriage where there is abuse, including the kind you can’t see: control, humiliation, fear. For that person, Ephesians 5 may have been used as a tool to hurt them. Read the first red flag before you start.",
+      "If there are married couples in the group together, every personal question is, for them, a question asked in front of a witness. Don’t press.",
+      "A conversation about Ephesians 5 easily turns into an argument about who’s in charge at home. The text is asking something else: who gives themselves first."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t hold up any couple as a model. Don’t joke about wives, husbands, or mothers-in-law. Don’t ask anyone why they’re single. Don’t let anyone talk in front of the group about their spouse’s faults, whether the spouse is present or not.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a marriage you know up close and respect: your parents’, your grandparents’, friends’, neighbors’. Name one thing you see in it.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. This question is deliberately about someone else’s marriage, so that everyone at the table can answer. Don’t comment on the answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Not Good to Be Alone",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:18-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.” And out of the ground the LORD God formed every beast of the field and every bird of the air, and He brought them to the man to see what he would name each one. And whatever the man called each living creature, that was its name. The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found. So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh. And from the rib that the LORD God had taken from the man, He made a woman and brought her to him. And the man said: “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the first chapter of the Bible the word “good” comes up six times. Here, for the first time, we hear “not good,” and in a garden where God is present and there is no sin. **What does that say about how human beings were designed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The first recorded words of a human being are a cry at the sight of another human being. **What does he recognize in her? What is missing from that cry?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "God says, “It is not good for the man to be alone,” and yet Jesus and Paul had no wives. **Is this sentence only about marriage, or about something broader?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The man doesn’t do anything in this scene. He sleeps. God Himself notices what is lacking, shapes the woman Himself, and brings her to him Himself, like someone introducing two people. The cry “bone of my bones” contains a wordplay in Hebrew: `ish` and `ishshah`, man and woman, sound like one word in two forms. The English pair “man” and “woman” keeps something of that echo. The first thing a human being says about another human being is: you are like me.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Where My Help Comes From",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 121:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "I lift up my eyes to the hills. From where does my help come? My help comes from the LORD, the Maker of heaven and earth."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same Hebrew word for “help” stands in this psalm and in Genesis 2:18, where the BSB has “helper.” **How does the sentence “I will make for him a suitable helper” sound different once we know the psalmist uses this word for God Himself?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `ezer`, “help,” occurs twenty-one times in the Old Testament. Sixteen times it refers to God, who rescues His people; three times to military allies; and the remaining two places are our text. Not once does it mean a lower-ranking assistant. The second word, rendered “suitable,” literally means “as opposite him,” someone who stands face to face.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The English word “helper” makes us think of someone who assists. **What changes in the picture of marriage if in Genesis 2:18 we hear something more like “a rescuer who stands face to face”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Leave, Be United, Become",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:24-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh. And the man and his wife were both naked, and they were not ashamed."
+       ]
+      },
+      {
+       "odnosnik": "Malachi 2:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Yet you ask, “Why?” It is because the LORD has been a witness between you and the wife of your youth, against whom you have broken faith, though she is your companion and your wife by covenant."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Genesis 2:24 has three verbs: leave, be united, become. **What does each of them mean on its own? What happens when one of them is missing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Malachi calls marriage a covenant and God its witness. **How is a covenant different from a contract you can end when it stops paying off?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“The man and his wife were both naked, and they were not ashamed.” **What does it mean to be completely seen by someone and not be afraid?** How much of that is about the body, and how much about everything else?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that world it was the wife who left her family and moved into her husband’s household. The text says the opposite: the man is the one who is to leave. The sentence goes against custom, and that is why it sounds so strong. A husband’s first loyalty belongs to his wife, not to his clan. In the Bible, covenant is the word used to describe God’s bond with Israel. It doesn’t rest on the other side deserving it, but on a word given.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What Went Wrong",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the man answered, “The woman whom You gave me, she gave me fruit from the tree, and I ate it.”"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 3:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "To the woman He said: “I will sharply increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband, and he will rule over you.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare “bone of my bones” with the sentence “The woman whom You gave me.” It is the same man talking about the same woman. **What has changed in the way he speaks about her?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**At what point in the story do the words “he will rule over you” come, and what stands right next to them?** What follows from that for the question of whether one ruling over the other belongs to the beginning, or to what came afterward?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The verb “be united” means in Hebrew to cling, like skin to bone, and it is the same word Deuteronomy uses when it tells Israel to hold fast to God. It is the language of covenant, not infatuation. And the phrase “become one flesh” describes in Hebrew a process, not a state reached on the wedding day. Oneness is something they become, over years.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**For a couple five, twenty, or forty years in, what difference does it make to know that “one flesh” is a road and not a starting point?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "One Another",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 5:21-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "Submit to one another out of reverence for Christ. Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything. Husbands, love your wives, just as Christ loved the church and gave Himself up for her to sanctify her, cleansing her by the washing with water through the word, and to present her to Himself as a glorious church, without stain or wrinkle or any such blemish, but holy and blameless. In the same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. Indeed, no one ever hated his own body, but he nourishes and cherishes it, just as Christ does the church. For we are members of His body. “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” This mystery is profound, but I am speaking about Christ and the church. Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The passage begins with the words “Submit to one another.” **To whom is this first sentence addressed? How does it set up everything Paul says after it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The husband is to love “just as Christ loved the church.” **List from the text exactly what Christ did. What isn’t on that list?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Count how many sentences Paul addresses to wives and how many to husbands. **Whom does he ask more of? Why do you think that is?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "At the end Paul says that he is really writing about Christ and the church. **What does this passage hold for someone who is not married and never will be?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the oldest manuscripts, the sentence to wives has no verb of its own. It borrows it from verse 21, that is, from the call addressed to everyone. The model for the husband is not Christ who rules, but Christ who gives Himself up, who nourishes and cherishes. Nowhere does Paul write: husbands, make sure your wives submit to you. He tells each side about its own self-giving, never about a right to enforce someone else’s.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: How This Was Heard in Ephesus",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** In Paul’s world there were written instructions about how a household should be run. They all spoke about one thing: how the wife, the children, and the slaves were to behave toward the head of the household, who had complete authority over them. About how he was to treat them, they said almost nothing. Paul takes this familiar form and reverses its direction. He addresses the longest part to the one who holds the power, and he talks to him about laying down his life. The first listeners must have heard this as something surprising.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 10:42-45",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Jesus called them together and said, “You know that those regarded as rulers of the Gentiles lord it over them, and their superiors exercise authority over them. But it shall not be this way among you. Instead, whoever wants to become great among you must be your servant, and whoever wants to be first must be the slave of all. For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”"
+       ]
+      },
+      {
+       "odnosnik": "Colossians 3:18-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Wives, submit to your husbands, as is fitting in the Lord. Husbands, love your wives and do not be harsh with them."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“It shall not be this way among you.” **If this saying of Jesus applies at home too, what does someone who wants to be first look like there?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Colossians, the husband gets one short warning: do not be harsh. **Why did Paul think this needed to be said to husbands in particular?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Head and Submission",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Believers who take this text equally seriously read it in two ways. Some see a lasting order here: the husband carries a special responsibility for the home and leads it by serving, and the wife freely supports that leadership. Others read the whole through verse 21: submission is mutual, and Paul, speaking the language of his era, breaks it open from the inside and leads toward a marriage of two equal partners. In the Adventist Church you will meet both ways of reading it.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Read verses 21 and 22 together. In Greek they form one sentence, and verse 22 takes its verb from verse 21:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 5:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Submit to one another out of reverence for Christ. Wives, submit to your husbands as to the Lord."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The two sides have more in common than what divides them. Both accept that the model is Christ, who gives His life. Both accept that the text gives no one the right to force obedience. And both accept that nothing in this passage justifies abuse, humiliation, or control.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In practice, what does a home look like where both spouses take verse 21 seriously?** How would its everyday decisions differ from a home where people start reading at verse 22?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle the dispute between the two positions. Just make sure no one leaves convinced that the Bible tells anyone to put up with being harmed.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "What Love Does",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 13:4-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self-seeking, it is not easily angered, it keeps no account of wrongs. Love takes no pleasure in evil, but rejoices in the truth. It bears all things, believes all things, hopes all things, endures all things. Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be restrained; where there is knowledge, it will be dismissed."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This text gets read at weddings, but Paul wrote it to a church torn by conflict. **Look for feelings in it. How many do you find? What is there instead?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read the passage again, putting the name of Jesus in place of the word “love.” **What happens to the text? And what happens when you put in your own name?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Which of these descriptions is hardest to live out toward someone you share a roof with?** Why does closeness make it harder?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paul doesn’t describe love with a single adjective. In the Greek text there are sixteen verbs: love does something, or doesn’t do something. That matters for anyone who thinks their love has ended because they stopped feeling it. In other letters Paul calls love a fruit of the Spirit. So this chapter is not a list of requirements to meet in your own strength, but a description of what is worth asking for.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Better Than Yourselves",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 2:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves. Each of you should look not only to your own interests, but also to the interests of others. Let this mind be in you which was also in Christ Jesus:"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes this to the whole church, not to married couples. **What would happen to the most common argument in your home if both of you read these three sentences before it started?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Where the KJV has “thinketh no evil” (KJV), the Greek has `logizomai`, a bookkeeping term: to enter into an account. Love doesn’t keep a ledger of wrongs, and the BSB says it plainly: love “keeps no account of wrongs.” And “bears all things” is the verb `stego`, related to the word for “roof.” It means to cover, to shelter, to protect. It isn’t about hiding evil, but about love sheltering a person instead of exposing them.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does a marriage or a friendship look like when someone keeps a detailed ledger?** What happens to the entries in that ledger when no one ever erases them?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Strong as Death",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Song of Solomon 8:6-7",
+       "przeklad": "WEB",
+       "akapity": [
+        "Set me as a seal on your heart, as a seal on your arm; for love is strong as death. Jealousy is as cruel as Sheol. Its flashes are flashes of fire, a very flame of Yahweh. Many waters can’t quench love, neither can floods drown it. If a man would give all the wealth of his house for love, he would be utterly scorned."
+       ]
+      },
+      {
+       "odnosnik": "Hosea 2:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "So I will betroth you to Me forever; I will betroth you in righteousness and justice, in loving devotion and compassion. And I will betroth you in faithfulness, and you will know the LORD.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Song of Solomon calls the love of two people “a very flame of Yahweh” (WEB). **What does that say about where this love comes from, and who sustains it when it grows weak?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Hosea it is God who speaks like a bridegroom, and He speaks to a people who betrayed Him. **What words does He use in His vow? What does that mean for someone whose human covenant has been broken, or was never made?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**If marriage is a picture of God’s love for people, which is the original and which is the copy?** What does that change for married people, and what for single people?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Wedding to Which Everyone Is Invited",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 19:7-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let us rejoice and be glad and give Him the glory. For the marriage of the Lamb has come, and His bride has made herself ready. She was given clothing of fine linen, bright and pure.” For the fine linen she wears is the righteous acts of the saints. Then the angel told me to write, “Blessed are those who are invited to the marriage supper of the Lamb.” And he said to me, “These are the true words of God.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bible begins with a wedding in a garden and ends with a wedding feast. **Who is the bride at this last wedding? What does that say about the place each of us has, no matter how our life has turned out?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul describes love with verbs. **Which of them is most needed right now in your closest relationships: in your marriage, your family, your friendships?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In a close relationship, where do you find it easiest to keep a ledger of wrongs?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **what in today’s passages was good news for you, and what rubbed you the wrong way?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes that love “endures all things,” and Malachi speaks of a covenant with God as its witness. At the same time, there are homes where one side is being harmed. **Where does the patience of 1 Corinthians 13 end and the duty to protect yourself and your children begin? Does leaving for a safe place break the covenant, or is it perhaps broken by the one who does the harm?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t produce a rule. But it helps if this gets said clearly: in Malachi, God stands on the side of the wife against whom her husband has “broken faith,” not on the side of the institution. Seeking safety is not a betrayal of the covenant. If someone asks about this very specifically, it may not be a theoretical question. See the first red flag.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Marriage is a covenant between two people who give themselves, and a picture of a love that has room for everyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Ephesians 5:21 or Hosea 2:19.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Read 1 Corinthians 13:4-7 on your own, and at each verb ask yourself: **what does this look like from the other side, through the eyes of the person who lives with me?** Don’t justify yourself and don’t condemn yourself. Just look.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If you are married, ask God **where lately you have been waiting for the other person to give something first**. If you are not, ask Him what stirs in you when you hear the word “marriage,” and tell Him without dressing it up.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** stay for a moment with the sentence “I will betroth you to Me forever” as spoken to you. Notice what in you doesn’t quite believe it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says or hints that there is abuse in their home: hitting, threats, control, humiliation, fear.** This is not a “difficult marriage,” and it is not a topic for the group. Don’t counsel patience, don’t quote verses about submission or about enduring all things, and don’t suggest a joint conversation with both spouses, because that can be dangerous for the person being harmed. Talk with them privately after the meeting. Say plainly: this is not your fault, the Bible does not tell you to put up with this, you have the right to seek safety. Give them the number of a domestic violence crisis line in your country, and in immediate danger, your local emergency number. Don’t carry this alone; with the person’s consent, ask a pastor or a professional for help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Scripture is clear: the wife has to obey her husband, period.”** Don’t get into an argument about roles. Ask this person to read verse 21 and verse 25 aloud, and ask: “Who is the first sentence addressed to? And what did Christ do for the church?” If the tone gets hard, say calmly that the text tells each person about their own self-giving, never about enforcing someone else’s.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A divorced person says, “I ruined all of it,” or “It didn’t work out for me.”** Don’t rush to comfort, and don’t judge. Thank them for their honesty. You can point to Hosea 2:19-20: God speaks these words to someone whose covenant lies in ruins. The breakup of a marriage has its own meeting in the Crises and Turning Points series.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A single person says, “This meeting isn’t for me.”** Take that seriously. Remind the group that Jesus and Paul had no wives, and that Paul himself says at the end that he is writing about Christ and the church. Sections 4 and 5 are for everyone. If you know in advance that most of the group is single, start by saying where the meeting is headed.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts talking about their spouse’s faults.** Interrupt gently, especially if the spouse is sitting right there: “Let’s stay with ourselves. The question is what I bring.” If it is clear the couple is in crisis, suggest after the meeting that they talk with a pastor or a marriage counselor. The group is not couples therapy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A widowed person goes quiet or leaves.** Don’t stop them, and don’t comment in front of the group. After the meeting, call or go over to them. A story about a good marriage can be, for a widow or widower, both a gift and a pain at the same time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time for the material.** Cut section 1 down to the two key questions and skip section 2. Sections 3, 4, and 5 must all be covered: the disputed text, the text about what love does, and the text that includes everyone at the table.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says or hints that there is abuse in their home: hitting, threats, control, humiliation, fear.",
+     "odpowiedz": "This is not a “difficult marriage,” and it is not a topic for the group. Don’t counsel patience, don’t quote verses about submission or about enduring all things, and don’t suggest a joint conversation with both spouses, because that can be dangerous for the person being harmed. Talk with them privately after the meeting. Say plainly: this is not your fault, the Bible does not tell you to put up with this, you have the right to seek safety. Give them the number of a domestic violence crisis line in your country, and in immediate danger, your local emergency number. Don’t carry this alone; with the person’s consent, ask a pastor or a professional for help."
+    },
+    {
+     "sytuacja": "“Scripture is clear: the wife has to obey her husband, period.”",
+     "odpowiedz": "Don’t get into an argument about roles. Ask this person to read verse 21 and verse 25 aloud, and ask: “Who is the first sentence addressed to? And what did Christ do for the church?” If the tone gets hard, say calmly that the text tells each person about their own self-giving, never about enforcing someone else’s."
+    },
+    {
+     "sytuacja": "A divorced person says, “I ruined all of it,” or “It didn’t work out for me.”",
+     "odpowiedz": "Don’t rush to comfort, and don’t judge. Thank them for their honesty. You can point to Hosea 2:19-20: God speaks these words to someone whose covenant lies in ruins. The breakup of a marriage has its own meeting in the Crises and Turning Points series."
+    },
+    {
+     "sytuacja": "A single person says, “This meeting isn’t for me.”",
+     "odpowiedz": "Take that seriously. Remind the group that Jesus and Paul had no wives, and that Paul himself says at the end that he is writing about Christ and the church. Sections 4 and 5 are for everyone. If you know in advance that most of the group is single, start by saying where the meeting is headed."
+    },
+    {
+     "sytuacja": "Someone starts talking about their spouse’s faults.",
+     "odpowiedz": "Interrupt gently, especially if the spouse is sitting right there: “Let’s stay with ourselves. The question is what I bring.” If it is clear the couple is in crisis, suggest after the meeting that they talk with a pastor or a marriage counselor. The group is not couples therapy."
+    },
+    {
+     "sytuacja": "A widowed person goes quiet or leaves.",
+     "odpowiedz": "Don’t stop them, and don’t comment in front of the group. After the meeting, call or go over to them. A story about a good marriage can be, for a widow or widower, both a gift and a pain at the same time."
+    },
+    {
+     "sytuacja": "You’re running out of time for the material.",
+     "odpowiedz": "Cut section 1 down to the two key questions and skip section 2. Sections 3, 4, and 5 must all be covered: the disputed text, the text about what love does, and the text that includes everyone at the table."
+    }
+   ]
+  }
+ ]
+}

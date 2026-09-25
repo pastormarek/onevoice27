@@ -1,0 +1,826 @@
+{
+ "tytul": "Different from Me",
+ "id": "R-12",
+ "seria": "Relationships",
+ "opis": "What to do with a brother or sister who thinks and lives differently from me on a secondary matter.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 6:13-16; Matthew 9:9; Romans 14:1-6; Romans 14:7-13; 1 Corinthians 12:14-22, 25-26; Romans 15:1-3, 5-7; John 17:20-21",
+  "p2": "Luke 9:49-50; Romans 14:14-21; Galatians 3:26-28; Ephesians 2:14-16; Ephesians 4:1-6; John 17:22-23",
+  "p3": "Romans 15:7; Galatians 2:11-14; Galatians 1:8"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 29,
+  "p3": 34
+ },
+ "tagi": [
+  "relationships",
+  "church",
+  "unity",
+  "differences",
+  "conscience",
+  "judging"
+ ],
+ "wersja": 1,
+ "zdanie": "God accepted my brother before He asked my opinion.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t about who is right in the disputes that divide churches. It’s about what we do with a brother or sister who thinks and lives differently from us on a secondary matter. In Romans 14 Paul has his own view and doesn’t hide it, and yet not once does he call on the two sides to reach agreement. He deals with something else: the contempt of one side and the judging of the other. In his view, those are what destroy the church, not the difference itself.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meeting: Conflict. That one is about a dispute between two people; this one is about living in one community with people who are going to stay different.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Every church has its own list of hot-button issues: food, dress, music, how to celebrate, how to raise children. The group will want to settle one of them here and now. That’s not what this meeting is for.",
+      "Romans 14 talks about vegetables and about days. At an Adventist table, both immediately stir up emotions. Read the first two red flags before the meeting.",
+      "Everyone considers themselves the strong one, and the other side either weak or too loose. Don’t assign roles, and don’t let anyone else assign them.",
+      "There may be guests from other churches at the table. They will hear very clearly how the group talks about “those people.”"
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t settle any specific dispute. Don’t say which side in your church is “weak.” Don’t allow any talk about people who aren’t present.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone you genuinely respect who does some everyday thing exactly the opposite way from you. Say in one sentence what it is. No church issues and no politics.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it light. This question is meant to loosen things up, not to start an argument.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "One Table",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 6:13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "When daylight came, He called His disciples to Him and chose twelve of them, whom He also designated as apostles: Simon, whom He named Peter, and his brother Andrew; James and John; Philip and Bartholomew; Matthew and Thomas; James son of Alphaeus and Simon called the Zealot; Judas son of James, and Judas Iscariot, who became a traitor."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 9:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "As Jesus went on from there, He saw a man named Matthew sitting at the tax booth. “Follow Me,” He told him, and Matthew got up and followed Him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "On the same list stand Matthew, who collected taxes for the occupiers, and Simon, nicknamed the Zealot. **How do you picture their first meals together?** What did they prefer not to talk about?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke writes that Jesus “chose” them. **What difference does it make that none of the Twelve chose the other eleven?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Gospels don’t record a single conversation in which Jesus reconciles the views of Matthew and Simon. **So what kept them at one table for three years?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A tax collector worked for a system Rome had imposed on the country, and in his neighbors’ eyes he was a collaborator. Simon’s nickname speaks of zeal for the Law and the nation. The organized Zealot party came later, but the word itself captures the temperament of a man for whom someone like Matthew was a traitor. Jesus seated them side by side and didn’t require either of them to change his views first. What brought them together was bigger than what divided them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "He Does Not Accompany Us",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 9:49-50",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Master,” said John, “we saw someone driving out demons in Your name, and we tried to stop him, because he does not accompany us.” “Do not stop him,” Jesus replied, “for whoever is not against you is for you.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John gives the reason for stopping the man: “he does not accompany us.” **What is missing from that charge?** What does it say about how the disciples understood the word “us”?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does Jesus’ answer bear on the way we talk about Christians from other churches?** What would we forbid if we could?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Contempt and Judgment",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 14:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Accept him whose faith is weak, without passing judgment on his opinions. For one person has faith to eat all things, while another, who is weak, eats only vegetables. The one who eats everything must not belittle the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted him. Who are you to judge someone else’s servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand. One person regards a certain day above the others, while someone else considers every day alike. Each one should be fully convinced in his own mind. He who observes a special day does so to the Lord; he who eats does so to the Lord, for he gives thanks to God; and he who abstains does so to the Lord and gives thanks to God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul assigns each side a different temptation. One “belittles,” the other “judges.” **Which side does which, and why that particular temptation?** What do these two attitudes sound like today when people say them out loud?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“For God has accepted him.” **Whom is Paul talking about, and what does that sentence do to my right to evaluate?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 6 says the same thing about both sides: “to the Lord” and “gives thanks to God.” **What does Paul see in people who mostly see mistakes in each other?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The first Christians had no church buildings. They met in homes and ate together, so this dispute took place quite literally at the table: someone served a dish that someone else’s conscience wouldn’t let them touch. Notice what Paul doesn’t do. He has his own view on the matter and states it a few verses later, yet nowhere does he tell the two sides to reach one position. He deals with their attitude toward each other, not with their views.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Someone Else’s Servant",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 14:7-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "For none of us lives to himself alone, and none of us dies to himself alone. If we live, we live to the Lord, and if we die, we die to the Lord. So whether we live or die, we belong to the Lord. For this reason Christ died and returned to life, that He might be the Lord of both the dead and the living. Why, then, do you judge your brother? Or why do you belittle your brother? For we will all stand before God’s judgment seat. It is written: “As surely as I live, says the Lord, every knee will bow before Me; every tongue will confess to God.” So then, each of us will give an account of himself to God. Therefore let us stop judging one another. Instead, make up your mind not to put any stumbling block or obstacle in your brother’s way."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul reminds people who judge each other of God’s judgment. **How does the thought that I myself will give an account to God affect my need to hold others to account?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 13 changes direction: instead of keeping an eye on my brother, I’m to keep an eye on myself, so that I’m not an obstacle in his way. **What does that switch involve?** Who pays the cost?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“We belong to the Lord.” **To whom does the person I disagree with belong, and what does that mean for the tone I use when I talk about them?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not for the Sake of Food",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 14:14-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "I am convinced and fully persuaded in the Lord Jesus that nothing is unclean in itself. But if anyone regards something as unclean, then for him it is unclean. If your brother is distressed by what you eat, you are no longer acting in love. Do not by your eating destroy your brother, for whom Christ died. Do not allow what you consider good, then, to be spoken of as evil. For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace, and joy in the Holy Spirit. For whoever serves Christ in this way is pleasing to God and approved by men. So then, let us pursue what leads to peace and to mutual edification. Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a man to let his eating be a stumbling block. It is better not to eat meat or drink wine or to do anything to cause your brother to stumble."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul says plainly which side of the dispute he is on, and then he tells his own side to give way. **Why does he put the burden on the people he agrees with?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Your brother, for whom Christ died.” Paul describes the brother in terms of the price paid for him. **How does that sentence set the proportions between my being right and the other person?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“The kingdom of God is not a matter of eating and drinking.” **In our conversations about faith, what takes up the place Paul reserves for righteousness, peace, and joy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Romans 14 is about causing someone to stumble in the strict sense: my example draws someone into doing something their own conscience considers a sin. Paul doesn’t say I have to give up everything that anyone dislikes. Someone who says, “You’re making me stumble,” in order to get their own way isn’t the weak person of this chapter. They are more like the one who judges.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Eye and the Hand",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 12:14-22, 25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the body does not consist of one part, but of many. If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be? But in fact, God has arranged the members of the body, every one of them, according to His design. If they were all one part, where would the body be? As it is, there are many parts, but one body. The eye cannot say to the hand, “I do not need you.” Nor can the head say to the feet, “I do not need you.” On the contrary, the parts of the body that seem to be weaker are indispensable, … so that there should be no division in the body, but that its members should have mutual concern for one another. If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Two different sentences are spoken in this passage. The foot says, “I do not belong.” The eye says, “I do not need you.” **Who in the church says the first, and who says the second?** Which have you caught yourself thinking?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“If the whole body were an eye.” **What would a church made up only of people like me look like?** What would be missing from it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul writes that it was God who arranged the members of the body “according to His design.” **What does that say about the person in my church whose presence wears me out?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Wall",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 3:26-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "You are all sons of God through faith in Christ Jesus. For all of you who were baptized into Christ have clothed yourselves with Christ. There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus."
+       ]
+      },
+      {
+       "odnosnik": "Ephesians 2:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace and reconciling both of them to God in one body through the cross, by which He extinguished their hostility."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul names the three deepest divisions of his world: national, social, and between the sexes. **After baptism, did a Jew stop being a Jew, or a slave stop being a slave?** So what does “There is neither” mean?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ephesians says that Christ tore down the dividing wall of hostility in His flesh. **So who is building the walls that stand between believers today, and what are they made of?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "As Christ Accepted Us",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 15:1-3, 5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "We who are strong ought to bear with the shortcomings of the weak and not to please ourselves. Each of us should please his neighbor for his good, to build him up. For even Christ did not please Himself, but as it is written: “The insults of those who insult You have fallen on Me.” … Now may the God who gives endurance and encouragement grant you harmony with one another in Christ Jesus, so that with one mind and one voice you may glorify the God and Father of our Lord Jesus Christ. Accept one another, then, just as Christ accepted you, in order to bring glory to God."
+       ]
+      },
+      {
+       "odnosnik": "John 17:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message, that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Just as Christ accepted you.” **What condition was I in when Christ accepted me, and how many things did He make me put in order first?** What does that mean for the order of things: accept first, or correct first?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul prays for harmony among people he has just allowed to keep their different views. **So what does that harmony consist of?** What are they supposed to do “with one mind and one voice”?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus ties the unity of His disciples to whether the world will believe. **What does someone from the outside see when they look at our disputes, and what do they conclude about God from them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In Paul’s world, the weaker adapted to the stronger. **How does verse 1 turn that order upside down, and why does Paul appeal to Christ in particular?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “strong” appears in Romans only once, right here, and it comes straight away with the duty of bearing other people’s weaknesses. Paul says “we,” placing himself on the side of those who are to give way. For him, accepting a brother isn’t just imitating Jesus. It rests on a fact: Christ has already accepted me, before I put my views and my life in order. So I’m not giving my brother anything I haven’t first received myself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "One Body, One Spirit",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 4:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "As a prisoner in the Lord, then, I urge you to walk in a manner worthy of the calling you have received: with all humility and gentleness, with patience, bearing with one another in love, and with diligence to preserve the unity of the Spirit through the bond of peace. There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all."
+       ]
+      },
+      {
+       "odnosnik": "John 17:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "I have given them the glory You gave Me, so that they may be one as We are one— I in them and You in Me—that they may be perfectly united, so that the world may know that You sent Me and have loved them just as You have loved Me."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t tell us to create unity, only to “preserve” it. **So where does that unity come from, and what can we do with it?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Bearing with one another in love.” That’s a very sober phrase. **What does Paul assume about life in the church, given that he uses it?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul lists seven things of which there is only one. **What is missing from that list, even though it’s exactly what we argue about most often?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 15:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Accept one another, then, just as Christ accepted you, in order to bring glory to God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The verb `proslambanō`, with which Paul opens this argument in Romans 14:1 and closes it in Romans 15:7, literally means “to take to oneself.” In the New Testament it describes taking someone into your home and into your company. So it’s not about tolerating a brother in the same room. It’s about his having a place at my table.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What is the difference between tolerating someone at church and taking them in?** How can the other person tell which of the two has happened to them?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Same Paul",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The apostle who writes to Rome, “Each one should be fully convinced in his own mind,” refuses elsewhere to give an inch. Interestingly, there too the issue is food.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 2:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Cephas came to Antioch, however, I opposed him to his face, because he stood to be condemned. For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, for fear of those in the circumcision group. The other Jews joined him in his hypocrisy, so that by their hypocrisy even Barnabas was led astray. When I saw that they were not walking in line with the truth of the gospel, I said to Cephas in front of them all, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”"
+       ]
+      },
+      {
+       "odnosnik": "Galatians 1:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some draw the line by subject: there are core truths, on which the church must speak with one voice, and secondary matters, where there is freedom, and the hard part is drawing up both lists. Others notice that in Rome and in Antioch the subject was the same, yet Paul’s reaction was the opposite. They see the difference in the effect: in Rome everyone ate in their own way and everyone stayed at one table, while in Antioch the way of eating became a condition for sitting at the table and pushed away brothers whom God had accepted. Both sides agree that Paul knows where the line is, that it is drawn by the gospel and not by habit, and that he saves his sharp words for those who shut others out.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What exactly does Paul accuse Peter of: the wrong diet, the wrong view, or something else?** Read verse 14 carefully.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can you tell that a dispute in the church has stopped being a Romans 14 matter and has become a Galatians 2 matter?** Try to give a criterion, not an example.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can a secondary matter be made primary just by the way people fight over it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t draw up a list of core and secondary truths for your church. That isn’t the job of a home group. It’s enough for someone to ask whether the way I defend my position pushes someone away from the table.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul named two temptations: contempt and judgment. **Which one is closer to you?** How do you recognize it in yourself before you say anything?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think of the difference in the church that irritates you the most. **Is it one of the matters in which God has accepted both sides?** How do you know?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there someone at church you tolerate but have never taken in?** You don’t have to say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul tells the strong to give way to the weak. **What happens to a community where the same people always give way, and the most scrupulous conscience sets the rules for everyone? Does Romans 14 offer any answer to that?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "there’s no single answer here. It helps if someone notices that Paul addresses both sides, and that he forbids the weak something too: judging.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God accepted my brother before He asked my opinion.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Romans 15:7 or Romans 14:4.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The next time someone at church does something their own way and you feel a sting, pause over it for a moment. Ask yourself: **is what I’m feeling contempt or judgment?** Just naming it is enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of the person you differ from the most, and say to God one thing about them from Romans 14: “You have accepted him.” **Notice whether the words stick in your throat.** If they do, ask God why.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** remember a matter on which you were once absolutely sure of yourself but now think differently. Ask yourself how you treated people back then who thought the way you think now.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So is the Sabbath also one of those matters where everyone should stick to their own view?”** Don’t get into that debate today, and don’t brush the question off. Say that the whole chapter is about food, that Paul doesn’t mention the Sabbath by name, and that many readers see fast days here, which people really did argue about at the time. Add honestly that Christians read this verse in different ways. There is a separate meeting on this topic: “A Delight, Not a Burden,” in the series “The Sabbath as a Gift.” Today’s question is a different one: how do I treat a brother who disagrees with me?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Paul writes that the weak person eats only vegetables. So vegetarians are weak in faith?”** No. In Rome the issue wasn’t health; most likely it was fear of meat that might be unclean or had been offered to idols. For Paul, the word “weak” describes a conscience that feels bound where God doesn’t bind. It doesn’t describe a menu. Someone who doesn’t eat meat for other reasons isn’t the subject of this chapter. The subject is anyone who looks down on or judges another, no matter what is on their plate.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts trying to settle a specific dispute from your church.** Calmly interrupt: “Paul had a view too, and still he focused on something else. Let’s do what he did.” Go back to the question about contempt and judgment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“In that case everything is relative, and everyone can believe whatever they want.”** That’s not what the text says. The same Paul, in Galatians, doesn’t give an inch when the gospel is at stake. Romans 14 is about matters in which God has accepted both sides. If you’re leading level 3, there is a separate block on this.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about people who aren’t present: “Some people in our church…”** Stop it right away. You can say, “‘Who are you to judge someone else’s servant?’ That’s Paul’s line, not mine. Let’s stay with the first person.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“You’re making me stumble” comes up as an argument in the conversation.** Explain what causing someone to stumble means in this chapter: drawing someone into an act against their own conscience. Being unhappy with someone else’s behavior is not stumbling. The note in level 2 says more about this.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A guest from another church feels judged.** Respond right away, and warmly. Luke 9:49-50 is in level 2, but you can always read it: “whoever is not against you is for you.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after the question about whom I tolerate but haven’t taken in.** That’s good. Count to ten in your head. This question doesn’t need an answer out loud.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Skip block 4. Blocks 2, 3, and 5 carry the meeting: contempt and judgment, someone else’s servant, accept one another.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So is the Sabbath also one of those matters where everyone should stick to their own view?”",
+     "odpowiedz": "Don’t get into that debate today, and don’t brush the question off. Say that the whole chapter is about food, that Paul doesn’t mention the Sabbath by name, and that many readers see fast days here, which people really did argue about at the time. Add honestly that Christians read this verse in different ways. There is a separate meeting on this topic: “A Delight, Not a Burden,” in the series “The Sabbath as a Gift.” Today’s question is a different one: how do I treat a brother who disagrees with me?"
+    },
+    {
+     "sytuacja": "“Paul writes that the weak person eats only vegetables. So vegetarians are weak in faith?”",
+     "odpowiedz": "No. In Rome the issue wasn’t health; most likely it was fear of meat that might be unclean or had been offered to idols. For Paul, the word “weak” describes a conscience that feels bound where God doesn’t bind. It doesn’t describe a menu. Someone who doesn’t eat meat for other reasons isn’t the subject of this chapter. The subject is anyone who looks down on or judges another, no matter what is on their plate."
+    },
+    {
+     "sytuacja": "The group starts trying to settle a specific dispute from your church.",
+     "odpowiedz": "Calmly interrupt: “Paul had a view too, and still he focused on something else. Let’s do what he did.” Go back to the question about contempt and judgment."
+    },
+    {
+     "sytuacja": "“In that case everything is relative, and everyone can believe whatever they want.”",
+     "odpowiedz": "That’s not what the text says. The same Paul, in Galatians, doesn’t give an inch when the gospel is at stake. Romans 14 is about matters in which God has accepted both sides. If you’re leading level 3, there is a separate block on this."
+    },
+    {
+     "sytuacja": "Someone talks about people who aren’t present: “Some people in our church…”",
+     "odpowiedz": "Stop it right away. You can say, “‘Who are you to judge someone else’s servant?’ That’s Paul’s line, not mine. Let’s stay with the first person.”"
+    },
+    {
+     "sytuacja": "“You’re making me stumble” comes up as an argument in the conversation.",
+     "odpowiedz": "Explain what causing someone to stumble means in this chapter: drawing someone into an act against their own conscience. Being unhappy with someone else’s behavior is not stumbling. The note in level 2 says more about this."
+    },
+    {
+     "sytuacja": "A guest from another church feels judged.",
+     "odpowiedz": "Respond right away, and warmly. Luke 9:49-50 is in level 2, but you can always read it: “whoever is not against you is for you.”"
+    },
+    {
+     "sytuacja": "The group falls silent after the question about whom I tolerate but haven’t taken in.",
+     "odpowiedz": "That’s good. Count to ten in your head. This question doesn’t need an answer out loud."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Skip block 4. Blocks 2, 3, and 5 carry the meeting: contempt and judgment, someone else’s servant, accept one another."
+    }
+   ]
+  }
+ ]
+}

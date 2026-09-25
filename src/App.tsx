@@ -19,6 +19,8 @@ import { Notes, NoteEdit } from './pages/Notes'
 import { Prayers } from './pages/Prayers'
 import { PrayerTexts } from './pages/PrayerTexts'
 import { Pray40, Pray40DayPage } from './pages/Pray40'
+import { Edu, EduItemPage } from './pages/Edu'
+import { Groups, GroupItemPage } from './pages/Groups'
 import { Account } from './pages/Account'
 import { BibleBookmarksPage, BibleChapterPage, BiblePage } from './pages/Bible'
 import { BibleSearchPage } from './pages/BibleSearch'
@@ -84,6 +86,10 @@ export const router = createBrowserRouter(
         { path: 'prayer-journal', element: <Prayers /> },
         { path: '40-days', element: <Pray40 /> },
         { path: '40-days/:day', element: <Pray40DayPage /> },
+        { path: 'behopeful', element: <Edu /> },
+        { path: 'behopeful/:nr', element: <EduItemPage /> },
+        { path: 'hope-groups', element: <Groups /> },
+        { path: 'hope-groups/:id', element: <GroupItemPage /> },
         { path: 'know-god', element: <BibleStudies /> },
         { path: 'sabbath-school', element: <BibleLessons /> },
         { path: 'one-voice-27', element: <Hope /> },

@@ -1,0 +1,742 @@
+{
+ "tytul": "Daniel 1. A New Name, the Same God",
+ "id": "D-01",
+ "seria": "The Book of Daniel",
+ "opis": "A new name, a new language, the same God. Where Daniel draws the line, and where he doesn’t.",
+ "tryb": "ksiegi",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 1:1-2; 1:3-7; 1:8-10; 1:11-16; 1:17-21",
+  "p2": "Isaiah 39:5-7; Jeremiah 29:4-7; Jeremiah 25:11-12",
+  "p3": "Genesis 11:1-4; Genesis 1:29"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "Daniel",
+  "faithfulness",
+  "boundaries",
+  "work",
+  "exile",
+  "identity"
+ ],
+ "wersja": 1,
+ "zdanie": "Babylon can change your name. It won’t change whose you are, if you have settled that in your heart beforehand.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not about what to eat. It is about how to live in a world that gives you a lot and quietly tells you who you should be. Daniel accepts a Babylonian name, language, school, and position. He refuses one thing. The whole meeting circles around the question of where he draws the line, where he doesn’t, and how he goes about it. A second thread runs through the whole chapter almost unnoticed: three times we are told that it is God who gives something.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Today the group reads the whole chapter in order, in five sections.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The conversation easily slides into diet: vegetarianism, alcohol, what is allowed and what isn’t. There may be people at the table who eat and drink differently from most of the group. The text doesn’t give the reason for Daniel’s refusal, and it doesn’t turn vegetables into a rule.",
+      "Someone may work in a place where they pay for their convictions every week, and someone else may have been making compromises there for years and feel ashamed of it. Both will hear this text personally.",
+      "It is easy to make Daniel a flawless hero and measure the people present against him. In this chapter he mostly asks and waits."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone where they themselves compromise. Don’t sum up the meeting with a list of things a Christian shouldn’t do. Don’t decide for the group why Daniel refused.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a place where you were new and a stranger: a new school, a new job, another country, your husband’s or wife’s family. Name one thing you adapted to the fastest.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Lord Delivered",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 1:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. And the Lord delivered into his hand Jehoiakim king of Judah, along with some of the articles from the house of God. He carried these off to the land of Shinar, to the house of his god, where he put them in the treasury of his god."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The author could have written that Nebuchadnezzar conquered Jerusalem. Instead he writes: “the Lord delivered into his hand.” **What does this one sentence change about the way we look at defeat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The articles from the house of God now stand in the treasury of a Babylonian god. **What did that sight say to everyone who looked at it, Babylonian and Judean alike?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Teenagers are among the captives on this march. **What questions about God might a boy from Jerusalem have carried in his head, having seen where the articles ended up?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that world the victor carried off the statues and furnishings from the defeated people’s temple and placed them before his own god. It wasn’t about the gold. It was a public announcement that the god of the defeated had lost. So the book of Daniel begins with a scene in which the God of Israel looks defeated. Right away, in the second sentence, the author says who really had his hand on events. The rest of the book unfolds that sentence.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** At the very beginning. The book of Daniel has twelve chapters and divides in half. Chapters 1 through 6 are stories from the royal court: four young men, then Daniel alone, under a succession of kings. Chapters 7 through 12 are visions. The first chapter tells of the fall of the kingdom of Judah; the last promises a kingdom that will never fall.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** It is around 605 BC. Babylon has just become the greatest power in the region. Judah is a small state that for years has ignored the prophets’ warnings. This is the first of three deportations. Jerusalem and the temple are still standing; they will fall less than twenty years later.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Foretold a Hundred Years Earlier",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 39:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Isaiah said to Hezekiah, “Hear the word of the LORD of Hosts: The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD. And some of your descendants, your own flesh and blood, will be taken away to be eunuchs in the palace of the king of Babylon.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah said this to King Hezekiah about a hundred years before Daniel. **What difference does it make to an exile to know that what happened to him had been foretold?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is the sentence “God foresaw it” different from the sentence “God wanted it”?** Which of them is closer to what Daniel 1:2 says?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The land of Shinar is an old name for Babylonia. It appears rarely in the whole Bible, and the first time is in the story of the tower of Babel. It is the same word in both places.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 11:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the whole world had one language and a common form of speech. And as people journeyed eastward, they found a plain in the land of Shinar and settled there. And they said to one another, “Come, let us make bricks and bake them thoroughly.” So they used brick instead of stone, and tar instead of mortar. “Come,” they said, “let us build for ourselves a city with a tower that reaches to the heavens, that we may make a name for ourselves and not be scattered over the face of all the earth.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The author could simply have written “to Babylon.” He chose a name that points back to the tower of Babel. **What is he trying to say about the place Daniel is taken to?** Notice the words “make a name for ourselves” and what is about to happen to the names of the four boys.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Program",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 1:3-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the king ordered Ashpenaz, the chief of his court officials, to bring in some Israelites from the royal family and the nobility— young men without blemish, handsome, gifted in all wisdom, knowledgeable, quick to understand, and qualified to serve in the king’s palace—and to teach them the language and literature of the Chaldeans. The king assigned them daily provisions of the royal food and wine. They were to be trained for three years, after which they were to enter the king’s service. Among these young men were some from Judah: Daniel, Hananiah, Mishael, and Azariah. The chief official gave them new names: To Daniel he gave the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List everything Babylon gives these boys and everything it takes from them.** Which list is longer?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This doesn’t look like persecution. It looks like the best scholarship in the empire. **Why might an offer like that be harder to resist than violence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Why change someone’s name?** What happens to a person who is called something different every day from what their parents named them?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "All four Hebrew names contain the name of God. Daniel means “God is my judge,” Hananiah “the Lord is gracious,” Mishael “who is like God,” Azariah “the Lord has helped.” The new names point to the gods of Babylon, including Bel and Nebo. Four short confessions of faith were replaced with four confessions pointing the other way, and from then on the boys were called by them every day. The program lasted three years and had one goal: to turn Judeans into Babylonians.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Line",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 1:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Daniel made up his mind that he would not defile himself with the king’s food or wine. So he asked the chief official for permission not to defile himself. Now God had granted Daniel favor and compassion from the chief official, but he said to Daniel, “I fear my lord the king, who has assigned your food and drink. For why should he see your faces looking thinner than those of the other young men your age? You would endanger my head before the king!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel accepted the name, the language, the school, and the future position. He refused the table. The text doesn’t say why. **Looking at the text itself, what reasons come to mind?** What does the king’s table have that the school doesn’t?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look at how Daniel draws this line. The text says he “asked.” **What does Daniel not do in this scene, though he could have?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Daniel made up his mind,” and right after that “God had granted Daniel favor.” **What in this scene belongs to Daniel, and what belongs to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**When was this decision made: at the table, or earlier?** How can you tell?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "There are several possible reasons, and the text doesn’t choose any of them. The king’s table included meat the Law of Moses did not allow to be eaten. Food and wine were often first offered to the gods. In that world, eating from the king’s table also meant belonging to the king. Something else matters more: Daniel doesn’t reject Babylon wholesale. He chooses one place, daily and repeated, where three times a day he will remember whose he is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Letter to the Exiles",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "A few years later the prophet Jeremiah sent a letter from Jerusalem to those deported to Babylon.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 29:4-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the LORD of Hosts, the God of Israel, says to all the exiles who were carried away from Jerusalem to Babylon: “Build houses and settle down. Plant gardens and eat their produce. Take wives and have sons and daughters. Take wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Multiply there; do not decrease. Seek the prosperity of the city to which I have sent you as exiles. Pray to the LORD on its behalf, for if it prospers, you too will prosper.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God doesn’t tell the exiles to run away, rebel, or wall themselves off. **How does Daniel’s attitude in chapter 1 relate to this letter?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where is the line between seeking the prosperity of the city and becoming part of it?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Made up his mind” renders a Hebrew phrase that literally means “laid on his heart” (the KJV has “purposed in his heart”). The same verb appears a verse earlier: the chief official “gave” the boys new names, literally laid them on them. A Hebrew reader hears the two one after the other. Babylon lays a name on Daniel from the outside. Daniel lays something on his own heart from the inside. The first he couldn’t stop. The second belonged to him alone.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in your life has been “laid on” you from the outside, without your having any say?** And what, in that same situation, still depends on you alone?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Ten Days",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 1:11-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Daniel said to the steward whom the chief official had appointed over Daniel, Hananiah, Mishael, and Azariah, “Please test your servants for ten days. Let us be given only vegetables to eat and water to drink. Then compare our appearances with those of the young men who are eating the royal food, and deal with your servants according to what you see.” So he consented to this and tested them for ten days. And at the end of ten days, they looked healthier and better nourished than all the young men who were eating the king’s food. So the steward continued to withhold their choice food and the wine they were to drink, and he gave them vegetables instead."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The chief official was afraid and didn’t say yes. **What does Daniel do with that refusal?** How is his proposal different from an ultimatum?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Deal with your servants according to what you see.” Daniel places the judgment in the hands of the man who has authority over him. **What does that say about his trust in God, and what about his respect for the one in charge of him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In verse 8 it is Daniel who decides. By verse 12 he is already saying “us.” **How much does it matter that he didn’t stand at this line alone?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word translated “vegetables” literally means “what comes from seed.” It is related to the word the first page of the Bible uses to describe the food given to humanity in the beginning.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 1:29",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then God said, “Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree whose fruit contains seed. They will be yours for food."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The boys are sitting in the land of Shinar, in the shadow of the tower of Babel, asking for food from the garden of Eden. **What might the author have wanted to say with this juxtaposition?** Is this a sentence about diet, or about whose table you belong at?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this is an observation about a word, not a rule. Don’t let the conversation turn into an argument about the menu.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "God Gave",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 1:17-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "To these four young men God gave knowledge and understanding in every kind of literature and wisdom. And Daniel had insight into all kinds of visions and dreams. Now at the end of the time specified by the king, the chief official presented them to Nebuchadnezzar. And the king spoke with them, and among all the young men he found no one equal to Daniel, Hananiah, Mishael, and Azariah. So they entered the king’s service. In every matter of wisdom and understanding about which the king consulted them, he found them ten times better than all the magicians and enchanters in his entire kingdom. And Daniel remained there until the first year of King Cyrus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Go back to verses 2, 9, and 17. In each of them God gives or delivers something. **Put these three things side by side. What does this trio say about God in Babylon?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The four boys who refused the king’s table become the best graduates of the king’s school. **How can someone be faithful to God and at the same time excellent in a world that doesn’t share that faith?** What in this text shows that one doesn’t rule out the other?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The author uses the Hebrew names to the very end, although no one at court called them that anymore. **What does that say about who they remained?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The last sentence of the chapter looks like a chronicler’s note, but it is the punch line. Cyrus is the Persian king who conquered Babylon. His first year falls almost seventy years after the scene in the first verse. The boy from the march of captives outlived the empire that carried him away. The chapter begins with Nebuchadnezzar advancing and ends with Daniel remaining.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Seventy Years",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 25:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "And this whole land will become a desolate wasteland, and these nations will serve the king of Babylon for seventy years. But when seventy years are complete, I will punish the king of Babylon and that nation, the land of the Chaldeans, for their guilt, declares the LORD, and I will make it an everlasting desolation."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiah foretold seventy years. Daniel lived through all of them, from the first to the last, working at a foreign court. **How does that change your idea of what waiting for God is?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "For Daniel, Babylon was not an episode before his real life. It was his whole life. **What does that say to someone who is still waiting for circumstances to change before they start living seriously with God?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where is your Babylon**, the place that gives you a lot and quietly suggests who you should be?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel accepted much and refused one thing. **How do you tell the difference between what you can accept and where you have to say no?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there a line you have known about for a long time but still haven’t “laid on your heart”?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel bore the name of a Babylonian god, studied literature full of divination, and worked his whole life for the power that destroyed the temple in Jerusalem. Another believer might have considered each of these things a betrayal. **How do you know where the line runs, when the text gives no list? Can two people draw it in different places and both remain faithful?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. But it is worth letting someone notice that Daniel doesn’t announce his line as a standard for the other young men at court, and doesn’t measure anyone by it.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Babylon can change your name. It won’t change whose you are, if you have settled that in your heart beforehand.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Daniel 1:8 or Daniel 1:17.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Daniel chose one daily place where he remembered whom he belonged to. Ask yourself: **what is that place for me?** If nothing comes to mind, stay with that question longer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Three times in this chapter God gives something, even when everything looks like His defeat. Think of a situation where God seems absent or defeated to you today. Ask Him directly: **what in this place is in Your hands that I can’t see?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit before God one compromise that stopped bothering you long ago. Don’t promise to change right away. First, call it by its name.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So the Bible says you have to be a vegetarian and not drink.”** This text doesn’t say that. It tells of four boys in a specific situation and doesn’t even give the reason for their decision. Go back to the question about the table: what that one thing was for Daniel, and what it is for us. If someone wants to talk about health, suggest a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t have a choice at work. Daniel had it easier, because God helped him.”** Don’t argue. Point out that Daniel didn’t know how it would end either, and the official refused him at first. Ask: “In this story, what did Daniel do before anything worked out?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone describes a real conflict of conscience at work and asks for advice.** The group isn’t there to hand down verdicts. Thank them, ask whether they would like the group to pray for them, and offer to talk after the meeting. Don’t let others start telling them what they should do.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts judging other believers: “Well, some people in our church make compromises.”** Interrupt calmly. In this chapter Daniel judges no one, not even the other young men at the king’s table. Go back to the question in the first person.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Then why get involved in this world at all? Better to keep your distance.”** The text shows the opposite: Daniel studies, works, and is the best at it. At level 2 there is Jeremiah’s letter, which says this directly. You can read it even if you are leading level 1.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after the question about their own Babylon.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Leave block 4 and just read it aloud, without questions. Blocks 3 and 5 carry the whole meeting: the line, and the words “God gave.”",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So the Bible says you have to be a vegetarian and not drink.”",
+     "odpowiedz": "This text doesn’t say that. It tells of four boys in a specific situation and doesn’t even give the reason for their decision. Go back to the question about the table: what that one thing was for Daniel, and what it is for us. If someone wants to talk about health, suggest a separate meeting."
+    },
+    {
+     "sytuacja": "“I don’t have a choice at work. Daniel had it easier, because God helped him.”",
+     "odpowiedz": "Don’t argue. Point out that Daniel didn’t know how it would end either, and the official refused him at first. Ask: “In this story, what did Daniel do before anything worked out?”"
+    },
+    {
+     "sytuacja": "Someone describes a real conflict of conscience at work and asks for advice.",
+     "odpowiedz": "The group isn’t there to hand down verdicts. Thank them, ask whether they would like the group to pray for them, and offer to talk after the meeting. Don’t let others start telling them what they should do."
+    },
+    {
+     "sytuacja": "Someone starts judging other believers: “Well, some people in our church make compromises.”",
+     "odpowiedz": "Interrupt calmly. In this chapter Daniel judges no one, not even the other young men at the king’s table. Go back to the question in the first person."
+    },
+    {
+     "sytuacja": "“Then why get involved in this world at all? Better to keep your distance.”",
+     "odpowiedz": "The text shows the opposite: Daniel studies, works, and is the best at it. At level 2 there is Jeremiah’s letter, which says this directly. You can read it even if you are leading level 1."
+    },
+    {
+     "sytuacja": "The group is silent after the question about their own Babylon.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Leave block 4 and just read it aloud, without questions. Blocks 3 and 5 carry the whole meeting: the line, and the words “God gave.”"
+    }
+   ]
+  }
+ ]
+}

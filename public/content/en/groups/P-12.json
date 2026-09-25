@@ -1,0 +1,842 @@
+{
+ "tytul": "Faith and Science: Do I Have to Choose?",
+ "id": "P-12",
+ "seria": "Questions People Ask",
+ "opis": "Does the Bible make you choose between faith and science? Two books by one Author.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Psalm 19:1-10; Romans 1:19-20; Acts 14:15-17; Genesis 1:1, 26-31; Job 28:1-4, 9-13, 23-28; Hebrews 11:1-3; Proverbs 25:2; 1 Corinthians 13:9, 12",
+  "p2": "Genesis 8:22; Jeremiah 33:25-26; Genesis 1:14-18; Genesis 2:19-20; Job 38:31-33; Psalm 111:2; Psalm 104:13-15, 19-24",
+  "p3": "Genesis 1:1-5; Job 9:5; Mark 4:39-41"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "science",
+  "creation",
+  "reason",
+  "nature",
+  "wisdom",
+  "humility"
+ ],
+ "wersja": 1,
+ "zdanie": "The One who gave Scripture also made the world. I don’t have to defend one of His books against the other.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Many people have heard, at school, at home, or at church, that you have to choose: either faith or science. This meeting checks whether the Bible itself sets up that choice. An old Christian comparison speaks of two books by one Author: nature and Scripture. If there is one Author, the books cannot truly contradict each other. Our readings of the one and the other can. The starting point is creation: the world is wanted, good, and ordered, and human beings were given reason in order to use it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This material deliberately doesn’t settle debates about the age of the earth, the days of creation, or theories about the origin of life. Don’t try to do that at the table. No one here will close those questions in an hour, and the attempt usually ends in mockery of one side or the other.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be someone at the table who works in science or medicine and has felt under suspicion at church for years. There may also be someone who left the faith over these questions, or who is watching their child leave.",
+      "Mockery comes from both sides: of “scientists who don’t know anything” and of “ignorant believers.” Either one shuts down the conversation.",
+      "It’s easy to bring in sensational proofs from the internet that no one at the table can check."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give a lecture on nature or on apologetics. Don’t cite numbers and dates you can’t back up. Don’t let anyone be ridiculed.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When was the last time something in nature or in technology made you think: how does this even work? Tell us in one sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Two Books in One Psalm",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 19:1-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "The heavens declare the glory of God; the skies proclaim the work of His hands. Day after day they pour forth speech; night after night they reveal knowledge. Without speech or language, without a sound to be heard, their voice has gone out into all the earth, their words to the ends of the world. In the heavens He has pitched a tent for the sun. Like a bridegroom emerging from his chamber, like a champion rejoicing to run his course, it rises at one end of the heavens and runs its circuit to the other; nothing is deprived of its warmth. The Law of the LORD is perfect, reviving the soul; the testimony of the LORD is trustworthy, making wise the simple. The precepts of the LORD are right, bringing joy to the heart; the commandments of the LORD are radiant, giving light to the eyes. The fear of the LORD is pure, enduring forever; the judgments of the LORD are true, being altogether righteous. They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the first part, the sky speaks. “Without speech or language, without a sound to be heard,” and yet the message reaches the ends of the world. **What can be read about God from the sky? And what can’t be read from the sky alone?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verse 7, the psalm moves without warning from the sun to “the Law of the LORD,” that is, to Scripture. **Why did the poet put these two things in one song? What does the second book say that the first cannot?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "David sees no competition between looking at the sky and reading Scripture. **Where does today’s sense that you have to choose come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the part about the sky, the general word “God” is used, and only once. In the part about Scripture, the personal name of Israel’s God comes back, which the BSB renders as “LORD.” In the whole psalm it appears seven times, and not once where the sky is speaking. The sky says that Someone exists and that He is powerful. What His name is, and whether He can be trusted, only Scripture says. The psalmist needs both books and doesn’t read either one against the other.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Understood from His Workmanship",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 1:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "For what may be known about God is plain to them, because God has made it plain to them. For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "In Lystra, a crowd wants to offer sacrifices to Paul and Barnabas as if they were gods. Paul speaks to people who have never held the Scriptures of Israel in their hands.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 14:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them. In past generations, He let all nations go their own way. Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to Paul, what can be known about God from the world itself?** List exactly what he names in Romans 1:20. What is missing from that list?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Clearly seen, being understood from His workmanship.” Paul treats the human mind as a tool for knowing God. **Where have you come across the opposite conviction, that thinking harms faith? Who says it more often: believers or unbelievers?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In Lystra, Paul doesn’t quote a single verse. **What testimony does he appeal to? What does this say about the traces God has left for people who will never open a Bible?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The conviction that the world was created by a faithful, lawgiving God was one of the foundations of European science. Since there is one Lawgiver and He isn’t capricious, nature is worth studying, because tomorrow it will behave the same way it does today. A scientist who doesn’t believe simply has to assume that the world is knowable and orderly. A believer has a reason to expect it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Covenant with Day and Night",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 8:22",
+       "przeklad": "BSB",
+       "akapity": [
+        "As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night shall never cease.”"
+       ]
+      },
+      {
+       "odnosnik": "Jeremiah 33:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the LORD says: If I have not established My covenant with the day and the night and the fixed order of heaven and earth, then I would also reject the descendants of Jacob and of My servant David, so as not to take from his descendants rulers over the descendants of Abraham, Isaac, and Jacob. For I will restore them from captivity and will have compassion on them.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God speaks of “the fixed order of heaven and earth,” calls the constancy of nature a covenant, and compares His own faithfulness toward people to it. **So in the Bible’s eyes, what are the laws of nature?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Would science be possible in a world ruled by capricious gods?** What has to be true about the Creator’s character for an experiment repeated tomorrow to give the same result?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "In the Beginning",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 1:1, 26-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the beginning God created the heavens and the earth. … Then God said, “Let Us make man in Our image, after Our likeness, to rule over the fish of the sea and the birds of the air, over the livestock, and over all the earth itself and every creature that crawls upon it.” So God created man in His own image; in the image of God He created him; male and female He created them. God blessed them and said to them, “Be fruitful and multiply, and fill the earth and subdue it; rule over the fish of the sea and the birds of the air and every creature that crawls upon the earth.” Then God said, “Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree whose fruit contains seed. They will be yours for food. And to every beast of the earth and every bird of the air and every creature that crawls upon the earth—everything that has the breath of life in it—I have given every green plant for food.” And it was so. And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning—the sixth day."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "People ask all kinds of questions about beginnings: who, why, who we are, how, when. **Go through that list with the text in hand. Which questions does this passage answer directly and with emphasis, and which does it say little or nothing about?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Human beings are made “in the image of God” and are given the earth to manage. **What follows from this for human curiosity? Is studying creation something people do against God, or a task they received from Him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“It was very good.” **What difference does it make to how we see matter, the body, and nature to believe that the world is wanted and good, not accidental or evil?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This page wasn’t written against science, because science in our sense didn’t exist yet. It was written in a world where the sun and moon were gods. In a Babylonian myth, the world is made from the body of a slain goddess, and humans are fashioned from the blood of a defeated deity so they can do forced labor for the weary gods. In Genesis there is one God, the world is a thing and not a deity, and human beings are the image of God and receive the earth.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Greater Light and the Lesser Light",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 1:14-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "And God said, “Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years. And let them serve as lights in the expanse of the sky to shine upon the earth.” And it was so. God made two great lights: the greater light to rule the day and the lesser light to rule the night. And He made the stars as well. God set these lights in the expanse of the sky to shine upon the earth, to preside over the day and the night, and to separate the light from the darkness. And God saw that it was good."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Among Israel’s neighbors, the sun and moon were gods and had names. Here they don’t even get names. They are the greater and the lesser light, hung up to do a job. **What has to happen to a deity before someone dares to measure it, weigh it, and study it?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What He Would Name Them",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "And out of the ground the LORD God formed every beast of the field and every bird of the air, and He brought them to the man to see what he would name each one. And whatever the man called each living creature, that was its name. The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first intellectual task a human being receives in the Bible is to observe the animals and name them. God brings them “to see what he would name each one.” **Who is curious in this scene? What does this say about how God looks at human exploration of the world?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: How Old Is the World?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 1:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the beginning God created the heavens and the earth. Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters. And God said, “Let there be light,” and there was light. And God saw that the light was good, and He separated the light from the darkness. God called the light “day,” and the darkness He called “night.” And there was evening, and there was morning—the first day."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Bible never gives a date for creation. All the numbers in circulation are human calculations based on genealogies. Among Christians who take this page seriously, Adventists included, there are at least two readings. Some include the first two verses in the first day, and then the whole universe is young. Others see in them the state of things before the first day: the heavens and the raw earth could have existed long before, and the creation week tells of the earth being set in order and life being called into being on it. Both sides read the days as days. Both confess that the world has a Creator, that human beings are His image, and that the Sabbath is a memorial of that week.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Read verses 1-3 slowly. What is already on the scene before God says the first “Let there be”?** Does the text itself settle how long that lasted? What in your faith depends on the answer, and what doesn’t?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it, and don’t let anyone else settle it. There may be people at the table with still other views. It’s enough for the group to see where the text ends and the calculation begins.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Miner and Wisdom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 28:1-4, 9-13, 23-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Surely there is a mine for silver and a place where gold is refined. Iron is taken from the earth, and copper is smelted from ore. Man puts an end to the darkness; he probes the farthest recesses for ore in deepest darkness. Far from human habitation he cuts a shaft in places forgotten by the foot of man. Far from men he dangles and sways. … The miner strikes the flint; he overturns mountains at their base. He hews out channels in the rocks, and his eyes spot every treasure. He stops up the sources of the streams to bring what is hidden to light. But where can wisdom be found, and where does understanding dwell? No man can know its value, nor is it found in the land of the living. … But God understands its way, and He knows its place. For He looks to the ends of the earth and sees everything under the heavens. When God fixed the weight of the wind and measured out the waters, when He set a limit for the rain and a path for the thunderbolt, then He looked at wisdom and appraised it; He established it and searched it out. And He said to man, ‘Behold, the fear of the Lord, that is wisdom, and to turn away from evil is understanding.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The poet describes a mine with obvious admiration: man puts an end to the darkness, overturns mountains, brings what is hidden to light. **How does this text judge human technology and inquisitiveness?** Can you hear any fear of knowledge in it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "And then comes verse 12: “But where can wisdom be found?” **What can’t be dug out by any mine shaft? What questions does science not ask, because it has no tools for them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The last verse defines wisdom not as an amount of knowledge, but as the fear of the Lord and turning away from evil. **Do you know people who are highly educated and unwise, or uneducated and wise? What does this say about the difference between knowledge and wisdom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is one of the most detailed descriptions of technology in the whole Bible. Shafts are sunk far from settlements, in places no foot passes. The miners dangle with nothing under their feet and strike the flint. The poet doesn’t mock this work, and he doesn’t see it as a threat to God. Notice verses 25-27 as well: God fixes the weight of the wind, measures out the waters, and sets a limit for the rain. Here the Creator is described in the language of measure and weight.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Pondered by All Who Delight in Them",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 38:31-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "Can you bind the chains of the Pleiades or loosen the belt of Orion? Can you bring forth the constellations in their seasons or lead out the Bear and her cubs? Do you know the laws of the heavens? Can you set their dominion over the earth?"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 111:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Great are the works of the LORD; they are pondered by all who delight in them."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God showers Job with questions about nature. Today we can answer some of them better than Job could. **Does that weaken the force of these questions, or strengthen it? Has every answer we have found reduced the number of questions?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm links studying with delight. **What does it look like to study something you love? How is it different from studying something you only want to use?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 9, the miner “overturns mountains at their base.” The Hebrew uses the same verb here that Job used to describe God nearly twenty chapters earlier.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 9:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "He moves mountains without their knowledge and overturns them in His anger."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The poet describes a man in a mine with a word that until now in this book described God. **What does this say about the dignity of human research? And what does the rest of the chapter say about its limits?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "We Know in Part",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now faith is the assurance of what we hope for and the certainty of what we do not see. This is why the ancients were commended. By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 25:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is the glory of God to conceal a matter and the glory of kings to search it out."
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 13:9, 12",
+       "przeklad": "BSB",
+       "akapity": [
+        "For we know in part and we prophesy in part, … Now we see but a dim reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Letter to the Hebrews says “By faith we understand,” not “instead of understanding, we believe.” No human being, believer or unbeliever, saw the beginning of the world. **What does everyone who talks about the beginning have to take on faith at some point?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God conceals, kings search out, and both are called glory. **How does this proverb see the relationship between God and the researcher: as a rivalry, or as something else? What is it like?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“We know in part.” Paul says this about the knowledge of believers. **What would conversations about faith and science look like if both sides started from this sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Many famous disputes were not between the Bible and nature, but between someone’s reading of the Bible and someone’s reading of nature. When the church defended a motionless Earth, it was convinced it was defending Scripture. It was defending the Greek philosophy of nature that its theology had grown together with. Data is not the same as its interpretation, and Scripture is not the same as our explanation of it. No one is an infallible reader of either book.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "He Makes the Grass Grow",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 104:13-15, 19-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "He waters the mountains from His chambers; the earth is satisfied by the fruit of His works. He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth: wine that gladdens the heart of man, oil that makes his face to shine, and bread that sustains his heart. … He made the moon to mark the seasons; the sun knows when to set. You bring darkness, and it becomes night, when all the beasts of the forest prowl. The young lions roar for their prey and seek their food from God. The sun rises, and they withdraw; they lie down in their dens. Man goes forth to his work and to his labor until evening. How many are Your works, O LORD! In wisdom You have made them all; the earth is full of Your creatures."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist says of God, “He makes the grass grow.” Today we can describe fairly precisely how grass grows. **Does explaining how something works take it away from God? Where does the psalm see God: in what is extraordinary, or in what is everyday and regular?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Some people look for God only where science has no explanation yet. **What happens to that kind of faith with every new discovery? What would a faith built on Psalm 104 look like?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Miracles and the Laws of Nature",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:39-41",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus got up and rebuked the wind and the sea. “Silence!” He commanded. “Be still!” And the wind died down, and it was perfectly calm. “Why are you so afraid?” He asked. “Do you still have no faith?” Overwhelmed with fear, they asked one another, “Who is this, that even the wind and the sea obey Him?”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If nature is so regular that it can be studied, what about miracles? Some say: a miracle breaks the laws of nature, so whoever accepts science has to reject miracles, and whoever accepts miracles undermines science. Others answer with a picture. You are sitting under a roof, and the laws of physics keep you dry. Someone takes a bucket and pours water over your head. No law has been broken. The course of events changed because a person stepped into the system. Both sides share one thing: you can only speak of a miracle at all where nature is regular. In a world without laws, nothing would surprise anyone.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The disciples were fishermen and knew how the lake behaves. **Why were they, of all people, more frightened by the calm than by the storm? What do they ask about in verse 41: a mechanism, or a person?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where did you get your picture of how faith relates to science:** from home, from school, from church, from the internet? Has anyone ever told you that you have to choose?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s sentences would you have liked to hear when you were fifteen?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **do you carry a question from the borderland of faith and science that you are afraid to ask out loud, in church or outside it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sometimes what most scientists say today and how I understand the biblical text can’t be reconciled. Then I can revise my understanding of the text, I can question the interpretation of the data, or I can live with an open question. **How can you tell which of these paths is honest in a given case? How long can you live with a question that has no answer?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "there is no single answer here. An image from the book of Job may help. Job’s wife saw the problems and therefore refused to believe. Job’s friends believed and therefore refused to see the problems. Job believed and didn’t stop seeing the problems. Honesty ranks higher than easy consistency, and you are allowed to give reconciliation as much time as it needs.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The One who gave Scripture also made the world. I don’t have to defend one of His books against the other.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 19:1 or Psalm 111:2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In the coming days, when something in nature stops you, stay with it a little longer than seems appropriate. Ask: **what does this say about the One who thought it up?** And then ask the same question while reading Scripture.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Admit to yourself one question you avoid because you’re afraid the answer will shake your faith or your picture of the world. Try saying to God: **I’m not afraid of the truth, because all of it is Yours.** If you can’t say that honestly, tell Him exactly that.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone whose views on these matters you have mocked, even just in your head. Maybe a believer, maybe an unbeliever. Ask yourself **what that mockery was protecting in you.**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone mocks scientists or unbelievers: “They don’t even know what they’re talking about.”** Interrupt right away and calmly. God is seeking every person, including the one who leaves Him out of their work. Losing someone’s respect because of your faith is no shame. Losing it through spite, arrogance, and uninformed remarks is something else entirely.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone mocks in the other direction: believers, “literal reading,” the church.** Interrupt in the same way. At this table no one is ridiculed for what they think. Ask, “Which of today’s texts surprised you?” and go back to the Bible.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone wants to settle today how old the earth is, what about the dinosaurs, what about the Flood.** Say plainly that this material deliberately doesn’t do that, and that you aren’t able to do it responsibly. The Bible doesn’t give a date for creation. Today’s question is a different one: do I have to choose between the Author and His work? Write the questions down if the group wants to come back to them with someone qualified.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone brings a sensational proof from the internet, for faith or against it.** Don’t evaluate the proof, because you have no way to. Say that a believer has more reason than anyone to care about accuracy, because they speak about holy things. A weak argument for a good cause harms that cause.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**There is someone at the table who works in science or medicine.** Don’t make them either the expert on everything or the accused. If they want to say something, listen. Don’t put them on the spot.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A parent says, “At school they teach my child differently, and I don’t know what to tell them.”** Don’t hand out a ready-made formula. More important than one good answer is that the child knows it’s okay to ask questions at home and at church, and that no one is afraid of those questions. Offer to talk after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You run out of time.** Keep blocks 1, 3, and 5. You can read block 4 aloud without the questions, because the text does its own work.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone mocks scientists or unbelievers: “They don’t even know what they’re talking about.”",
+     "odpowiedz": "Interrupt right away and calmly. God is seeking every person, including the one who leaves Him out of their work. Losing someone’s respect because of your faith is no shame. Losing it through spite, arrogance, and uninformed remarks is something else entirely."
+    },
+    {
+     "sytuacja": "Someone mocks in the other direction: believers, “literal reading,” the church.",
+     "odpowiedz": "Interrupt in the same way. At this table no one is ridiculed for what they think. Ask, “Which of today’s texts surprised you?” and go back to the Bible."
+    },
+    {
+     "sytuacja": "Someone wants to settle today how old the earth is, what about the dinosaurs, what about the Flood.",
+     "odpowiedz": "Say plainly that this material deliberately doesn’t do that, and that you aren’t able to do it responsibly. The Bible doesn’t give a date for creation. Today’s question is a different one: do I have to choose between the Author and His work? Write the questions down if the group wants to come back to them with someone qualified."
+    },
+    {
+     "sytuacja": "Someone brings a sensational proof from the internet, for faith or against it.",
+     "odpowiedz": "Don’t evaluate the proof, because you have no way to. Say that a believer has more reason than anyone to care about accuracy, because they speak about holy things. A weak argument for a good cause harms that cause."
+    },
+    {
+     "sytuacja": "There is someone at the table who works in science or medicine.",
+     "odpowiedz": "Don’t make them either the expert on everything or the accused. If they want to say something, listen. Don’t put them on the spot."
+    },
+    {
+     "sytuacja": "A parent says, “At school they teach my child differently, and I don’t know what to tell them.”",
+     "odpowiedz": "Don’t hand out a ready-made formula. More important than one good answer is that the child knows it’s okay to ask questions at home and at church, and that no one is afraid of those questions. Offer to talk after the meeting."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You run out of time.",
+     "odpowiedz": "Keep blocks 1, 3, and 5. You can read block 4 aloud without the questions, because the text does its own work."
+    }
+   ]
+  }
+ ]
+}

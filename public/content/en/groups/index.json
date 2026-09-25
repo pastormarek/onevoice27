@@ -1,0 +1,1927 @@
+{
+ "lang": "en",
+ "title": "Hope Groups",
+ "series": "One Voice 27",
+ "przekladBazowy": "BSB",
+ "note": "Scripture quotations are from the Berean Standard Bible (public domain) unless otherwise noted.",
+ "serie": [
+  {
+   "prefiks": "E",
+   "tytul": "Emotions",
+   "opis": "Fifteen meetings about what goes on inside us and what the Bible does with it.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "E-01",
+     "tytul": "Anger",
+     "opis": "What we do in the moment between feeling angry and reacting, and why the Bible doesn’t tell anger to disappear.",
+     "teksty": "Genesis 4:3-8; Ephesians 4:26-27, 31-32; Psalm 37:8; James 1:19-20; Proverbs 14:29; 15:1; 16:32; 29:11; Mark 3:1-5; Romans 12:17-21; Numbers 20:9-12; Matthew 5:21-24; Luke 15:25-32; Jonah 4:1-4, 9-11; Colossians 3:8; 1 Peter 3:9; Psalm 4:4; Exodus 34:6; Romans 12:19",
+     "zdanie": "Anger is not a verdict. It is a threshold, and on a threshold you can still stop.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 17,
+      "p2": 28,
+      "p3": 31
+     },
+     "tagi": [
+      "emotions",
+      "relationships",
+      "forgiveness",
+      "heart"
+     ]
+    },
+    {
+     "id": "E-02",
+     "tytul": "Fear",
+     "opis": "The Bible says “do not be afraid” hundreds of times, because it knows we are afraid. Who gets the last word in our fear?",
+     "teksty": "Numbers 13:30-33; Mark 4:37-41; Matthew 14:28-31; Matthew 10:28-31; 1 John 4:18; Philippians 4:6-7; Numbers 14:1-4; 2 Kings 6:15-17; Psalm 56:3-4; Isaiah 41:10; Deuteronomy 31:6; Psalm 111:10",
+     "zdanie": "Faith doesn’t remove fear. It takes away fear’s last word.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 17,
+      "p2": 22,
+      "p3": 25
+     },
+     "tagi": [
+      "emotions",
+      "trust",
+      "courage",
+      "worry"
+     ]
+    },
+    {
+     "id": "E-03",
+     "tytul": "Shame",
+     "opis": "Guilt says “I did something bad”; shame says “I am bad.” How God answers the second one.",
+     "teksty": "Genesis 3:7-10; Genesis 3:21; Luke 7:37-39, 44-48; John 8:3-11; Hebrews 12:2; Romans 10:11; Luke 15:20-24; Psalm 34:5; Isaiah 61:7; Psalm 32:1-2; Romans 8:1",
+     "zdanie": "God doesn’t dismiss shame, and He doesn’t leave us in fig leaves. He comes with a better covering.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 17,
+      "p2": 22,
+      "p3": 25
+     },
+     "tagi": [
+      "emotions",
+      "identity",
+      "forgiveness",
+      "dignity"
+     ]
+    },
+    {
+     "id": "E-04",
+     "tytul": "Sadness",
+     "opis": "The Bible makes room for sadness and doesn’t tell it to hurry up. On comfort that comes too fast.",
+     "teksty": "John 11:32-36; Psalm 42:3-5, 11; Job 2:11-13; 1 Thessalonians 4:13-14; Revelation 21:3-4; Lamentations 3:19-24; 2 Corinthians 1:3-4; Ecclesiastes 7:2-4; 2 Corinthians 7:10",
+     "zdanie": "God doesn’t cut grief short. He sits down beside us in it.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 22,
+      "p3": 24
+     },
+     "tagi": [
+      "emotions",
+      "grief",
+      "loss",
+      "comfort",
+      "hope"
+     ]
+    },
+    {
+     "id": "E-05",
+     "tytul": "Guilt",
+     "opis": "Guilt sometimes tells the truth and sometimes lies. Two men, one night, two endings.",
+     "teksty": "Psalm 32:3-5; 2 Samuel 12:7, 9, 13; Matthew 26:75; Matthew 27:3-5; John 21:15-17; 1 John 1:9; Romans 8:1; Psalm 51:1-2, 10-12; Micah 7:18-19; 2 Corinthians 7:10",
+     "zdanie": "Guilt left alone with itself kills. Guilt brought to God becomes the way back.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 23,
+      "p3": 25
+     },
+     "tagi": [
+      "emotions",
+      "forgiveness",
+      "conscience",
+      "repentance"
+     ]
+    },
+    {
+     "id": "E-06",
+     "tytul": "Envy",
+     "opis": "The emotion nobody admits to. Where it comes from and what it does to the one who carries it.",
+     "teksty": "Genesis 37:3-8, 11; 1 Samuel 18:6-9; Psalm 73:2-3, 16-17; Matthew 20:9-15; James 3:14-16; Numbers 12:1-2; John 3:26-30; Galatians 5:19-21; Exodus 34:14",
+     "zdanie": "Envy doesn’t count what I have. It counts the distance between me and someone else, and that’s why it never finishes counting.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 17,
+      "p2": 23,
+      "p3": 25
+     },
+     "tagi": [
+      "emotions",
+      "comparison",
+      "rivalry",
+      "gratitude"
+     ]
+    },
+    {
+     "id": "E-07",
+     "tytul": "Loneliness",
+     "opis": "You can be lonely in a crowd and lonely in a marriage. On loneliness among people and on feeling abandoned by God.",
+     "teksty": "Genesis 2:18; Psalm 142:4-5; Psalm 88:13-18; Mark 14:32-38; Hebrews 13:5; John 16:32; 2 Timothy 4:9-11, 16-17; Psalm 68:5-6; Psalm 88:18",
+     "zdanie": "God did not tell man that God alone would be enough for him. He said it is not good for the man to be alone, and He did something about it.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 23,
+      "p3": 24
+     },
+     "tagi": [
+      "emotions",
+      "community",
+      "abandonment",
+      "presence"
+     ]
+    },
+    {
+     "id": "E-08",
+     "tytul": "Discouragement",
+     "opis": "Discouragement comes to people who have done a great deal. Elijah the day after his greatest victory.",
+     "teksty": "1 Kings 19:3-9; Numbers 11:11-15; Luke 24:17-24; Galatians 6:9; 2 Corinthians 4:8-9, 16-18; Isaiah 40:29-31; 1 Kings 19:9",
+     "zdanie": "God did not start with a sermon for Elijah. He started with sleep and food, and saved the conversation for later.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 95
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 20,
+      "p3": 21
+     },
+     "tagi": [
+      "emotions",
+      "burnout",
+      "perseverance",
+      "ministry"
+     ]
+    },
+    {
+     "id": "E-09",
+     "tytul": "Bitterness",
+     "opis": "The residue of emotions that never found a way out. The story of Naomi, who called herself Bitter.",
+     "teksty": "Ruth 1:19-21; Exodus 15:23-25; Job 7:11; Job 10:1; Hebrews 12:14-15; Ruth 4:14-15; 1 Samuel 1:10-11; Acts 8:22-23; Ruth 1:20",
+     "zdanie": "Bitterness is not the emotion of a single day. It is the residue of days no one listened to.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 95
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 22,
+      "p3": 23
+     },
+     "tagi": [
+      "emotions",
+      "resentment",
+      "forgiveness",
+      "loss"
+     ]
+    },
+    {
+     "id": "E-10",
+     "tytul": "Joy",
+     "opis": "The Bible’s texts about joy were written from prisons and ruins. A joy that can live alongside sorrow.",
+     "teksty": "Nehemiah 8:9-12; Philippians 4:4-7; Luke 15:8-10; John 16:20-22; Habakkuk 3:17-18; Psalm 16:11; Acts 16:25; Philippians 4:4",
+     "zdanie": "Biblical joy doesn’t wait for the list of what’s missing to run out. It begins with the word “yet.”",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 95
+     },
+     "liczbaPytan": {
+      "p1": 20,
+      "p2": 22,
+      "p3": 23
+     },
+     "tagi": [
+      "emotions",
+      "gratitude",
+      "hope",
+      "community"
+     ]
+    },
+    {
+     "id": "E-11",
+     "tytul": "Longing",
+     "opis": "Feeling unfulfilled is not a flaw in your faith. Longing as something God built into us on purpose.",
+     "teksty": "Psalm 42:1-2; Psalm 84:1-2, 10; Romans 8:22-25; Hebrews 11:13-16; Philippians 1:21-24; Psalm 63:1-3; Ecclesiastes 3:11; Revelation 22:17, 20",
+     "zdanie": "Feeling unfulfilled is not a defect of faith. It is evidence that we were made for something greater than what we have.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 95
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 20,
+      "p3": 22
+     },
+     "tagi": [
+      "emotions",
+      "desire",
+      "hope",
+      "heaven",
+      "unfulfillment"
+     ]
+    },
+    {
+     "id": "E-12",
+     "tytul": "Gratitude",
+     "opis": "Gratitude is born of memory. Why we forget God not when times are hard, but when times are good.",
+     "teksty": "Luke 17:11-19; Psalm 103:1-5; Deuteronomy 8:10-14, 17-18; Colossians 3:15-17; 1 Thessalonians 5:16-18; Psalm 107:1-2, 8-9; Luke 22:19; 1 Thessalonians 5:18",
+     "zdanie": "Ingratitude is rarely ill will. Most often it is forgetfulness, and we forget fastest when things are going well.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 95
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 22,
+      "p3": 23
+     },
+     "tagi": [
+      "emotions",
+      "memory",
+      "thanksgiving",
+      "humility"
+     ]
+    },
+    {
+     "id": "E-13",
+     "tytul": "Compassion",
+     "opis": "Why we so often feel no compassion, even when we know we should. The stirring deep inside Jesus.",
+     "teksty": "Matthew 9:35-36; Luke 10:30-35; Psalm 103:13-14; Romans 12:15; Matthew 25:35-40; Mark 1:40-42; Luke 7:12-15; Matthew 9:36",
+     "zdanie": "The priest, the Levite, and the Samaritan all saw the same thing. The difference began with what stirred inside them.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 95
+     },
+     "liczbaPytan": {
+      "p1": 17,
+      "p2": 21,
+      "p3": 23
+     },
+     "tagi": [
+      "emotions",
+      "mercy",
+      "neighbor",
+      "service"
+     ]
+    },
+    {
+     "id": "E-14",
+     "tytul": "Impatience",
+     "opis": "Impatience looks like resourcefulness. On a kind of waiting that isn’t passivity.",
+     "teksty": "Genesis 16:1-4; 1 Samuel 13:8-14; Psalm 13:1-6; Psalm 130:5-6; James 5:7-8; Exodus 32:1; Hebrews 6:12, 15; Psalm 13:1",
+     "zdanie": "Impatience rarely chooses evil. Most often it chooses something good a few years too early.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 95
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 23,
+      "p3": 23
+     },
+     "tagi": [
+      "emotions",
+      "waiting",
+      "trust",
+      "control"
+     ]
+    },
+    {
+     "id": "E-15",
+     "tytul": "Disappointment",
+     "opis": "What to do with the gap between what I expected and what actually came: from people, from myself, from God.",
+     "teksty": "Luke 24:13-21; 2 Kings 5:9-14; Jeremiah 17:5-8; John 2:23-25; Luke 24:25-32; Proverbs 13:12; Romans 5:1-5; Luke 24:33-35; Exodus 5:22-23; 6:1; 2 Kings 5:15; Isaiah 55:6-9; Job 6:15-20; Jeremiah 15:18-19; Romans 7:18-19, 24-25; Psalm 22:1-5; Luke 1:68; 2:38; Romans 10:11; Hebrews 11:39-40",
+     "zdanie": "Disappointment tells the truth about what I expected. It doesn’t yet tell the truth about what God is doing.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 29,
+      "p3": 33
+     },
+     "tagi": [
+      "emotions",
+      "hope",
+      "expectations",
+      "trust",
+      "Emmaus"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "R",
+   "tytul": "Relationships",
+   "opis": "Twelve meetings about what goes on between us: conflict, forgiveness, marriage, friendship, boundaries.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "R-01",
+     "tytul": "Conflict",
+     "opis": "A dispute before anyone is to blame. Believers argue too; the question is what they do next.",
+     "teksty": "Genesis 13:5-12; Acts 6:1-7; Acts 15:36-41; Matthew 18:15-17; Proverbs 18:13, 17; Philippians 4:2-3; 2 Timothy 4:11; James 4:1-2; Acts 15:1-2, 6-7, 12-13, 19; Galatians 2:11-14; Colossians 4:10; Acts 15:39; Hebrews 10:24; Luke 22:24-27",
+     "zdanie": "A dispute isn’t proof that something went wrong. The proof is what we do with it.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 31
+     },
+     "tagi": [
+      "relationships",
+      "conflict",
+      "church",
+      "conversation"
+     ]
+    },
+    {
+     "id": "R-02",
+     "tytul": "Forgiveness",
+     "opis": "What forgiveness is and what it isn’t: not forgetting, and not trust extended on credit.",
+     "teksty": "Matthew 18:21-35; Genesis 50:15-21; Luke 23:33-34; Colossians 3:12-13; 2 Timothy 4:14-16; Genesis 4:23-24; Luke 7:41-47; Psalm 103:8-12; Luke 17:3-4; Matthew 6:12, 14-15; Exodus 34:6-7; Micah 7:18-19",
+     "zdanie": "To forgive is to let the debt go and hand the account over to God. That is not the same as handing the one who hurt you the keys to your house.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "relationships",
+      "forgiveness",
+      "harm",
+      "grace",
+      "boundaries"
+     ]
+    },
+    {
+     "id": "R-03",
+     "tytul": "Reconciliation",
+     "opis": "You can forgive on your own, but reconciliation takes two. Jacob’s road back to Esau.",
+     "teksty": "Genesis 32:3-12; Genesis 33:1-11; Genesis 33:12-17; Matthew 5:23-24; Luke 19:8-9; 2 Corinthians 5:17-20; Genesis 27:41-45; Genesis 32:24-31; Philemon 10-18; Genesis 33:18-20; 1 John 4:20-21; Genesis 33:10-11; Genesis 45:14-15, 24",
+     "zdanie": "I can forgive on my own. Reconciliation takes two, and the first step belongs to whoever sees it first.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 28,
+      "p3": 32
+     },
+     "tagi": [
+      "relationships",
+      "reconciliation",
+      "family",
+      "guilt",
+      "first step"
+     ]
+    },
+    {
+     "id": "R-04",
+     "tytul": "Words",
+     "opis": "Words do something between people before we can take them back. Where they come from and what they can build.",
+     "teksty": "James 3:2-6; James 3:7-12; Proverbs 26:20-22; Proverbs 11:13; 16:28; 17:9; Matthew 12:33-37; Proverbs 12:18; 25:11; Isaiah 50:4; Ephesians 4:29; Genesis 21:6-10; Proverbs 10:19; 17:27-28; Psalm 141:3; Isaiah 6:5-7; 1 Peter 2:22-23; Leviticus 19:16; James 1:26; 1:5; 3:17; Proverbs 31:8-9",
+     "zdanie": "The mouth speaks what fills the heart. If you want different words, ask for a different heart.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 31
+     },
+     "tagi": [
+      "relationships",
+      "words",
+      "gossip",
+      "tongue",
+      "heart"
+     ]
+    },
+    {
+     "id": "R-05",
+     "tytul": "Marriage",
+     "opis": "A covenant, not a contract. What kind of love the Bible has in mind when it speaks of husband and wife.",
+     "teksty": "Genesis 2:18-23; Genesis 2:24-25; Malachi 2:14; Ephesians 5:21-33; 1 Corinthians 13:4-8; Song of Solomon 8:6-7; Hosea 2:19-20; Psalm 121:1-2; Genesis 3:12, 16; Mark 10:42-45; Colossians 3:18-19; Philippians 2:3-5; Revelation 19:7-9; Ephesians 5:21-22",
+     "zdanie": "Marriage is a covenant between two people who give themselves, and a picture of a love that has room for everyone.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 31
+     },
+     "tagi": [
+      "relationships",
+      "marriage",
+      "covenant",
+      "love",
+      "mutuality"
+     ]
+    },
+    {
+     "id": "R-06",
+     "tytul": "Parents and Children",
+     "opis": "How faith passes from generation to generation, and why it can be neither forced nor handed off to someone else.",
+     "teksty": "Deuteronomy 6:4-9; Deuteronomy 6:20-25; 1 Samuel 2:12, 22-24; 3:11-13; Ephesians 6:1-4; Colossians 3:20-21; Luke 2:41-52; Psalm 78:4-7; 2 Timothy 1:2-5; Acts 16:1; Exodus 12:26-27; Judges 2:10; 1 Samuel 8:1-3; Ezekiel 18:20; Mark 10:13-16; Psalm 103:13-14; Luke 15:20; Isaiah 49:15-16; Proverbs 22:6",
+     "zdanie": "You can’t hand faith to a child. You can live it in front of them, answer their questions, and remember that they have another Father too.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 29,
+      "p3": 33
+     },
+     "tagi": [
+      "relationships",
+      "family",
+      "parenting",
+      "passing on faith",
+      "generations"
+     ]
+    },
+    {
+     "id": "R-07",
+     "tytul": "Adult Children, Aging Parents",
+     "opis": "Honor and leave: two words for adults who have lives of their own and parents whose strength is failing.",
+     "teksty": "Exodus 20:12; Leviticus 19:32; Proverbs 23:22; Genesis 2:24; Genesis 12:1; Mark 7:9-13; Ruth 1:8-11, 14-18; John 19:25-27; Psalm 71:9, 17-18; Matthew 10:34-37; 1 Timothy 5:3-4, 8; Genesis 47:7-12; Luke 14:26; Psalm 27:10",
+     "zdanie": "You can leave your parents’ home and never abandon your parents.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 30
+     },
+     "tagi": [
+      "relationships",
+      "parents",
+      "old age",
+      "caregiving",
+      "commandment",
+      "marriage"
+     ]
+    },
+    {
+     "id": "R-08",
+     "tytul": "Friendship",
+     "opis": "Friendship as a covenant. From Jonathan and David to Jesus, who calls His disciples friends.",
+     "teksty": "1 Samuel 18:1-4; 1 Samuel 20:12-17, 41-42; Proverbs 17:17; 27:5-6, 9, 17; Ecclesiastes 4:9-12; John 15:12-16; 1 Samuel 23:15-18; 2 Samuel 9:1, 3, 6-7; Job 6:14-17; Luke 5:18-20; Exodus 33:11; James 2:23; Genesis 44:30; 1 Samuel 20:30-34; Matthew 26:48-50",
+     "zdanie": "Friendship begins with a robe given away, and it proves itself in the wilderness.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "relationships",
+      "friendship",
+      "faithfulness",
+      "covenant",
+      "loneliness",
+      "truth"
+     ]
+    },
+    {
+     "id": "R-09",
+     "tytul": "Boundaries",
+     "opis": "Jesus walked away from crowds who needed Him. Love is not the same thing as being available.",
+     "teksty": "Mark 1:32-38; Nehemiah 6:1-4; Galatians 6:1-5; Matthew 5:33-37; Luke 10:38-42; Luke 5:15-16; John 6:14-15; Nehemiah 6:5-9; Exodus 18:13-18, 21-24; John 11:20-22, 27; John 12:1-2; Matthew 11:30; Matthew 5:38-42; Luke 4:28-30; John 10:17-18",
+     "zdanie": "Jesus could say “no” to people because He had first said “yes” to the Father.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 31
+     },
+     "tagi": [
+      "relationships",
+      "boundaries",
+      "saying no",
+      "service",
+      "burnout",
+      "calling"
+     ]
+    },
+    {
+     "id": "R-10",
+     "tytul": "A Difficult Person",
+     "opis": "How not to become like a difficult person when you’re around one. David, Saul, and a knife in a cave.",
+     "teksty": "1 Samuel 24:3-7; 1 Samuel 24:8-12, 15; 1 Samuel 24:16-19, 22; 1 Samuel 25:2-3, 10-13, 32-33; Luke 6:27-36; 1 Samuel 18:10-11; 19:10; Psalm 57:1-3; 1 Samuel 26:21-25; 27:1; 1 Samuel 25:14-17; Proverbs 26:4-5; Proverbs 25:21-22; Romans 12:14-16; 1 Peter 2:21-23; Matthew 5:43; Leviticus 19:17-18; John 18:19-23; Luke 4:28-30",
+     "zdanie": "A difficult person can take a lot from me. They don’t get to decide who I will be around them.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 31,
+      "p3": 35
+     },
+     "tagi": [
+      "relationships",
+      "enemy",
+      "revenge",
+      "boundaries",
+      "David",
+      "loving your enemies"
+     ]
+    },
+    {
+     "id": "R-11",
+     "tytul": "Single, but Not Alone",
+     "opis": "The family Jesus creates, and a place at the table for those who live on their own.",
+     "teksty": "Psalm 68:5-6; Isaiah 56:3-5; Mark 3:20-21, 31-35; Mark 10:28-31; 1 Corinthians 7:7-8, 32-35; Acts 2:42-47; Luke 2:36-38; John 19:25-27; 1 Timothy 5:1-2; Romans 16:1-2, 13; Matthew 19:10-12; 1 Corinthians 7:25-28; Acts 6:1; Acts 9:36-39; James 1:27; Psalm 68:6; Genesis 2:18; 1 Corinthians 7:8",
+     "zdanie": "God didn’t promise everyone a marriage. He promised everyone a home, and we are the keys to that home.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 30,
+      "p3": 34
+     },
+     "tagi": [
+      "relationships",
+      "church",
+      "family",
+      "single people",
+      "widows",
+      "community",
+      "hospitality"
+     ]
+    },
+    {
+     "id": "R-12",
+     "tytul": "Different from Me",
+     "opis": "What to do with a brother or sister who thinks and lives differently from me on a secondary matter.",
+     "teksty": "Luke 6:13-16; Matthew 9:9; Romans 14:1-6; Romans 14:7-13; 1 Corinthians 12:14-22, 25-26; Romans 15:1-3, 5-7; John 17:20-21; Luke 9:49-50; Romans 14:14-21; Galatians 3:26-28; Ephesians 2:14-16; Ephesians 4:1-6; John 17:22-23; Romans 15:7; Galatians 2:11-14; Galatians 1:8",
+     "zdanie": "God accepted my brother before He asked my opinion.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 29,
+      "p3": 34
+     },
+     "tagi": [
+      "relationships",
+      "church",
+      "unity",
+      "differences",
+      "conscience",
+      "judging"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "P",
+   "tytul": "Questions People Ask",
+   "opis": "Twelve questions seekers bring with them: suffering, death, trusting the Bible, the church.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "P-01",
+     "tytul": "Why Suffering?",
+     "opis": "The Bible refuses a simple math of guilt and punishment. What does it give the one who suffers instead of a formula?",
+     "teksty": "Job 1:6-12, 20-22; Job 2:11-13; 4:7-8; 42:7; Job 38:1-7; 42:5; John 9:1-7; Luke 13:1-5; Romans 8:18-23, 26-28; Job 1:16; 2:3; Job 19:25-27; John 9:24-25; Luke 13:10-17; 2 Corinthians 1:3-5; Hebrews 4:15-16; Job 1:9; 2:3; John 9:3-4; Romans 8:28; Genesis 50:20; Romans 8:35-39",
+     "zdanie": "The Bible doesn’t tell me why I suffer. It tells me it isn’t a sentence passed on me, and it tells me who is with me.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 28,
+      "p3": 35
+     },
+     "tagi": [
+      "suffering",
+      "picture of God",
+      "Job",
+      "walking with others",
+      "hope"
+     ]
+    },
+    {
+     "id": "P-02",
+     "tytul": "Does God Hear My Prayers?",
+     "opis": "David, Paul, and Jesus in Gethsemane: unanswered requests told from the inside.",
+     "teksty": "Luke 11:5-13; Psalm 13:1-6; Matthew 26:36-44; 2 Corinthians 12:7-10; Luke 18:1-8; Psalm 88:1-3, 13-14, 18; Hebrews 5:7-8; Daniel 10:2-3, 12-14; Romans 8:26-27; Luke 11:8; Mark 11:22-24; John 15:7; 1 John 5:14-15; James 4:2-3; Matthew 6:7-8",
+     "zdanie": "God hears. His “I hear you” doesn’t always mean “I’ll do what you ask,” but it never means “I don’t care about you.”",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 34
+     },
+     "tagi": [
+      "prayer",
+      "God’s silence",
+      "trust",
+      "Gethsemane",
+      "lament"
+     ]
+    },
+    {
+     "id": "P-03",
+     "tytul": "Where Does Evil Come From If God Is Good?",
+     "opis": "How evil got into the good world of a good God. A story with a culprit and an ending.",
+     "teksty": "Genesis 2:16-17; 3:1-6; Genesis 3:7-13; Matthew 13:24-30; Revelation 12:7-12; 1 John 4:8-10; Revelation 21:3-5; Deuteronomy 30:19-20; Genesis 3:15; Matthew 13:36-39; Ezekiel 28:12-17; John 12:31-32; 1 John 3:8; Hebrews 2:14-15; Genesis 3:1-5; Isaiah 45:5-7; James 1:13-15; Isaiah 14:12-14; 2 Peter 3:9",
+     "zdanie": "Evil began with a lie about what God is like, and it will end when everyone sees what He is really like.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 31,
+      "p3": 37
+     },
+     "tagi": [
+      "evil",
+      "freedom",
+      "picture of God",
+      "Satan",
+      "hope",
+      "love"
+     ]
+    },
+    {
+     "id": "P-04",
+     "tytul": "What Happens After Death?",
+     "opis": "The Bible speaks plainly about death: a person sleeps, and God will wake them. A hope built on the resurrection.",
+     "teksty": "Ecclesiastes 9:5-6, 10; Psalm 146:3-4; Genesis 2:7; Genesis 3:19; John 11:11-14; John 5:28-29; 1 Corinthians 15:16-23; 1 Corinthians 15:51-55; 1 Timothy 6:15-16; Psalm 115:17; Psalm 6:5; Acts 2:29, 34; Job 14:10-15; 1 Thessalonians 4:13-18; Isaiah 8:19-20; Ecclesiastes 12:7; Luke 23:42-43; John 20:17; Philippians 1:21-24; 2 Timothy 4:6-8; 2 Corinthians 5:1-8; Luke 16:14, 22-31",
+     "zdanie": "The dead are asleep, and Jesus knows them by name. Our hope is not that death is gentle, but that He will interrupt it.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 35
+     },
+     "tagi": [
+      "death",
+      "resurrection",
+      "hope",
+      "sleep of death",
+      "state of the dead",
+      "grief"
+     ]
+    },
+    {
+     "id": "P-05",
+     "tytul": "Can the Bible Be Trusted?",
+     "opis": "We ask the authors themselves how they know what they write about, and why they write.",
+     "teksty": "Luke 1:1-4; 2 Peter 1:16-18; 1 John 1:1-3; John 20:30-31; John 21:24-25; 2 Timothy 3:14-17; 2 Peter 1:19-21; Acts 17:10-12; John 19:35; Acts 1:21-22; Acts 26:24-26; John 5:39-40; Luke 24:25-27, 44-45; Hebrews 1:1-2; Matthew 8:28; Mark 5:1-2; Mark 16:8; 2 Peter 3:15-16",
+     "zdanie": "The Bible doesn’t ask to be believed blindly. It says how it knows, it says what it is for, and it invites us to check it every day.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 23,
+      "p3": 28
+     },
+     "tagi": [
+      "Bible",
+      "trust",
+      "witnesses",
+      "inspiration",
+      "doubts",
+      "reading"
+     ]
+    },
+    {
+     "id": "P-06",
+     "tytul": "Did Jesus Really Rise from the Dead?",
+     "opis": "All of Christianity stands on this event. What do we actually have: witnesses, an empty tomb, Thomas.",
+     "teksty": "1 Corinthians 15:1-8; Luke 24:1-12; Matthew 28:11-15; Luke 24:36-43; John 20:24-29; 1 Corinthians 15:12-19; Mark 16:1-8; Matthew 27:62-66; John 20:1-10; Matthew 28:16-17; 1 Peter 1:8-9; Acts 2:29-32; Acts 10:39-41",
+     "zdanie": "The disciples were not gullible, and no one asked them to be. Jesus came to them through locked doors, and He came a second time, for the one who couldn’t believe yet.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 29,
+      "p3": 34
+     },
+     "tagi": [
+      "resurrection",
+      "witnesses",
+      "doubts",
+      "Thomas",
+      "empty tomb",
+      "hope"
+     ]
+    },
+    {
+     "id": "P-07",
+     "tytul": "What Is God Really Like?",
+     "opis": "The picture of God we grew up with, set beside the God Jesus shows us.",
+     "teksty": "Exodus 33:18-23; 34:5-7; Numbers 14:17-20; Nehemiah 9:16-17; John 1:14, 18; John 14:8-9; Luke 15:1-7; John 16:26-27; Romans 5:6-8; Joel 2:12-13; Hebrews 1:1-3; Luke 9:51-56; Ezekiel 33:11; Exodus 34:6-7; John 1:17; Ezekiel 18:1-4, 20; Nahum 1:2-3, 7",
+     "zdanie": "If you want to know what God is like, look at Jesus. Anything that doesn’t fit Him, you can safely question.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 32
+     },
+     "tagi": [
+      "picture of God",
+      "God’s character",
+      "Father",
+      "Jesus",
+      "grace",
+      "fear"
+     ]
+    },
+    {
+     "id": "P-08",
+     "tytul": "Will God Punish Me? Judgment and Hell",
+     "opis": "Judgment as good news for the wronged, and what the Bible really says about hell.",
+     "teksty": "Psalm 96:10-13; Psalm 9:7-10; John 3:16-21; John 5:24; Malachi 4:1-3; Matthew 10:28; Romans 6:23; Ezekiel 18:23; 1 Timothy 2:3-6; Revelation 20:11-15; 21:1-4; Genesis 18:25; Daniel 7:21-22; Romans 8:31-34; Psalm 37:9-11, 20; Obadiah 16; Jude 7; 2 Peter 2:6; Matthew 25:41, 46; Hebrews 9:12; 2 Thessalonians 1:8-9; Revelation 14:9-11; 20:9-10; Isaiah 34:8-10; Mark 9:43-48; Isaiah 66:22-24",
+     "zdanie": "Judgment exists so that evil will end, not so that it will last forever. Whoever has trusted the Judge has a defender in Him.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 31
+     },
+     "tagi": [
+      "judgment",
+      "hell",
+      "punishment",
+      "justice",
+      "fear",
+      "picture of God",
+      "hope"
+     ]
+    },
+    {
+     "id": "P-09",
+     "tytul": "Is Jesus the Only Way?",
+     "opis": "There is no other Savior, and this one Savior works more widely than our knowledge reaches.",
+     "teksty": "John 14:1-7; Acts 4:5-12; Acts 10:1-6, 34-36; Romans 2:14-16; Acts 17:22-31; Luke 13:22-30; Acts 10:42-43; 11:13-14; John 1:9; John 10:14-16; Acts 14:15-17; Matthew 8:10-11; Revelation 7:9-10; Acts 4:9, 12; Acts 17:22; Hebrews 11:6; Romans 10:12-15",
+     "zdanie": "There is one way, and that way is Jesus. How far His hand reaches, none of us knows, and thank God for that.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "Jesus",
+      "salvation",
+      "other religions",
+      "mission",
+      "tolerance",
+      "humility"
+     ]
+    },
+    {
+     "id": "P-10",
+     "tytul": "Why Do I Need the Church?",
+     "opis": "For those who are fine with “God yes, church no,” and for those who left it wounded.",
+     "teksty": "Hebrews 10:19-25; Ephesians 4:11-16; Matthew 18:5-6, 10, 12-14, 19-20; Revelation 2:1-5; 3:14-20; John 13:34-35; 1 John 4:19-21; Hebrews 3:12-13; Romans 12:4-5; Ezekiel 34:1-6, 11-16; 1 Corinthians 1:2; 11:17-22; Luke 4:16, 28-30; Hebrews 3:1; 3 John 9-10; Acts 8:36-39",
+     "zdanie": "Jesus knows the flaws of His church better than you do, and He still walks among the lampstands.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 30
+     },
+     "tagi": [
+      "church",
+      "community",
+      "hurt",
+      "congregation",
+      "love",
+      "faith alone"
+     ]
+    },
+    {
+     "id": "P-11",
+     "tytul": "Faith and Doubt",
+     "opis": "“I do believe; help my unbelief!” Jesus sends away no one who doubts.",
+     "teksty": "Mark 9:17-27; Matthew 11:2-11; Matthew 14:25-33; Matthew 28:16-20; Jude 20-23; Matthew 12:20; Genesis 18:10-15; Isaiah 35:4-6; 61:1; Psalm 77:7-12; Luke 24:36-43; John 20:24-27; Matthew 14:31; 28:17; James 1:5-8; Genesis 15:5-8; Luke 1:18-20, 34-35",
+     "zdanie": "A doubt brought to Jesus is already a prayer.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 20,
+      "p2": 29,
+      "p3": 33
+     },
+     "tagi": [
+      "doubt",
+      "faith",
+      "unbelief",
+      "honesty",
+      "John the Baptist",
+      "Peter"
+     ]
+    },
+    {
+     "id": "P-12",
+     "tytul": "Faith and Science: Do I Have to Choose?",
+     "opis": "Does the Bible make you choose between faith and science? Two books by one Author.",
+     "teksty": "Psalm 19:1-10; Romans 1:19-20; Acts 14:15-17; Genesis 1:1, 26-31; Job 28:1-4, 9-13, 23-28; Hebrews 11:1-3; Proverbs 25:2; 1 Corinthians 13:9, 12; Genesis 8:22; Jeremiah 33:25-26; Genesis 1:14-18; Genesis 2:19-20; Job 38:31-33; Psalm 111:2; Psalm 104:13-15, 19-24; Genesis 1:1-5; Job 9:5; Mark 4:39-41",
+     "zdanie": "The One who gave Scripture also made the world. I don’t have to defend one of His books against the other.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "science",
+      "creation",
+      "reason",
+      "nature",
+      "wisdom",
+      "humility"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "K",
+   "tytul": "Crises and Turning Points",
+   "opis": "Eight meetings for people whose world has fallen apart: grief, illness, divorce, starting over.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "K-01",
+     "tytul": "Grief",
+     "opis": "The Bible gives grief room and time. Jesus weeps at a tomb He is about to open.",
+     "teksty": "John 11:17-27; John 11:33-44; Genesis 23:1-4; Genesis 50:1-3, 10; Acts 8:2; 2 Samuel 12:16-23; 1 Thessalonians 4:13-18; 1 Corinthians 15:26; John 11:1-6, 11-15; Ecclesiastes 3:1-4; Proverbs 25:20; Romans 12:15; 1 Corinthians 15:51-55; Job 1:20-21",
+     "zdanie": "Faith doesn’t shorten grief. It gives it a horizon.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 25,
+      "p3": 29
+     },
+     "tagi": [
+      "crisis",
+      "grief",
+      "death",
+      "hope",
+      "resurrection",
+      "accompanying others"
+     ]
+    },
+    {
+     "id": "K-02",
+     "tytul": "Illness",
+     "opis": "The healed and the unhealed in one and the same New Testament. God is close to the sick person either way.",
+     "teksty": "Mark 5:24-34; John 5:1-9; 2 Corinthians 12:7-10; 2 Timothy 4:20; 1 Timothy 5:23; John 9:1-3; James 5:13-16; Psalm 38:9-11; Philippians 2:25-27; 2 Kings 20:1-7; John 5:4; Matthew 8:16-17",
+     "zdanie": "God doesn’t take illness away from everyone, but He leaves no one alone in it. Neither should we.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 25,
+      "p3": 28
+     },
+     "tagi": [
+      "crisis",
+      "illness",
+      "healing",
+      "prayer",
+      "weakness",
+      "accompanying others"
+     ]
+    },
+    {
+     "id": "K-03",
+     "tytul": "Losing Your Job and Your Money",
+     "opis": "Losing a job takes more than money. The God who gives for today: ravens, a handful of flour, manna.",
+     "teksty": "1 Kings 17:1-9; 1 Kings 17:10-16; Matthew 6:25-34; Philippians 4:10-13; Luke 12:15; Habakkuk 3:17-19; Genesis 2:15; Genesis 3:17-19; Exodus 16:16-20; Proverbs 30:7-9; Philippians 4:14-19; 2 Corinthians 11:27; Hebrews 11:37-38; Luke 4:25-26",
+     "zdanie": "God rarely fills the pantry. More often, He makes sure that in the morning there’s a handful of flour in the jar again.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 27,
+      "p3": 30
+     },
+     "tagi": [
+      "crisis",
+      "work",
+      "money",
+      "worry",
+      "trust",
+      "identity"
+     ]
+    },
+    {
+     "id": "K-04",
+     "tytul": "When a Marriage Falls Apart",
+     "opis": "Jesus speaks of marriage in the highest terms, and He sits down at a well with a woman who has been married five times.",
+     "teksty": "John 4:5-7, 9-10, 13-19; Matthew 19:3-9; Malachi 2:13-16; Isaiah 54:4-8; Psalm 147:2-3; John 4:28-30, 39-42; Genesis 2:18, 21-24; Deuteronomy 24:1-4; Hosea 2:14-15, 19-20; Jeremiah 3:8; Psalm 34:18; Mark 10:10-12; 1 Corinthians 7:10-16; Malachi 2:10",
+     "zdanie": "God hasn’t changed His mind about marriage. He hasn’t changed His mind about you either.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 23,
+      "p3": 27
+     },
+     "tagi": [
+      "crisis",
+      "divorce",
+      "marriage",
+      "abandonment",
+      "grace",
+      "shame"
+     ]
+    },
+    {
+     "id": "K-05",
+     "tytul": "When the Child Doesn’t Come",
+     "opis": "For those who wanted to become parents and didn’t. What the Bible doesn’t promise, and what it does.",
+     "teksty": "1 Samuel 1:2-8; 1 Samuel 1:9-18; 1 Samuel 1:19-20; Luke 1:5-7; Isaiah 54:1; Isaiah 56:3-5; Luke 11:27-28; Genesis 30:1-2; Genesis 25:20-21, 26; 1 Samuel 1:24-28; Acts 8:27-28, 36-39; Deuteronomy 23:1; Genesis 1:28; Psalm 127:3-5; Psalm 113:9",
+     "zdanie": "God doesn’t measure your life in children. He gives you a name nothing can erase.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "crisis",
+      "childlessness",
+      "infertility",
+      "waiting",
+      "prayer",
+      "identity"
+     ]
+    },
+    {
+     "id": "K-06",
+     "tytul": "A Crisis of Faith",
+     "opis": "When someone who believed can no longer pray. The Bible’s most important people went through this.",
+     "teksty": "Psalm 77:1-9; 1 Kings 19:9-14, 18; Lamentations 3:17-26; John 6:60-69; Psalm 77:10-15, 19-20; Jeremiah 20:7-9; Lamentations 3:1-8; Luke 22:31-32; Matthew 28:16-20; Matthew 14:29-31; Psalm 73:16-17",
+     "zdanie": "Faith doesn’t always see footprints. Sometimes it only remembers that the path once led through the sea.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 28
+     },
+     "tagi": [
+      "crisis",
+      "faith",
+      "doubt",
+      "hope",
+      "memory",
+      "leaving the faith"
+     ]
+    },
+    {
+     "id": "K-07",
+     "tytul": "Betrayal and Disappointment",
+     "opis": "A wound inflicted by someone close, seen from both sides: the voice of the betrayed and the road Peter walked.",
+     "teksty": "Psalm 55:12-14, 20-21; Psalm 55:4-8, 16-17, 22; Luke 22:31-34, 54-62; John 21:9, 12-13, 15-19; 2 Timothy 4:9-13, 16-18; Psalm 41:9; John 13:21-22; Matthew 26:47-50; Matthew 27:3-5; Acts 1:15-17; Ezekiel 34:2-6, 11-12, 15-16; Psalm 55:15, 23; 1 Peter 5:7; John 18:18",
+     "zdanie": "God hears the betrayed person’s complaint all the way through, and for the one who failed He lights a fire. He rushes neither of them.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 31
+     },
+     "tagi": [
+      "crisis",
+      "betrayal",
+      "trust",
+      "friendship",
+      "Church",
+      "Peter",
+      "restoration"
+     ]
+    },
+    {
+     "id": "K-08",
+     "tytul": "Starting Over",
+     "opis": "For those for whom something has ended. Naomi comes home empty-handed and doesn’t see who is walking beside her.",
+     "teksty": "Ruth 1:1-7; Ruth 1:14-22; Jeremiah 29:4-7; Jeremiah 29:8-14; Isaiah 43:16-19; Philippians 3:12-14; Ruth 1:8-13; Ruth 2:1-3, 19-20; Psalm 137:1-6; Genesis 12:1-4; Ruth 2:11-12; Psalm 92:12-15; Ruth 3:17; Deuteronomy 8:2; Isaiah 43:25",
+     "zdanie": "A new beginning rarely looks like a beginning. More often it looks like a daughter-in-law walking beside you, barley in the field, or a garden planted somewhere you didn’t want to be.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 27,
+      "p3": 31
+     },
+     "tagi": [
+      "crisis",
+      "new beginning",
+      "emigration",
+      "old age",
+      "loss",
+      "hope",
+      "Ruth",
+      "exile"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "S",
+   "tytul": "The Sabbath as a Gift",
+   "opis": "Five meetings from exhaustion to the rest God built into the week.",
+   "tryb": "tematyczny",
+   "items": [
+    {
+     "id": "S-01",
+     "tytul": "Weary",
+     "opis": "Pharaoh gives no break. God Himself rests, and He invites the weary to rest.",
+     "teksty": "Exodus 5:1-2, 4-9; Psalm 127:1-2; Mark 6:30-34; Matthew 11:28-30; Exodus 31:16-17; Exodus 1:11-14; Ecclesiastes 2:22-23; 4:6-8; Exodus 33:12-14; Isaiah 30:15; Exodus 5:5; Matthew 11:28-29; 12:1; Exodus 23:12; Exodus 31:17",
+     "zdanie": "Pharaoh counts bricks. God rests first and invites us to Himself.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "Sabbath",
+      "rest",
+      "weariness",
+      "work",
+      "freedom"
+     ]
+    },
+    {
+     "id": "S-02",
+     "tytul": "The Day That Was There in the Beginning",
+     "opis": "Humanity’s first full day was a day of rest after work that Someone else had done.",
+     "teksty": "Genesis 1:31; 2:1-3; Exodus 16:22-30; Exodus 20:8-11; Mark 2:27; Isaiah 56:3-7; Exodus 16:4-5; Psalm 92:4-5; Isaiah 66:22-23; Genesis 2:2-3; Exodus 16:29; Nehemiah 9:13-14; Exodus 31:12-13; Genesis 26:5",
+     "zdanie": "Humanity’s first full day was a day of rest. God begins with a gift, not a quota.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 80,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 16,
+      "p2": 22,
+      "p3": 26
+     },
+     "tagi": [
+      "Sabbath",
+      "creation",
+      "grace",
+      "rest",
+      "manna"
+     ]
+    },
+    {
+     "id": "S-03",
+     "tytul": "A Day for Free People",
+     "opis": "The second reason for the Sabbath: you were a slave. A day for those who can’t give themselves a break.",
+     "teksty": "Deuteronomy 5:12-15; Exodus 23:9-12; Leviticus 25:1-7; Amos 8:4-6; Isaiah 58:3, 6-10; Deuteronomy 15:12-15; Leviticus 25:8-10, 23; 2 Chronicles 36:20-21; Deuteronomy 5:13-15; Exodus 20:11; Exodus 21:2; Philemon 15-16",
+     "zdanie": "A free person celebrates their freedom by letting others catch their breath.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 24,
+      "p3": 29
+     },
+     "tagi": [
+      "Sabbath",
+      "freedom",
+      "justice",
+      "work",
+      "foreigner",
+      "creation"
+     ]
+    },
+    {
+     "id": "S-04",
+     "tytul": "Jesus and the Sabbath",
+     "opis": "Jesus neither abolished the Sabbath nor brushed it aside. He chose that day to set people free.",
+     "teksty": "Luke 4:16-21; Mark 2:23-28; Luke 13:10-17; John 5:1-3, 5-11, 16-17; Acts 17:2; Mark 3:1-6; Matthew 12:5-8; Luke 14:1-6; John 9:1-7, 13-16; John 7:21-24; Mark 2:27-28; John 5:18; John 10:35",
+     "zdanie": "Jesus didn’t take the Sabbath away from people. He took away what was taking the Sabbath away from them.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 29,
+      "p3": 33
+     },
+     "tagi": [
+      "Sabbath",
+      "Jesus",
+      "healing",
+      "freedom",
+      "law and grace"
+     ]
+    },
+    {
+     "id": "S-05",
+     "tytul": "A Delight, Not a Burden",
+     "opis": "How to live the day of rest so that it doesn’t turn into a list of prohibitions.",
+     "teksty": "Isaiah 58:13-14; Psalm 92:1-5, 12-15; Luke 23:54-56; 24:1; Matthew 23:1-4; Colossians 2:20-23; Hebrews 4:1-4, 9-11; Isaiah 56:1-7; Mark 1:21-22, 29-35; Nehemiah 13:15-19; Colossians 2:16-17; Romans 14:1, 4-6; Hebrews 4:9-10",
+     "zdanie": "You can’t work off the Sabbath like a chore. You can only receive it.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 29
+     },
+     "tagi": [
+      "Sabbath",
+      "rest",
+      "grace",
+      "legalism",
+      "practice"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "PJ",
+   "tytul": "Parables of Jesus",
+   "opis": "Each parable is a complete meeting. You can start anywhere.",
+   "tryb": "ksiegi-hybrydowy",
+   "items": [
+    {
+     "id": "PJ-01",
+     "tytul": "The Sower",
+     "opis": "The same sower, the same seed, four ways of listening. And a God who sows even where no one else would.",
+     "teksty": "Mark 4:1-20; Mark 4:26-29; Psalm 126:5-6; Isaiah 55:10-11; Mark 4:33-34; Matthew 13:16-17; Luke 8:12-13; Jeremiah 4:3; Hosea 10:12; Luke 8:14-15; Genesis 26:12; Ezekiel 36:26-27; Deuteronomy 6:4-5; Matthew 13:1, 3; Isaiah 6:9-10; Mark 4:22",
+     "zdanie": "The sower doesn’t write off any part of the field in advance. My part is not to block the way in.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 20,
+      "p2": 32,
+      "p3": 37
+     },
+     "tagi": [
+      "parables",
+      "listening",
+      "the Word",
+      "heart",
+      "kingdom of God"
+     ]
+    },
+    {
+     "id": "PJ-02",
+     "tytul": "A Father and Two Sons",
+     "opis": "Two lost sons, one far away and one at home, and a father who goes out to both on the same day.",
+     "teksty": "Luke 15:1-3, 11-32; Luke 15:4-10; Deuteronomy 21:18-21; Amos 8:11-12; Genesis 33:4; Psalm 103:8-14; Luke 5:29-32; Luke 19:10; Luke 7:13; Romans 2:4; Luke 9:22",
+     "zdanie": "The father went out of the house twice: to the son coming back from far away, and to the son standing two steps from the door.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 20,
+      "p2": 32,
+      "p3": 38
+     },
+     "tagi": [
+      "parables",
+      "picture of God",
+      "grace",
+      "coming home",
+      "older brother"
+     ]
+    },
+    {
+     "id": "PJ-03",
+     "tytul": "The Good Samaritan",
+     "opis": "An expert asks whom he is required to love, and Jesus turns the question around: to whom have you become a neighbor?",
+     "teksty": "Luke 10:25-37; Leviticus 19:17-18, 33-34; Hosea 6:6; 2 Chronicles 28:14-15; Luke 9:51-56; Micah 6:8; Luke 15:20; John 8:48",
+     "zdanie": "You can’t define a neighbor. You can only become one.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "parables",
+      "neighbor",
+      "mercy",
+      "limits of love",
+      "the stranger"
+     ]
+    },
+    {
+     "id": "PJ-04",
+     "tytul": "The Pharisee and the Tax Collector",
+     "opis": "Two men pray in the same temple, and the one who came empty-handed goes home with a gift.",
+     "teksty": "Luke 18:9-14; Luke 18:15-17; Luke 18:1-8; Philippians 3:4-9; Psalm 51:1-4, 16-17; Luke 23:48; Luke 22:33-34, 61-62; Luke 18:18-23; Luke 18:38-43; Romans 3:23-25; Luke 19:5-10",
+     "zdanie": "Two men told God who they were. The one who came empty-handed went home with a gift.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "parables",
+      "prayer",
+      "justification",
+      "humility",
+      "contempt",
+      "grace"
+     ]
+    },
+    {
+     "id": "PJ-05",
+     "tytul": "The Workers in the Vineyard",
+     "opis": "Everyone gets the same pay, and the first ones feel cheated: why does grace shown to someone else hurt so much?",
+     "teksty": "Matthew 19:27-30; Matthew 20:1-16; Matthew 20:20-28; Matthew 19:16-22; Leviticus 19:13; Deuteronomy 24:14-15; Luke 23:39-43; Luke 17:7-10; Matthew 20:17-19; Matthew 27:37-38; Romans 4:4-5; 1 Corinthians 3:8; Deuteronomy 15:9; Matthew 6:22-23; Matthew 22:12; Matthew 26:50; Romans 6:23",
+     "zdanie": "God never gives anyone less than He promised. What offends us is that He gives others just as much.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 34
+     },
+     "tagi": [
+      "parables",
+      "grace",
+      "envy",
+      "reward",
+      "justice",
+      "service"
+     ]
+    },
+    {
+     "id": "PJ-06",
+     "tytul": "The Treasure, the Pearl, the Mustard Seed, and the Leaven",
+     "opis": "Four short pictures of a kingdom that starts small, works out of sight, and is worth everything.",
+     "teksty": "Matthew 13:31-32; Matthew 13:33; Matthew 13:34-35; Matthew 13:44-46; Matthew 13:51-52; Ezekiel 17:22-24; Zechariah 4:6, 10; Genesis 18:6; Psalm 78:2; Isaiah 53:2; Isaiah 65:1; Isaiah 55:1-2; Philippians 3:7-8; Mark 4:30-32; 1 Corinthians 5:6-8; Luke 12:1; Leviticus 23:17; Exodus 19:5; 1 Peter 1:18-19",
+     "zdanie": "The kingdom starts small and works out of sight. Whoever has seen what it is worth doesn’t count the cost.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 33
+     },
+     "tagi": [
+      "parables",
+      "kingdom of God",
+      "small beginnings",
+      "joy",
+      "hiddenness"
+     ]
+    },
+    {
+     "id": "PJ-07",
+     "tytul": "The Wheat and the Weeds",
+     "opis": "Where evil in God’s field comes from, why God doesn’t pull it up right away, and whose hands will do it in the end.",
+     "teksty": "Matthew 13:24-26; Matthew 13:27-28; Matthew 13:29-30; Matthew 13:36-39; Matthew 13:40-43; Isaiah 5:3-4; Luke 13:16; Luke 9:51-56; John 13:26-30; 1 Corinthians 4:5; Matthew 13:47-50; Ezekiel 33:11; Matthew 18:15-17; 1 Corinthians 5:12-13; Malachi 4:1; Daniel 12:3; Revelation 6:9-10",
+     "zdanie": "The weeds are not from God, and they won’t stay forever. Until the harvest, God protects the wheat, even from our zeal.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 33
+     },
+     "tagi": [
+      "parables",
+      "evil",
+      "God’s patience",
+      "judging others",
+      "the church",
+      "judgment"
+     ]
+    },
+    {
+     "id": "PJ-08",
+     "tytul": "The Rich Fool",
+     "opis": "A man who talked only to himself, and the question of whom I am really storing up what I have for.",
+     "teksty": "Luke 12:13-15; Luke 12:16-17; Luke 12:18-19; Luke 12:20-21; Luke 12:22-24, 32-34; Luke 12:1; Exodus 2:14; Psalm 133:1; James 4:13-15; Psalm 49:16-17; 1 Timothy 6:17-19; 2 Corinthians 8:9; Psalm 14:1; Genesis 41:33-36, 47-49; Proverbs 6:6-8; Proverbs 11:24-26",
+     "zdanie": "A good harvest is a package with an address on it. The folly isn’t in having; it’s in planning as if there were no one but me.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 33
+     },
+     "tagi": [
+      "parables",
+      "money",
+      "greed",
+      "loneliness",
+      "death",
+      "trust"
+     ]
+    },
+    {
+     "id": "PJ-09",
+     "tytul": "The Great Banquet",
+     "opis": "About God’s table, which is already set today, and the good things we give as excuses for staying away.",
+     "teksty": "Luke 14:1, 7-24; Luke 14:2-6; Proverbs 25:6-7; Isaiah 25:6-9; Deuteronomy 20:5-7; 24:5; Matthew 22:1-10; Luke 24:28-29; Matthew 22:11-14; Revelation 19:7-8",
+     "zdanie": "What keeps people from God’s table is rarely some great evil. More often it is a good thing that just can’t wait today.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "parables",
+      "invitation",
+      "grace",
+      "excuses",
+      "hospitality",
+      "kingdom of God"
+     ]
+    },
+    {
+     "id": "PJ-10",
+     "tytul": "The Ten Virgins",
+     "opis": "About a wait that drags on, and about the readiness that lets you sleep in peace.",
+     "teksty": "Matthew 24:36, 42-51; Matthew 25:1-13; Luke 12:35-38; 1 Thessalonians 5:1-11; Matthew 7:21-23; 2 Peter 3:3-4, 8-9; Matthew 7:24-27; Zechariah 4:1-6; Psalm 119:105; Matthew 5:14-16; Revelation 3:20; Isaiah 55:6-7; 2 Corinthians 6:2",
+     "zdanie": "Being ready doesn’t mean never falling asleep. It means having with you what lets you sleep in peace, and knowing the One you are waiting for.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 31
+     },
+     "tagi": [
+      "parables",
+      "Second Coming",
+      "waiting",
+      "readiness",
+      "hope"
+     ]
+    },
+    {
+     "id": "PJ-11",
+     "tytul": "The Talents",
+     "opis": "About a servant who buried a fortune because he thought badly of his master, and about what that master is really like.",
+     "teksty": "Matthew 25:14-30; Matthew 24:3; Genesis 3:10; Romans 8:15; Luke 19:11-13, 15-24; Psalm 18:25-26; Luke 12:48; Matthew 13:12; Ephesians 2:8-10",
+     "zdanie": "What you think of the Master decides what you will do with what He has given you.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "parables",
+      "picture of God",
+      "fear",
+      "faithfulness",
+      "gifts",
+      "Jesus’ return"
+     ]
+    },
+    {
+     "id": "PJ-12",
+     "tytul": "The Sheep and the Goats",
+     "opis": "About a judgment where everyone is surprised, and about the King we pass by without knowing it.",
+     "teksty": "Matthew 25:31-46; Matthew 26:1-2; Daniel 7:13-14; Ezekiel 34:17-22; Proverbs 19:17; Acts 9:3-5; Matthew 6:3-4; Matthew 7:21-23; James 2:14-17; John 19:28; Matthew 27:35; Matthew 10:40-42; Matthew 12:48-50; Ephesians 2:8-10; Jude 7; 2 Thessalonians 1:9",
+     "zdanie": "At the judgment, what no one ever wrote down will come to light, and the Judge will be the One who was Himself hungry, naked, and in prison.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 34
+     },
+     "tagi": [
+      "parables",
+      "judgment",
+      "mercy",
+      "the poor",
+      "Jesus’ return",
+      "picture of God"
+     ]
+    }
+   ]
+  },
+  {
+   "prefiks": "D",
+   "tytul": "The Book of Daniel",
+   "opis": "Twelve meetings, chapter by chapter: faithfulness in exile and the God who guides history.",
+   "tryb": "ksiegi",
+   "items": [
+    {
+     "id": "D-01",
+     "tytul": "Daniel 1. A New Name, the Same God",
+     "opis": "A new name, a new language, the same God. Where Daniel draws the line, and where he doesn’t.",
+     "teksty": "Daniel 1:1-2; 1:3-7; 1:8-10; 1:11-16; 1:17-21; Isaiah 39:5-7; Jeremiah 29:4-7; Jeremiah 25:11-12; Genesis 11:1-4; Genesis 1:29",
+     "zdanie": "Babylon can change your name. It won’t change whose you are, if you have settled that in your heart beforehand.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 25,
+      "p3": 29
+     },
+     "tagi": [
+      "Daniel",
+      "faithfulness",
+      "boundaries",
+      "work",
+      "exile",
+      "identity"
+     ]
+    },
+    {
+     "id": "D-02",
+     "tytul": "Daniel 2. The Dream of the Statue",
+     "opis": "A dream no one could tell. A God who reveals mysteries, and a kingdom without end.",
+     "teksty": "Daniel 2:1-3, 10-12; 2:13-19; 2:20-23, 27-30; 2:31-35; 2:36-45; Genesis 41:15-16; Daniel 5:25-28; 8:20-21; Matthew 13:31-32; Daniel 2:46-49; Genesis 1:28; Luke 20:17-18",
+     "zdanie": "Empires come and go, and history still ends with a stone that no human hand cut out.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 32
+     },
+     "tagi": [
+      "Daniel",
+      "prophecy",
+      "kingdom of God",
+      "prayer",
+      "history",
+      "hope"
+     ]
+    },
+    {
+     "id": "D-03",
+     "tytul": "Daniel 3. But Even If He Does Not",
+     "opis": "Three men facing a blazing furnace say, “But even if He does not.” On a faith that sets God no conditions.",
+     "teksty": "Daniel 3:1-7; 3:8-15; 3:16-18; 3:19-25; 3:26-30; Exodus 20:3-5; Isaiah 43:1-3; Hebrews 11:32-40; Daniel 3:25; Revelation 13:14-17; Acts 12:1-5",
+     "zdanie": "God never promised that I would be spared the furnace. He promised that I would not go into it alone.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 26,
+      "p3": 30
+     },
+     "tagi": [
+      "Daniel",
+      "faithfulness",
+      "coercion",
+      "suffering",
+      "trust",
+      "God’s presence"
+     ]
+    },
+    {
+     "id": "D-04",
+     "tytul": "Daniel 4. The King Who Looked Up",
+     "opis": "The most powerful man in the world tells in his own words how he lost everything, and why he calls it grace.",
+     "teksty": "Daniel 4:1-3; 4:4-8; 4:10-17; 4:19-22, 24-27; 4:28-33; 4:34-37; Ezekiel 31:3-6, 10-11; Deuteronomy 8:17-18; James 4:6; Luke 18:14; Daniel 4:16",
+     "zdanie": "Humility begins with looking up: with seeing where what I have came from.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 28
+     },
+     "tagi": [
+      "Daniel",
+      "pride",
+      "humility",
+      "power",
+      "conversion",
+      "grace"
+     ]
+    },
+    {
+     "id": "D-05",
+     "tytul": "Daniel 5. The Writing on the Wall",
+     "opis": "Babylon’s last feast and the writing on the wall. What people do with a story they know by heart.",
+     "teksty": "Daniel 5:1-4; 5:5-9; 5:13-17; 5:18-24; 5:25-31; Daniel 1:2; Daniel 5:10-12; Romans 1:20-21; Psalm 62:9; 1 Samuel 2:3; Isaiah 21:4-5, 9; Jeremiah 51:39, 57; Isaiah 45:1-4; Revelation 18:2-4; Daniel 4:27",
+     "zdanie": "Knowing the story about God is not yet the same as looking up. The light I have been given is waiting for an answer.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 32
+     },
+     "tagi": [
+      "Daniel",
+      "accountability",
+      "pride",
+      "holiness",
+      "judgment",
+      "memory"
+     ]
+    },
+    {
+     "id": "D-06",
+     "tytul": "Daniel 6. The Open Window",
+     "opis": "On the day prayer becomes a crime, Daniel does nothing new. Faithfulness as a habit, not a sudden burst.",
+     "teksty": "Daniel 5:31-6:5; 6:6-9; 6:10-11; 6:14-18; 6:19-23, 25-28; 1 Kings 8:48-49; Psalm 55:16-17; Acts 5:27-29; Matthew 27:65-66; 28:1-2; Matthew 6:5-6; Romans 13:1-2; Daniel 6:24; Deuteronomy 24:16; Hebrews 11:33-38",
+     "zdanie": "On the day of testing you will not become someone other than who you were yesterday at the open window.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 25,
+      "p3": 31
+     },
+     "tagi": [
+      "Daniel",
+      "prayer",
+      "faithfulness",
+      "habit",
+      "conscience",
+      "law",
+      "work"
+     ]
+    },
+    {
+     "id": "D-07",
+     "tytul": "Daniel 7. The Beasts and the Son of Man",
+     "opis": "Four beasts, a courtroom, and someone with a human face: a judgment that takes the side of the wronged.",
+     "teksty": "Daniel 7:1-8; 7:9-12; 7:13-14; 7:15-18; 7:19-28; Daniel 2:39-40, 44; Mark 14:61-64; Luke 12:32; Matthew 4:8-10; Psalm 104:1-3; Psalm 8:4-8; John 18:36",
+     "zdanie": "The beasts make their noise down below, but up above the thrones are already set in place, and the kingdom has been given to someone with a human face.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 19,
+      "p2": 25,
+      "p3": 30
+     },
+     "tagi": [
+      "Daniel",
+      "prophecy",
+      "judgment",
+      "Son of Man",
+      "kingdom of God",
+      "hope",
+      "power"
+     ]
+    },
+    {
+     "id": "D-08",
+     "tytul": "Daniel 8. How Long?",
+     "opis": "Someone tramples the truth and succeeds at everything. In heaven the question “How long?” is asked, and heaven answers it.",
+     "teksty": "Daniel 8:1-8; 8:9-12; 8:13-14; 8:15-22; 8:23-27; Psalm 74:3-4, 7, 9-10; Revelation 6:9-11; Leviticus 16:5, 15-16, 29-30; Daniel 2:34-35; Daniel 7:25-26; Matthew 24:15; Numbers 14:34; Ezekiel 4:6; Hebrews 8:1-2; Hebrews 9:24",
+     "zdanie": "Evil has a deadline. The question “How long?” is asked in heaven, and heaven answers it.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 24,
+      "p3": 31
+     },
+     "tagi": [
+      "Daniel",
+      "prophecy",
+      "sanctuary",
+      "judgment",
+      "patience",
+      "hope"
+     ]
+    },
+    {
+     "id": "D-09",
+     "tytul": "Daniel 9, Part 1. We Have Sinned",
+     "opis": "The prayer of a man who says “we have sinned” though he himself was not to blame, and who appeals to no merit of his own.",
+     "teksty": "Daniel 9:1-3; 9:4-6; 9:7-10; 9:11-14; 9:15-19; Jeremiah 29:10-14; Nehemiah 1:4-7; Leviticus 26:40-42; Exodus 32:11-14; 2 Chronicles 36:20-21; 1 John 1:8-9; Ezekiel 18:20",
+     "zdanie": "Prayer doesn’t rest on what we are like. It rests on what God is like.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 27,
+      "p3": 32
+     },
+     "tagi": [
+      "Daniel",
+      "prayer",
+      "confession",
+      "intercession",
+      "mercy",
+      "promise"
+     ]
+    },
+    {
+     "id": "D-10",
+     "tytul": "Daniel 9:20-27. Seventy Weeks",
+     "opis": "The answer arrives before the prayer is over, and at its center stands the Anointed One, who will be killed.",
+     "teksty": "Daniel 9:1-3, 17-19; 9:20-23; 9:24; 9:25-26; 9:27; Jeremiah 29:10; Isaiah 65:24; Daniel 8:26-27; Leviticus 25:8-10; Ezra 7:11-13, 25-26; Mark 1:14-15; Luke 3:1-2, 21-22; Acts 10:37-38; Hebrews 8:1-2; Isaiah 53:8; Matthew 26:56; Matthew 24:15-16",
+     "zdanie": "The answer went out before the prayer was over, and it had a name: the Anointed One.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 26,
+      "p3": 33
+     },
+     "tagi": [
+      "Daniel",
+      "prophecy",
+      "prayer",
+      "Messiah",
+      "cross",
+      "time"
+     ]
+    },
+    {
+     "id": "D-11",
+     "tytul": "Daniel 10-11. War Behind the Scenes",
+     "opis": "Three weeks of silence after a prayer, and an angel who tells what was going on behind the scenes all that time.",
+     "teksty": "Daniel 10:1-9; 10:10-14; 10:15-19; 10:20-21; 11:1-4; 11:31-35; Ezra 1:1-3; 4:1-5; Revelation 1:13-17; Isaiah 6:5-7; Matthew 24:15-16; Daniel 11:44-45; Daniel 9:23; Jude 9; 1 Thessalonians 4:16; Revelation 12:7-9",
+     "zdanie": "Silence after prayer doesn’t mean nothing is happening. It only means I can’t see behind the scenes.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 28,
+      "p3": 33
+     },
+     "tagi": [
+      "Daniel",
+      "prayer",
+      "angels",
+      "history",
+      "perseverance",
+      "prophecy"
+     ]
+    },
+    {
+     "id": "D-12",
+     "tytul": "Daniel 12. Go On Your Way and Rest",
+     "opis": "The last page of the book: those who sleep in the dust will awake, and the old prophet hears that he may rest.",
+     "teksty": "Daniel 11:44-45; 12:1; 12:2-3; 12:4; 12:5-10; 12:13; 1:21; Luke 10:20; Isaiah 25:8; 26:19; Acts 24:14-15; Revelation 22:10; Hebrews 11:13, 39-40; Genesis 3:19; Daniel 7:25; Daniel 12:11-12",
+     "zdanie": "I don’t have to understand the end of the world to come to my own end in peace. It’s enough to know who wakes the sleepers.",
+     "dlugosc": {
+      "p1": 60,
+      "p2": 85,
+      "p3": 100
+     },
+     "liczbaPytan": {
+      "p1": 18,
+      "p2": 25,
+      "p3": 31
+     },
+     "tagi": [
+      "Daniel",
+      "resurrection",
+      "hope",
+      "death",
+      "perseverance",
+      "the end"
+     ]
+    }
+   ]
+  }
+ ]
+}

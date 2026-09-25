@@ -1,0 +1,830 @@
+{
+ "tytul": "The Ten Virgins",
+ "id": "PJ-10",
+ "seria": "Parables of Jesus",
+ "opis": "About a wait that drags on, and about the readiness that lets you sleep in peace.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 24:36, 42-51; Matthew 25:1-13",
+  "p2": "Luke 12:35-38; 1 Thessalonians 5:1-11; Matthew 7:21-23; 2 Peter 3:3-4, 8-9",
+  "p3": "Matthew 7:24-27; Zechariah 4:1-6; Psalm 119:105; Matthew 5:14-16; Revelation 3:20; Isaiah 55:6-7; 2 Corinthians 6:2"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 31
+ },
+ "tagi": [
+  "parables",
+  "Second Coming",
+  "waiting",
+  "readiness",
+  "hope"
+ ],
+ "wersja": 1,
+ "zdanie": "Being ready doesn’t mean never falling asleep. It means having with you what lets you sleep in peace, and knowing the One you are waiting for.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about a wait that lasts longer than anyone planned. Ten young women are waiting for the same bridegroom, with the same joy and the same lamps. They all fall asleep, and no one holds it against them. One thing sets them apart: five of them reckoned with the possibility that the night might be long. The meeting should show the group two things. First, that readiness is not a state of constant alarm but something that lets you sleep in peace. Second, that this story ends in a wedding. What is coming is a bridegroom, not a disaster.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Every parable of Jesus corrects some false picture of God. This one corrects the picture of a God who comes like an inspection or a catastrophe and is just waiting to catch people unprepared. With a God like that, all you can do is stay awake and be afraid. In the parable it is a bridegroom who comes, and the words “I do not know you” are not the whim of a doorkeeper. They name the absence of a relationship that was already missing in the evening. The parable is a mirror of one truth, so don’t explain it detail by detail: not the oil, not the sellers, not the number five.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Before the parable itself, the group reads two short passages from the end of the previous chapter, because the parable begins with “At that time” and answers what Jesus has just said.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be people at the table who grew up in fear of the end of the world and were frightened with shut doors from childhood. For them this text can be a source of sleepless nights, not hope.",
+      "The topic attracts lists of the signs of the times and commentary on current events. Jesus begins by saying that no one knows the day or the hour.",
+      "Someone may be thinking right now of a husband, a wife, or a child who doesn’t believe, and hear “I do not know you” as a verdict on them.",
+      "The question “Do I have enough oil?” can turn into endless spiritual self-measurement."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t frighten people, and don’t let anyone else do it. Don’t list signs and don’t comment on the news. Don’t ask anyone whether they are ready. Don’t settle for the group what the oil is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a wait that lasted much longer than you expected: for a test result, for someone to arrive, for a decision. Say in one sentence what happened to you as it dragged on.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "No One Knows",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 24:36, 42-44",
+       "przeklad": "BSB",
+       "akapity": [
+        "No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father. … Therefore keep watch, because you do not know the day on which your Lord will come. But understand this: If the homeowner had known in which watch of the night the thief was coming, he would have kept watch and would not have let his house be broken into. For this reason, you also must be ready, because the Son of Man will come at an hour you do not expect."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples asked Jesus when this would happen. The answer is: no one knows. **According to these verses, what follows from not knowing? What does Jesus not tell us to do here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The homeowner in the picture doesn’t know the hour, and he can’t stay awake for the rest of his life. **What kind of readiness is even possible when you don’t know the date?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“At an hour you do not expect.” **What does that sentence say to anyone who is sure they know when to expect it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** These are the last days before the cross. Jesus has left the temple and is sitting with His disciples on the Mount of Olives. They have asked Him when the end will come and what the sign of His coming will be. The answer takes up two chapters, 24 and 25. Its second half says almost nothing about events. It talks about how to wait: the homeowner and the thief, the two servants, the ten virgins, the talents, the sheep and the goats. The parable of the virgins is the third of these pictures, and it begins with “At that time.”",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** In those days a wedding lasted several days. The groom went to fetch his bride from her father’s house, and then a procession brought her to his house, where the feast began. The young women with lamps were to welcome the procession and go in with it. No one knew how long the last matters at the bride’s house would take, such as haggling over the dowry, so a delay was nothing unusual. The Greek word translated “lamps” means torches rather than small household lamps: poles wrapped in rags soaked in oil, which had to be refueled every fifteen minutes or so. A supply of oil in a flask was the condition for joining the procession.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "“My Master Will Be Away a Long Time”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 24:45-51",
+       "przeklad": "BSB",
+       "akapity": [
+        "Who then is the faithful and wise servant, whom the master has put in charge of his household, to give the others their food at the proper time? Blessed is that servant whose master finds him doing so when he returns. Truly I tell you, he will put him in charge of all his possessions. But suppose that servant is wicked and says in his heart, ‘My master will be away a long time.’ And he begins to beat his fellow servants and to eat and drink with drunkards. The master of that servant will come on a day he does not expect and at an hour he does not anticipate. Then he will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What is the faithful servant doing when his master finds him?** What does that say about what keeping watch looks like on an ordinary day?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The wicked servant says in his heart, “My master will be away a long time.” **What does he conclude from that? How does the way he treats people change once his master is out of sight?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "This servant was wrong about the time. **How would you describe his mistake in one sentence?** Remember your answer, because in a moment we will see people who were wrong in the opposite direction.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Master Who Serves",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:35-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "Be dressed for service and keep your lamps burning. Then you will be like servants waiting for their master to return from the wedding banquet, so that when he comes and knocks, they can open the door for him at once. Blessed are those servants whom the master finds on watch when he returns. Truly I tell you, he will dress himself to serve and will have them recline at the table, and he himself will come and wait on them. Even if he comes in the second or third watch of the night and finds them alert, those servants will be blessed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does the master do when he returns?** None of Jesus’ listeners had ever known a master who behaved like that. What is Jesus saying through this about the One we are waiting for?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does waiting change when you are waiting for someone like this, and not for an inspection?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Ten Lamps",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "“At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom. Five of them were foolish, and five were wise. The foolish ones took their lamps but did not take along any extra oil. But the wise ones took oil in flasks along with their lamps. When the bridegroom was delayed, they all became drowsy and fell asleep."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List everything these ten young women have in common.** Then the one difference. Could someone looking on that evening have seen it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The foolish virgins took as much oil as they would need if the bridegroom came quickly. **Compare them with the wicked servant in the previous block. What mistake about time does he make, and what mistake do they make?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "They all fell asleep, the wise ones too, and the parable holds it against no one. **What does that say about the difference between keeping watch and never sleeping?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In those days a delay in the wedding procession was normal, and anyone preparing to welcome the groom took it into account. The foolish virgins are not lazy or indifferent. They came, they are waiting, and they are looking forward to the wedding. They are not unprepared, only underprepared: they misjudged how long the night would be. The wise ones can sleep in peace precisely because they have their supply with them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Wise” in Greek is `phronimoi`, meaning prudent, practically sensible. Jesus has just used the same word for the faithful servant in Matthew 24:45. “Foolish” is `mōrai`. Matthew puts this pair of words side by side in one other place, at the very end of the Sermon on the Mount:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 7:24-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock. The rain fell, the torrents raged, and the winds blew and beat against that house; yet it did not fall, because its foundation was on the rock. But everyone who hears these words of Mine and does not act on them is like a foolish man who built his house on sand. The rain fell, the torrents raged, and the winds blew and beat against that house, and it fell—and great was its collapse!”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The two houses look the same until the first storm. The ten lamps look the same until midnight. **What do both stories say about where the difference between the wise and the foolish lies, and when it comes to light?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Midnight",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:6-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "At midnight the cry rang out: ‘Here is the bridegroom! Come out to meet him!’ Then all the virgins woke up and trimmed their lamps. The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’ ‘No,’ said the wise ones, ‘or there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After the cry, they all do the same thing. **At what moment does the difference first become visible? Did midnight change something in these young women, or only reveal what had been there since evening?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The refusal of the wise sounds harsh. **Is it stinginess?** According to this scene, what can you not get from another person, even a very kind one?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Our lamps are going out,” so up to now they had been burning. **What does that say about the foolish virgins? What are they not?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In this story no one is pretending, and no one is the bridegroom’s enemy. The lamps of all ten were burning. What ran out was the reserve, something you can’t see by day and can’t get at the last minute. That is why this parable is addressed to people who are already waiting, not to those who have never heard of the wedding.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Whether We Are Awake or Asleep",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Thessalonians 5:1-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now about the times and seasons, brothers, we do not need to write to you. For you are fully aware that the Day of the Lord will come like a thief in the night. While people are saying, “Peace and security,” destruction will come upon them suddenly, like labor pains on a pregnant woman, and they will not escape. But you, brothers, are not in the darkness so that this day should overtake you like a thief. For you are all sons of the light and sons of the day; we do not belong to the night or to the darkness. So then, let us not sleep as the others do, but let us remain awake and sober. For those who sleep, sleep at night; and those who get drunk, get drunk at night. But since we belong to the day, let us be sober, putting on the breastplate of faith and love, and the helmet of our hope of salvation. For God has not appointed us to suffer wrath, but to obtain salvation through our Lord Jesus Christ. He died for us so that, whether we are awake or asleep, we may live together with Him. Therefore encourage and build one another up, just as you are already doing."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul uses the same images as Jesus: a thief, the night, sleep. **According to verses 9 and 10, what does the peace of a waiting person rest on?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“About the times and seasons, brothers, we do not need to write to you.” **What does Paul deal with instead? What in this letter is “oil in flasks” for a long night?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: What Is the Oil?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The parable doesn’t say what the oil stands for, and over the centuries people have put many things in its place. Three readings come up most often. The first sees the oil as the Holy Spirit and points to Zechariah’s vision, in which oil flows by itself from the trees to the lamps of the temple:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Zechariah 4:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep. “What do you see?” he asked. “I see a solid gold lampstand,” I replied, “with a bowl at the top and seven lamps on it, with seven spouts to the lamps. There are also two olive trees beside it, one on the right side of the bowl and the other on its left.” “What are these, my lord?” I asked the angel who was speaking with me. “Do you not know what they are?” replied the angel. “No, my lord,” I answered. So he said to me, “This is the word of the LORD to Zerubbabel: Not by might nor by power, but by My Spirit, says the LORD of Hosts."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second reading sees the oil as personal faith nourished by the Word. The third sees it as active love, because in Matthew light is good deeds seen by others:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 119:105",
+       "przeklad": "BSB",
+       "akapity": [
+        "Your word is a lamp to my feet and a light to my path."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 5:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "You are the light of the world. A city on a hill cannot be hidden. Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Every reading struggles with the advice “go to those who sell oil and buy some for yourselves,” because neither the Spirit, nor faith, nor love can be bought. That is a warning not to explain the parable detail by detail.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Looking at the parable itself, what speaks for each of the three readings?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do the three readings have in common?** Try to describe the oil not by what it is, but by what the parable says about it: how you get it, when you need it, and what can’t be done with it.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Door",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:10-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "But while they were on their way to buy it, the bridegroom arrived. Those who were ready went in with him to the wedding banquet, and the door was shut. Later the other virgins arrived and said, ‘Lord, lord, open the door for us!’ But he replied, ‘Truly I tell you, I do not know you.’ Therefore keep watch, because you do not know the day or the hour."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What were these ten young women waiting for, and where do the ones who were ready go in?** What picture does Jesus use here for His coming? What pictures could He have used but didn’t?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The bridegroom doesn’t say “You’re late.” He says “I do not know you.” **What does that sentence reveal about what readiness really was?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus ends with the words “keep watch,” and yet in this story every one of them fell asleep. **So what does it mean to keep watch?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "“I Never Knew You”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 7:21-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only he who does the will of My Father in heaven. Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?’ Then I will tell them plainly, ‘I never knew you; depart from Me, you workers of lawlessness!’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same “Lord, Lord” and the same answer. These people were very busy with God’s affairs. **What were they missing? What is the difference between doing things for Jesus and being known by Him?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Why the Night Is Long",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Peter 3:3-4, 8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Most importantly, you must understand that in the last days scoffers will come, scoffing and following their own evil desires. “Where is the promise of His coming?” they will ask. “Ever since our fathers fell asleep, everything continues as it has from the beginning of creation.” … Beloved, do not let this one thing escape your notice: With the Lord a day is like a thousand years, and a thousand years are like a day. The Lord is not slow in keeping His promise as some understand slowness, but is patient with you, not wanting anyone to perish but everyone to come to repentance."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the parable the bridegroom “was delayed,” and no one says why. **How does Peter explain the delay? Whom does each additional day serve?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does a long, drawn-out wait look different if it is not slowness but patience?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A Shut Door and a God Who Seeks",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jesus tells of a shepherd who goes after one sheep and a father who runs out onto the road. Here the door is shut and no one opens it. Some readers emphasize the seriousness of this scene: an invitation has its time, and the parable would be empty if the door were opened to everyone anyway. Others point out that this parable is a warning given in advance, to people for whom the door is still wide open, and that this is exactly why it was told. Both sides agree that the same Jesus speaks about doors quite differently elsewhere:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 3:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 55:6-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Seek the LORD while He may be found; call on Him while He is near. Let the wicked man forsake his own way and the unrighteous man his own thoughts; let him return to the LORD, that He may have compassion, and to our God, for He will freely pardon."
+       ]
+      },
+      {
+       "odnosnik": "2 Corinthians 6:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "For He says: “In the time of favor I heard you, and in the day of salvation I helped you.” Behold, now is the time of favor; now is the day of salvation!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Revelation it is Jesus who stands at a closed door and knocks. In the parable it is the virgins who knock. **In each of these scenes, whose hand is on the door handle, and at what point in time does each one take place?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Does the shut door contradict the God who seeks the lost, or does it say something about how seriously He takes the human “now”?** What do the two positions described above have in common?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The wicked servant decided he had plenty of time. The foolish virgins decided the wait would be short, so there was no point preparing for the long haul. **Which of these two mistakes are you closer to, and how can you tell?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The oil couldn’t be borrowed. **What in your life with God is your own, and what are you carrying on someone else’s supply: your parents’, your spouse’s, your church’s, your earlier years’?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **what is the first thing you feel when you think about Jesus’ return: joy, fear, weariness from waiting, or maybe nothing?** There is no wrong answer here.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The parable tells us to be ready today and at the same time to reckon with a long night. **How can you live so that you train for a career, plant trees, and plan thirty years ahead, while also being ready for tonight? Doesn’t one weaken the other?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. It is only worth noticing that the wise virgins didn’t stop waiting and didn’t stop living. They took their supply, and then they lay down to sleep.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Being ready doesn’t mean never falling asleep. It means having with you what lets you sleep in peace, and knowing the One you are waiting for.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Matthew 25:13 or 1 Thessalonians 5:9-10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Check what feeds your waiting for Jesus. **Are you waiting for an event, or for a Person?** Fear only lasts so long. Ask yourself what is left of your faith when no one is frightening you and nothing is happening.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The bridegroom says “I do not know you,” so readiness has something to do with knowing. Ask God directly: **when was the last time I was simply with You, not because I needed something or was afraid of something?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if the thought of Jesus’ return stirs mainly fear in you, don’t pretend to be joyful before God. Tell Him exactly what you are afraid of, and ask Him where your picture of the Bridegroom came from.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they have been afraid since childhood of the end of the world, of the shut door, or of “not making it in time.”** Take it seriously and don’t force comfort on them. Point to two things in the text: it is a bridegroom who comes and a wedding that begins, and that night the wise virgins slept in peace. Read 1 Thessalonians 5:9-10, even if you are leading level 1. If the person’s fear is strong and has lasted for years, talk with them after the meeting and encourage them to talk with a pastor or a psychologist. Have the number of a crisis line in your country on hand.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts listing signs of the times or commenting on current events and politics.** Interrupt calmly and go back to the first sentence of today’s text: no one knows about that day. The parable doesn’t teach us to recognize the hour. It teaches what to have with us when the hour is unknown.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about my husband, my daughter? Will they be left outside the door?”** Don’t answer for God, and don’t let the group answer. The parable is told to disciples about themselves, not about their loved ones. You can read 2 Peter 3:9: the Lord doesn’t want anyone to perish, and that is why the night is long. Leave the rest for a conversation after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“How am I supposed to know whether I have enough oil?”** This question can turn into endless self-measurement. Point out that the bridegroom doesn’t ask about the amount of oil; he speaks about knowing. Ask: “In this parable, what allowed the wise ones to fall asleep?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The wise virgins were selfish. A Christian would have shared.”** Agree that the refusal stings. Then ask whether there are things you really can’t give to someone else, however much you want to: your own decision, your own trust, your own history with God. The parable is about readiness, not about whether to share.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone mocks or says wearily, “We’ve been waiting so many years, and nothing.”** Don’t get defensive, and don’t explain church history. The text itself says that the bridegroom was delayed and that all of them grew tired and fell asleep. Being weary of waiting is not unbelief. At level 2 there is a passage from Second Peter that calls this delay patience.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Read blocks 1 and 2 aloud with one question for each. Don’t shorten blocks 3, 4, and 5, especially the question about the wedding in block 5, because without it the meeting will end at the shut door.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says they have been afraid since childhood of the end of the world, of the shut door, or of “not making it in time.”",
+     "odpowiedz": "Take it seriously and don’t force comfort on them. Point to two things in the text: it is a bridegroom who comes and a wedding that begins, and that night the wise virgins slept in peace. Read 1 Thessalonians 5:9-10, even if you are leading level 1. If the person’s fear is strong and has lasted for years, talk with them after the meeting and encourage them to talk with a pastor or a psychologist. Have the number of a crisis line in your country on hand."
+    },
+    {
+     "sytuacja": "Someone starts listing signs of the times or commenting on current events and politics.",
+     "odpowiedz": "Interrupt calmly and go back to the first sentence of today’s text: no one knows about that day. The parable doesn’t teach us to recognize the hour. It teaches what to have with us when the hour is unknown."
+    },
+    {
+     "sytuacja": "“What about my husband, my daughter? Will they be left outside the door?”",
+     "odpowiedz": "Don’t answer for God, and don’t let the group answer. The parable is told to disciples about themselves, not about their loved ones. You can read 2 Peter 3:9: the Lord doesn’t want anyone to perish, and that is why the night is long. Leave the rest for a conversation after the meeting."
+    },
+    {
+     "sytuacja": "“How am I supposed to know whether I have enough oil?”",
+     "odpowiedz": "This question can turn into endless self-measurement. Point out that the bridegroom doesn’t ask about the amount of oil; he speaks about knowing. Ask: “In this parable, what allowed the wise ones to fall asleep?”"
+    },
+    {
+     "sytuacja": "“The wise virgins were selfish. A Christian would have shared.”",
+     "odpowiedz": "Agree that the refusal stings. Then ask whether there are things you really can’t give to someone else, however much you want to: your own decision, your own trust, your own history with God. The parable is about readiness, not about whether to share."
+    },
+    {
+     "sytuacja": "Someone mocks or says wearily, “We’ve been waiting so many years, and nothing.”",
+     "odpowiedz": "Don’t get defensive, and don’t explain church history. The text itself says that the bridegroom was delayed and that all of them grew tired and fell asleep. Being weary of waiting is not unbelief. At level 2 there is a passage from Second Peter that calls this delay patience."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Read blocks 1 and 2 aloud with one question for each. Don’t shorten blocks 3, 4, and 5, especially the question about the wedding in block 5, because without it the meeting will end at the shut door."
+    }
+   ]
+  }
+ ]
+}

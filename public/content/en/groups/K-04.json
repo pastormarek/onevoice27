@@ -1,0 +1,758 @@
+{
+ "tytul": "When a Marriage Falls Apart",
+ "id": "K-04",
+ "seria": "Crises and Turning Points",
+ "opis": "Jesus speaks of marriage in the highest terms, and He sits down at a well with a woman who has been married five times.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "John 4:5-7, 9-10, 13-19; Matthew 19:3-9; Malachi 2:13-16; Isaiah 54:4-8; Psalm 147:2-3; John 4:28-30, 39-42",
+  "p2": "Genesis 2:18, 21-24; Deuteronomy 24:1-4; Hosea 2:14-15, 19-20; Jeremiah 3:8; Psalm 34:18",
+  "p3": "Mark 10:10-12; 1 Corinthians 7:10-16; Malachi 2:10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 27
+ },
+ "tagi": [
+  "crisis",
+  "divorce",
+  "marriage",
+  "abandonment",
+  "grace",
+  "shame"
+ ],
+ "wersja": 1,
+ "zdanie": "God hasn’t changed His mind about marriage. He hasn’t changed His mind about you either.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting holds two things at once, and neither may be let go. The first: Jesus speaks of marriage in the highest terms and goes back to the beginning of creation. The second: the same Jesus sits down at a well with a woman who has been married five times, asks her for water, and makes her the first messenger to Samaria. The meeting begins and ends at that well. The middle belongs to hard passages, read slowly and all the way through.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "At the table there may be people who were abandoned, people who left, people in a second marriage, and adult children of divorced parents. Each of them will hear the same sentences differently. You don’t know about all of them.",
+      "Someone may be living right now in a marriage where there is abuse. Anything said about faithfulness and perseverance they will hear as an order to stay. The first red flag at the end of the material is about this. Read it before the meeting.",
+      "The conversation easily slides into working out who was to blame in a particular divorce, or into an argument about what the church should or shouldn’t do.",
+      "Guests raised in another tradition may bring other concepts: sacrament, annulment. Treat them with respect and go back to the text."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone about their story. Don’t settle anyone’s situation at the table, past or present. Don’t give legal or therapeutic advice. Don’t let anyone leave convinced that the group told them to go back to someone who is hurting them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something that was supposed to last but ended: a friendship, a job, a place where you were happy. Say in one sentence what helped you most at the time, or what you missed most.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, keep it short, and deliberately don’t talk about marriage. No one should feel they have to talk about their own. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "At the Well at Noon",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 4:5-7, 9-10, 13-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "So He came to a town of Samaria called Sychar, near the plot of ground that Jacob had given to his son Joseph. Since Jacob’s well was there, Jesus, weary from His journey, sat down by the well. It was about the sixth hour. When a Samaritan woman came to draw water, Jesus said to her, “Give Me a drink.” … “You are a Jew,” said the woman. “How can You ask for a drink from me, a Samaritan woman?” (For Jews do not associate with Samaritans.) Jesus answered, “If you knew the gift of God and who is asking you for a drink, you would have asked Him, and He would have given you living water.” … Jesus said to her, “Everyone who drinks this water will be thirsty again. But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.” The woman said to Him, “Sir, give me this water so that I will not get thirsty and have to keep coming here to draw water.” Jesus told her, “Go, call your husband and come back.” “I have no husband,” the woman replied. Jesus said to her, “You are correct to say that you have no husband. In fact, you have had five husbands, and the man you now have is not your husband. You have spoken truthfully.” “Sir,” the woman said, “I see that You are a prophet."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus knows everything about her from the first moment. Even so, He starts by asking for water, then He talks about the gift, and only at the end about the husbands. **What does that order tell us?** What would this conversation have looked like if He had started from the end?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus names her story plainly, without beating around the bush. And twice, as He does so, He says that she has told the truth. **What is missing from His words, even though we might expect it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text doesn’t say why there were five husbands. **What stories might lie behind that number, in a world where wives were sent away and husbands often died young?** Which one do we usually fill in ourselves, and why that one?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that world, the certificate of divorce was in the man’s hand. A woman couldn’t send her husband away; she could only be sent away, including for being childless. So five husbands could mean five funerals, five dismissals, or both in turn. The Gospel writer doesn’t settle it, and he doesn’t call her a sinner. He only writes that she came for water at noon, in the worst heat, when no one was at the well. And that Jesus was weary, sat down, and didn’t leave.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "From the Beginning",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "We’ll come back to the meeting at the well later tonight. First, a passage that can’t be skipped. Jesus didn’t avoid the question of divorce when He was asked it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 19:3-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then some Pharisees came and tested Him by asking, “Is it lawful for a man to divorce his wife for any reason?” Jesus answered, “Have you not read that from the beginning the Creator ‘made them male and female,’ and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’? So they are no longer two, but one flesh. Therefore what God has joined together, let man not separate.” “Why then,” they asked, “did Moses order a man to give his wife a certificate of divorce and send her away?” Jesus replied, “Moses permitted you to divorce your wives because of your hardness of heart; but it was not this way from the beginning. Now I tell you that whoever divorces his wife, except for sexual immorality, and marries another woman, commits adultery.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Pharisees ask what is lawful. Jesus answers with how it was in the beginning. **What does that shift in the question change?** How is a conversation about what is permissible different from a conversation about what was intended?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "They say Moses “ordered” it. Jesus corrects them: Moses “permitted” it, and He gives the reason. **What does the phrase about hardness of heart say about people, and what does it say about a God who gives a law to people like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The question was about husbands divorcing their wives “for any reason.” **In a world where only the husband could send the other away, whom did Jesus’ answer protect?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The question was an invitation into a heated controversy. One school of scholars allowed divorce only on grounds of unfaithfulness. The other allowed a husband to send his wife away for any reason at all; in the surviving debate, the example even comes up of a burned meal. Jesus doesn’t choose between the schools. He goes back behind Moses, to Genesis. He sets the ideal very high, and in the same sentence He acknowledges that He is speaking to people with hard hearts, living far from the beginning.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Suitable Helper",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:18, 21-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.” … So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh. And from the rib that the LORD God had taken from the man, He made a woman and brought her to him. And the man said: “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.” For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is the passage Jesus goes back to. **If two become “one flesh,” what is a separation?** What does this picture explain about the pain of people who have been through it, even when the separation was necessary?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Certificate of Divorce",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 24:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house. If, after leaving his house, she goes and becomes another man’s wife, and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies, then the husband who divorced her first may not remarry her after she has been defiled, for that is an abomination to the LORD. You must not bring sin upon the land that the LORD your God is giving you as an inheritance."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is the regulation the Pharisees appeal to. Read it as one long sentence. **What in it describes a situation, and what is the actual prohibition?** Does this passage command divorce, approve of it, or simply find it already there?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The woman who was sent away was handed a document. **What could it protect her from, in a world where a woman on her own without proof that she was free was defenseless?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The whole regulation is a single conditional sentence. Three verses describe the situation, and the only prohibition comes at the end and concerns the first husband. The law doesn’t establish divorce. It finds it already there and limits the damage. The certificate gave the woman who was sent away proof that she was free, and it protected her from a charge of adultery and from being forced to return. Among neighboring peoples, such a document wasn’t mandatory. In Israel, every woman who was sent away was entitled to one.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Exception in Matthew and Paul’s Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Matthew, Jesus gives an exception. In Mark, in the conversation with the disciples in the house, there is no exception. Twenty years later, Paul faces a situation Jesus didn’t talk about.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 10:10-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "When they were back inside the house, the disciples asked Jesus about this matter. So He told them, “Whoever divorces his wife and marries another woman commits adultery against her. And if a woman divorces her husband and marries another man, she commits adultery.”"
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 7:10-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "To the married I give this command (not I, but the Lord): A wife must not separate from her husband. But if she does, she must remain unmarried or else be reconciled to her husband. And a husband must not divorce his wife. To the rest I say this (I, not the Lord): If a brother has an unbelieving wife and she is willing to live with him, he must not divorce her. And if a woman has an unbelieving husband and he is willing to live with her, she must not divorce him. For the unbelieving husband is sanctified through his believing wife, and the unbelieving wife is sanctified through her believing husband. Otherwise your children would be unclean, but now they are holy. But if the unbeliever leaves, let him go. The believing brother or sister is not bound in such cases. God has called you to live in peace. How do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Christians read these passages in two ways. The first reading says that nothing dissolves a validly contracted marriage. The exception in Matthew then concerns unions that were unlawful from the start, or it allows separation without the right to remarry, and Paul frees the abandoned spouse from chasing after the one who left, not from the bond. The second reading says that unfaithfulness and abandonment really do break the covenant, so the wronged party is free, including free to enter a new marriage. The words “sexual immorality” render the Greek `porneia`, a broad term for forbidden sexual relations.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The two sides share more than divides them. Neither considers divorce a good thing. Both take seriously the sentence “it was not this way from the beginning.” Both know that Paul doesn’t mechanically repeat Jesus’ words; out of respect for them, he discerns a new situation and says honestly, “I, not the Lord.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mark has no exception, Matthew has one, and Paul adds a case Jesus didn’t speak about. **What does that tell us about how the first Christians applied Jesus’ words to situations He didn’t directly address?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul ends with the sentence “God has called you to live in peace.” **How does that sentence work as a measure in a situation where one side has left and isn’t coming back?** What does Paul not require of the one who was abandoned?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t decide which reading is right, and don’t let anyone try them on out loud against a person sitting at the table. If someone asks about their own situation, that’s a conversation with the pastor, not with the group.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Tears on the Altar",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Malachi 2:13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "And this is another thing you do: You cover the altar of the LORD with tears, with weeping and groaning, because He no longer regards your offerings or receives them gladly from your hands. Yet you ask, “Why?” It is because the LORD has been a witness between you and the wife of your youth, against whom you have broken faith, though she is your companion and your wife by covenant. Has not the LORD made them one, having a portion of the Spirit? And why one? Because He seeks godly offspring. So guard yourselves in your spirit and do not break faith with the wife of your youth. “For I hate divorce,” says the LORD, the God of Israel. “He who divorces his wife covers his garment with violence,” says the LORD of Hosts. So guard yourselves in your spirit and do not break faith."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Whom is the prophet speaking to, and whose side does God take in this passage?** How can you tell?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The wife is “your wife by covenant,” and the LORD “has been a witness.” **How is a covenant different from a contract you can terminate?** What does that explain about why breaking it hurts so much?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "These people weep at the altar and honestly don’t understand why God is silent. **How is it possible to be moved in prayer and not see the connection with what you’ve done in your own home?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The people addressed are men who abandoned the wives they married in their youth. A few verses earlier, the prophet speaks of their new marriages. Verse 16 is difficult in Hebrew, and translations render it in different ways, but the direction is the same: God stands against the one who breaks faith, not against the woman who was sent away. And yet the sentence “God hates divorce” has most often been heard by people who were abandoned. The prophet speaks it to those who do the abandoning.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew verb `bagad`, meaning “to act faithlessly, to betray,” occurs five times in Malachi 2:10-16. It describes the breaking of a commitment that was meant to last. It’s worth seeing how the whole passage begins.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Malachi 2:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do we not all have one Father? Did not one God create us? Why then do we break faith with one another so as to profane the covenant of our fathers?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The words rendered here as “break faith” are the same verb. The prophet doesn’t say “you break faith,” but “we break faith.” **What does it change in conversations about other people’s divorces when the one speaking stands on the side of the accused?** What would our conversations on this subject sound like if they started with “we”?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "To the Deserted Wife",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 54:4-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not be afraid, for you will not be put to shame; do not be intimidated, for you will not be humiliated. For you will forget the shame of your youth and will remember no more the reproach of your widowhood. For your husband is your Maker—the LORD of Hosts is His name—the Holy One of Israel is your Redeemer; He is called the God of all the earth. For the LORD has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God. “For a brief moment I forsook you, but with great compassion I will bring you back. In a surge of anger I hid My face from you for a moment, but with everlasting kindness I will have compassion on you,” says the LORD your Redeemer."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 147:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD builds up Jerusalem; He gathers the exiles of Israel. He heals the brokenhearted and binds up their wounds."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Here Isaiah is speaking to the whole nation after defeat and exile. But he chooses the image of a woman who is deserted, widowed, and shamed, because his listeners knew what her life looked like.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God speaks to someone “deserted and wounded in spirit.” **List what He promises. Where does He start?** Why are the first words about shame and humiliation, and not about loneliness?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the psalm, the same God builds up the city and binds up wounds. Both take time. **What does the phrase “binds up” say about how fast a broken heart heals, and about who is present while it does?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Where does shame after a marriage breaks up come from, even in someone who did nothing wrong?** Who keeps it going?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "God on This Side of the Table",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The prophets often describe God’s relationship with His people as a marriage in which He is the one who was betrayed.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hosea 2:14-15, 19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Therefore, behold, I will allure her and lead her to the wilderness, and speak to her tenderly. There I will give back her vineyards and make the Valley of Achor into a gateway of hope. There she will respond as she did in the days of her youth, as in the day she came up out of Egypt. … So I will betroth you to Me forever; I will betroth you in righteousness and justice, in loving devotion and compassion. And I will betroth you in faithfulness, and you will know the LORD.”"
+       ]
+      },
+      {
+       "odnosnik": "Jeremiah 3:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "She saw that because faithless Israel had committed adultery, I gave her a certificate of divorce and sent her away. Yet that unfaithful sister Judah had no fear and prostituted herself as well."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 34:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD is near to the brokenhearted; He saves the contrite in spirit."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Hosea, the betrayed God doesn’t want a verdict; He wants to “speak to her tenderly.” In Jeremiah, He says of Himself that He gave a certificate of divorce. **What does it change for someone whose marriage has fallen apart that God describes Himself as someone who knows this story from the inside?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Jeremiah, God wasn’t the first to break the covenant. He named what the other side had done long before. **Can it happen that a separation doesn’t destroy a marriage, but only states that it has already been destroyed?** How is a separation like that different from sending someone away “for any reason”?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Jar Left at the Well",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "We’re back in Sychar. The conversation at the well went on. Jesus told this woman plainly that He is the Messiah. Then the disciples came back.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 4:28-30, 39-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the woman left her water jar, went back into the town, and said to the people, “Come, see a man who told me everything I ever did. Could this be the Christ?” So they left the town and made their way toward Jesus. … Many of the Samaritans from that town believed in Jesus because of the woman’s testimony, “He told me everything I ever did.” So when the Samaritans came to Him, they asked Him to stay with them, and He stayed two days. And many more believed because of His message. They said to the woman, “We now believe not only because of your words; we have heard for ourselves, and we know that this man truly is the Savior of the world.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "At noon she came alone, at an hour when no one is at the well. Now she runs to the people. Not a single fact of her story has changed. **What has changed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“He told me everything I ever did.” That sentence could have been her greatest shame, and it became her testimony. **What must there have been in the way Jesus told her, for her to remember it like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus stays two days in this woman’s town, and the whole town listens to Him because of her. **What does that say about the place people whose marriages have fallen apart have in the community of Jesus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In John’s Gospel, she is the first person Jesus tells plainly that He is the Messiah. He didn’t choose a teacher of the Scriptures in Jerusalem for that, but a Samaritan woman who had been married five times. He didn’t make her fix anything first. The jar stays at the well, because the thirst she came with was older and deeper than the one water quenches.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s sentences should someone whose marriage is falling apart, or has fallen apart, hear?** And which sentence does a person like that usually hear from believers instead?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If someone freshly divorced sat down for the first time in our church or in this group today, **what would they see and hear?** What would they be afraid of?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there something in you connected with a breakup, your own, your parents’, or someone close to you, that is still waiting to be bound up?** You don’t have to say what.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Jesus of Matthew 19 and the Jesus of John 4 are the same person. He sets the ideal so high that the disciples say “it is better not to marry,” and at the well He doesn’t speak a single word of condemnation. **How is a community to hold both at once, so that the ideal doesn’t become a club, and grace doesn’t become indifference?** How can you tell when one or the other has slipped?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t wrap this up with a formula. It is worth, though, letting this observation come up: Jesus states the high ideal to people who are asking what they are allowed to do, and He shows grace to a person who has long known what went wrong.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God hasn’t changed His mind about marriage. He hasn’t changed His mind about you either.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Psalm 147:3 or Isaiah 54:6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If the breakup is yours: an experience like this leaves behind feelings people are more ashamed of than the divorce itself. Relief. Hatred. Longing for someone who hurt you. **Name one of them before God, without touching it up into something nicer.** He already knows it, just as He knew the story at the well.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If the breakup is someone else’s, someone you know: ask yourself **what you really think about that person when no one is listening.** Is there a sentence in it that Jesus didn’t speak in Sychar?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you had your own part in the breakdown of your marriage, name it before God in one sentence that has no “but” in it and no other person.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says or hints that there is abuse in their marriage. Or someone else declares, “God hates divorce, you have to endure it.”** This is the most important flag. Say clearly, in front of everyone: none of today’s passages tells anyone to stay where they are beaten, intimidated, or degraded. Malachi speaks against the one who does harm, not against the one who flees from harm. Safety comes first; everything else comes later. No one may hear from this group that they should go back to the person who is hurting them. Don’t probe at the table. After the meeting, stay with that person, ideally together with a trusted person of the same sex, and don’t carry this alone: let the pastor know. Give them the numbers: a domestic violence helpline in your country, and in danger, your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is right in the middle of a breakup: a recent move-out, divorce papers, a fight over the children.** This person didn’t come for a Bible study, but so as not to be alone. The group listens and walks alongside; it doesn’t treat and doesn’t give advice. Don’t allow legal advice, judgments of the other side, or sentences like “You’ll see, one day you’ll be grateful.” Shorten the material if you need to. When you see someone isn’t holding up, tell them about a crisis line in your country, and encourage them to talk to a counselor. If there are words about life not being worth living, don’t leave that person alone, and call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Okay, but who was to blame?” The group starts assigning blame in someone’s story.** Step in calmly. At the table you hear one side, and often neither. Go back to the first block: the Gospel writer didn’t give the reason for the five breakups, and that was no accident.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone in a second marriage asks, “So am I living in sin?”** Don’t answer either “yes” or “no” at the table. That question requires knowing the whole story and a calm conversation with the pastor, not the group’s verdict. You can say, “That’s an important question, and I don’t want to brush it off. Let’s talk after the meeting; I’ll help you set up a time with the pastor.” Point out that in Sychar Jesus began the conversation with water, not with the husbands.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**An adult child of divorced parents talks about their pain, or fiercely defends one of the parents.** That’s a separate wound, and often overlooked. Say thank you, don’t pass judgment on either parent, and don’t make them pick a side. Block 4 is for this person too.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The church is too soft these days,” or “The church wrote me off back then.”** Both sentences can come up on the same evening, and both are sometimes true. Don’t defend the institution, and don’t attack it. Ask, “What of what Jesus did at the well was missing back then?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A guest from a Catholic background talks about the sacrament or about an annulment.** Receive it with respect, and don’t get into comparing churches. The common ground is wide: covenant, God as witness, the seriousness of a vow. Go back to the passage in front of you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Skip block 3. Blocks 1, 2, 4, and 5 carry the whole meeting. Block 2 without block 5 leaves people with nothing but the ideal, and block 5 without block 2 with nothing but comfort. Only together do they tell the truth.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says or hints that there is abuse in their marriage. Or someone else declares, “God hates divorce, you have to endure it.”",
+     "odpowiedz": "This is the most important flag. Say clearly, in front of everyone: none of today’s passages tells anyone to stay where they are beaten, intimidated, or degraded. Malachi speaks against the one who does harm, not against the one who flees from harm. Safety comes first; everything else comes later. No one may hear from this group that they should go back to the person who is hurting them. Don’t probe at the table. After the meeting, stay with that person, ideally together with a trusted person of the same sex, and don’t carry this alone: let the pastor know. Give them the numbers: a domestic violence helpline in your country, and in danger, your local emergency number."
+    },
+    {
+     "sytuacja": "Someone is right in the middle of a breakup: a recent move-out, divorce papers, a fight over the children.",
+     "odpowiedz": "This person didn’t come for a Bible study, but so as not to be alone. The group listens and walks alongside; it doesn’t treat and doesn’t give advice. Don’t allow legal advice, judgments of the other side, or sentences like “You’ll see, one day you’ll be grateful.” Shorten the material if you need to. When you see someone isn’t holding up, tell them about a crisis line in your country, and encourage them to talk to a counselor. If there are words about life not being worth living, don’t leave that person alone, and call your local emergency number."
+    },
+    {
+     "sytuacja": "“Okay, but who was to blame?” The group starts assigning blame in someone’s story.",
+     "odpowiedz": "Step in calmly. At the table you hear one side, and often neither. Go back to the first block: the Gospel writer didn’t give the reason for the five breakups, and that was no accident."
+    },
+    {
+     "sytuacja": "Someone in a second marriage asks, “So am I living in sin?”",
+     "odpowiedz": "Don’t answer either “yes” or “no” at the table. That question requires knowing the whole story and a calm conversation with the pastor, not the group’s verdict. You can say, “That’s an important question, and I don’t want to brush it off. Let’s talk after the meeting; I’ll help you set up a time with the pastor.” Point out that in Sychar Jesus began the conversation with water, not with the husbands."
+    },
+    {
+     "sytuacja": "An adult child of divorced parents talks about their pain, or fiercely defends one of the parents.",
+     "odpowiedz": "That’s a separate wound, and often overlooked. Say thank you, don’t pass judgment on either parent, and don’t make them pick a side. Block 4 is for this person too."
+    },
+    {
+     "sytuacja": "“The church is too soft these days,” or “The church wrote me off back then.”",
+     "odpowiedz": "Both sentences can come up on the same evening, and both are sometimes true. Don’t defend the institution, and don’t attack it. Ask, “What of what Jesus did at the well was missing back then?”"
+    },
+    {
+     "sytuacja": "A guest from a Catholic background talks about the sacrament or about an annulment.",
+     "odpowiedz": "Receive it with respect, and don’t get into comparing churches. The common ground is wide: covenant, God as witness, the seriousness of a vow. Go back to the passage in front of you."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Skip block 3. Blocks 1, 2, 4, and 5 carry the whole meeting. Block 2 without block 5 leaves people with nothing but the ideal, and block 5 without block 2 with nothing but comfort. Only together do they tell the truth."
+    }
+   ]
+  }
+ ]
+}

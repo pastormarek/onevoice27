@@ -87,6 +87,8 @@ export function AppNavigation() {
         </DrawerGroup>
         <DrawerGroup icon="hope" title={t('nav.oneVoice', 'One Voice 27')} open={hopeOpen} onToggle={() => setHopeOpen(!hopeOpen)}>
           <DrawerLink to={`${home}/40-days`} icon="prayer" onClick={() => setOpen(false)}>{t('home.pray40', '40 Days of Prayer')}</DrawerLink>
+          <DrawerLink to={`${home}/behopeful`} icon="lesson" onClick={() => setOpen(false)}>{t('edu.title', 'BeHopeful')}</DrawerLink>
+          <DrawerLink to={`${home}/hope-groups`} icon="group" onClick={() => setOpen(false)}>{t('groups.title', 'Hope Groups')}</DrawerLink>
         </DrawerGroup>
         <DrawerGroup icon="prayer" title={t('nav.prayer', 'Prayer')} open={prayerOpen} onToggle={() => setPrayerOpen(!prayerOpen)}>
           <DrawerLink to={`${home}/prayer/texts`} icon="prayer" onClick={() => setOpen(false)}>{t('prayerTexts.cta', 'Scriptures for Prayer')}</DrawerLink>

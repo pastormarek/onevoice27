@@ -123,6 +123,20 @@ export interface Pray40Day extends Pray40DayEntry {
 }
 export interface Pray40Index { lang: string; title?: string; series?: string; days: Pray40DayEntry[] }
 
+/** „Materiały edukacyjne" (BeHopeful, One Voice 27) - każde szkolenie w dwóch wersjach. */
+export interface EduQuote { text: string; ref: string }
+export interface EduBody {
+  sections: Pray40Section[]
+  quote?: EduQuote | null
+  questions: string[]
+}
+export interface EduEntry { nr: number; title: string; ref: string }
+export interface EduItem extends EduEntry {
+  note?: string
+  versions: Partial<Record<'short' | 'long', EduBody>>
+}
+export interface EduIndex { lang: string; title?: string; series?: string; items: EduEntry[] }
+
 // --- Czytnik Biblii (`/en/bible`) ------------------------------------------
 // Pelny przeklad lezy w `content/{lang}/bible/{KOD}/`: `index.json` (spis ksiag)
 // i jeden plik na ksiege. Ten sam ksztalt maja moduly doinstalowane przez
@@ -221,4 +235,55 @@ export interface BibleSources {
   note?: string
   sources: BibleSource[]
   catalogs?: BibleCatalog[]
+}
+
+/** „Hope Groups" (Grupy Nadziei, One Voice 27) - studia dla grup domowych w trzech addytywnych poziomach. */
+export type GroupLevel = 1 | 2 | 3
+export interface GroupTriple { p1?: number; p2?: number; p3?: number }
+export interface GroupScripture { odnosnik: string; przeklad: string; akapity: string[] }
+export type GroupElement =
+  | { typ: 'pismo'; poziom: GroupLevel; fragmenty: GroupScripture[] }
+  | { typ: 'pytanie'; poziom: GroupLevel; id: string; kluczowe: boolean; opcjonalne: boolean; tekst: string }
+  | { typ: 'notka' | 'akapit' | 'wyroznienie' | 'lacznik' | 'uwaga-prowadzacego'; poziom: GroupLevel; tekst: string }
+  | { typ: 'lista'; poziom: GroupLevel; pozycje: string[] }
+export type GroupBlockType =
+  | 'prowadzacy' | 'otwarcie' | 'blok' | 'kontekst' | 'slowo' | 'napiecie' | 'pytanie-trudne'
+  | 'zastosowanie' | 'zdanie' | 'do-zrobienia' | 'modlitwa' | 'czerwone-flagi'
+export interface GroupBlock {
+  typ: GroupBlockType
+  poziom: GroupLevel
+  tytul: string
+  numer?: number
+  zwijany?: boolean
+  doBloku?: number | string
+  elementy: GroupElement[]
+  flagi?: { sytuacja: string; odpowiedz: string }[]
+}
+export interface GroupEntry {
+  id: string
+  tytul: string
+  opis: string
+  teksty: string
+  zdanie: string
+  dlugosc: GroupTriple
+  liczbaPytan: GroupTriple
+  tagi: string[]
+}
+export interface GroupSeries { prefiks: string; tytul: string; opis: string; tryb: string; items: GroupEntry[] }
+export interface GroupsIndex { lang: string; title: string; series?: string; note?: string; serie: GroupSeries[] }
+export interface GroupItem {
+  id: string
+  tytul: string
+  seria: string
+  tryb: string
+  poprzedni: string | null
+  nastepny: string | null
+  teksty: { p1: string; p2: string; p3: string }
+  przekladBazowy: string
+  dlugosc: GroupTriple
+  liczbaPytan: GroupTriple
+  tagi: string[]
+  wersja: number
+  zdanie: string
+  bloki: GroupBlock[]
 }

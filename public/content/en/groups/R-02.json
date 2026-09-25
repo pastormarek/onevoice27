@@ -1,0 +1,775 @@
+{
+ "tytul": "Forgiveness",
+ "id": "R-02",
+ "seria": "Relationships",
+ "opis": "What forgiveness is and what it isn’t: not forgetting, and not trust extended on credit.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 18:21-35; Genesis 50:15-21; Luke 23:33-34; Colossians 3:12-13; 2 Timothy 4:14-16",
+  "p2": "Genesis 4:23-24; Luke 7:41-47; Psalm 103:8-12; Luke 17:3-4",
+  "p3": "Matthew 6:12, 14-15; Exodus 34:6-7; Micah 7:18-19"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "relationships",
+  "forgiveness",
+  "harm",
+  "grace",
+  "boundaries"
+ ],
+ "wersja": 1,
+ "zdanie": "To forgive is to let the debt go and hand the account over to God. That is not the same as handing the one who hurt you the keys to your house.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about what forgiveness is and what it isn’t. It is an act of one party: I let the debt go and hand the account over to God. It isn’t forgetting, it isn’t declaring that nothing happened, and it isn’t trust extended on credit. There is a separate meeting on reconciliation, which takes two people: Reconciliation. Today, guard that boundary, because most of the suffering around forgiveness comes from confusing the two.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be someone at the table who has suffered serious harm: violence, betrayal, abuse. For that person the sentence “you have to forgive” has often been used as a tool of pressure. Don’t add to it.",
+      "The ending of the parable is hard. People with a sensitive conscience will hear a threat in it, not grace.",
+      "Someone may want to tell their story in detail. That is not for the whole group."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t tell anyone they should have forgiven by now. Don’t measure someone else’s hurt. Don’t suggest to anyone that they go back to the person who hurt them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Finish this in one sentence: when I hear “forgive and forget,” I think…",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and briefly. Don’t comment on other people’s answers, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "How Many Times?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 18:21-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother who sins against me? Up to seven times?” Jesus answered, “I tell you, not just seven times, but seventy-seven times! Because of this, the kingdom of heaven is like a king who wanted to settle accounts with his servants. As he began the settlements, a debtor was brought to him owing ten thousand talents. Since the man was unable to pay, the master ordered that he be sold to pay his debt, along with his wife and children and everything he owned. Then the servant fell on his knees before him. ‘Have patience with me,’ he begged, ‘and I will pay back everything.’ His master had compassion on him, forgave his debt, and released him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter suggests seven times and probably thinks that’s a lot. **What does his question reveal about how he understands forgiveness?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servant asks for time: “Have patience with me, and I will pay back everything.” **What does he get instead? How is canceling a debt different from putting it on a payment plan?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The talent was the largest unit of money, and ten thousand was the largest number that had its own name in Greek. **What is Jesus saying with this sum about the promise “I will pay back everything”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus talks about forgiveness in the language of debt, and that is no accident. Harm leaves a bill behind: someone took something from me and owes it to me. In this parable, to forgive means to cancel, that is, to stop collecting. The debt isn’t declared small or nonexistent. The king knows its amount down to the last talent. Even so, he lets it go.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Song of Lamech",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 4:23-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamech, listen to my speech. For I have slain a man for wounding me, a young man for striking me. If Cain is avenged sevenfold, then Lamech seventy-sevenfold.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same two numbers, seven and seventy-seven, already appear side by side at the beginning of the Bible. **What does Jesus do with Lamech’s arithmetic?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Lamech composes a poem about his revenge and makes his wives listen. **Why does revenge like to have an audience?** And forgiveness?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Hundred Denarii",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 18:28-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "But when that servant went out, he found one of his fellow servants who owed him a hundred denarii. He grabbed him and began to choke him, saying, ‘Pay back what you owe me!’ So his fellow servant fell down and begged him, ‘Have patience with me, and I will pay you back.’ But he refused. Instead, he went and had the man thrown into prison until he could pay his debt. When his fellow servants saw what had happened, they were greatly distressed, and they went and recounted all of this to their master. Then the master summoned him and declared, ‘You wicked servant! I forgave all your debt because you begged me. Shouldn’t you have had mercy on your fellow servant, just as I had on you?’ In anger his master turned him over to the jailers to be tortured, until he should repay all that he owed. That is how My heavenly Father will treat each of you unless you forgive your brother from your heart.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A denarius was a laborer’s daily wage, so a hundred denarii is roughly three months’ work. That’s not pocket change. **What does it change in this story that the second debt is real too?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The fellow servant makes almost word for word the same plea the first servant made a moment earlier. **Why didn’t he recognize it? What happened to him between the king’s hall and the street?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The last sentence speaks of forgiving “from your heart.” **How is forgiving from the heart different from forgiveness that is only spoken?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In many retellings of this parable the second debt is a trifle. In the text it isn’t. The first servant didn’t refuse to cancel something trivial, but a real loss. Jesus doesn’t build forgiveness on the harm being small. He builds it on what happened earlier in the king’s hall. The servant walked out of there free, but he was still keeping accounts the old way. His problem isn’t that he knows the amount of the debt. It’s that he has forgotten his own.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Debtors",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 7:41-47",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Two men were debtors to a certain moneylender. One owed him five hundred denarii, and the other fifty. When they were unable to repay him, he forgave both of them. Which one, then, will love him more?” “I suppose the one who was forgiven more,” Simon replied. “You have judged correctly,” Jesus said. And turning toward the woman, He said to Simon, “Do you see this woman? When I entered your house, you did not give Me water for My feet, but she wet My feet with her tears and wiped them with her hair. You did not greet Me with a kiss, but she has not stopped kissing My feet since I arrived. You did not anoint My head with oil, but she has anointed My feet with perfume. Therefore I tell you, because her many sins have been forgiven, she has loved much. But he who has been forgiven little loves little.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the little parable the order is clear: first the debt is forgiven, then comes love. **In that light, how should we understand the statement about the woman? Is her love the cause of forgiveness or its result?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Simon doesn’t consider himself a big debtor. **How does that affect the way he looks at the woman?** How does this relate to the servant in Matthew 18?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Does God Forgive on Condition?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 6:12, 14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "And forgive us our debts, as we also have forgiven our debtors. … For if you forgive men their trespasses, your heavenly Father will also forgive you. But if you do not forgive men their trespasses, neither will your Father forgive yours."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "These sentences sound like a transaction: I’ll forgive you if you forgive. Yet in the parable the king forgives first, with no condition at all, and the servant loses that forgiveness only when he shows he has taken none of it in.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Try to describe the difference between these two statements: “God forgives me as a reward for my forgiving” and “whoever doesn’t forgive shows that they haven’t received forgiveness.”** Which one does the order of events in the parable support?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would you say to someone who, after reading verse 35, is afraid God will reject them because they still can’t forgive someone?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Am I in the Place of God?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Joseph’s brothers sold him into slavery. Years later Joseph, by then governor of Egypt, made himself known to them, wept with them, and brought the whole family to live near him. Many years have passed since then. Their father has just died.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 50:15-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge? Then he will surely repay us for all the evil that we did to him.” So they sent word to Joseph, saying, “Before he died, your father commanded, ‘This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.’ So now, Joseph, please forgive the transgression of the servants of the God of your father.” When their message came to him, Joseph wept. His brothers also came to him, bowed down before him, and said, “We are your slaves!” But Joseph replied, “Do not be afraid. Am I in the place of God? As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people. Therefore do not be afraid. I will provide for you and your little ones.” So Joseph reassured his brothers and spoke kindly to them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Joseph doesn’t say that nothing happened. **Find the sentence in which he calls the evil by its name. What does he say right after that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Am I in the place of God?” **What is Joseph handing over with this question, and to whom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "For years the brothers have lived under Joseph’s care, and they are still afraid of him. In the whole story they have never once asked for forgiveness themselves, and even now they hide behind their father’s words. **How is it possible for someone who has been forgiven to keep living like a debtor?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Why does Joseph weep?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Joseph’s forgiveness doesn’t deny the guilt. “What you intended against me for evil” is said in so many words. Joseph refuses only one thing: to take the judge’s seat. That account belongs to God. Then he takes one more step that no one forced him to take. He lifts the fear off his brothers, promises to provide for them, and speaks kindly to them. Genesis, full of promises about land and descendants, ends with a scene of forgiveness in a family.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "As the Lord Forgave You",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:33-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "When they came to the place called The Skull, they crucified Him there, along with the criminals, one on His right and the other on His left. Then Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up His garments by casting lots."
+       ]
+      },
+      {
+       "odnosnik": "Colossians 3:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, as the elect of God, holy and beloved, clothe yourselves with hearts of compassion, kindness, humility, gentleness, and patience. Bear with one another and forgive any complaint you may have against someone else. Forgive as the Lord forgave you."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus prays for people who asked for nothing and are dividing up His clothes at that very moment. **What does this scene say about what forgiveness depends on, and what it doesn’t depend on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t justify forgiveness by saying that the wrongdoer deserved it or that the matter was minor. **What does he base it on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Forgive any complaint you may have against someone else.” Paul assumes the complaints are sometimes real. **What does that change in a conversation about forgiveness?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "As Far as the East Is from the West",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 103:8-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD is compassionate and gracious, slow to anger, abounding in loving devotion. He will not always accuse us, nor harbor His anger forever. He has not dealt with us according to our sins or repaid us according to our iniquities. For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him. As far as the east is from the west, so far has He removed our transgressions from us."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm describes God’s forgiveness with images of distance. **What is removed: the memory of what happened, or something else?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these images is hardest for you to apply to yourself?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "When God introduces Himself to Moses, this is part of what He says about Himself:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 34:6-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD passed in front of Moses and called out: “The LORD, the LORD God, is compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness, maintaining loving devotion to a thousand generations, forgiving iniquity, transgression, and sin. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "“Forgiving” is the Hebrew `nasa`, which literally means “to lift, to raise, to carry.” In legal language it means taking on responsibility for someone else’s guilt. God doesn’t forgive with a wave of the hand. He lifts the weight and carries it Himself. The prophet Micah adds where to:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Micah 7:18-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance—who does not retain His anger forever, because He delights in loving devotion? He will again have compassion on us; He will vanquish our iniquities. You will cast out all our sins into the depths of the sea."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the New Testament “forgive” is most often `aphiēmi`: to let go, to leave, to release. The same word was used for canceling a debt.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Forgiveness as letting go and forgiveness as lifting. **Which image better describes what happens in a person who forgives?** According to these texts, who bears the cost?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "You Too Should Beware of Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Timothy 4:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Alexander the coppersmith did great harm to me. The Lord will repay him according to his deeds. You too should beware of him, for he has vigorously opposed our message. At my first defense, no one stood with me, but everyone deserted me. May it not be charged against them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul recalls two wrongs done to him. **What does he say about Alexander, and what about those who deserted him? What do the two cases have in common, and what is different?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The Lord will repay him,” and right after that, “You too should beware of him.” **How is forgiveness different from trust?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What does Paul not do with Alexander?** Make a list.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paul does the same thing with the harm done to him that Joseph did: he hands the account over to God. He doesn’t take revenge or wish him ill. At the same time he doesn’t pretend Alexander is safe, and he warns his friend about him. Forgiveness lets the debt go. It doesn’t hand the one who hurt you the keys to your house. Trust is rebuilt by the other party through their actions, and sometimes it is never rebuilt. I can forgive on my own. Reconciliation takes two.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Rebuke Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 17:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him. Even if he sins against you seven times in a day, and seven times returns to say, ‘I repent,’ you must forgive him.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus puts one more word before forgiveness: rebuke. **What does that say about a forgiveness that consists of keeping quiet about the harm?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Whom does calling the wrong by its name serve: the one who did the harm, or the one who forgives?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Several misunderstandings about forgiveness go around: that you have to forget, that you have to trust again, that you first have to feel something, that the other person has to ask first. **Which of them have you carried the longest, and where did you get it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter counted to seven. **Where do you keep accounts?** What does your ledger of debts look like: who is in it, and for how long?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a debt you are still holding on to?** Don’t say whose. Just say what keeps you from letting it go.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Luke 17:3 Jesus says: if he repents, forgive him. On the cross He asks forgiveness for people who regret nothing. **Can you forgive someone who doesn’t see their guilt and will never apologize? What are we actually doing then, and what remains unresolved?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can you forgive on someone else’s behalf, for example a wrong done to my child?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t manufacture an answer. The distinction that runs through the whole meeting often helps. Letting the debt go depends on me. Repairing the relationship also depends on the other person. Forgiving a wrong done to someone else belongs to the one who suffered it.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "To forgive is to let the debt go and hand the account over to God. That is not the same as handing the one who hurt you the keys to your house.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Colossians 3:13 or Genesis 50:19.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The servant left the king free, and a few steps later he had forgotten it. Find a moment of quiet this week and ask yourself: **what has been forgiven me?** Not in general. Specifically.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of the person whose name came to mind today. Don’t try to force any feeling. Ask God just one thing: **what will I lose if I let this debt go?** The sense of being right, the position of the injured party, protection from being hurt again, something else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** tell God out loud how much this debt amounts to. Without making it smaller. Then tell Him that the account belongs to Him. If you can’t yet, tell Him that too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about violence at home, or it is clear from what they describe that they are experiencing it.** Say clearly, in front of the group if necessary: forgiveness does not mean going back to the person who is doing harm, or giving up protecting yourself and your children. Paul forgave and warned others about Alexander. Don’t carry this alone. Talk with this person after the meeting and help them reach professional help. If there is immediate danger, call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Forgive and forget.”** Ask where that is in the text. Years later Joseph remembers everything and calls it evil. The king knows the amount of the debt. Biblical forgiveness doesn’t erase memory; it changes what we do with it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I can’t forgive. I’ve tried.”** Don’t push, and don’t force comfort. You can say: “Forgiving a great wrong is rarely a single decision. More often it’s a road you come back to many times. The fact that you want to already means something.” Don’t set deadlines.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table pressures another person to forgive.** Interrupt right away, calmly: “None of us knows the size of someone else’s debt.” The parable is about my debt and my fellow servant, not about what my neighbor ought to do.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone hears verses 34 and 35 as a threat, and you can see they are afraid.** Go back to the order of events: the king forgave first and without conditions. The parable doesn’t say that God is lying in wait for us to slip. It says you can’t live by grace and choke your fellow servant at the same time. Fear about whether I am able to forgive is something entirely different from the attitude of the servant who refused.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“He never apologized.”** That is a real difficulty, not an excuse. The executioners at the cross didn’t apologize either. Forgiveness doesn’t wait for the other person. Reconciliation does. This distinction takes a weight off many people, so it’s worth repeating.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I can’t forgive myself.”** Don’t develop this in front of the group; it’s a separate topic, close to the meeting on guilt. You can ask: “If the King has canceled the debt, who is still holding on to it?” and suggest talking after the meeting.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone talks about violence at home, or it is clear from what they describe that they are experiencing it.",
+     "odpowiedz": "Say clearly, in front of the group if necessary: forgiveness does not mean going back to the person who is doing harm, or giving up protecting yourself and your children. Paul forgave and warned others about Alexander. Don’t carry this alone. Talk with this person after the meeting and help them reach professional help. If there is immediate danger, call your local emergency number."
+    },
+    {
+     "sytuacja": "“Forgive and forget.”",
+     "odpowiedz": "Ask where that is in the text. Years later Joseph remembers everything and calls it evil. The king knows the amount of the debt. Biblical forgiveness doesn’t erase memory; it changes what we do with it."
+    },
+    {
+     "sytuacja": "“I can’t forgive. I’ve tried.”",
+     "odpowiedz": "Don’t push, and don’t force comfort. You can say: “Forgiving a great wrong is rarely a single decision. More often it’s a road you come back to many times. The fact that you want to already means something.” Don’t set deadlines."
+    },
+    {
+     "sytuacja": "Someone at the table pressures another person to forgive.",
+     "odpowiedz": "Interrupt right away, calmly: “None of us knows the size of someone else’s debt.” The parable is about my debt and my fellow servant, not about what my neighbor ought to do."
+    },
+    {
+     "sytuacja": "Someone hears verses 34 and 35 as a threat, and you can see they are afraid.",
+     "odpowiedz": "Go back to the order of events: the king forgave first and without conditions. The parable doesn’t say that God is lying in wait for us to slip. It says you can’t live by grace and choke your fellow servant at the same time. Fear about whether I am able to forgive is something entirely different from the attitude of the servant who refused."
+    },
+    {
+     "sytuacja": "“He never apologized.”",
+     "odpowiedz": "That is a real difficulty, not an excuse. The executioners at the cross didn’t apologize either. Forgiveness doesn’t wait for the other person. Reconciliation does. This distinction takes a weight off many people, so it’s worth repeating."
+    },
+    {
+     "sytuacja": "“I can’t forgive myself.”",
+     "odpowiedz": "Don’t develop this in front of the group; it’s a separate topic, close to the meeting on guilt. You can ask: “If the King has canceled the debt, who is still holding on to it?” and suggest talking after the meeting."
+    }
+   ]
+  }
+ ]
+}

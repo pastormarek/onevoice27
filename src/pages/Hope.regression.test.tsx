@@ -34,7 +34,13 @@ describe('One Voice 27 — landing page regression', () => {
 
     expect(await screen.findByRole('heading', { name: 'One Voice 27' })).toBeInTheDocument()
     expect(screen.getByRole('img', { name: '#AllThingsNew' }).getAttribute('src')).toMatch(/allthingsnew\.png$/)
-    expect(screen.queryByRole('link', { name: /education|groups/i })).toBeNull()
+  })
+
+  it('links to the BeHopeful and Hope Groups lists, not to a single item', async () => {
+    render(<MemoryRouter><Hope /></MemoryRouter>)
+
+    expect(await screen.findByRole('link', { name: /BeHopeful/ })).toHaveAttribute('href', '/en/behopeful')
+    expect(screen.getByRole('link', { name: /Hope Groups/ })).toHaveAttribute('href', '/en/hope-groups')
   })
 
   it('keeps a visible way back to the home page', async () => {

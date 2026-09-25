@@ -1,0 +1,849 @@
+{
+ "tytul": "Words",
+ "id": "R-04",
+ "seria": "Relationships",
+ "opis": "Words do something between people before we can take them back. Where they come from and what they can build.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "James 3:2-6; James 3:7-12; Proverbs 26:20-22; Proverbs 11:13; 16:28; 17:9; Matthew 12:33-37; Proverbs 12:18; 25:11; Isaiah 50:4; Ephesians 4:29",
+  "p2": "Genesis 21:6-10; Proverbs 10:19; 17:27-28; Psalm 141:3; Isaiah 6:5-7; 1 Peter 2:22-23",
+  "p3": "Leviticus 19:16; James 1:26; 1:5; 3:17; Proverbs 31:8-9"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 31
+ },
+ "tagi": [
+  "relationships",
+  "words",
+  "gossip",
+  "tongue",
+  "heart"
+ ],
+ "wersja": 1,
+ "zdanie": "The mouth speaks what fills the heart. If you want different words, ask for a different heart.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not a lesson in polite speech. It is about how words do something between people before we can take them back, and about how the Bible doesn’t locate the source of the trouble in the mouth. James describes the damage. Jesus shows where words come from. The last section asks what a word can build. Keep to this order, because without the third step the meeting ends with a resolution to talk less, and that isn’t enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Almost certainly someone at the table has been gossiped about in this church or this group, and someone has done the gossiping. It may be the same person.",
+      "Someone carries a sentence they heard in childhood from a father, a mother, or a teacher. The opening may stir this up more than you expect.",
+      "A conversation about gossip very easily turns into gossip itself: “I won’t say who, but you all know.”",
+      "The slogan “don’t gossip” has sometimes been used to silence people who were speaking about real harm. The text doesn’t allow that. The material comes back to this at level 3 and in the red flags."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give examples from the life of your church, even without names. Don’t let anyone talk about the words of someone who isn’t present. Don’t joke about anyone being talkative or quiet.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of one sentence someone once said to you that you still remember today. Don’t say what the sentence was or who said it. Just say roughly how many years ago you heard it, and whether it was good or bad.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t ask anyone about the content. At the end of the round, you may point out just one thing out loud: how many years a single sentence can live.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Small Rudder",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 3:2-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body. When we put bits into the mouths of horses to make them obey us, we can guide the whole animal. Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined. In the same way, the tongue is a small part of the body, but it boasts of great things. Consider how small a spark sets a great forest ablaze. The tongue also is a fire, a world of wickedness among the parts of the body. It pollutes the whole person, sets the course of his life on fire, and is itself set on fire by hell."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "James gives three images: a bit, a rudder, and fire. **What do the first two have in common, and how is the third different from them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The rudder is small, and the ship goes wherever the rudder steers it. **Where can words steer a marriage, a friendship, or a church?** Look for examples in both directions.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "James begins with “We all” and “in many ways,” and he counts himself in. **What difference does it make in a conversation about the tongue when it is started by someone who doesn’t place himself above others?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The bit and the rudder are images of steering. Something small decides the course of something large. Fire is a different kind of image: you can’t call a spark back. James was writing to people who knew the dry hillsides around the Mediterranean and knew how fast a wildfire spreads. A word once spoken goes on working without us. People we don’t know repeat it, in conversations we will never hear about.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Where the BSB has “hell,” James writes `geenna`. That was the name of a valley below the walls of Jerusalem, which in Jesus’ day had become a picture of final destruction. In the whole New Testament, apart from James, only Jesus uses this word. The WEB leaves it untranslated: the tongue “is set on fire by Gehenna” (WEB). So James is not saying that an evil tongue deserves punishment. He is saying where it gets its fire. The blaze a word kindles between people doesn’t start in the mouth.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "From the Same Mouth",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 3:7-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "All kinds of animals, birds, reptiles, and creatures of the sea are being tamed and have been tamed by man, but no man can tame the tongue. It is a restless evil, full of deadly poison. With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness. Out of the same mouth come blessing and cursing. My brothers, this should not be! Can both fresh water and salt water flow from the same spring? My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "James sets the song we sing to God beside what we say about people once we walk out the door. **Why does he remind us right here that people are made in God’s likeness? What does that change in how we judge the words we say about someone?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A spring doesn’t alternate between fresh water and salt water. We do. **What is James trying to say about where the trouble really lies?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“No man can tame the tongue.” **How do you take that sentence? Is it a verdict, or the beginning of a different conversation?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sarah",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 21:6-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Sarah said, “God has made me laugh, and everyone who hears of this will laugh with me.” She added, “Who would have told Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.” So the child grew and was weaned, and Abraham held a great feast on the day Isaac was weaned. But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking her son, and she said to Abraham, “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with my son Isaac!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Verse 6 can be heard as a complaint, as if people will laugh at her. The Hebrew sentence can also be read as a cry of joy, and that is how the BSB renders it: “God has made me laugh.” The name Isaac means “he laughs.”",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same mouth, in the same chapter, speaks of God’s miracle and orders a woman and her child to be driven out into the desert. **What happened between the one sentence and the other?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sarah doesn’t say the name of Hagar or the name of Ishmael. She says “the slave woman” and “her son.” **What happens to a person who, in our mouths, no longer has a name?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Choice Morsels",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 26:20-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Without wood, a fire goes out; without gossip, a conflict ceases. Like charcoal for embers and wood for fire, so is a quarrelsome man for kindling strife. The words of a gossip are like choice morsels that go down into the inmost being."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 11:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "A gossip reveals a secret, but a trustworthy person keeps a confidence."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 16:28",
+       "przeklad": "BSB",
+       "akapity": [
+        "A perverse man spreads dissension, and a gossip divides close friends."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 17:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Whoever conceals an offense promotes love, but he who brings it up separates friends."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The words of a gossip are like choice morsels.” This sentence doesn’t describe the one who tells the gossip, but the one who listens to it. **Why does someone else’s business taste so good? What do we get when we listen to it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Without wood, a fire goes out. **Who is the wood in this picture? What exactly can you do so as not to be the wood?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Proverbs 17:9 speaks of someone who conceals another person’s offense for the sake of love. **How is that kind of silence different from sweeping evil under the rug?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Many proverbs don’t command anything; they simply describe how things are. The sentence about choice morsels doesn’t praise gossip. It says honestly that gossip tastes good, and that is the first thing you need to know about it. Gossip gives a sense of closeness to the one telling it and a sense of superiority over the one being talked about. We get both at someone else’s expense. In these four sayings the result is always the same: friends stop being friends.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "When to Keep Silent",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 10:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "When words are many, sin is unavoidable, but he who restrains his lips is wise."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 17:27-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "A man of knowledge restrains his words, and a man of understanding maintains a calm spirit. Even a fool is considered wise if he keeps silent, and discerning when he holds his tongue."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 141:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Set a guard, O LORD, over my mouth; keep watch at the door of my lips."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist doesn’t promise that he will guard his mouth by himself. He asks God to set a guard over it. **What does that request say about how he rates his own abilities?** Put it next to James’s statement that no man can tame the tongue.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Silence can wound too: the silent treatment, no reply, pointedly leaving someone out. **How do you tell silence that is wisdom from silence that is punishment?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 19:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "You must not go about spreading slander among your people. You must not endanger the life of your neighbor. I am the LORD."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Literally, the Hebrew says here: you shall not go about as a `rachil` among your people. The same expression stands in Proverbs 11:13, where the BSB has “a gossip” and the KJV “a talebearer.” The word `rachil` is related to a word for a traveling merchant. In this picture the gossip is a peddler: he goes from door to door, lays out his wares, and always finds a buyer. It is also worth noticing what stands in the second half of the verse. The law puts spreading words right next to endangering someone’s life.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A trade takes two sides. **What does the one who “buys” the gossip pay with? And what does the one it is about pay with?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Storehouse",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 12:33-37",
+       "przeklad": "BSB",
+       "akapity": [
+        "Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad; for a tree is known by its fruit. You brood of vipers, how can you who are evil say anything good? For out of the overflow of the heart, the mouth speaks. The good man brings good things out of his good store of treasure, and the evil man brings evil things out of his evil store of treasure. But I tell you that men will give an account on the day of judgment for every careless word they have spoken. For by your words you will be acquitted, and by your words you will be condemned.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Out of the overflow of the heart, the mouth speaks.” We usually excuse ourselves the other way around: “It just slipped out; I didn’t mean it at all.” **What does Jesus do with that kind of excuse?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus talks about a tree and its fruit; James talks about a spring and its water. **If they are both right, where does changing the way we speak have to start?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus speaks of a “careless” word, not a lying or cruel one. **What kinds of words fit into that category? Why do they, of all words, matter?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus says this to people who have just called His healing the work of the devil. He doesn’t point out their choice of words; He asks what they have inside. In this passage words are a symptom, not the disease. That is why just guarding your mouth isn’t enough, and over time it wears you out. Whoever wants to speak differently needs a different storehouse. That shifts the whole meeting from the question “How do I hold myself back?” to the question “What am I filling myself with?”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Coal from the Altar",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 6:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I said: “Woe is me, for I am ruined, because I am a man of unclean lips dwelling among a people of unclean lips; for my eyes have seen the King, the LORD of Hosts.” Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken with tongs from the altar. And with it he touched my mouth and said: “Now that this has touched your lips, your iniquity is removed and your sin is atoned for.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah stands before God, and the first thing he sees in himself is his lips. **Why those, of all things?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah makes no promise to do better. **Where does the cleansing of his mouth come from, and who carries it out?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James wrote about a tongue set on fire from below. Here a fire from the altar touches the mouth. **What does this pairing of two fires say to you?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Taming What No One Can Tame",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "James writes that no man can tame the tongue. Two chapters earlier he writes something that sounds like a demand for exactly this impossible thing.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 1:26",
+       "przeklad": "BSB",
+       "akapity": [
+        "If anyone considers himself religious and yet does not bridle his tongue, he deceives his heart and his religion is worthless."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 1:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him."
+       ]
+      },
+      {
+       "odnosnik": "James 3:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How do you reconcile the statement about a tongue that no one can tame with the demand to bridle it?** Look closely at the words “no man,” at what James tells us to ask for, and at where, according to him, wisdom comes from.",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this isn’t about a neat formula. It helps, though, if someone notices that James doesn’t say no one at all can tame it, but “no man,” no human being, and that in his letter what a person lacks comes “from above” and is given to the one who asks. Isaiah and the author of Psalm 141 went the same way.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Word That Heals",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 12:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Speaking rashly is like a piercing sword, but the tongue of the wise brings healing."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 25:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "A word fitly spoken is like apples of gold in settings of silver."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 50:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Lord GOD has given Me the tongue of discipleship, to sustain the weary with a word. He awakens Me morning by morning; He awakens My ear to listen as a disciple."
+       ]
+      },
+      {
+       "odnosnik": "Ephesians 4:29",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let no unwholesome talk come out of your mouths, but only what is helpful for building up the one in need and bringing grace to those who listen."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Until now the tongue has been fire, poison, and a sword. Here it heals, builds up, and brings blessing. **Go back to the sentence from the opening, if it was a good one. What made it stay with you for years?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Servant in Isaiah knows how to answer the weary, because every morning Someone awakens his ear. **What is the connection between listening and speaking? What follows from that for someone who wants to speak better?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul adds three conditions for a good word: it should build up, it should come when there is a need, and it should give something to those who listen. **Which of these three sieves is hardest for you?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Mouth in Which No Deceit Was Found",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Peter 2:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "“He committed no sin, and no deceit was found in His mouth.” When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter stood in the high priest’s courtyard and heard what Jesus said, and what He didn’t say, while He was being abused. Many years later, what he remembers above all is His mouth. **What did Jesus do with the harm done to Him, if He didn’t answer it with words?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is Jesus’ silence different from the silence of someone who is afraid or is stifling resentment?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In what situations do your words most often get ahead of you?** When you’re tired, in a hurry, around particular people, in messages typed on your phone?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says the mouth draws from a storehouse. **What fills your storehouse in an ordinary week?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there someone you have owed a good word for a long time and still haven’t said it?** You don’t have to say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 31:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Open your mouth for those with no voice, for the cause of all the dispossessed. Open your mouth, judge righteously, and defend the cause of the poor and needy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same book that tells us to keep a confidence tells us to open our mouths in defense of someone who can’t defend themselves. **When is talking about someone who isn’t present gossip, and when is it a duty?** Try to name the difference: who you are telling, why, and who gains from it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Have you ever seen a ban on gossip used to silence someone who was speaking about real harm?** What went wrong then?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this with a single rule. A distinction that comes from the texts themselves helps: gossip goes to people who can’t do anything, and it feeds the one who is talking. A word in someone’s defense goes to someone who can help, and it serves the one who was wronged.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The mouth speaks what fills the heart. If you want different words, ask for a different heart.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Matthew 12:34b or Psalm 141:3.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The next time you catch yourself talking about someone who isn’t present, don’t judge yourself right away. Ask yourself just one thing: **what am I getting out of this conversation right now?** Closeness, relief, a feeling that I’m better, something else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Go back to the sentence from the opening. If it was a bad one, tell God plainly what it did in you and how much room it still takes up. If it was a good one, ask: **who is waiting for a sentence like that from me?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you know your words hurt someone and you never went back to it, bring it before God before you go to the person. Ask Him what storehouse those words came from.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts telling what was said about them in the church, and it’s clear who is meant.** Interrupt gently before the details come out: “I can see this hurts you, and I want to hear it after the meeting. Here, let’s agree that we don’t talk about people who aren’t present.” Then really do stay and listen.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m just telling the truth. I’m honest, and people get offended.”** Don’t argue about honesty. Go back to Ephesians 4:29: being true isn’t enough; Paul also asks whether a word builds up, whether it comes at the right time, and what it gives the listener. Ask: “Which of those three sieves do you skip most often?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So we’re not allowed to talk about anything bad? What if someone is hurting someone?”** That is an important question, and the text is on its side. Proverbs 31:8-9 tells us to open our mouths in defense of the weaker. Telling the right person about violence, abuse, or a child in danger is not gossip. If someone in the group hints that they themselves are in that kind of situation, talk with them after the meeting, and don’t carry it alone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a sentence from their childhood and starts to cry.** Don’t force comfort, and don’t explain away their parents. Give a moment of silence, and say thank you. You can say that this is exactly what James was writing about: one sentence, so many years. Go back to the text only when that person is ready.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation about gossip turns into gossip.** It happens almost every time. Say with a smile that you’ve just added wood to the fire, and ask the next question. Don’t shame the person who started it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“That’s just my personality. What’s in my heart is on my tongue.”** Agree that these are exactly Jesus’ words, and turn the question around: “If what’s on your tongue is what’s in your heart, what do your words say about what’s in there?” No pressure. It’s enough to let the question hang.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after the question about the storehouse.** That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time for the material.** Skip section 3 and go from section 2 straight to section 4. Section 4 carries the whole meeting, and section 5 keeps it from ending with the diagnosis alone.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone starts telling what was said about them in the church, and it’s clear who is meant.",
+     "odpowiedz": "Interrupt gently before the details come out: “I can see this hurts you, and I want to hear it after the meeting. Here, let’s agree that we don’t talk about people who aren’t present.” Then really do stay and listen."
+    },
+    {
+     "sytuacja": "“I’m just telling the truth. I’m honest, and people get offended.”",
+     "odpowiedz": "Don’t argue about honesty. Go back to Ephesians 4:29: being true isn’t enough; Paul also asks whether a word builds up, whether it comes at the right time, and what it gives the listener. Ask: “Which of those three sieves do you skip most often?”"
+    },
+    {
+     "sytuacja": "“So we’re not allowed to talk about anything bad? What if someone is hurting someone?”",
+     "odpowiedz": "That is an important question, and the text is on its side. Proverbs 31:8-9 tells us to open our mouths in defense of the weaker. Telling the right person about violence, abuse, or a child in danger is not gossip. If someone in the group hints that they themselves are in that kind of situation, talk with them after the meeting, and don’t carry it alone."
+    },
+    {
+     "sytuacja": "Someone talks about a sentence from their childhood and starts to cry.",
+     "odpowiedz": "Don’t force comfort, and don’t explain away their parents. Give a moment of silence, and say thank you. You can say that this is exactly what James was writing about: one sentence, so many years. Go back to the text only when that person is ready."
+    },
+    {
+     "sytuacja": "The conversation about gossip turns into gossip.",
+     "odpowiedz": "It happens almost every time. Say with a smile that you’ve just added wood to the fire, and ask the next question. Don’t shame the person who started it."
+    },
+    {
+     "sytuacja": "“That’s just my personality. What’s in my heart is on my tongue.”",
+     "odpowiedz": "Agree that these are exactly Jesus’ words, and turn the question around: “If what’s on your tongue is what’s in your heart, what do your words say about what’s in there?” No pressure. It’s enough to let the question hang."
+    },
+    {
+     "sytuacja": "The group is silent after the question about the storehouse.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time for the material.",
+     "odpowiedz": "Skip section 3 and go from section 2 straight to section 4. Section 4 carries the whole meeting, and section 5 keeps it from ending with the diagnosis alone."
+    }
+   ]
+  }
+ ]
+}

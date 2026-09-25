@@ -1,0 +1,759 @@
+{
+ "tytul": "Daniel 3. But Even If He Does Not",
+ "id": "D-03",
+ "seria": "The Book of Daniel",
+ "opis": "Three men facing a blazing furnace say, “But even if He does not.” On a faith that sets God no conditions.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 3:1-7; 3:8-15; 3:16-18; 3:19-25; 3:26-30",
+  "p2": "Exodus 20:3-5; Isaiah 43:1-3; Hebrews 11:32-40",
+  "p3": "Daniel 3:25; Revelation 13:14-17; Acts 12:1-5"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "Daniel",
+  "faithfulness",
+  "coercion",
+  "suffering",
+  "trust",
+  "God’s presence"
+ ],
+ "wersja": 1,
+ "zdanie": "God never promised that I would be spared the furnace. He promised that I would not go into it alone.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Everyone knows this as a story about a miracle. This meeting reads it from the inside, starting from a few words in verse 18: “But even if He does not.” The three men don’t know how this will end. They know God is able to rescue them, and they don’t turn that into a condition. Their faithfulness does not depend on the outcome. The second thread is the fourth figure in the fire: God doesn’t put out the furnace. He walks into it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "You will read almost the whole chapter, in five sections. The heroes appear here under their Babylonian names, Shadrach, Meshach, and Abednego. They are the same Hananiah, Mishael, and Azariah from chapter 1. Daniel is not in this chapter, and the text doesn’t say why.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be a person God did not pull out of the furnace: they prayed for a child’s health, for a marriage, for a job, and didn’t receive it. To them, the happy ending of this story can sound like a reproach. That is why the center of gravity lies in verses 17-18, not in verse 27.",
+      "It’s easy to conclude that all you need is strong enough faith and the fire won’t touch you. The text says the opposite: the three men themselves allow for the possibility that they will burn.",
+      "A conversation about forced worship quickly drifts into current politics and who today’s Babylon is. Don’t go there."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone whether they would have bowed down. Don’t hold up the three young men as the measuring stick for the people in the room. Don’t promise anyone on God’s behalf that their furnace will end the same way.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when everyone around you was doing something and you didn’t want to. In one sentence, say what was hardest about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Everyone Fell Down",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 3:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon. Then King Nebuchadnezzar sent word to assemble the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the other officials of the provinces to attend the dedication of the statue he had set up. So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the rulers of the provinces assembled for the dedication of the statue that King Nebuchadnezzar had set up, and they stood before it. Then the herald loudly proclaimed, “O people of every nation and language, this is what you are commanded: As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up. And whoever does not fall down and worship will immediately be thrown into the blazing fiery furnace.” Therefore, as soon as all the people heard the sound of the horn, flute, zither, lyre, harp, and all kinds of music, the people of every nation and language would fall down and worship the golden statue that King Nebuchadnezzar had set up."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count how many times in these seven verses you are told that King Nebuchadnezzar “set up” the statue. **Why does the author repeat it so stubbornly?** Who is this statue really about?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "An orchestra, a crowd of officials, one gesture at one moment, and a furnace in the background. **List everything in this scene that puts pressure on a single person.** Which of these things works even without a furnace?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The king doesn’t invite pilgrims. He summons the entire state administration. **What is the purpose of a religious ceremony that officials are ordered to attend on pain of death?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the dream in the previous chapter, only the head of the statue was gold, and it stood for Nebuchadnezzar. Other kingdoms were to come after him. On the plain of Dura a statue goes up that is gold from top to bottom. The king doesn’t reject the dream. He corrects it, so that his kingdom will have no successor. The ceremony is religious and political at the same time: it is a loyalty review of the whole state apparatus, and bowing down is an oath.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** In the third of the six court stories. In chapter 1, four young Judeans declined the king’s food. In chapter 2, Daniel interpreted the king’s dream, and at his request his three friends were put in charge of the province of Babylon. That is why they are now standing on the plain of Dura among the officials. Chapter 3 has a twin in chapter 6: here a furnace and the three friends, there a lions’ den and Daniel.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Sixty cubits is about ninety feet; six cubits is about nine. So the statue is slender like a pillar and can be seen from far away across the flat plain. The list of officials and instruments comes back several times in the chapter, word for word. It sounds like an official announcement, and it is meant to: this is how a state talks when it allows no exceptions.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does this story sound when you know that the three friends are there on official duty, as administrators of the province?** What did they have to lose besides their lives?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Commandment They Knew by Heart",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 20:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "You shall have no other gods before Me. You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath. You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In chapter 1 these same men accepted Babylonian names, schooling, and offices. **Why is there no more room to negotiate here?** What sets bowing down apart from everything they had agreed to before?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "They could have knelt and prayed silently to the God of Israel. No one would have known. **Why was that not a way out?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "What God Will Deliver You?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 3:8-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "At this time some astrologers came forward and maliciously accused the Jews, saying to King Nebuchadnezzar, “O king, may you live forever! You, O king, have issued a decree that everyone who hears the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music must fall down and worship the golden statue, and that whoever does not fall down and worship will be thrown into the blazing fiery furnace. But there are some Jews you have appointed to manage the province of Babylon—Shadrach, Meshach, and Abednego—who have ignored you, O king, and have refused to serve your gods or worship the golden statue you have set up.” Then Nebuchadnezzar, furious with rage, summoned Shadrach, Meshach, and Abednego. So these men were brought before the king, and Nebuchadnezzar said to them, “Shadrach, Meshach, and Abednego, is it true that you do not serve my gods or worship the golden statue I have set up? Now, if you are ready, as soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the statue I have made. But if you refuse to worship, you will be thrown at once into the blazing fiery furnace. Then what god will be able to deliver you from my hands?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look closely at the accusation in verse 12. **What do the accusers remind the king of before they even mention the statue?** What does that tell you about their real motive?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The king is furious, and yet he gives them a second chance and has the orchestra play again. **Why can a second chance be harder than the first refusal?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In the previous chapter this same king said that Daniel’s God is “the God of gods and Lord of kings.” Now he asks, “what god will be able to deliver you from my hands?” **What happened to his confession?** What is amazement at God worth when nothing else follows from it?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "But Even If He Does Not",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 3:16-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king. But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden statue you have set up.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This answer has two parts. **What are the three friends sure of, and what don’t they know?** Read verses 17 and 18 again, slowly.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“But even if He does not.” **What does their faithfulness depend on, if it doesn’t depend on whether God rescues them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**How is the sentence “I trust that God will save me” different from the sentence “I trust God”?** Which one are these three saying?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "They say “we” and answer with one voice. **What would have changed if only one of them had been standing before the king?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "They don’t bargain with God or set Him conditions. Nor do they say the fire won’t touch them. They say two things at once: our God is able, and if He doesn’t do it, nothing changes between us. This is not a lack of faith in miracles. It is a faith that doesn’t need a miracle in order to stay faith. The king asked which god would deliver them. They answer that this is not the most important question for them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Through the Fire",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 43:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now this is what the LORD says—He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine! When you pass through the waters, I will be with you; and when you go through the rivers, they will not overwhelm you. When you walk through the fire, you will not be scorched; the flames will not set you ablaze. For I am the LORD your God, the Holy One of Israel, your Savior; I give Egypt for your ransom, Cush and Seba in your place."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "These words of Isaiah are older than the exile, and the three friends may well have known them. **What does this promise say: that there will be no fire, or something else?** Notice the words “When you walk through the fire” and “I will be with you.”",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Babylon gave them new names. God says, “I have called you by your name; you are Mine!” **How does that sentence sound to someone standing before the king as Shadrach?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Fourth in the Fire",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 3:19-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual, and he commanded some mighty men of valor in his army to tie up Shadrach, Meshach, and Abednego and throw them into the blazing fiery furnace. So they were tied up, wearing robes, trousers, turbans, and other clothes, and they were thrown into the blazing fiery furnace. The king’s command was so urgent and the furnace so hot that the fiery flames killed the men who carried up Shadrach, Meshach, and Abednego. And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into the blazing fiery furnace. Suddenly King Nebuchadnezzar jumped up in amazement and asked his advisers, “Did we not throw three men, firmly bound, into the fire?” “Certainly, O king,” they replied. “Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God could have put out the furnace, stopped the king, or prevented the accusation. **What does He do instead?** At what moment and in what place does the fourth figure appear?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "They fell in “firmly bound,” and the king sees them “unbound… walking around in the fire.” **So what burned up in that furnace?** What does that say about what the fire was for them, and what it was for those who threw them in?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "It is the king who sees the fourth figure, from the outside. The text doesn’t say what the three saw or felt. **Why is rescue sometimes easier to see for those watching from the side than for the one inside?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Two details keep this scene firmly on the ground. The heat kills the soldiers right at the opening, so the danger is no metaphor. And the only thing that burns inside is the ropes. The three men keep their clothes, their turbans, the hair on their heads, and they walk around freely. The fourth does not lead them out of the furnace. He walks there with them until the king himself calls them out.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 25 the KJV has “like the Son of God.” In the Aramaic original the king says literally `bar elahin`, that is, “son of the gods,” and that is how the BSB renders it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 3:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Nebuchadnezzar speaks like a pagan. He sees a being from the divine world and names it the only way he knows how. In verse 28 he himself will call it an “angel.” From the earliest centuries, Christians have seen in the fourth figure Christ before His incarnation. The text of Daniel does not settle the question.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does your reading of this scene change if the One walking with them in the fire is the One who will later go through death Himself and not be taken out of it?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Come Out!",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 3:26-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out!” So Shadrach, Meshach, and Abednego came out of the fire, and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them. Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who trusted in Him. They violated the king’s command and risked their lives rather than serve or worship any god except their own God. Therefore I decree that the people of any nation or language who say anything offensive against the God of Shadrach, Meshach, and Abednego will be cut into pieces and their houses reduced to rubble. For there is no other god who can deliver in this way.” Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same officials who fell down before the statue that morning are now looking at three people who didn’t. **What do they see? Who in this scene turned out to be free, and who turned out to be bound?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The king blesses God and immediately issues a new decree: anyone who speaks against this God will be cut into pieces. **What has he learned, and what does he still not understand?** How is the new decree different from the morning’s?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "After coming out of the furnace, the three friends don’t say a single word in this chapter. **Why does their silence fit what they said in verses 16-18?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Those Who Quenched the Fire, and the Others",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:32-40",
+       "przeklad": "BSB",
+       "akapity": [
+        "And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets, who through faith conquered kingdoms, administered justice, and gained what was promised; who shut the mouths of lions, quenched the raging fire, and escaped the edge of the sword; who gained strength from weakness, became mighty in battle, and put foreign armies to flight. Women received back their dead, raised to life again. Others were tortured and refused their release, so that they might gain a better resurrection. Still others endured mocking and flogging, and even chains and imprisonment. They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated. The world was not worthy of them. They wandered in deserts and mountains, and hid in caves and holes in the ground. These were all commended for their faith, yet they did not receive what was promised. God had planned something better for us, so that together with us they would be made perfect."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In one breath the author lists those who “quenched the raging fire” and those who were “sawed in two” and “put to death by the sword.” **Does he treat the first group as people of greater faith?** According to verse 39, what do both groups have in common?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which part of this list does the sentence “But even if He does not” belong to?** What would be left of it if the Bible knew only the first part?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Plain of Dura and Revelation",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The last book of the Bible describes a scene that sounds familiar.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 13:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Because of the signs it was given to perform on behalf of the first beast, it deceived those who dwell on the earth, telling them to make an image to the beast that had been wounded by the sword and yet had lived. The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship it to be killed. And the second beast required all people small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead, so that no one could buy or sell unless he had the mark—the name of the beast or the number of its name."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The parallels are in the text itself: an image, a command to worship, death for refusing, a scene that includes everyone, and even the number six in the statue’s dimensions and in the number in the next verse of Revelation. John describes the future in the words of the plain of Dura. Christians differ on when and how this scene is fulfilled. Some read it as a picture of persecution under the Roman emperors. Others, including Adventists, also see in it the final test before Christ’s return, when once again the issue will be coercion in matters of worship. Everyone agrees on the pattern: a power that demands worship under threat is repeating Babylon, and the answer of the faithful is the same as in Daniel 3:18.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What should someone who ever faces coercion in matters of conscience remember from chapter 3?** What does this chapter not promise?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "At the end, Nebuchadnezzar also reaches for coercion, this time in defense of the true God. **Does coercion become better when it serves a good cause?** What does it say about God that He Himself forces no one in this chapter?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t let the conversation turn into guessing who the beast is today and what the mark is. This material points to no state, institution, or date. The pattern and the answer from verse 18 are enough.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Golden statues aren’t always ninety feet tall. **What do people kneel before today because everyone else is kneeling and refusing costs something?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What are you asking God for in such a way that your trust in Him depends on the outcome?** What would your “But even if He does not” sound like in that matter?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **has there been a furnace in your life that God did not take you out of, and yet you know you were not in it alone?** You can also say that you don’t know.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 12:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "About that time, King Herod reached out to harm some who belonged to the church. He had James, the brother of John, put to death with the sword. And seeing that this pleased the Jews, Herod proceeded to seize Peter during the Feast of Unleavened Bread. He arrested him and put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out to the people after the Passover. So Peter was kept in prison, but the church was fervently praying to God for him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "That same night an angel will lead Peter out of prison. No one led James out, though the church surely prayed for him too. **Why does God take some out of the furnace and not others? What can we say to James’s family, and what must we never say?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t manufacture an answer. The Bible doesn’t give one here. It helps if two things get said. The three friends accepted both possibilities in advance and did not take either one as proof that God had abandoned them. And the promise in Isaiah is not “there will be no fire” but “I will be with you.”",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God never promised that I would be spared the furnace. He promised that I would not go into it alone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 3:17-18 or Isaiah 43:2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of something where you have quietly set God a condition: if You give me this, I will trust You. Name that condition before Him plainly. You don’t have to take it back right away. First just see that it’s there.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Recall the last time you did what everyone else was doing, even though something in you said no. Ask yourself, without excuses: **what was I afraid of then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you carry a grievance against God over a furnace He did not take you or someone else out of, tell Him about it in your own words, without softening it. Then read Isaiah 43:2 aloud and stay with the words “I will be with you.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“God didn’t save me,” or “We prayed, and he died anyway.”** This is the most important moment of the meeting. Don’t explain God and don’t look for a reason. Say that this story has a sentence at its very center for exactly this kind of situation, and that the three friends themselves allowed for the possibility that they would burn. If you are leading level 2, turn to Hebrews 11, where those who died for their faith stand in the same line as those who quenched the fire. Stay with this person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If their faith had been weak, they would have burned,” or “Whoever truly believes, the fire won’t touch.”** Go back to verse 18. They themselves didn’t know how it would end. Nowhere does the text connect the outcome with the strength of their faith. A sentence like that, spoken in front of someone who has lost a loved one, wounds. Interrupt it calmly and right away.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone admits that they once “bowed down”: denied their faith at work, in their family, under a former regime.** Don’t judge, and don’t let the group judge. This chapter doesn’t say what God does with those who fell down. Other places in the Bible speak to that, the story of Peter for one. Thank them for their honesty and don’t press further.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts into current politics, into who is forcing people to bow down today and who Babylon is.** Stop it. This material points to no present-day state, party, or institution. Ask instead about statues without a furnace: the opinion of the people around you, a promotion, peace and quiet.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So where was Daniel?”** The text doesn’t say. He may have been away from the capital, or his office may have excused him from attending. Any answer is a guess. Say so plainly and go back to the people who are in the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks whether the fourth figure is Jesus.** Many Christians read it that way, and it is a beautiful reading. The text itself gives only the words of a pagan king, who in verse 28 speaks of an angel. There is more in The Word block at level 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after the question about their own “But even if He does not.”** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Just read Block 2 aloud, without questions. Don’t shorten Blocks 3 and 4: the friends’ one sentence and the fourth figure carry the whole meeting.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“God didn’t save me,” or “We prayed, and he died anyway.”",
+     "odpowiedz": "This is the most important moment of the meeting. Don’t explain God and don’t look for a reason. Say that this story has a sentence at its very center for exactly this kind of situation, and that the three friends themselves allowed for the possibility that they would burn. If you are leading level 2, turn to Hebrews 11, where those who died for their faith stand in the same line as those who quenched the fire. Stay with this person after the meeting."
+    },
+    {
+     "sytuacja": "“If their faith had been weak, they would have burned,” or “Whoever truly believes, the fire won’t touch.”",
+     "odpowiedz": "Go back to verse 18. They themselves didn’t know how it would end. Nowhere does the text connect the outcome with the strength of their faith. A sentence like that, spoken in front of someone who has lost a loved one, wounds. Interrupt it calmly and right away."
+    },
+    {
+     "sytuacja": "Someone admits that they once “bowed down”: denied their faith at work, in their family, under a former regime.",
+     "odpowiedz": "Don’t judge, and don’t let the group judge. This chapter doesn’t say what God does with those who fell down. Other places in the Bible speak to that, the story of Peter for one. Thank them for their honesty and don’t press further."
+    },
+    {
+     "sytuacja": "The conversation drifts into current politics, into who is forcing people to bow down today and who Babylon is.",
+     "odpowiedz": "Stop it. This material points to no present-day state, party, or institution. Ask instead about statues without a furnace: the opinion of the people around you, a promotion, peace and quiet."
+    },
+    {
+     "sytuacja": "“So where was Daniel?”",
+     "odpowiedz": "The text doesn’t say. He may have been away from the capital, or his office may have excused him from attending. Any answer is a guess. Say so plainly and go back to the people who are in the text."
+    },
+    {
+     "sytuacja": "Someone asks whether the fourth figure is Jesus.",
+     "odpowiedz": "Many Christians read it that way, and it is a beautiful reading. The text itself gives only the words of a pagan king, who in verse 28 speaks of an angel. There is more in The Word block at level 3."
+    },
+    {
+     "sytuacja": "The group goes quiet after the question about their own “But even if He does not.”",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Just read Block 2 aloud, without questions. Don’t shorten Blocks 3 and 4: the friends’ one sentence and the fourth figure carry the whole meeting."
+    }
+   ]
+  }
+ ]
+}

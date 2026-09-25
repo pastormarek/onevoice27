@@ -1,0 +1,771 @@
+{
+ "tytul": "Adult Children, Aging Parents",
+ "id": "R-07",
+ "seria": "Relationships",
+ "opis": "Honor and leave: two words for adults who have lives of their own and parents whose strength is failing.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 20:12; Leviticus 19:32; Proverbs 23:22; Genesis 2:24; Genesis 12:1; Mark 7:9-13; Ruth 1:8-11, 14-18; John 19:25-27",
+  "p2": "Psalm 71:9, 17-18; Matthew 10:34-37; 1 Timothy 5:3-4, 8; Genesis 47:7-12",
+  "p3": "Luke 14:26; Psalm 27:10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 30
+ },
+ "tagi": [
+  "relationships",
+  "parents",
+  "old age",
+  "caregiving",
+  "commandment",
+  "marriage"
+ ],
+ "wersja": 1,
+ "zdanie": "You can leave your parents’ home and never abandon your parents.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The commandment about parents is usually explained to children. But the people standing at the foot of Sinai were adults, and their parents were already old. This meeting is about grown-ups who have lives of their own and parents whose strength is failing. The Bible tells them two things at once: honor and leave. The whole meeting plays out between those two words. To honor does not mean to obey in everything. To leave does not mean to abandon.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have been harmed by a parent: beaten, humiliated, abandoned, raised around alcohol. For them the word “honor” sounds like a demand to pretend nothing happened. The commandment does not demand that. Read the first red flag before you start.",
+      "Someone is caring for a sick parent right now and is at the end of their strength. Someone else has moved their father into a care home and carries guilt about it. Someone buried their mother a month ago and didn’t get to say goodbye.",
+      "Siblings can argue for years about who does more. If there are relatives at the table, this is a hot topic.",
+      "There are also people whose parents don’t accept their faith or their church."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t hold anyone up as a model son or daughter. Don’t judge anyone’s decisions about care. Don’t tell anyone they ought to make peace with a parent. Related meetings you can turn to separately are Forgiveness, Reconciliation, and Boundaries.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When you were a child, who in your family looked after the oldest generation? Say in one sentence what that looked like.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. Don’t comment on other people’s answers, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Commandment for Adults",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 20:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you."
+       ]
+      },
+      {
+       "odnosnik": "Leviticus 19:32",
+       "przeklad": "BSB",
+       "akapity": [
+        "You are to rise in the presence of the elderly, honor the aged, and fear your God. I am the LORD."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 23:22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Listen to your father who gave you life, and do not despise your mother when she is old."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Ten Commandments were heard by grown people standing at the foot of the mountain, not by children. **What changes in this commandment when you read it as a word to a forty-year-old with a seventy-year-old mother?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text says “Honor.” It doesn’t say “obey in everything,” “agree,” or even “love.” **How is honor different from each of those three things?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Proverbs adds the reason for contempt: “when she is old.” **What happens between a child and a parent when the parent grows weak, that it needed to be written down?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Ten Commandments only two say what to do rather than what not to do: the one about the Sabbath and the one about parents. A prohibition marks a boundary and leaves the rest of the field open. A positive command has no upper limit, so you can’t check it off. It is also worth noticing to whom the long days in the land were promised: to the whole people. Each generation shows the next how it will one day be treated itself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Voice from the Other Side",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 71:9, 17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not discard me in my old age; do not forsake me when my strength fails. … O God, You have taught me from my youth, and to this day I proclaim Your marvelous deeds. Even when I am old and gray, do not forsake me, O God, until I proclaim Your power to the next generation, Your might to all who are to come."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is the prayer of an old man. **What is he afraid of? List it from the text.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This man still has something to do: he wants to tell. **What does that mean for the way we listen to our old parents, even when they say the same thing for the tenth time?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew verb in the commandment, `kabbed`, comes from a root meaning “to be heavy, to weigh.” To honor someone is literally to give them weight, to treat them as someone who counts. The Bible uses the same root when it speaks of giving glory to God. The form of the verb describes a lasting attitude, not a single gesture.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would it mean to “give weight” to a parent you disagree with?** Can you give someone weight and at the same time tell them “no”?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Leave",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:24",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 12:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same Scripture that tells us to honor father and mother tells us to leave them. **How do these two sentences sit side by side? What must be left, and what must never be abandoned?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What happens in a home where one of the spouses never left their parents?** And what happens to the parents when a child understands “leave” as “abandon”?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram hears “Leave … your father’s household” as a grown, married man. **Can you live separately and still never have left your father’s house?** How can you tell?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that world it was the woman who went off to her husband’s household, and the man stayed with his clan. The sentence in Genesis speaks about the man, and it goes against custom. So it isn’t about moving house. It is about who is closest from now on and whose voice carries the most weight. An adult’s first loyalty belongs to their spouse, not to their ancestors. For single people the same truth remains in another form: adulthood begins by stepping out from under your parents’ authority, not out from under their dignity.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Order of Love",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 10:34-37",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not assume that I have come to bring peace to the earth; I have not come to bring peace, but a sword. For I have come to turn ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law. A man’s enemies will be the members of his own household.’ Anyone who loves his father or mother more than Me is not worthy of Me; anyone who loves his son or daughter more than Me is not worthy of Me;"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t tell us to stop loving our parents. He sets an order. **What comes first in this text, and what comes second? Is second place a small thing?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "There are people whose parents did not accept their decisions about faith. **How can you refuse to give way to your parents in a matter of conscience and still not stop honoring them?** What does that look like in practice, at the holiday table?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “Does Not Hate His Father”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Luke recorded the same saying of Jesus in a sharper form.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:26",
+       "przeklad": "BSB",
+       "akapity": [
+        "“If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In Semitic speech, “love” and “hate” could be a pair of words used to express priority: one thing I put higher, the other lower. Matthew gives the same meaning directly: “more than Me.” Jesus, who in Mark 7 defends the commandment about parents against pious evasions, cannot be abolishing that commandment in Luke 14.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why did Jesus use such a harsh word when He could have said it more gently?** What would be lost if we had only Matthew’s version?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Corban",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 7:9-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "He went on to say, “You neatly set aside the command of God to maintain your own tradition. For Moses said, ‘Honor your father and your mother’ and ‘Anyone who curses his father or mother must be put to death.’ But you say that if a man says to his father or mother, ‘Whatever you would have received from me is Corban’ (that is, a gift devoted to God), he is no longer permitted to do anything for his father or mother. Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Describe in your own words the mechanism Jesus exposes here.** What did a person gain by saying “Corban” to his parents?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This man doesn’t look like a bad son. He looks like a generous donor. **What present-day “Corban” lets an adult child feel all right?** Think about work, distance, your own family, and even service in the church.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus speaks of “whatever you would have received from me,” help that was owed to the parents. **What kind of help was that in a world without pensions and hospitals? And what kind is it today, when the pension is deposited into their account?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Corban means “offering.” Property covered by such a vow was considered set apart for the temple and could no longer be used for the parents. We know this formula from inscriptions of that period too, and later Jewish tradition itself closed this loophole. Jesus is not against gifts to the temple, since He praises the poor widow’s coins. He is against selfishness dressed up as piety. In His mouth, honor has very concrete content: bread on the table of your old parents.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Your Own Household First",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Timothy 5:3-4, 8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Honor the widows who are truly widows. But if a widow has children or grandchildren, they must first learn to show godliness to their own family and repay their parents, for this is pleasing in the sight of God. … If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The church in Ephesus supported widows from a common fund. **According to Paul, who has the first obligation, and why isn’t it the church?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul speaks of children who “repay their parents.” **What did we receive from our parents that can’t be repaid to anyone else?** And what if someone received very little?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Where You Go",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Naomi is a widow who has buried both her sons in a foreign land. She is going back to Bethlehem. Her two daughters-in-law, Moabite women, go with her, though after their husbands’ deaths they owe her nothing anymore.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 1:8-11, 14-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Naomi said to her two daughters-in-law, “Go back, each of you to your mother’s home. May the LORD show you loving devotion, as you have shown to your dead and to me. May the LORD enable each of you to find rest in the home of your new husband.” And she kissed them as they wept aloud and said, “Surely we will return with you to your people.” But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands? … Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clung to her. “Look,” said Naomi, “your sister-in-law has gone back to her people and her gods; follow her back home.” But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God. Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.” When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Three times Naomi tells them to go back. **What does that say about an older woman who herself releases the younger ones from their obligation toward her?** What does she not do, though she could?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ruth is not Naomi’s daughter, and no law holds her there. **What in her words shows that this is a choice and not compulsion?** How is care given by choice different from care given under compulsion, both for the caregiver and for the one being cared for?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Orpah weeps, kisses her mother-in-law, and goes home. The text doesn’t condemn her. **Why does that matter for someone who can’t do as much for their parents as their brother or sister does?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "These are Ruth’s first words in the whole book. Her commitment reaches beyond her mother-in-law’s life: “Where you die, I will die, and there I will be buried” means giving up a grave in her own homeland. Ruth calls on the LORD as witness; in other words, she takes an oath. She isn’t going to Bethlehem to find a husband, because Naomi has just explained to her that she won’t find one there. She is following an old woman who has nothing to offer her.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Here Is Your Mother",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 19:25-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Near the cross of Jesus stood His mother and her sister, as well as Mary the wife of Clopas and Mary Magdalene. When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son.” Then He said to the disciple, “Here is your mother.” So from that hour, this disciple took her into his home."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus is dying, and one of the last things He takes care of is His mother’s care. **What does that say about the weight the commandment about parents had in His eyes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus cannot take care of His mother Himself, so He entrusts her to someone He trusts. **What does this scene say to people who are unable to care for a parent personally?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mary’s care falls to someone outside the family. **What role can the church have toward old people who have no one close to them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus had brothers, but John wrote earlier that at that time they did not yet believe in Him. In the hour of the cross, His mother goes to the disciple standing right beside her. Jesus doesn’t set aside a son’s duty for the sake of a more important mission, though it is hard to imagine a more important one. He fulfills it to the end, as best He can: He finds a person, and He says it out loud in front of witnesses.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Old Father Before Pharaoh",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 47:7-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Joseph brought in his father Jacob and presented him before Pharaoh, and Jacob blessed Pharaoh. “How many years have you lived?” Pharaoh asked. “My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.” Then Jacob blessed Pharaoh and departed from his presence. So Joseph settled his father and brothers in the land of Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh had commanded. Joseph also provided his father and brothers and all his father’s household with food for their families."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joseph is the second most powerful man in Egypt, and he brings an old shepherd from the provinces to court. **What in this scene is an act of honor? List the specific gestures.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jacob sums up his life with the words “few and hard.” **How do you listen to a parent who talks about their life that way?** What do you want to say back then, and what is better left unsaid?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jacob openly favored Joseph over his other sons, and that favoritism once tore the family apart; Joseph paid for it with years of slavery. Now he feeds his father. **What does Joseph not hold against his father in this scene, and what does he do for him anyway?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Three words came up today: “honor,” “leave,” and “Corban.” **Which of them concerns you most right now, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In your situation, what would it mean to give your parents weight without handing them the steering wheel of your own life?** Try to name one specific thing.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something you would still like to say to your father or mother, or do for them, while there is time?** And if they are no longer living, what was left unfinished?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 27:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Though my father and mother forsake me, the LORD will receive me."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The commandment, as written, makes no exception for bad parents. Yet the same Bible knows that a father and mother can forsake a child, and it doesn’t ask the child to pretend otherwise. **How do you honor a parent who did harm? What is the smallest thing that still counts as honor, and what does honor certainly not require?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t produce an answer. It helps if someone says that honor doesn’t require closeness, doesn’t require silence about harm, and doesn’t require putting yourself or your own children at risk. Sometimes its whole content is this: I don’t pay back evil, I don’t humiliate, and I make sure the old person is cared for, even if by other hands.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "You can leave your parents’ home and never abandon your parents.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Exodus 20:12 or Proverbs 23:22.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of your father and your mother, each separately. Ask yourself: **how much weight does his voice carry in my life today, and how much does hers?** Too much or too little? Don’t correct the answer before you’ve heard it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Find your own “Corban,” the sentence you use to explain to yourself why you don’t call, don’t visit, don’t ask. **Tell it to God just as it is.** It may turn out to be an honest reason, or it may be an excuse. Before Him you don’t have to settle that in your own favor.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if your parent is alive and talking with them is safe, ask them about something from their life you have never asked about, and listen all the way to the end. If they are no longer living, or contact isn’t possible, tell God what you didn’t get to say, or couldn’t say, to them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says or hints that a parent harmed them.** This is the most important flag of this meeting. Say clearly, in front of everyone: honoring does not mean pretending the harm didn’t happen, and it doesn’t mean continuing to expose yourself to it. The commandment takes away no one’s right to a safe distance or to protecting their own children. Don’t ask for details, and don’t let the group give advice. Don’t say, “But she’s still your mother.” If the harm is ongoing or someone is in a bad way, stay with them after the meeting and help them find professional help. Point them to a crisis line in your country, or in an emergency, your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“My mother demands everything, and nothing is ever enough for her.”** Don’t judge either the mother or the person speaking. Go back to section 2: the Scripture that tells us to honor also tells us to leave. You can ask: “What in what she expects is honor, and what would already be handing her the steering wheel?” There is more on this in the Boundaries meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is caring for a sick parent and is exhausted, or feels guilty about a care home.** Don’t force comfort, and don’t praise them for being heroic. Point to section 5: Jesus entrusted His mother to someone else because He couldn’t care for her Himself, and that was fulfilling the commandment, not running from it. After the meeting, ask whether the group can help with something concrete. The group doesn’t give medical or legal advice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**An argument over which sibling does more.** Don’t settle it, and don’t let the group settle it. Orpah and Ruth chose differently, and the text condemns neither. Shift the question to the first person: “What can I do, regardless of what my brother does?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone has recently buried their father or mother and talks about feeling guilty.** Listen, say thank you, and don’t say “you did everything you could” if you don’t know that. The last item in To Do is written for them too. If the grief is fresh, the related meeting is Grief.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“My parents can’t forgive me for changing churches.”** This is real pain and a common situation. Level 2 has a passage for this in Matthew 10. In short: in a matter of conscience you can refuse to give way and still rise in the presence of the old. Honor then shows itself in tone, patience, and presence, not in agreement.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to Mary’s role in the Church.** There may be Catholics at the table, and people for whom this matters. Don’t argue. Stay with the scene: a dying son makes sure his mother is provided for. The question about Mary can be taken up another time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time for the material.** Skip section 4. Sections 1, 2, and 3 carry the tension between “honor,” “leave,” and “Corban,” and section 5 brings it to a close.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says or hints that a parent harmed them.",
+     "odpowiedz": "This is the most important flag of this meeting. Say clearly, in front of everyone: honoring does not mean pretending the harm didn’t happen, and it doesn’t mean continuing to expose yourself to it. The commandment takes away no one’s right to a safe distance or to protecting their own children. Don’t ask for details, and don’t let the group give advice. Don’t say, “But she’s still your mother.” If the harm is ongoing or someone is in a bad way, stay with them after the meeting and help them find professional help. Point them to a crisis line in your country, or in an emergency, your local emergency number."
+    },
+    {
+     "sytuacja": "“My mother demands everything, and nothing is ever enough for her.”",
+     "odpowiedz": "Don’t judge either the mother or the person speaking. Go back to section 2: the Scripture that tells us to honor also tells us to leave. You can ask: “What in what she expects is honor, and what would already be handing her the steering wheel?” There is more on this in the Boundaries meeting."
+    },
+    {
+     "sytuacja": "Someone is caring for a sick parent and is exhausted, or feels guilty about a care home.",
+     "odpowiedz": "Don’t force comfort, and don’t praise them for being heroic. Point to section 5: Jesus entrusted His mother to someone else because He couldn’t care for her Himself, and that was fulfilling the commandment, not running from it. After the meeting, ask whether the group can help with something concrete. The group doesn’t give medical or legal advice."
+    },
+    {
+     "sytuacja": "An argument over which sibling does more.",
+     "odpowiedz": "Don’t settle it, and don’t let the group settle it. Orpah and Ruth chose differently, and the text condemns neither. Shift the question to the first person: “What can I do, regardless of what my brother does?”"
+    },
+    {
+     "sytuacja": "Someone has recently buried their father or mother and talks about feeling guilty.",
+     "odpowiedz": "Listen, say thank you, and don’t say “you did everything you could” if you don’t know that. The last item in To Do is written for them too. If the grief is fresh, the related meeting is Grief."
+    },
+    {
+     "sytuacja": "“My parents can’t forgive me for changing churches.”",
+     "odpowiedz": "This is real pain and a common situation. Level 2 has a passage for this in Matthew 10. In short: in a matter of conscience you can refuse to give way and still rise in the presence of the old. Honor then shows itself in tone, patience, and presence, not in agreement."
+    },
+    {
+     "sytuacja": "The conversation drifts to Mary’s role in the Church.",
+     "odpowiedz": "There may be Catholics at the table, and people for whom this matters. Don’t argue. Stay with the scene: a dying son makes sure his mother is provided for. The question about Mary can be taken up another time."
+    },
+    {
+     "sytuacja": "You’re running out of time for the material.",
+     "odpowiedz": "Skip section 4. Sections 1, 2, and 3 carry the tension between “honor,” “leave,” and “Corban,” and section 5 brings it to a close."
+    }
+   ]
+  }
+ ]
+}

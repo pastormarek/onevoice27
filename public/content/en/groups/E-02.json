@@ -1,0 +1,632 @@
+{
+ "tytul": "Fear",
+ "id": "E-02",
+ "seria": "Emotions",
+ "opis": "The Bible says “do not be afraid” hundreds of times, because it knows we are afraid. Who gets the last word in our fear?",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Numbers 13:30-33; Mark 4:37-41; Matthew 14:28-31; Matthew 10:28-31; 1 John 4:18; Philippians 4:6-7",
+  "p2": "Numbers 14:1-4; 2 Kings 6:15-17; Psalm 56:3-4; Isaiah 41:10",
+  "p3": "Deuteronomy 31:6; Psalm 111:10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "emotions",
+  "trust",
+  "courage",
+  "worry"
+ ],
+ "wersja": 1,
+ "zdanie": "Faith doesn’t remove fear. It takes away fear’s last word.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t about learning to stop being afraid. The Bible says “do not be afraid” hundreds of times precisely because people are afraid and will go on being afraid. The question is who gets the last word in that fear.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may live with an anxiety disorder or panic attacks. That is not weak faith, and it’s not a problem to be solved in someone’s living room. Don’t promise that prayer will replace treatment.",
+      "The topic easily slides into disasters, politics and the end of the world. Keep coming back to the text.",
+      "Someone may be waiting right now for test results or be afraid for a child. Don’t turn that into an example."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t tell anyone they should pray more. Don’t put forward the idea that fear is a sin. Don’t comfort anyone with “everything will be fine,” because you don’t know that.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Say one sentence about something you were afraid of as a child and aren’t afraid of anymore. No explanations.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Twelve Men Saw the Same Thing",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 13:30-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Caleb quieted the people before Moses and said, “We must go up and take possession of the land, for we can certainly conquer it!” But the men who had gone up with him replied, “We cannot go up against the people, for they are stronger than we are!” So they gave the Israelites a bad report about the land that they had spied out: “The land we explored devours its inhabitants, and all the people we saw there are great in stature. We even saw the Nephilim there—the descendants of Anak that come from the Nephilim! We seemed like grasshoppers in our own sight, and we must have seemed the same to them!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "All twelve walked the same land for forty days. **How is Caleb’s report different from the others’? List the differences.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 33 says: “We seemed like grasshoppers in our own sight, and we must have seemed the same to them.” **How could they know how they looked in someone else’s eyes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The facts in both reports are basically the same. **So what was added?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Fear rarely makes up facts. The giants were real, the walls were high, the spies weren’t lying. But they added one sentence they had no way of checking: how we look in those people’s eyes. That is no longer an observation but a guess presented as an observation. That’s how fear works. It doesn’t counterfeit the world; it adds a conclusion to it and passes that conclusion on as part of the report.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What the People Did with the Report",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 14:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the whole congregation lifted up their voices and cried out, and that night the people wept. All the Israelites grumbled against Moses and Aaron, and the whole congregation said to them, “If only we had died in the land of Egypt, or if only we had died in this wilderness! Why is the LORD bringing us into this land to fall by the sword? Our wives and children will become plunder. Would it not be better for us to go back to Egypt?” So they said to one another, “Let us appoint a leader and return to Egypt.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "One night passed between the report and this decision. **What happened to this people’s story during that night?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "They want to go back to Egypt, that is, back to the slavery God brought them out of. **What does fear promise them in Egypt that they can’t see in Canaan?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "Word Study",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `yare` means both “to be afraid” and “to revere, to hold in awe.” The same verb describes panic in front of an enemy and the fear of God, which Proverbs 1:7 calls the beginning of knowledge. The Bible doesn’t have two separate words for these two things, because it sees them as one capacity pointed in different directions. Whoever fears God has less room left for fearing everything else.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the Old Testament, the phrase “do not be afraid” almost always appears in the same setting: someone faces something bigger than themselves, and God says these words together with a reason. The reason is never that the threat is small.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Storm",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:37-41",
+       "przeklad": "BSB",
+       "akapity": [
+        "Soon a violent windstorm came up, and the waves were breaking over the boat, so that it was being swamped. But Jesus was in the stern, sleeping on the cushion. So they woke Him and said, “Teacher, don’t You care that we are perishing?” Then Jesus got up and rebuked the wind and the sea. “Silence!” He commanded. “Be still!” And the wind died down, and it was perfectly calm. “Why are you so afraid?” He asked. “Do you still have no faith?” Overwhelmed with fear, they asked one another, “Who is this, that even the wind and the sea obey Him?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples don’t say, “Save us.” They say, “don’t You care that we are perishing?” **What did fear do to their trust in Jesus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus asks about their fear only after He has calmed the storm. **Why not earlier?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 41 says that after the storm was calmed they were “overwhelmed with fear.” They were more afraid than during the storm. **What exactly were they afraid of?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "There are two different fears in this scene. The first is fear of the elements, and it passes when the wind dies down. The second comes only once they are safe, and it is about the One sitting with them in the boat. Mark sets them side by side on purpose. The fear during the storm asked whether we would survive. The fear after the storm asks who He is. The second question matters more, and you can’t get to it on dry land.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "On the Water",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 14:28-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Lord, if it is You,” Peter replied, “command me to come to You on the water.” “Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus. But when he saw the strength of the wind, he was afraid, and beginning to sink, cried out, “Lord, save me!” Immediately Jesus reached out His hand and took hold of Peter. “You of little faith,” He said, “why did you doubt?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter walked on the water, and then he began to sink. **What changed between verse 29 and verse 30?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says, “why did you doubt?” but only after He has reached out His hand. **What does that order tell us?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Peter was the only one who got out of the boat, and the only one who sank. **Is his fear a failure here, or the price he paid?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "What to Fear",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 10:28-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the One who can destroy both soul and body in hell. Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father. And even the very hairs of your head are all numbered. So do not be afraid; you are worth more than many sparrows."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say, “There’s nothing to be afraid of.” **What does He say instead?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sparrows sold for a penny and hairs that are numbered. **What do these two pictures have in common, and why do they come right here, just after the sentence about killing the body?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus doesn’t remove fear; He relocates it. Instead of promising that nothing bad will happen, He says what is truly worth fearing, and then He adds something surprising: the little things are counted. A sparrow was the cheapest item in the market. The point is that God attends to what nobody bothers to count. Fear usually says: I’m alone in the face of what’s coming. The answer here isn’t aimed at the size of the threat but at that feeling of being alone.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Fear and Love",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 4:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "There is no fear in love, but perfect love drives out fear, because fear involves punishment. The one who fears has not been perfected in love."
+       ]
+      },
+      {
+       "odnosnik": "Philippians 4:6-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Be anxious for nothing, but in everything, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John connects fear with punishment. **How does that relate to fear about a job, a child, test results? Is he talking about a different fear, or the same one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t stop at “Be anxious for nothing.” **What exactly does he tell us to do with our worry, and what is missing from his prescription?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "A peace “which surpasses all understanding.” **What does it mean that it surpasses understanding rather than confirms it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Ways of Seeing",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Kings 6:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the servant of the man of God got up and went out early in the morning, an army with horses and chariots had surrounded the city. So he asked Elisha, “Oh, my master, what are we to do?” “Do not be afraid,” Elisha answered, “for those who are with us are more than those who are with them.” Then Elisha prayed, “O LORD, please open his eyes that he may see.” And the LORD opened the eyes of the young man, and he saw that the hills were full of horses and chariots of fire all around Elisha."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 56:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "When I am afraid, I put my trust in You. In God, whose word I praise—in God I trust. I will not be afraid. What can man do to me?"
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 41:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My right hand of righteousness."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Elisha doesn’t make the army go away or tell his servant he’s overreacting. **What does he pray for?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist writes “When I am afraid,” not “if I’m ever afraid.” **What does that assume about his life?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Isaiah 41:10, the reason not to be afraid comes up four times in a single verse. **What is that reason, and what is missing from among those reasons?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Fear of God",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If fear is something we are meant to be led out of, what do we do with the statement that “the fear of the LORD is the beginning of wisdom” (Psalm 111:10), and with Jesus’ words, “fear the One who can destroy both soul and body”?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Try to name the difference. **How is the fear of God different from being afraid of God?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "1 John 4:18 says that perfect love drives out fear. **Does that mean the fear of God is a stage we grow out of, or something else?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t force this to a close. It helps if someone says that we fear losing what we love, and that the fear of God is exactly that, not dread of punishment.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Name your fear in one specific sentence.** Not “I’m afraid about the future,” but what exactly you think is going to happen.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The spies added one sentence to the facts that they couldn’t check. **What sentence does your fear add to your facts?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **what were you afraid of a year ago, and how did it turn out?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What about fear that doesn’t go away despite prayer, despite knowing all these texts, despite years of faith? Does that mean something is wrong with that person’s faith?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the answer is no, but don’t give it right away. Let the group say it. If no one does, say it at the end.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Faith doesn’t remove fear. It takes away fear’s last word.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Isaiah 41:10 or Matthew 10:31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The next time you feel fear rising, stop at one question: **what is this fear promising me in return?** Usually it promises control, being ready for the worst, the sense that at least I won’t be caught off guard. See whether it keeps its word.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Go back to the thing you were most afraid of five years ago. **Ask God what you learned about Him through the way it turned out.** Even if it turned out badly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** tell one person one sentence about what you’re afraid of right now. Without explaining why it’s silly.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“A real Christian shouldn’t be afraid.”** That statement hurts people, and it isn’t true. You can answer from the text: God says “do not be afraid” hundreds of times precisely because people are afraid. You don’t say that to someone who has no problem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about panic attacks or treatment.** Don’t diagnose, and don’t suggest it’s a matter of faith. Thank them for their trust and move on. After the meeting you can ask whether they have someone to talk to about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Well, I’m not afraid of anything.”** Don’t confront. Shift the question: “What would you least want to lose?” That usually opens the same topic from the other side.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to the end of the world, war or politics.** Stop it with one sentence and go back to the text. Collective fear is convenient, because it lets us avoid talking about our own.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts advising others on what to do with their fear.** Interrupt gently: “Let’s save the advice for later and go back to the text.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Silence after a question about personal fear.** That’s natural. Naming your fear out loud costs something. Wait, and if no one starts, answer first yourself, briefly.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“A real Christian shouldn’t be afraid.”",
+     "odpowiedz": "That statement hurts people, and it isn’t true. You can answer from the text: God says “do not be afraid” hundreds of times precisely because people are afraid. You don’t say that to someone who has no problem."
+    },
+    {
+     "sytuacja": "Someone talks about panic attacks or treatment.",
+     "odpowiedz": "Don’t diagnose, and don’t suggest it’s a matter of faith. Thank them for their trust and move on. After the meeting you can ask whether they have someone to talk to about it."
+    },
+    {
+     "sytuacja": "“Well, I’m not afraid of anything.”",
+     "odpowiedz": "Don’t confront. Shift the question: “What would you least want to lose?” That usually opens the same topic from the other side."
+    },
+    {
+     "sytuacja": "The conversation drifts to the end of the world, war or politics.",
+     "odpowiedz": "Stop it with one sentence and go back to the text. Collective fear is convenient, because it lets us avoid talking about our own."
+    },
+    {
+     "sytuacja": "Someone starts advising others on what to do with their fear.",
+     "odpowiedz": "Interrupt gently: “Let’s save the advice for later and go back to the text.”"
+    },
+    {
+     "sytuacja": "Silence after a question about personal fear.",
+     "odpowiedz": "That’s natural. Naming your fear out loud costs something. Wait, and if no one starts, answer first yourself, briefly."
+    }
+   ]
+  }
+ ]
+}

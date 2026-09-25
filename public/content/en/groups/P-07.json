@@ -1,0 +1,864 @@
+{
+ "tytul": "What Is God Really Like?",
+ "id": "P-07",
+ "seria": "Questions People Ask",
+ "opis": "The picture of God we grew up with, set beside the God Jesus shows us.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 33:18-23; 34:5-7; Numbers 14:17-20; Nehemiah 9:16-17; John 1:14, 18; John 14:8-9; Luke 15:1-7; John 16:26-27; Romans 5:6-8",
+  "p2": "Joel 2:12-13; Hebrews 1:1-3; Luke 9:51-56; Ezekiel 33:11",
+  "p3": "Exodus 34:6-7; John 1:17; Ezekiel 18:1-4, 20; Nahum 1:2-3, 7"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 32
+ },
+ "tagi": [
+  "picture of God",
+  "God’s character",
+  "Father",
+  "Jesus",
+  "grace",
+  "fear"
+ ],
+ "wersja": 1,
+ "zdanie": "If you want to know what God is like, look at Jesus. Anything that doesn’t fit Him, you can safely question.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Everyone at the table has some picture of God, even those who don’t believe in God. That picture rarely comes from the Bible. More often it comes from home, from religion class, from one sermon, from their own father’s face. This meeting lays side by side two places where God Himself says what He is like: the words spoken to Moses on the mountain, and the life of Jesus. The thread is simple. Moses asks “show me” and hears a description. Philip asks “show us” and hears: you have been looking at Him for three years.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The word “Father” is not warm for everyone. Someone at the table may have had a father who hit, drank, or disappeared. Don’t assume the word helps.",
+      "Someone may have been raised in fear of a God who sees everything and writes everything down. For them the sentence “God is love” can be an empty slogan. Don’t argue; show the text.",
+      "It’s easy to slide into contrasting a harsh God of the Old Testament with a gentle Jesus. Today’s texts show the opposite: the warmest sentence about God is spoken at Sinai.",
+      "The other ditch is on the opposite side of the road: a God who doesn’t care. The self-portrait in Exodus includes a sentence about guilt, and it must not be cut out."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone about their father. Don’t correct someone else’s picture of God, even if it is grim. Let the text do that. The full story of the father and the two sons in Luke 15 has its own study in the parables series, and the question of judgment and hell has its own meeting in this series. Don’t open them today.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When you were a child, how did you imagine God? One image or one word.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on the answers, including the funny ones and the sad ones.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Show Me",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The people have just cast the golden calf. Moses intercedes for them, and at the end he asks for something for himself.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 33:18-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Moses said, “Please show me Your glory.” “I will cause all My goodness to pass before you,” the LORD replied, “and I will proclaim My name—the LORD—in your presence. I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.” But He added, “You cannot see My face, for no one can see Me and live.” The LORD continued, “There is a place near Me where you are to stand upon a rock, and when My glory passes by, I will put you in a cleft of the rock and cover you with My hand until I have passed by. Then I will take My hand away, and you will see My back; but My face must not be seen.”"
+       ]
+      },
+      {
+       "odnosnik": "Exodus 34:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD descended in a cloud, stood with him there, and proclaimed His name, the LORD. Then the LORD passed in front of Moses and called out: “The LORD, the LORD God, is compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness, maintaining loving devotion to a thousand generations, forgiving iniquity, transgression, and sin. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses asks for glory. **What would you expect from a display of God’s glory? What does Moses get instead?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List in order everything verses 6 and 7 say about God.** What comes at the beginning of the list, and what at the end? What does the order itself say?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Compare two numbers: loving devotion “to a thousand generations,” guilt “to the third and fourth generations.” **What does that proportion say?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "These words are spoken right after the golden calf. **What difference does it make that God introduces Himself this way at that moment, and not on a day when the people had been faithful?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is God’s most important self-portrait in the Old Testament, and the sentence the Old Testament itself quotes most often. Moses wanted to see. God let him hear. Glory turned out to be character: compassion, grace, patience, faithfulness, forgiveness. The sentence about guilt stands at the end and is shorter, but it is there. A God who let everything slide would not be good news for anyone who has ever been wronged.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `rachum`, “compassionate,” comes from the word `rechem`, which means a mother’s womb. The first word God uses to describe Himself speaks of tenderness toward someone you have carried.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The pair “loving devotion and faithfulness” is `chesed we’emet` in Hebrew. `Chesed` is love that doesn’t leave, because it has bound itself by its word. `Emet` is truth in the sense of reliability.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "“Forgiving” is the Hebrew `nasa`, which literally means “to lift and carry.” In legal language it meant taking on responsibility for someone else’s guilt.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If to forgive means “to lift and carry,” then who in this sentence carries the weight?** How does that change the idea of forgiveness as just waving something away?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Iniquity of the Fathers on the Children",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Many people hear in verse 7 a God who punishes grandchildren for their grandparents’ sins. Yet the same Bible has a text in which God forbids that way of thinking.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 18:1-4, 20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the word of the LORD came to me, saying, “What do you people mean by quoting this proverb about the land of Israel: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge’? As surely as I live, declares the Lord GOD, you will no longer quote this proverb in Israel. Behold, every soul belongs to Me; both father and son are Mine. The soul who sins is the one who will die. … The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two ways of reading Exodus 34:7. The first sees here a description of consequences: in those days three or four generations lived under one roof, and a father’s evil really did strike the whole household. The second points to the parallel sentence in the commandments, which speaks of the generations “of those who hate Me,” that is, of children who follow in their fathers’ ways. Both readings share one thing: no one answers to God for someone else’s sin, and the measure of grace in this sentence is incomparably greater than the measure of guilt.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where do you see in life that evil passes from generation to generation?** How is the sentence “God sends this” different from the sentence “God sees this and names it”?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Sentence They Held On To",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Some time passes. The people stand at the border of the promised land and want to choose a leader to take them back to Egypt. God speaks of the end of this people. Moses prays.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 14:17-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "So now I pray, may the power of my Lord be magnified, just as You have declared: ‘The LORD is slow to anger and abounding in loving devotion, forgiving iniquity and transgression. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers upon their children to the third and fourth generation.’ Pardon, I pray, the iniquity of this people, in keeping with the greatness of Your loving devotion, just as You have forgiven them ever since they left Egypt.” “I have pardoned them as you requested,” the LORD replied."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Almost a thousand years later, after returning from exile, the people tell God their own history.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 9:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "But they and our fathers became arrogant and stiff-necked and did not obey Your commandments. They refused to listen and failed to remember the wonders You performed among them. They stiffened their necks and appointed a leader to return them to their bondage in Egypt. But You are a forgiving God, gracious and compassionate, slow to anger and rich in loving devotion, and You did not forsake them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What does Moses base his request on? What arguments are missing from his prayer**, even though we usually reach for them first?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Between these two prayers lie almost a thousand years of failures. **What did they remember from that millennium about themselves, and what about God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Moses says, “just as You have declared.” **So who spoke the words on the mountain?** What does it mean that this sentence is not a human opinion about God but what God said about Himself?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The sentence from Mount Sinai comes back in the Bible again and again: in the Psalms, in Joel, in Nehemiah, in Nahum. Israel reached for it whenever it had nothing else to lay on the table. There is also Jonah, who quotes it as a complaint. He ran from God not because he didn’t know Him, but because he knew Him well and knew He would show grace to people Jonah couldn’t stand.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Even Now",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joel 2:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Yet even now,” declares the LORD, “return to Me with all your heart, with fasting, weeping, and mourning.” So rend your hearts and not your garments, and return to the LORD your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joel gives the reason why it’s worth coming back. **What is that reason? How is returning to someone who is “gracious and compassionate” different from returning out of fear?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Yet even now.” **To whom at your table, in your family, or in yourselves might these words be addressed?** You don’t need to say it out loud.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Anyone Who Has Seen Me",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 1:14, 18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth. … No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known."
+       ]
+      },
+      {
+       "odnosnik": "John 14:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Philip said to Him, “Lord, show us the Father, and that will be enough for us.” Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Philip asks for the same thing Moses asked for. **How is the answer he gets different from the one on Mount Sinai?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Take Jesus’ sentence literally. **Recall three scenes from His life that you remember best. What does each of them say about the Father?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "John writes that no one has ever seen God. **So what should we do with the pictures of God we carry that don’t fit Jesus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "John writes his prologue with the book of Exodus before his eyes. “We have seen His glory” answers the request “Show me Your glory.” “Full of grace and truth” is a Greek echo of the Hebrew pair in Exodus 34:6, which the BSB renders “loving devotion and faithfulness.” John is saying: what Moses heard from behind God’s hand, we watched up close for three years. So Jesus is not a gentler version of God. He is the same self-portrait, only no longer in words.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Exact Representation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 1:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "On many past occasions and in many different ways, God spoke to our fathers through the prophets. But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe. The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The author sets “in many different ways … through the prophets” beside “by His Son.” **What follows from this for someone who comes across a passage in the Bible that leaves them with a dark picture of God?** Where should they start reading?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Fire from Heaven",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 9:51-56",
+       "przeklad": "BSB",
+       "akapity": [
+        "As the day of His ascension approached, Jesus resolutely set out for Jerusalem. He sent messengers on ahead, who went into a village of the Samaritans to make arrangements for Him. But the people there refused to welcome Him, because He was heading for Jerusalem. When the disciples James and John saw this, they asked, “Lord, do You want us to call down fire from heaven to consume them?” But Jesus turned and rebuked them. And He and His disciples went on to another village."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James and John have a biblical precedent on their side and sincere outrage. **Even so, what response do they get?** What picture of God were they carrying after three years of walking with Jesus?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t punish the village. He goes on to another one. **What does this scene say about how God treats people who don’t want Him?**",
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Some manuscripts lack Jesus’ words in verses 55 and 56, so in some translations, the BSB among them, the scene ends with “rebuked them.” The meaning of the scene is the same in both versions.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 1:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the law was given through Moses; grace and truth came through Jesus Christ."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some translations, such as the KJV, insert “but” here, which suggests a contrast: there the Law, here grace. In the Greek text there is no conjunction at all between the two halves of the sentence. The BSB renders it neutrally: “For the law was given through Moses; grace and truth came through Jesus Christ.” John does not set Moses against Jesus. Moses heard grace and truth on the mountain as a description of God. In Jesus that description “came,” that is, it arrived in the flesh.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does reading the whole Bible change if what stands between Sinai and Jesus is not “but” but “and”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Who He Eats With",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now all the tax collectors and sinners were gathering around to listen to Jesus. So the Pharisees and scribes began to grumble: “This man welcomes sinners and eats with them.” Then Jesus told them this parable: “What man among you, if he has a hundred sheep and loses one of them, does not leave the ninety-nine in the pasture and go after the one that is lost, until he finds it? And when he finds it, he joyfully puts it on his shoulders, comes home, and calls together his friends and neighbors to tell them, ‘Rejoice with me, for I have found my lost sheep!’ In the same way, I tell you that there will be more joy in heaven over one sinner who repents than over ninety-nine righteous ones who do not need to repent."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The charge is: He welcomes sinners and eats with them. Jesus doesn’t deny it and doesn’t explain Himself. He tells what happens in heaven. **What follows from that: whom is His table showing at this moment?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**In this short story, who searches, who carries, who rejoices? What does the sheep do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Pharisees knew the sentence from Mount Sinai by heart. **How is it possible to know it by heart and grumble when someone does exactly what it describes?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Father Himself",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 16:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "In that day you will ask in My name. I am not saying that I will ask the Father on your behalf. For the Father Himself loves you, because you have loved Me and have believed that I came from God."
+       ]
+      },
+      {
+       "odnosnik": "Romans 5:6-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "For at just the right time, while we were still powerless, Christ died for the ungodly. Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die. But God proves His love for us in this: While we were still sinners, Christ died for us."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus tells the disciples that He doesn’t have to ask the Father on their behalf, because “the Father Himself loves you.” **What picture of God is Jesus correcting with this sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read Romans 5:8 carefully. **Who gives the proof of love, and whose love is it?** What changes when the cross stops being a story about Jesus who persuaded God and becomes a story about God who is showing us something?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“While we were still sinners.” **How does that sentence relate to the belief that first you have to get better, and only then come?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Many Christians carry a quiet division of roles inside them: a stern Father and a gentle Son who stepped between us and Him. The texts in this block don’t allow that. The Father did not have to be placated. He is the one who sent, He gives the proof, He loves. If Jesus seeks the lost and eats with sinners, it is because that is what the One who sent Him is like.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Oath",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 33:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but rather that the wicked should turn from their ways and live. Turn! Turn from your evil ways! For why should you die, O house of Israel?’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God swears by His own life. **Why did He decide that in this matter a simple assurance was not enough?** What must people have been thinking about Him?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This sentence is spoken in the Old Testament, in a book full of announcements of judgment. **What does it say about whether the God of judgment and the God of rescue are two different persons?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where does the picture of God you carry come from?** How much of it comes from texts like today’s, and how much from home, school, church, someone’s face?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s sentences about God is hardest for you to accept as true?** Why do you think it’s that one?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **what would your prayer look like tonight if you seriously accepted that Someone like Jesus is on the other side?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Hard Pages of the Old Testament",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The flood, the wars in Canaan, prophets speaking of wrath. Anyone who reads the whole Bible sooner or later asks how this fits with Jesus.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nahum 1:2-3, 7",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD is a jealous and avenging God; the LORD is avenging and full of wrath. The LORD takes vengeance on His foes and reserves wrath for His enemies. The LORD is slow to anger and great in power; the LORD will by no means leave the guilty unpunished. His path is in the whirlwind and storm, and clouds are the dust beneath His feet. … The LORD is good, a stronghold in the day of distress; He cares for those who trust in Him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Believers respond to this tension in two ways. Some stress that Jesus is the fullest revelation of God and that everything else must be read in His light. God spoke to people as much as they could bear, and the picture grew over time. Others remind us that nothing may be smoothed over: Jesus also spoke about judgment, and a God who didn’t care about evil would not be good. They have more in common than what divides them. Both sides believe in one God of both Testaments, both take Jesus as the measure, and both see that in Nahum wrath and refuge stand in the same paragraph. This book was addressed to Nineveh, an empire known for its cruelty. For its victims, a sentence about a God who does not let evil go unpunished was gospel.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Would a God who never got angry be better?** For whom yes, and for whom no?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nahum quotes the sentence from Mount Sinai right in the middle of an oracle of judgment. **What does that say about how the prophets themselves understood the connection between God’s wrath and His grace?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Many people have known the Gospels since childhood, and yet they fear God more than they love Him. **Where does a picture stronger than the text come from? What would have to happen for the sentence “Anyone who has seen Me has seen the Father” to travel from the head further down?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t answer for the group. If someone says that’s true for them, thank them and don’t fix it. It’s enough that it was said out loud among people who didn’t run away.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "If you want to know what God is like, look at Jesus. Anything that doesn’t fit Him, you can safely question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** John 14:9 or Exodus 34:6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "You carry a picture of God inside you that switches on by itself: when you mess something up, when something goes well, when something bad happens. The next time that happens, stop and ask: **whose face does the God I just thought of have?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Take the sentence from Mount Sinai and say it to God as a question: **are You really like that toward me?** Stay with that question, even if at first the answer is silence.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit to God what you are afraid of in Him. Don’t smooth it over. Say it the way it sounds inside you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“The God of the Old Testament is cruel; Jesus is completely different.”** Don’t argue. Ask where the warmest sentence about God that you read today comes from. It comes from Exodus. Then point out that Jesus Himself says: anyone who has seen Me has seen the Father. If the group wants to go further, there is a level 3 block on the hard pages of the Old Testament.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“For me the word father means nothing good.”** Thank them and don’t probe. You can say that the Bible itself doesn’t start with the word “father” but with a description: compassionate, gracious, patient, faithful. You don’t have to come to God through your own father. You can come through Jesus. If the story is a heavy one, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I was scared with God from childhood.”** Don’t judge the people who did it, and don’t defend them. Say that fear of God is a common experience and that today’s texts are for exactly those who have it. Go back to John 16:27.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So God forgives everything and nothing matters.”** Read the end of Exodus 34:7 again. God does not let evil go unpunished. The question of judgment is serious and has its own meeting in this series. Today it’s enough to notice the order and proportion in the self-portrait.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone brings up the flood, Canaan, or another hard text and demands an explanation.** Don’t improvise a defense. Say it’s an honest question, and suggest the rule from Hebrews 1: we start with the Son, because that is where the picture is sharpest, and from Him we go to the darker places. A specific text can be taken up at a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone speaks about God bitterly after a personal tragedy.** This is not the moment for theology. Listen. Don’t defend God. The Psalms show that such a tone has a place in prayer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 1 and 3 carry the thread of the meeting, the two requests to “show,” and block 5 is the punch line; without it the meeting ends with a picture of Jesus without the Father.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“The God of the Old Testament is cruel; Jesus is completely different.”",
+     "odpowiedz": "Don’t argue. Ask where the warmest sentence about God that you read today comes from. It comes from Exodus. Then point out that Jesus Himself says: anyone who has seen Me has seen the Father. If the group wants to go further, there is a level 3 block on the hard pages of the Old Testament."
+    },
+    {
+     "sytuacja": "“For me the word father means nothing good.”",
+     "odpowiedz": "Thank them and don’t probe. You can say that the Bible itself doesn’t start with the word “father” but with a description: compassionate, gracious, patient, faithful. You don’t have to come to God through your own father. You can come through Jesus. If the story is a heavy one, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "“I was scared with God from childhood.”",
+     "odpowiedz": "Don’t judge the people who did it, and don’t defend them. Say that fear of God is a common experience and that today’s texts are for exactly those who have it. Go back to John 16:27."
+    },
+    {
+     "sytuacja": "“So God forgives everything and nothing matters.”",
+     "odpowiedz": "Read the end of Exodus 34:7 again. God does not let evil go unpunished. The question of judgment is serious and has its own meeting in this series. Today it’s enough to notice the order and proportion in the self-portrait."
+    },
+    {
+     "sytuacja": "Someone brings up the flood, Canaan, or another hard text and demands an explanation.",
+     "odpowiedz": "Don’t improvise a defense. Say it’s an honest question, and suggest the rule from Hebrews 1: we start with the Son, because that is where the picture is sharpest, and from Him we go to the darker places. A specific text can be taken up at a separate meeting."
+    },
+    {
+     "sytuacja": "Someone speaks about God bitterly after a personal tragedy.",
+     "odpowiedz": "This is not the moment for theology. Listen. Don’t defend God. The Psalms show that such a tone has a place in prayer."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 1 and 3 carry the thread of the meeting, the two requests to “show,” and block 5 is the punch line; without it the meeting ends with a picture of Jesus without the Father."
+    }
+   ]
+  }
+ ]
+}

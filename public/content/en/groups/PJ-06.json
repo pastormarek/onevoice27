@@ -1,0 +1,906 @@
+{
+ "tytul": "The Treasure, the Pearl, the Mustard Seed, and the Leaven",
+ "id": "PJ-06",
+ "seria": "Parables of Jesus",
+ "opis": "Four short pictures of a kingdom that starts small, works out of sight, and is worth everything.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 13:31-32; Matthew 13:33; Matthew 13:34-35; Matthew 13:44-46; Matthew 13:51-52",
+  "p2": "Ezekiel 17:22-24; Zechariah 4:6, 10; Genesis 18:6; Psalm 78:2; Isaiah 53:2; Isaiah 65:1; Isaiah 55:1-2; Philippians 3:7-8",
+  "p3": "Mark 4:30-32; 1 Corinthians 5:6-8; Luke 12:1; Leviticus 23:17; Exodus 19:5; 1 Peter 1:18-19"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 33
+ },
+ "tagi": [
+  "parables",
+  "kingdom of God",
+  "small beginnings",
+  "joy",
+  "hiddenness"
+ ],
+ "wersja": 1,
+ "zdanie": "The kingdom starts small and works out of sight. Whoever has seen what it is worth doesn’t count the cost.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Four miniatures, six verses in all. The first two say what the kingdom of God looks like: it is small and works out of sight. The next two say what it is worth: everything, and with no regrets. This meeting is not about church growth, and not about giving. It is about whether I can recognize God at work when it isn’t impressive, and what happens to a person who has seen what lies in the field.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Every parable of Jesus corrects some false picture of God. These four correct two. The first is a God who works only through what is big, strong, and visible from far away, so that where things are small and quiet, He isn’t there. The second is God as a tax collector, paid with self-denial and gritted teeth. Against the first stand the seed and the leaven; against the second, a man who sells everything out of joy. One note on reading: a parable mirrors a single truth, so you don’t build doctrine on side details, such as the fact that the finder hid the treasure. And another: the kingdom is not the same thing as the church as an institution, so the mustard plant isn’t measured by membership numbers.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be people at the table from a small congregation who have heard for years that nothing is happening there. The mustard seed can then easily turn either into a consolation prize or into a promise that someday we’ll be big. The text says neither.",
+      "“Sold all he had” can sound like a demand and stir up guilt. One person will think they gave too little. Another, that they gave everything and have no joy.",
+      "For someone, faith may be mainly a burden right now. The question about joy may hurt them. Don’t try to fix that at the table.",
+      "Someone will notice that the finder hid the treasure from the owner of the field. The answer is in the Red Flags."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone what they have given up for God. Don’t turn this meeting into an appeal for giving or for evangelism. Don’t measure the kingdom by membership numbers, up or down.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something small that over time turned out to matter in your life: one conversation, a chance meeting, a minor decision. Tell us in one sentence what it was.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, briefly. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Smallest of Seeds",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:31-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "He put before them another parable: “The kingdom of heaven is like a mustard seed that a man planted in his field. Although it is the smallest of all seeds, yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "People were waiting for the kingdom of God as something mighty and visible from far away. Jesus says: a mustard seed. **What did someone see that day when they looked at Jesus and His disciples? What does this comparison tell them about what they’re looking at?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read carefully what the seed becomes: “the largest of garden plants.” **What does it say about the kingdom that even full-grown it is still a plant from a vegetable garden?** What does this picture not promise?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The parable ends with the birds. **What does the plant give the birds, and what does it not require of them?** Who might the ones flying in be?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Galilee the mustard seed was proverbial for the smallest thing there is. More than seven hundred of them fit into a single gram. By the Sea of Galilee the plant grows in one season to two and a half or three meters (eight to ten feet). Its leaves were pickled and eaten. From the prophets, the listeners knew a different picture of the kingdom: a cedar on a high mountain. From that picture Jesus keeps the branches and the birds, and swaps the tree for a garden plant.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Matthew 13 is one day by the lake. Jesus sits in a boat, and the crowd stands on the shore. Matthew has gathered seven parables of the kingdom here. The first four, including the mustard seed and the leaven, are heard by everyone. Then Jesus sends the crowd away, goes into the house, and tells the last three, including the treasure and the pearl, only to the disciples. In the preceding chapters John the Baptist asks from prison whether Jesus really is the one who was to come, the towns of Galilee don’t respond to the miracles, and the Pharisees plot how to destroy Jesus.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** The expectation of the kingdom grew in part out of the book of Daniel: after a series of empires, God will set up a kingdom that will crush all the ones before it and fill the earth. Anyone listening with that picture in mind heard something surprising by the lake. The kingdom had come as a seed.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How would someone waiting for a kingdom that would crush Rome have heard the parable of the seed?** What would have had to change in them for them to accept that this was the answer?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Cedar and the Day of Small Things",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 17:22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the Lord GOD says: ‘I will take a shoot from the lofty top of the cedar, and I will set it out. I will pluck a tender sprig from its topmost shoots, and I will plant it on a high and lofty mountain. I will plant it on the mountain heights of Israel so that it will bear branches; it will yield fruit and become a majestic cedar. Birds of every kind will nest under it, taking shelter in the shade of its branches. Then all the trees of the field will know that I am the LORD. I bring the tall tree down and make the low tree tall. I dry up the green tree and make the withered tree flourish. I, the LORD, have spoken, and I have done it.’”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare Ezekiel’s picture with the parable. **What did Jesus keep from it, and what did He change?** Which sentence of Ezekiel’s could serve as a caption for the mustard seed?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Zechariah 4:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "So he said to me, “This is the word of the LORD to Zerubbabel: Not by might nor by power, but by My Spirit, says the LORD of Hosts."
+       ]
+      },
+      {
+       "odnosnik": "Zechariah 4:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For who has despised the day of small things? But these seven eyes of the LORD, which scan the whole earth, will rejoice when they see the plumb line in the hand of Zerubbabel.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Zechariah is speaking to people who, after returning from exile, were building a temple far more modest than the old one and were ashamed of it. **What is easiest to despise today as a “day of small things”?** How does the prophecy answer the question of where growth comes from?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek `lachanon`, rendered in the BSB as “garden plants,” means a garden vegetable, an edible herb. Mark, in his version, stays with this word to the end:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 4:30-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then He asked, “To what can we compare the kingdom of God? With what parable shall we present it? It is like a mustard seed, which is the smallest of all seeds sown upon the earth. But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Matthew adds that the garden plant “becomes a tree.” Botanically that’s an exaggeration, and Matthew knows it. With the word “tree” he points the reader to Ezekiel and to the dream in Daniel 4, where a tree with birds in its branches is a picture of a great kingdom.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Mark, Jesus wonders aloud what to compare the kingdom to, and He picks a garden plant. **What does the parable gain from the picture being a little bit funny?** What would it lose if Jesus had simply said: a cedar?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Three Measures of Flour",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:33",
+       "przeklad": "BSB",
+       "akapity": [
+        "He told them still another parable: “The kingdom of heaven is like leaven that a woman took and mixed into three measures of flour, until all of it was leavened.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What happens to the leaven the moment the woman kneads it into the flour? What can you see from the outside an hour later?** What does this picture say about the way the kingdom works?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The mustard plant grows outward, in plain view of everyone. The leaven works from the inside, and you can’t see it. **What does the second parable add to the first?** Where, according to it, should we look for the kingdom?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Flour won’t leaven itself, even if it sits in the kneading bowl for a hundred years. Someone has to put the leaven in. **What follows from that for a person who is trying to transform themselves by their own effort?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not an Everyday Batch",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 18:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Abraham hurried into the tent and said to Sarah, “Quick! Prepare three seahs of fine flour, knead it, and bake some bread.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Bread was baked every day. The leaven wasn’t yeast but a piece of yesterday’s dough that had been left unbaked and set aside for tomorrow. Three measures of flour is about forty liters (over ten gallons). That makes bread for more than a hundred people. No family needed that much for one day.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The woman in the parable is kneading dough for a feast no one can see yet. The same amount of flour went into the meal for Abraham’s three guests. **What does the size of this batch say about the kingdom?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A man sows the mustard seed in a field; a woman kneads the dough at home. Jesus often tells stories in pairs: a shepherd looks for a sheep, a woman looks for a coin. **What does that say about whom Jesus was talking to and whom He wanted to put in His stories?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Leaven as a Picture of Evil",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In most places in the Bible, leaven is a picture of something bad that permeates the whole.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 5:6-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Your boasting is not good. Do you not know that a little leaven works through the whole batch of dough? Get rid of the old leaven, that you may be a new unleavened batch, as you really are. For Christ, our Passover lamb, has been sacrificed. Therefore let us keep the feast, not with the old bread, leavened with malice and wickedness, but with the unleavened bread of sincerity and of truth."
+       ]
+      },
+      {
+       "odnosnik": "Luke 12:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "That gives two readings of the parable. The first, by far the more common, follows Jesus’ own words: it is the kingdom that is like leaven, so the picture is a good one and speaks of a quiet power that transforms everything it touches. The second holds to the usual meaning of the symbol and sees a warning here: corruption will work its way into what God has begun. What unites the two positions is the observation that in the Bible leaven has one property, not one meaning. It permeates the whole. Its direction comes from what it carries. It is also worth remembering that the loaves offered to God at the feast of firstfruits were baked with leaven:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 23:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Bring two loaves of bread from your dwellings as a wave offering, each made from two-tenths of an ephah of fine flour, baked with leaven, as the firstfruits to the LORD."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus took a picture that had bad associations for His listeners and compared the kingdom to it. **Why?** What does a comparison gain when at first it grates a little?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Hidden Things",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:34-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus spoke all these things to the crowds in parables. He did not tell them anything without using a parable. So was fulfilled what was spoken through the prophet: “I will open My mouth in parables; I will utter things hidden since the foundation of the world.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Matthew sums up the whole day with words about “things hidden.” **In the two parables we’ve read, what is hidden, and where?** Why would God want to work that way?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus talks to the crowd about a field and a kitchen. He doesn’t reach for the temple or a palace. **What does that say about the places where, in His view, the kingdom happens?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "A parable reveals and conceals at the same time. **Who in the crowd might have gone home with nothing but a little story about a vegetable, and who with something more? What did it depend on?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Root out of Dry Ground",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 78:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "I will open my mouth in parables; I will utter things hidden from the beginning,"
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 53:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "He grew up before Him like a tender shoot, and like a root out of dry ground. He had no stately form or majesty to attract us, no beauty that we should desire Him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah describes the Servant of the LORD in words that could fit a sprouting seed. **How does the look of the kingdom relate to the look of its King?** Could Jesus’ kingdom be more impressive than He Himself was?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Treasure and the Pearl",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jesus sends the crowd away and goes into the house. Only the disciples hear the next two parables.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:44-46",
+       "przeklad": "BSB",
+       "akapity": [
+        "The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and in his joy he went and sold all he had and bought that field. Again, the kingdom of heaven is like a merchant in search of fine pearls. When he found one very precious pearl, he went away and sold all he had and bought it."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The first man wasn’t looking for anything. The second searched his whole life. **What makes them different, and what do they do the same way?** What two roads to God can you see in this pair?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text gives only one motive for the sale: “in his joy he went.” **What is missing from these two sentences that we might have expected?** How did this deal look in the neighbors’ eyes, and how in the finder’s?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Did either of these two men lose anything?** How would they answer if you asked them about their “sacrifice”?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Few people trusted banks, and not everyone had access to one. Family silver was buried in the ground, especially before a war. When the owner died or was carried off into captivity, the hiding place waited for years for someone’s plow, so a find like this was something the listeners had heard of. The finder here is most likely a hired laborer on someone else’s field, and the merchant is a wealthy man. The kingdom costs them both the same: everything they have. And both come out of it as if it were the best deal of their lives.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Found and Seeking",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 65:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "“I revealed Myself to those who did not ask for Me; I was found by those who did not seek Me. To a nation that did not call My name, I said, ‘Here I am! Here I am!’"
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 55:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost! Why spend money on that which is not bread, and your labor on that which does not satisfy? Listen carefully to Me, and eat what is good, and your soul will delight in the richest of foods."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah speaks of people who found God even though they weren’t looking for Him. **Which of the two characters in the parable does that fit? Do you know stories like that?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Buy… without money.” **How does that sentence shed light on a parable in which someone sells everything in order to buy?** What does a person who has nothing to pay with actually pay with?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 3:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "But whatever was gain to me I count as loss for the sake of Christ. More than that, I count all things as loss compared to the surpassing excellence of knowing Christ Jesus my Lord, for whom I have lost all things. I consider them rubbish, that I may gain Christ"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul uses a merchant’s language: gain, loss, gain. **What exactly did he “sell”?** Read a few verses earlier to see what was on his list. Does he sound like a man with regrets?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is the Merchant?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "These parables are most often read this way: the treasure and the pearl are the kingdom, and the finder and the merchant are a person who leaves everything for it. Behind this reading stand the plainest sense of the sentence and Jesus’ words that whoever wants to follow Him leaves everything.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There is also the reverse reading: the merchant is Christ, and the pearl is the person He found and for whom He gave everything He had. Those who take this view point out that in the neighboring parables of this chapter the man at work in the field is the Son of Man, and that we have nothing to pay for the kingdom with.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 19:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations—for the whole earth is Mine."
+       ]
+      },
+      {
+       "odnosnik": "1 Peter 1:18-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers, but with the precious blood of Christ, a lamb without blemish or spot."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both readings share the same order. First Someone gave everything for us. Whoever has seen that gives what is theirs out of joy, not compulsion. And the two prices can’t be compared.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which reading is closer to you, and why?** What happens to the first if you forget the second entirely?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Hebrew word rendered in Exodus 19:5 as “treasured possession” means a king’s personal treasure, the thing he keeps close. **How does hearing the parable change when I know that God speaks this way about people?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "New and Old",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After the pearl, Jesus tells one more parable, about a net, and then asks the disciples a single question.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:51-52",
+       "przeklad": "BSB",
+       "akapity": [
+        "Have you understood all these things?” “Yes,” they answered. Then He told them, “For this reason, every scribe who has been discipled in the kingdom of heaven is like a homeowner who brings out of his storeroom new treasures as well as old.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples answer with one word: yes. **How much do you think they understood, judging by what we know about them from later chapters?** What does it say about Jesus that He accepts that answer and doesn’t give them a test?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The word “treasure” comes back. The finder hid his treasure. The disciple of the kingdom brings his out. **According to Jesus, who has the treasure now, and what are they to do with it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What in the parables of that day was “old,” familiar to the listeners from the Scriptures, and what was “new”?** Why does the homeowner need both?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where do you see the kingdom today in the form of a seed or leaven**, something small and unimpressive that is nevertheless at work? At home, in your congregation, in your town, in someone you know.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of the four miniatures is closest to your life right now:** the small seed, the hidden leaven, the unexpected find, or the long search?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what is faith for you today, more of a treasure or more of a cost?** You don’t have to explain why.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The finder sold everything out of joy. **But what about a person who has believed for years, does everything they should, and feels no joy? Have they not seen the treasure, have they forgotten it, or is the joy in the parable something other than a feeling?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t tell us what happened next. **What becomes of the finder’s joy after twenty years of owning the field?** What sustains it, and what snuffs it out?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t diagnose anyone and don’t force comfort. It would be good for two things to come up. The parable doesn’t tell us to manufacture joy in ourselves, only to look at what is in the field. And years of emotional drought are known to the people of the Psalms too, and no one denies that they had faith.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The kingdom starts small and works out of sight. Whoever has seen what it is worth doesn’t count the cost.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Matthew 13:44 or Zechariah 4:10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of something in your life with God that you consider too small to count: a short prayer, one conversation, a faith that is barely smoldering. **Ask God whether He sees it the same way you do.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself honestly: **what in my faith do I do out of joy, and what only out of duty?** Don’t fix anything. Tell God about both, just as they are.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** leaven works through everything it touches. Is there a batch of dough in your life you won’t let it into: money, work, one relationship, one grudge? Name it before God and stay with it for a moment.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Our congregation is small, we’re getting older, and nothing is happening.”** Don’t contradict it, and don’t offer comfort through statistics. Go back to the text: Jesus told this to people who were looking at a handful of fishermen and asking the same thing. Ask, “If leaven were at work here, how would we know, since you can’t see it from the outside?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So someday we’ll be a big church.”** The parable doesn’t promise that. The mustard plant doesn’t become a cedar. It becomes a plant where birds find shade. The measure is whether someone can build a nest with us, not how high we reach.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I’m supposed to sell everything?”** Point out the order in the text: first he found it, then he rejoiced, and only then did he sell. The parable doesn’t begin with a demand. It describes what a person does who has seen. The question “How much do I have to give up?” is asked by someone looking at the price. The finder was looking at the treasure.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“That finder was dishonest; he hid the treasure from the owner.”** This is a common observation. The parable doesn’t evaluate his conduct and doesn’t hold him up as a model in property matters. It has one point: what a person does who has found something worth more than everything they own. Jesus more than once puts people of questionable reputation into His parables.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Leaven in the Bible always means sin.”** Often, but not always. Jesus says plainly that it is the kingdom that is like leaven, and the loaves for the feast of firstfruits were baked with leaven. If the group wants to go further, that is the topic of the Tension block at level 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says that for a long time faith has been nothing but a burden to them.** Thank them for their honesty and don’t try to fix anything. Don’t tell them they ought to be joyful. You can say that the parable doesn’t tell us to force ourselves into joy, and offer to talk after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Leave out blocks 3 and 5. Blocks 1, 2, and 4 carry the whole: small, hidden, worth everything.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Our congregation is small, we’re getting older, and nothing is happening.”",
+     "odpowiedz": "Don’t contradict it, and don’t offer comfort through statistics. Go back to the text: Jesus told this to people who were looking at a handful of fishermen and asking the same thing. Ask, “If leaven were at work here, how would we know, since you can’t see it from the outside?”"
+    },
+    {
+     "sytuacja": "“So someday we’ll be a big church.”",
+     "odpowiedz": "The parable doesn’t promise that. The mustard plant doesn’t become a cedar. It becomes a plant where birds find shade. The measure is whether someone can build a nest with us, not how high we reach."
+    },
+    {
+     "sytuacja": "“So I’m supposed to sell everything?”",
+     "odpowiedz": "Point out the order in the text: first he found it, then he rejoiced, and only then did he sell. The parable doesn’t begin with a demand. It describes what a person does who has seen. The question “How much do I have to give up?” is asked by someone looking at the price. The finder was looking at the treasure."
+    },
+    {
+     "sytuacja": "“That finder was dishonest; he hid the treasure from the owner.”",
+     "odpowiedz": "This is a common observation. The parable doesn’t evaluate his conduct and doesn’t hold him up as a model in property matters. It has one point: what a person does who has found something worth more than everything they own. Jesus more than once puts people of questionable reputation into His parables."
+    },
+    {
+     "sytuacja": "“Leaven in the Bible always means sin.”",
+     "odpowiedz": "Often, but not always. Jesus says plainly that it is the kingdom that is like leaven, and the loaves for the feast of firstfruits were baked with leaven. If the group wants to go further, that is the topic of the Tension block at level 3."
+    },
+    {
+     "sytuacja": "Someone says that for a long time faith has been nothing but a burden to them.",
+     "odpowiedz": "Thank them for their honesty and don’t try to fix anything. Don’t tell them they ought to be joyful. You can say that the parable doesn’t tell us to force ourselves into joy, and offer to talk after the meeting."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Leave out blocks 3 and 5. Blocks 1, 2, and 4 carry the whole: small, hidden, worth everything."
+    }
+   ]
+  }
+ ]
+}

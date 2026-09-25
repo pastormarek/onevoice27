@@ -1,0 +1,817 @@
+{
+ "tytul": "Faith and Doubt",
+ "id": "P-11",
+ "seria": "Questions People Ask",
+ "opis": "“I do believe; help my unbelief!” Jesus sends away no one who doubts.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mark 9:17-27; Matthew 11:2-11; Matthew 14:25-33; Matthew 28:16-20; Jude 20-23; Matthew 12:20",
+  "p2": "Genesis 18:10-15; Isaiah 35:4-6; 61:1; Psalm 77:7-12; Luke 24:36-43; John 20:24-27",
+  "p3": "Matthew 14:31; 28:17; James 1:5-8; Genesis 15:5-8; Luke 1:18-20, 34-35"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 20,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "doubt",
+  "faith",
+  "unbelief",
+  "honesty",
+  "John the Baptist",
+  "Peter"
+ ],
+ "wersja": 1,
+ "zdanie": "A doubt brought to Jesus is already a prayer.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Many people carry the belief that doubts are a shameful disease of faith and that a true believer doesn’t have them. The Gospels show something else. In them, doubt comes to the father of a sick child, to the greatest of the prophets, to the first of the apostles, and to disciples looking at the risen Jesus. Jesus sends none of them away. This meeting isn’t meant to cure anyone of doubt. It’s meant to show where these people went with their uncertainty and how Jesus received them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be losing their faith right now and hasn’t told anyone. For them, this meeting is a test of whether it’s safe to be honest here.",
+      "Someone else considers doubt a sin and will want to make the group aware of it.",
+      "The topic tempts you into arguments about evidence. This is not an apologetics meeting. This series has separate meetings on the reliability of the Bible, on the resurrection, and on science."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone directly what they doubt. Don’t fix other people’s doubts with a verse. Don’t pretend you have none yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something you believed without reservation as a child and then began to question. It doesn’t have to be anything religious. One sentence is enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "I Do Believe; Help",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jesus comes down the mountain with three disciples. At the bottom He finds a crowd, an argument, and nine disciples who have failed at something.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 9:17-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Someone in the crowd replied, “Teacher, I brought You my son, who has a spirit that makes him mute. Whenever it seizes him, it throws him to the ground. He foams at the mouth, gnashes his teeth, and becomes rigid. I asked Your disciples to drive it out, but they were unable.” “O unbelieving generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy to Me.” So they brought him, and seeing Jesus, the spirit immediately threw the boy into a convulsion. He fell to the ground and rolled around, foaming at the mouth. Jesus asked the boy’s father, “How long has this been with him?” “From childhood,” he said. “It often throws him into the fire or into the water, trying to kill him. But if You can do anything, have compassion on us and help us.” “If You can?” echoed Jesus. “All things are possible to him who believes!” Immediately the boy’s father cried out, “I do believe; help my unbelief!” When Jesus saw that a crowd had come running, He rebuked the unclean spirit. “You deaf and mute spirit,” He said, “I command you to come out and never enter him again.” After shrieking and convulsing him violently, the spirit came out. The boy became like a corpse, so that many said, “He is dead.” But Jesus took him by the hand and helped him to his feet, and he stood up."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The father says, “If You can do anything.” **After so many years and a day like this, where could that “if” have come from?** List everything in the text that fed it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I do believe; help my unbelief!” One sentence, two things at once. **Is the father contradicting himself? To whom does he go with his unbelief, and what does he ask for regarding it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus heals the boy right after this confession. **What did He not demand from the father first? What does this say about how much faith is enough to come?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus intends to heal anyway, and yet He asks, “How long has this been with him?” **Why does He want this conversation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The father doesn’t hide his unbelief from Jesus, and he doesn’t wait until he is rid of it. He brings it as a second request, right alongside the first. The Gospel writer didn’t smooth out this sentence. There are more places like this in the Bible: faith and hesitation live in the same person in the same hour, especially in a crisis. So the question isn’t whether I have doubts, but where I take them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sarah’s Laughter",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 18:10-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said, “I will surely return to you at this time next year, and your wife Sarah will have a son!” Now Sarah was behind him, listening at the entrance to the tent. And Abraham and Sarah were already old and well along in years; Sarah had passed the age of childbearing. So she laughed to herself, saying, “After I am worn out and my master is old, will I now have this pleasure?” And the LORD asked Abraham, “Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’ Is anything too difficult for the LORD? At the appointed time I will return to you—in about a year—and Sarah will have a son.” But Sarah was afraid, so she denied it and said, “I did not laugh.” “No,” replied the LORD, “but you did laugh.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Sarah doesn’t laugh out of pride. Behind her are decades of waiting that have taught her not to get her hopes up. **What does long disappointment do to the ability to believe? How is this kind of laughter different from mockery?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God hears the laughter, names it for what it is, and doesn’t take back the promise. The son will be named Isaac, which means “he laughs.” **What does this say about how God deals with the unbelief of weary people?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Are You the One?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 11:2-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile John heard in prison about the works of Christ, and he sent his disciples to ask Him, “Are You the One who was to come, or should we look for someone else?” Jesus replied, “Go back and report to John what you hear and see: The blind receive sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the good news is preached to the poor. Blessed is the one who does not fall away on account of Me.” As John’s disciples were leaving, Jesus began to speak to the crowds about John: “What did you go out into the wilderness to see? A reed swaying in the wind? Otherwise, what did you go out to see? A man dressed in fine clothes? Look, those who wear fine clothing are found in kings’ palaces. What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet. This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’ Truly I tell you, among those born of women there has risen no one greater than John the Baptist. Yet even the least in the kingdom of heaven is greater than he."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t answer John, “Yes, it is I.” **What does He give him instead of reassurance? Why does He point him to what can be seen and heard?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The messengers have barely left when Jesus speaks about John to the crowd. **What does He say about a man who has just asked whether he got it wrong? Did the question from prison change Jesus’ opinion of John?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "It was John who baptized Jesus and pointed people to Him. **What changed between the Jordan and the prison cell: the facts about Jesus, or John’s situation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Blessed is the one who does not fall away on account of Me.” **How might Jesus have disappointed John?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The list Jesus gives isn’t random. It is woven from the words of the prophet Isaiah about the days of the Messiah, and John knew those texts. In essence, Jesus is telling him: put what you have read side by side with what your disciples are seeing. The closing blessing is a very gentle rebuke. God rarely works the way we expect, and John is experiencing exactly that.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What’s Missing from the List",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 35:4-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Say to those with anxious hearts: “Be strong, do not fear! Behold, your God will come with vengeance. With divine retribution He will come to save you.” Then the eyes of the blind will be opened and the ears of the deaf unstopped. Then the lame will leap like a deer and the mute tongue will shout for joy. For waters will gush forth in the wilderness, and streams in the desert."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 61:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare both texts with Jesus’ list in Matthew 11:5. **What repeats? Which line from Isaiah 61:1 does Jesus not quote to a man sitting in prison? Which line from Isaiah 35:4 is also missing?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John did not leave that cell alive. **What does it mean to trust someone who keeps His promises, but not the one I care about most?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Why Did You Doubt?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 14:25-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "During the fourth watch of the night, Jesus went out to them, walking on the sea. When the disciples saw Him walking on the sea, they were terrified. “It’s a ghost!” they said, and cried out in fear. But Jesus spoke up at once: “Take courage! It is I. Do not be afraid.” “Lord, if it is You,” Peter replied, “command me to come to You on the water.” “Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus. But when he saw the strength of the wind, he was afraid, and beginning to sink, cried out, “Lord, save me!” Immediately Jesus reached out His hand and took hold of Peter. “You of little faith,” He said, “why did you doubt?” And when they had climbed back into the boat, the wind died down. Then those who were in the boat worshiped Him, saying, “Truly You are the Son of God!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**At what moment does Peter begin to sink?** What was he looking at a moment before, and what a moment after? Did the wind only start then?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look at the order in verse 31: first the hand, then the question. **What would it change if Jesus had asked first and only then reached out His hand?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Eleven stayed in the boat, and none of them heard the words “You of little faith.” **Who in this scene had less faith: the one who doubted on the water, or those who never got out of the boat?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Questions in Prayer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 77:7-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Will the Lord spurn us forever and never show His favor again? Is His loving devotion gone forever? Has His promise failed for all time? Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah So I said, “I am grieved that the right hand of the Most High has changed.” I will remember the works of the LORD; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist asks God six questions in a row, and none of them is polite. This text made it into Israel’s prayer book and was sung out loud. **What does this say about what questions are allowed in prayer?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does the psalmist do after these questions, in verses 11 and 12?** How is that different from pretending the questions never happened?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The verb the BSB renders in Matthew 14:31 as “doubt” is the Greek `distazō`. In the whole New Testament it appears only twice, both times in Matthew. The other place is the scene on the mountain in Galilee, which we read in the next block. The word is built on the root “two” and means to hesitate, to stand in two places at once, rather than to reject. It is not the word the Gospels use to describe the unbelief of Jesus’ opponents.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter heard this word when he was already out of the boat, standing on the water. **What does this say about whom this kind of hesitation concerns: people who never moved, or those who are already on their way?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "But Some Doubted",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 28:16-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, the eleven disciples went to Galilee, to the mountain Jesus had designated. When they saw Him, they worshiped Him, but some doubted. Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me. Therefore go and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit, and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This is the last scene of the Gospel. The disciples see the risen Jesus, they worship Him, and some of them hesitate. Matthew could have left this sentence out. **Why might he have wanted it to stay?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What does Jesus do with those who doubted?** Does He separate them from the others? To whom does He give the task, and to whom does He make the promise “I am with you”?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Then Jesus came to them.” He takes a step toward the ones who hesitate. **Where have you seen the same movement in the three earlier scenes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Gospels don’t spare the apostles. After the resurrection, they sit behind locked doors, take Jesus for a ghost, don’t believe the women, and hesitate on the mountain. A community inventing its own story wouldn’t write like this about its own founders. The fact that these sentences remain says something about the reliability of the accounts. It also says that in the early church, hesitation didn’t write anyone off.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Disbelief Because of Joy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 24:36-43",
+       "przeklad": "BSB",
+       "akapity": [
+        "While they were describing these events, Jesus Himself stood among them and said, “Peace be with you.” But they were startled and frightened, thinking they had seen a spirit. “Why are you troubled,” Jesus asked, “and why do doubts arise in your hearts? Look at My hands and My feet. It is I Myself. Touch Me and see—for a spirit does not have flesh and bones, as you see I have.” And when He had said this, He showed them His hands and feet. While they were still in disbelief because of their joy and amazement, He asked them, “Do you have anything here to eat?” So they gave Him a piece of broiled fish, and He took it and ate it in front of them."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t give a lecture. He shows His hands, lets them touch Him, and eats a piece of fish. **What kind of help does He give to people who can’t bring themselves to believe?** What does this say about what a doubter sometimes needs more than an argument?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“In disbelief because of their joy.” **Have you ever not believed something because it was too good?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 20:24-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came. So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.” Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.” Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Between verses 25 and 26, eight days go by. Thomas doesn’t believe, and the whole time he is with the disciples, and they don’t throw him out. **Where did Jesus find him? What would have happened if Thomas had left for that week, or if they had asked him to leave?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Have Mercy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jude 20-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "But you, beloved, by building yourselves up in your most holy faith and praying in the Holy Spirit, keep yourselves in the love of God as you await the mercy of our Lord Jesus Christ to bring you eternal life. And indeed, have mercy on those who doubt; save others by snatching them from the fire; and to still others show mercy tempered with fear, hating even the clothing stained by the flesh."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 12:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "A bruised reed He will not break, and a smoldering wick He will not extinguish, till He leads justice to victory."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jude writes to the community about how to treat people with doubts. **What word does he use? What words might we have expected in his place?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before Jude says anything about those who doubt, he says: build yourselves up, pray, keep yourselves in the love of God. **Why this order? What happens when someone takes on other people’s doubts while not standing firmly in God’s love themselves?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Matthew applies to Jesus the words about a smoldering wick, a lamp wick that smokes more than it shines. **What does someone who cares about order do with a wick like that? What does Jesus do?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s characters are you closest to:** the boy’s father, John in his cell, Peter on the water, or the disciples on the mountain? Why?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do you do with your questions: hide them, talk about them with people, talk about them with God?** What are you afraid of if you were to say them out loud among believers?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what does your version of “I do believe; help my unbelief” sound like?** What do you believe, and what do you find hard to believe at the same time?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: James and Jude",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 1:5-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him. But he must ask in faith, without doubting, because he who doubts is like a wave of the sea, blown and tossed by the wind. That man should not expect to receive anything from the Lord. He is a double-minded man, unstable in all his ways."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jude says to have mercy on those who doubt. James writes that the one who doubts should not expect to receive anything. In the Greek original, both use the same verb. Some read James literally: prayer must be free of hesitation, and whoever hesitates closes the door on themselves. Others point to how James himself describes this person: he is “double-minded” and “unstable in all his ways.” This is not someone who has questions, but someone who wants God and at the same time something opposed to Him, and has no intention of choosing. Both sides share the beginning of this passage: God “gives generously to all without finding fault.” They also share the father in Mark 9, who admitted his unbelief and was heard.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is a person who has questions and brings them to God different from someone who is “double-minded”?** How can you recognize that difference in yourself?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Same Question, Different Answers",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 15:5-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.” Abram believed the LORD, and it was credited to him as righteousness. The LORD also told him, “I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess.” But Abram replied, “Lord GOD, how can I know that I will possess it?”"
+       ]
+      },
+      {
+       "odnosnik": "Luke 1:18-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "“How can I be sure of this?” Zechariah asked the angel. “I am an old man, and my wife is well along in years.” “I am Gabriel,” replied the angel. “I stand in the presence of God, and I have been sent to speak to you and to bring you this good news. And now you will be silent and unable to speak until the day this comes to pass, because you did not believe my words, which will be fulfilled at their proper time.”"
+       ]
+      },
+      {
+       "odnosnik": "Luke 1:34-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "“How can this be,” Mary asked the angel, “since I am a virgin?” The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the Holy One to be born will be called the Son of God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Two verses after Abraham believed, he asks, “How can I know?” In response, God makes a covenant with him. Zechariah asks almost the same question, “How can I be sure of this?”, and loses his speech for many months. Mary asks, “How can this be?” and receives an explanation.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why the difference?** Look in the texts themselves: who is asking, in what situation, what do they already know, and what are they actually asking for? Are you sure Zechariah’s silence was only a punishment?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the text doesn’t give a simple key here, and there’s no need to invent one. It’s enough for the group to see that the Bible doesn’t have a single response to the human “how can I know,” and that in none of these three cases was the promise taken back.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "There is doubt that looks for an answer, and there is doubt that looks for an excuse. **How can you tell them apart in yourself? Does a person always know which one they are carrying?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "make sure the conversation stays in the first person. This question is not for judging anyone’s doubts but your own.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A doubt brought to Jesus is already a prayer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Mark 9:24 or Jude 22.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Name before God one doubt you have been avoiding for a long time. Say it in a full sentence, like the father in Mark 9. **Don’t immediately add a pious answer.** Leave that sentence before Him just as it is.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "John didn’t doubt at the Jordan. He doubted in prison. Ask yourself: **did my doubts come along with a change in my circumstances? What actually changed: what I know about God, or my situation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone who doubts out loud, in a way that irritates or unsettles you. Ask yourself **what you are afraid of in their questions.**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they are losing their faith, or that they no longer have it.** Don’t rescue them, and don’t argue. Thank them for saying it out loud, because that takes courage. Don’t let the group pounce with verses and advice. Say you’re glad they are at this table, and offer to talk after the meeting. Thomas didn’t believe for eight days, and he sat with the disciples.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“A true believer doesn’t doubt.”** Don’t get into an argument. Ask, “What did Jesus say about John right after his question from prison?” and “To whom did Jesus entrust the mission in Matthew 28?” Let the text answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone bombards the group with objections: contradictions in the Bible, science, church history.** You can’t answer everything, and you don’t have to. “I don’t know” is an honest answer. Write the questions down and say that this series has separate meetings on the reliability of the Bible and on science. Today we are talking about what to do with doubt, not about how to settle it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts fixing someone’s doubts.** Interrupt gently. Jude says “have mercy,” not “have arguments.” Ask the person who opened up whether they want to add anything, and go back to the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone’s doubts are tangled up with despair: “Nothing makes sense anymore,” “I don’t want to live.”** This is not a theological problem, and a Bible study won’t solve it. Stay with this person after the meeting, ask directly how they are doing, and don’t carry it alone. Point them to a crisis line in your country, and in immediate danger call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A parent talks about a child who has left the faith.** This is pain, not a topic for discussion. Don’t give advice, and don’t let others give it. You can point to Matthew 12:20: Jesus doesn’t snuff out a smoldering wick, in someone else’s child either.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. With this topic, silence is often a sign that people are weighing how much they can say. Count to ten in your head, and repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You run out of time.** Keep blocks 1, 2, and 4. Block 4 carries the main point: Jesus entrusts His cause to people, some of whom hesitate.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says they are losing their faith, or that they no longer have it.",
+     "odpowiedz": "Don’t rescue them, and don’t argue. Thank them for saying it out loud, because that takes courage. Don’t let the group pounce with verses and advice. Say you’re glad they are at this table, and offer to talk after the meeting. Thomas didn’t believe for eight days, and he sat with the disciples."
+    },
+    {
+     "sytuacja": "“A true believer doesn’t doubt.”",
+     "odpowiedz": "Don’t get into an argument. Ask, “What did Jesus say about John right after his question from prison?” and “To whom did Jesus entrust the mission in Matthew 28?” Let the text answer."
+    },
+    {
+     "sytuacja": "Someone bombards the group with objections: contradictions in the Bible, science, church history.",
+     "odpowiedz": "You can’t answer everything, and you don’t have to. “I don’t know” is an honest answer. Write the questions down and say that this series has separate meetings on the reliability of the Bible and on science. Today we are talking about what to do with doubt, not about how to settle it."
+    },
+    {
+     "sytuacja": "The group starts fixing someone’s doubts.",
+     "odpowiedz": "Interrupt gently. Jude says “have mercy,” not “have arguments.” Ask the person who opened up whether they want to add anything, and go back to the text."
+    },
+    {
+     "sytuacja": "Someone’s doubts are tangled up with despair: “Nothing makes sense anymore,” “I don’t want to live.”",
+     "odpowiedz": "This is not a theological problem, and a Bible study won’t solve it. Stay with this person after the meeting, ask directly how they are doing, and don’t carry it alone. Point them to a crisis line in your country, and in immediate danger call your local emergency number."
+    },
+    {
+     "sytuacja": "A parent talks about a child who has left the faith.",
+     "odpowiedz": "This is pain, not a topic for discussion. Don’t give advice, and don’t let others give it. You can point to Matthew 12:20: Jesus doesn’t snuff out a smoldering wick, in someone else’s child either."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. With this topic, silence is often a sign that people are weighing how much they can say. Count to ten in your head, and repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You run out of time.",
+     "odpowiedz": "Keep blocks 1, 2, and 4. Block 4 carries the main point: Jesus entrusts His cause to people, some of whom hesitate."
+    }
+   ]
+  }
+ ]
+}

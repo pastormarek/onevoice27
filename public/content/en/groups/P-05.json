@@ -1,0 +1,791 @@
+{
+ "tytul": "Can the Bible Be Trusted?",
+ "id": "P-05",
+ "seria": "Questions People Ask",
+ "opis": "We ask the authors themselves how they know what they write about, and why they write.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 1:1-4; 2 Peter 1:16-18; 1 John 1:1-3; John 20:30-31; John 21:24-25; 2 Timothy 3:14-17; 2 Peter 1:19-21; Acts 17:10-12",
+  "p2": "John 19:35; Acts 1:21-22; Acts 26:24-26; John 5:39-40; Luke 24:25-27, 44-45; Hebrews 1:1-2",
+  "p3": "Matthew 8:28; Mark 5:1-2; Mark 16:8; 2 Peter 3:15-16"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 28
+ },
+ "tagi": [
+  "Bible",
+  "trust",
+  "witnesses",
+  "inspiration",
+  "doubts",
+  "reading"
+ ],
+ "wersja": 1,
+ "zdanie": "The Bible doesn’t ask to be believed blindly. It says how it knows, it says what it is for, and it invites us to check it every day.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not a lecture on evidence for the truth of the Bible. We are doing something simpler: we ask the authors themselves how they know what they write about, and why they write. It turns out they talk about it openly. They appeal to witnesses, to their own eyes and hands, to investigating sources. They admit they selected their material. They say what Scripture is for. And they praise people who check. Trust in the Bible doesn’t begin by switching off your mind. It begins with careful reading.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "You don’t need to know the answer to every objection. Today the sentence “I don’t know, I’ll look into it” builds more trust than a smooth answer to everything.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "At the table there may be someone for whom the Bible is a collection of legends, and someone for whom any question about the Bible is a lack of faith. Both need to feel safe.",
+      "Someone may have been hurt with Bible verses. For them the Bible is not a book but a weapon they were beaten with. Trusting the text and trusting the people who quoted it are two different things.",
+      "The topic easily runs off into trivia: manuscripts, councils, apocrypha, translations. They are interesting, but they can’t replace reading what the authors say themselves.",
+      "The debate about faith and science has its own meeting in this series. We won’t open it today."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t defend the Bible nervously, because that looks like fear. Don’t brush off hard questions with “you just have to believe.” Don’t ridicule people who doubt, and don’t let others do it. Don’t compare the Catholic Bible with the Protestant one in a tone of superiority.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Whom or what do you trust without checking, and what do you always double-check? Give one example of each.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, ideally with something ordinary, like a bus schedule or a weather forecast. Don’t comment on the answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "How a Gospel Came to Be",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 1:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Many have undertaken to compose an account of the things that have been fulfilled among us, just as they were handed down to us by the initial eyewitnesses and servants of the word. Therefore, having carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**From this single sentence, list everything Luke says about his method: where he got his material, what he did with it, who wrote before him.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke doesn’t write “God dictated this to me.” He writes that he “carefully investigated.” **What does that say about the way God used human beings when the Bible was written? Do a researcher’s work and God’s action rule each other out?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Theophilus had already been taught the faith, and still Luke writes so that he may “know the certainty.” **What does that say about the place of questions and checking in the life of someone who already believes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is how ancient historians began their works: they said how they knew, and they noted that they drew on witnesses “from the beginning.” So Luke deliberately takes his place among people who can be held to account for their accuracy. The claim by itself proves nothing yet, because inaccurate authors promised accuracy too. Luke has to be checked the way they are: by what he did with his material. The word “orderly” means well arranged, not necessarily chronological.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who Can Be a Witness",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 1:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us, beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.”"
+       ]
+      },
+      {
+       "odnosnik": "John 19:35",
+       "przeklad": "BSB",
+       "akapity": [
+        "The one who saw it has testified to this, and his testimony is true. He knows that he is telling the truth, so that you also may believe."
+       ]
+      },
+      {
+       "odnosnik": "Acts 26:24-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "At this stage of Paul’s defense, Festus exclaimed in a loud voice, “You are insane, Paul! Your great learning is driving you to madness!” But Paul answered, “I am not insane, most excellent Festus; I am speaking words of truth and sobriety. For the king knows about these matters, and I can speak freely to him. I am confident that none of this has escaped his notice, because it was not done in a corner."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The apostles are looking for someone to replace Judas. **What conditions does a candidate have to meet? What are those conditions protecting?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "On trial, Paul appeals to the knowledge of a king who is not a Christian. **What does the sentence “it was not done in a corner” mean? How is faith based on public events different from faith based on one person’s private revelation?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Not Fables",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Peter 1:16-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "For we did not follow cleverly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty. For He received honor and glory from God the Father when the voice came to Him from the Majestic Glory, saying, “This is My beloved Son, in whom I am well pleased.” And we ourselves heard this voice from heaven when we were with Him on the holy mountain."
+       ]
+      },
+      {
+       "odnosnik": "1 John 1:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life. And this is the life that was revealed; we have seen it and testified to it, and we proclaim to you the eternal life that was with the Father and was revealed to us. We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter knows that “cleverly devised fables” exist, and he distances himself from them. **According to both texts, what makes what the apostles write different from fables? Count the verbs connected with the senses.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Both write “we,” not “I.” **What difference does it make that the testimony is collective? Which is easier to deny: one person, or a group of people living among the readers?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "John says why he writes: so that the reader may have “fellowship,” a shared life, with them and with God. **What difference does it make whether I read the Bible as a source of information or as an invitation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Someone counted the references to the senses in John’s Gospel. Seeing in the literal sense comes up nearly a hundred times, hearing thirty, plus touch, the fragrance of perfume filling the house, the stench at Lazarus’ tomb, and the taste of the wine at the wedding. That is not how someone writes who is presenting an idea. It is how someone writes who remembers what it was like to be there.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Selection and Purpose",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 20:30-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus performed many other signs in the presence of His disciples, which are not written in this book. But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name."
+       ]
+      },
+      {
+       "odnosnik": "John 21:24-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is the disciple who testifies to these things and who has written them down. And we know that his testimony is true. There are many more things that Jesus did. If all of them were written down, I suppose that not even the world itself would have space for the books that would be written."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John openly admits that he chose what to write down and that he had a purpose in doing so. **Does that admission weaken his credibility or strengthen it? Why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John says what his book is for: so that you may believe and have life. **So what questions shouldn’t we put to this book? Which ones does it gladly answer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“And we know that his testimony is true.” **Who is saying this? What does it mean that someone besides the author puts their name to the book?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "You Can Study and Miss the Point",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 5:39-40",
+       "przeklad": "BSB",
+       "akapity": [
+        "You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me, yet you refuse to come to Me to have life."
+       ]
+      },
+      {
+       "odnosnik": "Luke 24:25-27, 44-45",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus said to them, “O foolish ones, how slow are your hearts to believe all that the prophets have spoken! Was it not necessary for the Christ to suffer these things and then to enter His glory?” And beginning with Moses and all the Prophets, He explained to them what was written in all the Scriptures about Himself. … Jesus said to them, “These are the words I spoke to you while I was still with you: Everything must be fulfilled that is written about Me in the Law of Moses, the Prophets, and the Psalms.” Then He opened their minds to understand the Scriptures."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 1:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "On many past occasions and in many different ways, God spoke to our fathers through the prophets. But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus is speaking to people who knew the Scriptures better than any of us. **How is it possible to study the Bible your whole life and miss its purpose? How can you tell when that is happening?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The risen Jesus could simply have shown Himself to the disciples. Instead, He first leads them through the Scriptures. **Why? What does that say about how He Himself treated the Old Testament?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hebrews says that God spoke “in many different ways,” and in the end “by His Son.” **If Jesus is God’s fullest word, how does that shape the way we read the difficult pages of the Bible?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "What Scripture Is For",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Timothy 3:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "But as for you, continue in the things you have learned and firmly believed, since you know from whom you have learned them. From infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness, so that the man of God may be complete, fully equipped for every good work."
+       ]
+      },
+      {
+       "odnosnik": "2 Peter 1:19-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "We also have the word of the prophets as confirmed beyond doubt. And you will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts. Above all, you must understand that no prophecy of Scripture comes from one’s own interpretation. For no such prophecy was ever brought forth by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**From the letter to Timothy, list everything Scripture is useful for.** What is not on that list that people sometimes look for in the Bible?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In one breath Peter says “men spoke” and “carried along by the Holy Spirit.” **What happens to our reading if we keep only the first half of that sentence? And if we keep only the second?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Peter compares Scripture to a lamp in a dark place that shines “until the day dawns.” **What does that picture say about what the Bible is, and what it isn’t?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paul reminds Timothy not only of what he learned but “from whom.” Timothy came to know the Scriptures from his grandmother and his mother. Trust in the Bible rarely begins with arguments. It usually begins with a person we trust, in whom we can see what this book has done. Arguments come later, and they are needed, but they are not what first opens the book.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“God-breathed” is a single Greek word, `theopneustos`, and the English here renders it literally. It appears in the Bible only this once. It calls to mind the breath in the creation account: God breathed, and dust became a living human being. Paul isn’t describing a mechanism. He is speaking about origin, and about the life that is in these texts.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Peter uses a different image. “Carried along” is `pheromenoi`. The book of Acts uses the same verb for a ship driven along by the wind. The ship remains a ship, with its own shape and sails, and the wind gives it direction.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does the picture of a ship carried by the wind say about the role of the human author? Where in the Bible can you see an author’s own style, temperament, and limitations?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Right to Check",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 17:10-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "As soon as night had fallen, the brothers sent Paul and Silas away to Berea. On arriving there, they went into the Jewish synagogue. Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true. As a result, many of them believed, along with quite a few prominent Greek women and men."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The apostle Paul comes to Berea, and his listeners check whether he is telling the truth. **How does Luke assess this attitude? What does that say about the authority of a preacher, a pastor, a tradition?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Bereans combine two things that usually come separately: “great eagerness” and examining the Scriptures every day. **What does eagerness without examining look like? And examining without eagerness? Which of these extremes are you closer to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**According to this text, what is the result of checking?** Is Luke afraid that examining will weaken faith?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word translated “examined” comes from the courtroom. It means questioning a witness and investigating a case. The Bereans did not listen passively. They put questions to the text, every day, and no one told them it was a lack of faith. The Bible itself gives the reader the right to check it. Whoever forbids questions in its name does so against it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Gospels Differ in the Details",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 8:28",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus arrived on the other side in the region of the Gadarenes, He was met by two demon-possessed men coming from the tombs. They were so violent that no one could pass that way."
+       ]
+      },
+      {
+       "odnosnik": "Mark 5:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "On the other side of the sea, they arrived in the region of the Gerasenes. As soon as Jesus got out of the boat, He was met by a man with an unclean spirit, who was coming from the tombs."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Two men or one? Gadarenes or Gerasenes? There are more differences like this in the Gospels, for example in the lists of women at the tomb. The first approach looks for a harmony: there were two, Mark tells about the one who spoke, and both names point to the same region. The second approach accepts that independent witnesses remember the same event somewhat differently, and that God did not smooth out those differences. Both sides agree on two things. The accounts agree on what is essential: who, what he did, and what the result was. And if the four authors had coordinated their versions, there would be no seams like these. Collusion produces identical testimony. Memory produces testimony that agrees at the core and differs in the details.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would make you more suspicious: four accounts that differ in the details, or four accounts identical word for word? What do these differences say about how God deals with human witnesses?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Text Was Copied by Hand",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 16:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In many editions of the Bible there is a note after this verse saying that the oldest manuscripts end Mark’s Gospel here and that verses 9-20 were added later. They are indeed missing from the oldest surviving manuscripts, from the fourth century, and Christian writers of the fourth and fifth centuries testify that they were missing from most of the copies they knew. Some see this as a reason for distrust: if something was added, how do we know what else was? Others point out that we know about it precisely because there are so many manuscripts and they can be compared. Additions can be detected, and editions of the Bible mark them honestly. No Christian teaching rests on a disputed passage.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Does learning that Bible publishers mark the uncertain places decrease your trust in the text or increase it? Why?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Things Hard to Understand",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Peter 3:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Consider also that our Lord’s patience brings salvation, just as our beloved brother Paul also wrote you with the wisdom God gave him. He writes this way in all his letters, speaking in them about such matters. Some parts of his letters are hard to understand, which ignorant and unstable people distort, as they do the rest of the Scriptures, to their own destruction."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The apostle Peter admits that the apostle Paul’s letters contain things that are hard to understand. **What does that say to someone who reads the Bible and doesn’t understand something? According to Peter, what does mishandling a difficult text look like?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where did your present attitude toward the Bible come from, trusting or distrustful?** From which people, and from what experiences?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bereans examined the Scriptures every day. **What does your Bible reading look like when you’re alone with it: what do you look for in it, and what do you skip?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **what question about the Bible have you carried for a long time without the courage to ask it out loud?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "if someone asks such a question, don’t answer right away. Thank them, write it down, and suggest that you come back to it together.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Almost everything we read today is the Bible speaking about itself. **Can testimony on one’s own behalf convince anyone? What else has to happen for a person to trust this book, and does that belong to the realm of evidence?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. But it’s worth making sure someone observes that evidence can remove obstacles, while trust is born from an encounter. The Bereans examined and “believed”; they weren’t “defeated in debate.”",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The Bible doesn’t ask to be believed blindly. It says how it knows, it says what it is for, and it invites us to check it every day.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Acts 17:11 or John 20:31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "John wrote his book so that you may have life. The next time you open the Bible, before you start reading, ask yourself honestly: **why am I opening it right now?** For an argument, for a clear conscience, out of duty, out of curiosity, for an encounter.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person in whom you could see that the Bible had changed them for the better. And then of someone who used it to hurt. Ask God: **which of these two pictures am I letting decide my trust in this book?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** name before God a passage of the Bible you disagree with or that offends you. Don’t smooth it over. Tell Him plainly and leave it with Him, without forcing an answer out of yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“People wrote the Bible, and then the Church changed it however it liked.”** The first half is true, and the Bible says so itself: Luke investigated, John selected. The second half needs specifics. Ask: “Which passage do you have in mind?” There are so many manuscripts, from so many parts of the world, that no institution could have changed them all at once. Where something was added, modern editions mark it. If the group wants, read the level 3 block on the ending of Mark.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The Bible is full of contradictions.”** Don’t deny it by reflex. Ask for one specific example and write it down. If you know the answer, give it briefly. If you don’t, say “I don’t know, I’ll look into it,” and really look into it. The level 3 block about the two demon-possessed men shows how to talk about such passages without panic.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The Catholic Bible has more books. So which one is the real one?”** Answer factually and without superiority. The difference concerns a few Old Testament books written between the Old and New Testaments. The four Gospels, Acts, and the letters are the same in all Christian Bibles. Everything we read today is in every one of them. That is a topic for a separate conversation, not for today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Every translation says something different.”** Suggest an experiment: read one of today’s passages in two or three translations that people have with them. The differences will be in the wording, not in the content. Comparing translations is one of the simplest ways to study Scripture, and you don’t need to know Greek to do it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone in the group says, “Anyone who asks questions like that just doesn’t believe.”** Interrupt calmly and go back to Berea. Luke calls those who checked the apostle noble-minded. A question is not unbelief. Protect the person who asked, or they won’t ask again.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone tells how Bible verses were used to justify harm done to them.** Listen. Don’t defend the Bible, and don’t explain those people. Say that what happened to them was an abuse of the text, and that Jesus spoke most sharply to exactly those who knew the Scriptures and used them against people. Stay with that person after the meeting. If the harm is ongoing, don’t carry it alone; talk with your pastor.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about evolution, the flood, the age of the earth?”** Those are questions for another meeting in this series, “Faith and Science: Do I Have to Choose?” Write them down and don’t open them today. You can point back to the list in 2 Timothy 3: Scripture says of itself that it is there to make us wise for salvation and to train us.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 1 and 5 form the frame of the meeting: an author who investigated, and readers who investigate. Block 4 says what it’s all for.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“People wrote the Bible, and then the Church changed it however it liked.”",
+     "odpowiedz": "The first half is true, and the Bible says so itself: Luke investigated, John selected. The second half needs specifics. Ask: “Which passage do you have in mind?” There are so many manuscripts, from so many parts of the world, that no institution could have changed them all at once. Where something was added, modern editions mark it. If the group wants, read the level 3 block on the ending of Mark."
+    },
+    {
+     "sytuacja": "“The Bible is full of contradictions.”",
+     "odpowiedz": "Don’t deny it by reflex. Ask for one specific example and write it down. If you know the answer, give it briefly. If you don’t, say “I don’t know, I’ll look into it,” and really look into it. The level 3 block about the two demon-possessed men shows how to talk about such passages without panic."
+    },
+    {
+     "sytuacja": "“The Catholic Bible has more books. So which one is the real one?”",
+     "odpowiedz": "Answer factually and without superiority. The difference concerns a few Old Testament books written between the Old and New Testaments. The four Gospels, Acts, and the letters are the same in all Christian Bibles. Everything we read today is in every one of them. That is a topic for a separate conversation, not for today."
+    },
+    {
+     "sytuacja": "“Every translation says something different.”",
+     "odpowiedz": "Suggest an experiment: read one of today’s passages in two or three translations that people have with them. The differences will be in the wording, not in the content. Comparing translations is one of the simplest ways to study Scripture, and you don’t need to know Greek to do it."
+    },
+    {
+     "sytuacja": "Someone in the group says, “Anyone who asks questions like that just doesn’t believe.”",
+     "odpowiedz": "Interrupt calmly and go back to Berea. Luke calls those who checked the apostle noble-minded. A question is not unbelief. Protect the person who asked, or they won’t ask again."
+    },
+    {
+     "sytuacja": "Someone tells how Bible verses were used to justify harm done to them.",
+     "odpowiedz": "Listen. Don’t defend the Bible, and don’t explain those people. Say that what happened to them was an abuse of the text, and that Jesus spoke most sharply to exactly those who knew the Scriptures and used them against people. Stay with that person after the meeting. If the harm is ongoing, don’t carry it alone; talk with your pastor."
+    },
+    {
+     "sytuacja": "“What about evolution, the flood, the age of the earth?”",
+     "odpowiedz": "Those are questions for another meeting in this series, “Faith and Science: Do I Have to Choose?” Write them down and don’t open them today. You can point back to the list in 2 Timothy 3: Scripture says of itself that it is there to make us wise for salvation and to train us."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 1 and 5 form the frame of the meeting: an author who investigated, and readers who investigate. Block 4 says what it’s all for."
+    }
+   ]
+  }
+ ]
+}

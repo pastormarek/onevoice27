@@ -1,0 +1,569 @@
+{
+ "tytul": "Loneliness",
+ "id": "E-07",
+ "seria": "Emotions",
+ "opis": "You can be lonely in a crowd and lonely in a marriage. On loneliness among people and on feeling abandoned by God.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 2:18; Psalm 142:4-5; Psalm 88:13-18; Mark 14:32-38; Hebrews 13:5; John 16:32",
+  "p2": "2 Timothy 4:9-11, 16-17; Psalm 68:5-6",
+  "p3": "Psalm 88:18"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 24
+ },
+ "tagi": [
+  "emotions",
+  "community",
+  "abandonment",
+  "presence"
+ ],
+ "wersja": 1,
+ "zdanie": "God did not tell man that God alone would be enough for him. He said it is not good for the man to be alone, and He did something about it.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Loneliness is not the same as being alone. You can be lonely in a crowd and lonely in a marriage, and that kind of loneliness hurts the most. This meeting has two currents: loneliness among people, and the sense of being abandoned by God. The second is harder, and the Bible does not stay silent about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Around the table there may be people who are single by choice and people who are not, widows and widowers, divorced people, singles in a church where marriage is the norm. Don’t assume loneliness is a problem to be solved.",
+      "A home group easily slips into the “but you have us” tone. That is sometimes true, but said at the wrong moment it dismisses the person.",
+      "Section three has no happy ending, and that is how it should be. Don’t tack a moral onto it."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t play matchmaker, and don’t suggest joining a group. Don’t say “God is enough” to someone who has just told you they long for another person. Don’t cut section three short.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When was the last time you were alone and it felt good? One sentence, no explanations.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this question is deliberately about good solitude. We start with the side that doesn’t hurt.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "It Is Not Good for the Man",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This sentence is spoken in a world where God has called everything else good, and the man has a complete relationship with God. **What follows from that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God does not say, “The man feels bad.” He says, “It is not good.” **Whose assessment is this, and what difference does it make?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Is this sentence only about marriage? **What was Adam missing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is the first “not good” in the Bible, and it comes before any sin. Loneliness here is not a result of the fall or a punishment. It is a need built into the way human beings were made. It also matters what this sentence does not say: it does not say that God is insufficient. It says God made human beings in such a way that they also need another human being, and He named that need Himself, before anyone complained.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "No One Cares for Me",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 142:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Look to my right and see; no one attends to me. There is no refuge for me; no one cares for my soul. I cry to You, O LORD: “You are my refuge, my portion in the land of the living.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalmist looks to his right, the side where a defender would stand in court. **What is he actually describing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 4 ends with “no one cares for my soul,” and verse 5 begins with “I cry to You, O LORD.” **What happens between those two sentences?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Is “no one cares for my soul” objectively true? **Does that matter here?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Psalm Without a Moral",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 88:13-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "But to You, O LORD, I cry for help; in the morning my prayer comes before You. Why, O LORD, do You reject me? Why do You hide Your face from me? From my youth I was afflicted and near death. I have borne Your terrors; I am in despair. Your wrath has swept over me; Your terrors have destroyed me. All day long they engulf me like water; they enclose me on every side. You have removed my beloved and my friend; darkness is my closest companion."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This psalm ends exactly where you see it end. There is no turn, no “but You, O Lord.” **What is a text that ends like this doing in the Bible?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The last line says that darkness is his closest companion. **Who is the psalmist talking to the whole time, even so?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 13 speaks of a prayer that comes before God every morning. **How does that fit with the rest of the psalm?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Psalm 88 is the only psalm that never arrives at any resolution. Its final line leaves darkness as the closest companion. Many people feel that a prayer like this is somehow wrong, that you have to end on something positive. The presence of this text in the Bible says otherwise. A lament without a happy ending is still a prayer, and it doesn’t have to be forced to a close. Notice one thing: all the way through the psalm, the writer speaks to God, not about God. He has not broken off the conversation.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Everyone Deserted Me",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Timothy 4:9-11, 16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Make every effort to come to me quickly, because Demas, in his love of this world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia. Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry. … At my first defense, no one stood with me, but everyone deserted me. May it not be charged against them. But the Lord stood by me and strengthened me, so that through me the message would be fully proclaimed, and all the Gentiles would hear it. So I was delivered from the mouth of the lion."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul names people and says plainly who left. **Is this bitterness, or something else? Look at the second half of verse 16.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "He writes “no one stood with me,” and right after that, “But the Lord stood by me.” **Does the second cancel out the first?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "He asks Timothy to come, and he asks for Mark. **What does that show about a man who knows the Lord is standing by him?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "One Hour",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 14:32-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then they came to a place called Gethsemane, and Jesus told His disciples, “Sit here while I pray.” He took with Him Peter, James, and John, and began to be deeply troubled and distressed. Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch.” Going a little farther, He fell to the ground and prayed that, if it were possible, the hour would pass from Him. “Abba, Father,” He said, “all things are possible for You. Take this cup from Me. Yet not what I will, but what You will.” Then Jesus returned and found them sleeping. “Simon, are you asleep?” He asked. “Were you not able to keep watch for one hour? Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus asks His three closest friends for one specific thing. **What exactly, and why that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "He says “My soul is consumed with sorrow to the point of death” to people, not to the Father. **Why does He tell them this?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "They fall asleep three times. **Is that betrayal, or something else? Verse 38 hints at the answer.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus asked for presence, not for a solution. **What does that say about what a person needs in their darkest hour?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "I Will Never Leave You",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 13:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”"
+       ]
+      },
+      {
+       "odnosnik": "John 16:32",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Look, an hour is coming and has already come when you will be scattered, each to his own home, and you will leave Me all alone. Yet I am not alone, because the Father is with Me."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus says “you will leave Me all alone,” and right after that, “Yet I am not alone.” **How can both be true at once?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The promise in Hebrews comes in the context of money and being content with what you have. **What connects greed with the fear of being abandoned?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "God Settles the Lonely in Families",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 68:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "A father of the fatherless, and a defender of the widows, is God in His holy habitation. God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm lists the fatherless, widows, the lonely and prisoners. **What do these four groups have in common?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God does not simply give the lonely company. He settles them in families, He gives them a home. **How is a home different from company?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Gethsemane Jesus told three people how heavy things were for Him. **Is there someone you tell things like that to? Answer for yourself, not for the group.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 88 speaks to God and does not end well. **Do you allow yourself a prayer like that, or only a tidy one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **when was the last time someone simply stayed with you without trying to fix anything?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do you say to someone who tells you, “I pray and nothing happens; I feel abandoned by God”? Is the answer “God is with you, you just can’t feel it” the truth, a comfort, or both?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this quickly. Point out that on the cross Jesus quoted a psalm about being forsaken, not a psalm about God’s presence. That is the strongest reason not to brush such a person off.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God did not tell man that God alone would be enough for him. He said it is not good for the man to be alone, and He did something about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Genesis 2:18 or Hebrews 13:5.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think about the last time you told someone, without dressing it up, that you were struggling. If you can’t remember, **ask yourself what is holding you back: a lack of people, or something in you.** Those are two different things, and they have different ways out.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There is someone around you who is probably lonely, and no one notices. **Ask God who it is.** Usually a name comes to mind faster than we’d like.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask someone for their presence, not their help. No task to do, no advice. Just ask them to be there.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“But you have us, you have the church.”** True, and hurtful at the wrong moment. You can say: “God said it is not good for the man to be alone before anyone ever complained. Let’s not correct that sentence.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about loneliness in their marriage or family.** That is a very painful admission, and it usually costs a lot. Don’t comment, don’t advise, don’t ask for details. Thank them and move on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group wants to tack a moral onto Psalm 88.** Hold them back. This psalm has no moral, and that is its message. If someone insists on a happy ending, ask why that matters so much.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts matchmaking or giving advice.** Cut it off gently: “Let’s leave the advice aside and get back to the text.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Loneliness is a time God gives us to grow.”** Sometimes it is, but to someone at the table it may sound like being told to be quiet. Don’t pursue that line unless it was raised by someone it actually applies to.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they feel abandoned by God.** Don’t contradict them or correct them. Ask how long they have felt this way. Follow up with them after the meeting.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“But you have us, you have the church.”",
+     "odpowiedz": "True, and hurtful at the wrong moment. You can say: “God said it is not good for the man to be alone before anyone ever complained. Let’s not correct that sentence.”"
+    },
+    {
+     "sytuacja": "Someone talks about loneliness in their marriage or family.",
+     "odpowiedz": "That is a very painful admission, and it usually costs a lot. Don’t comment, don’t advise, don’t ask for details. Thank them and move on."
+    },
+    {
+     "sytuacja": "The group wants to tack a moral onto Psalm 88.",
+     "odpowiedz": "Hold them back. This psalm has no moral, and that is its message. If someone insists on a happy ending, ask why that matters so much."
+    },
+    {
+     "sytuacja": "Someone starts matchmaking or giving advice.",
+     "odpowiedz": "Cut it off gently: “Let’s leave the advice aside and get back to the text.”"
+    },
+    {
+     "sytuacja": "“Loneliness is a time God gives us to grow.”",
+     "odpowiedz": "Sometimes it is, but to someone at the table it may sound like being told to be quiet. Don’t pursue that line unless it was raised by someone it actually applies to."
+    },
+    {
+     "sytuacja": "Someone says they feel abandoned by God.",
+     "odpowiedz": "Don’t contradict them or correct them. Ask how long they have felt this way. Follow up with them after the meeting."
+    }
+   ]
+  }
+ ]
+}

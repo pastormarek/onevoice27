@@ -18,6 +18,8 @@ describe('app navigation — regression', () => {
     await user.click(within(drawer).getByRole('button', { name: 'One Voice 27' }))
 
     expect(within(drawer).getByRole('link', { name: '40 Days of Prayer' })).toHaveAttribute('href', '/en/40-days')
+    expect(within(drawer).getByRole('link', { name: 'BeHopeful' })).toHaveAttribute('href', '/en/behopeful')
+    expect(within(drawer).getByRole('link', { name: 'Hope Groups' })).toHaveAttribute('href', '/en/hope-groups')
     expect(within(drawer).getByRole('link', { name: 'Know God and the Bible' })).toHaveAttribute('href', '/en/know-god')
     expect(within(drawer).queryByText(/songs|hymnal/i)).toBeNull()
   })

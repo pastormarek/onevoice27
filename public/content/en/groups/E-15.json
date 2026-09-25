@@ -1,0 +1,902 @@
+{
+ "tytul": "Disappointment",
+ "id": "E-15",
+ "seria": "Emotions",
+ "opis": "What to do with the gap between what I expected and what actually came: from people, from myself, from God.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 24:13-21; 2 Kings 5:9-14; Jeremiah 17:5-8; John 2:23-25; Luke 24:25-32; Proverbs 13:12; Romans 5:1-5; Luke 24:33-35",
+  "p2": "Exodus 5:22-23; 6:1; 2 Kings 5:15; Isaiah 55:6-9; Job 6:15-20; Jeremiah 15:18-19; Romans 7:18-19, 24-25; Psalm 22:1-5",
+  "p3": "Luke 1:68; 2:38; Romans 10:11; Hebrews 11:39-40"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "emotions",
+  "hope",
+  "expectations",
+  "trust",
+  "Emmaus"
+ ],
+ "wersja": 1,
+ "zdanie": "Disappointment tells the truth about what I expected. It doesn’t yet tell the truth about what God is doing.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Disappointment is the gap between what I expected and what actually came. This meeting doesn’t teach you to expect less. It follows two disciples who leave Jerusalem saying, “But we were hoping,” and watches what Jesus does with people who are disappointed in Him. Along the way there are two other disappointments: with the way God works, and with the people we leaned on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Emmaus scene is also read in the Discouragement meeting, but briefly and from a different angle. If your group has done that one, no harm done. The questions here are different.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be people at the table who are disappointed in each other, in the congregation, or in a particular pastor. Don’t allow names or settling of scores.",
+      "Someone may be disappointed in God after a prayer that wasn’t answered. This is not the moment to explain to them why God did what He did.",
+      "The topic easily turns into complaining about others. The questions lead to the first person; keep coming back there."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t defend God and don’t defend the church. Don’t say, “God has a better plan,” and don’t let anyone else say it instead of listening. Don’t suggest to anyone that they were disappointed because they expected too much.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something small you really looked forward to that turned out different from what you imagined: a trip, a gift, a movie, a reunion after many years. Say in one sentence what it was.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, briefly and lightly. It should be something small. There will be time for the big things.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "But We Were Hoping",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "It is the Sunday after Jesus’ crucifixion. Two of His disciples are leaving Jerusalem.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 24:13-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "That same day two of them were going to a village called Emmaus, about seven miles from Jerusalem. They were talking with each other about everything that had happened. And as they talked and deliberated, Jesus Himself came up and walked along with them. But their eyes were kept from recognizing Him. He asked them, “What are you discussing so intently as you walk along?” They stood still, with sadness on their faces. One of them, named Cleopas, asked Him, “Are You the only visitor to Jerusalem who does not know the things that have happened there in recent days?” “What things?” He asked. “The events involving Jesus of Nazareth,” they answered. “This man was a prophet, powerful in speech and action before God and all the people. Our chief priests and rulers delivered Him up to the sentence of death, and they crucified Him. But we were hoping He was the One who would redeem Israel. And besides all this, it is the third day since these things took place."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples speak of their hope in the past tense. **What exactly were they counting on?** Read again what they say about Jesus in verses 19-21: what is still standing, and what has fallen apart?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In this scene, disappointment has a direction. **What are these two leaving behind them, and where are they going?** What does Jesus do with the direction they’re heading?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“It is the third day.” **Why does a disappointed person count the days?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Luke could have smoothed this conversation over. He recorded it as it was: Jesus’ closest disciples say of Him “was” and “we were hoping.” They were waiting for the redemption of Israel, meaning freedom for the nation, and the cross closed the door on that hope. Notice where Jesus meets them. He doesn’t wait in Jerusalem for them to come back. He catches up with them on a road that leads in the opposite direction, and He walks it together with them. He begins with a question and listens to the whole story, even though He knows it better than they do.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ever Since I Went, It’s Been Worse",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Moses did what God told him to do: he went to Pharaoh. In response, Pharaoh doubled the Israelites’ workload, and the foremen from among the people came to Moses with complaints.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 5:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Moses returned to the LORD and asked, “Lord, why have You brought trouble upon this people? Is this why You sent me? Ever since I went to Pharaoh to speak in Your name, he has brought trouble on this people, and You have not delivered Your people in any way.”"
+       ]
+      },
+      {
+       "odnosnik": "Exodus 6:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the LORD said to Moses, “Now you will see what I will do to Pharaoh, for because of My mighty hand he will let the people go; because of My strong hand he will drive them out of his land.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses wasn’t mistaken about the promise. God really had promised deliverance. **So what is his disappointment about?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What is missing from God’s answer**, though Moses might have expected it? There’s no rebuke. What else?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek “we were hoping” is in a tense that describes something that went on for a while and then ended: we had a hope, we carried it a long time, we don’t have it anymore. The second word matters even more. “Redeem” is a verb from the same family Luke uses to open his Gospel.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 1:68",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Blessed be the Lord, the God of Israel, because He has visited and redeemed His people."
+       ]
+      },
+      {
+       "odnosnik": "Luke 2:38",
+       "przeklad": "BSB",
+       "akapity": [
+        "Coming forward at that moment, she gave thanks to God and spoke about the Child to all who were waiting for the redemption of Jerusalem."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Luke’s Gospel begins with people waiting for redemption and ends with people saying they never saw it come. **Were Zechariah, Anna, and the two on the Emmaus road waiting for the same thing?** Did they get what they were waiting for?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "I Thought",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Naaman, commander of the army of Aram, has leprosy. He has come to Israel with a letter from his king, with silver, gold, and an entourage, because he heard that the prophet there could cure him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Kings 5:9-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Naaman came with his horses and chariots and stood at the door of Elisha’s house. Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.” But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy. Are not the Abanah and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not have washed in them and been cleansed?” So he turned and went away in a rage. Naaman’s servants, however, approached him and said, “My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, ‘Wash and be cleansed’?” So Naaman went down and dipped himself in the Jordan seven times, according to the word of the man of God, and his flesh was restored and became like that of a little child, and he was clean."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I thought…” **Reconstruct the scene Naaman had in his head before he stood at the door.** What in it was about God, and what was about Naaman himself?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Naaman got exactly what he came for: a promise of healing. **So what is he actually angry about?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "His servants say: if he had told you to do some great thing, you would have done it. **Why is a simple command sometimes harder to accept than a difficult one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Sometimes disappointment is an argument over the script. Naaman didn’t doubt that the God of Israel could heal. He just had a ready-made picture of how it should look: the prophet comes out in person, there’s a gesture, there’s a prayer, there’s a moment worthy of a commander. What he got was a messenger and a river he considered worse than his own. He nearly went home still sick, because the healing came by a different road than the one he had drawn for himself. He was saved by people who had the courage to ask him straight out.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "From “I Thought” to “I Know”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Kings 5:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Naaman and all his attendants went back to the man of God, stood before him, and declared, “Now I know for sure that there is no God in all the earth except in Israel. So please accept a gift from your servant.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In verse 11 Naaman says, “I thought,” and in verse 15, “Now I know for sure.” **What had to fall apart for him to get from the one sentence to the other?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Higher Thoughts",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 55:6-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Seek the LORD while He may be found; call on Him while He is near. Let the wicked man forsake his own way and the unrighteous man his own thoughts; let him return to the LORD, that He may have compassion, and to our God, for He will freely pardon. “For My thoughts are not your thoughts, neither are your ways My ways,” declares the LORD. “For as the heavens are higher than the earth, so My ways are higher than your ways and My thoughts than your thoughts."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The line “neither are your ways My ways” is often used to silence disappointed people. **Read it together with verse 7. In what exactly are God’s thoughts higher than ours here?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does that change the way we’re allowed to use this line with someone who is disappointed?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The One I Leaned On",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 17:5-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the LORD says: “Cursed is the man who trusts in mankind, who makes the flesh his strength and turns his heart from the LORD. He will be like a shrub in the desert; he will not see when prosperity comes. He will dwell in the parched places of the desert, in a salt land where no one lives. But blessed is the man who trusts in the LORD, whose confidence is in Him. He is like a tree planted by the waters that sends out its roots toward the stream. It does not fear when the heat comes, and its leaves are always green. It does not worry in a year of drought, nor does it cease to produce fruit."
+       ]
+      },
+      {
+       "odnosnik": "John 2:23-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "While He was in Jerusalem at the Passover Feast, many people saw the signs He was doing and believed in His name. But Jesus did not entrust Himself to them, for He knew them all. He did not need any testimony about man, for He knew what was in a man."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The heat and the year of drought come to both plants. **So what makes them different, if not the weather?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus “knew what was in a man,” and still He stayed with people, taught them, ate with them, and gave His life for them. **What does love for people look like when it has no illusions about people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Being disappointed in a person sometimes says something about the weight we placed on them. **What do we expect from people that only God can carry?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “cursed” sounds harsh, but Jeremiah isn’t forbidding friendship or trust. He is describing a consequence. Whoever makes a human being their mainstay is building a house on ground that can’t bear the weight, and sooner or later they will be let down. In the description of the desert shrub there’s one more line that’s easy to miss: “he will not see when prosperity comes.” A person who has been disappointed for a long time stops noticing the good, even when it’s standing right beside them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Stream That Ran Dry",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 6:15-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "But my brothers are as faithless as wadis, as seasonal streams that overflow, darkened because of the ice and the inflow of melting snow, but ceasing in the dry season and vanishing from their channels in the heat. Caravans turn aside from their routes; they go into the wasteland and perish. The caravans of Tema look for water; the travelers of Sheba hope to find it. They are confounded because they had hoped; their arrival brings disappointment."
+       ]
+      },
+      {
+       "odnosnik": "Jeremiah 15:18-19",
+       "przeklad": "WEB",
+       "akapity": [
+        "Why is my pain perpetual, and my wound incurable, which refuses to be healed? Will you indeed be to me as a deceitful brook, like waters that fail? Therefore Yahweh says, “If you return, then I will bring you again, that you may stand before me; and if you take out the precious from the vile, you shall be as my mouth. They shall return to you, but you shall not return to them."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Job says this about his friends. Jeremiah uses the same image about God, and in a prayer, no less. **What does it mean that a sentence like this was left in the Bible?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does God do with Jeremiah’s accusation?** What is missing from His answer, and what is in it?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Job’s image works once you know the setting. In spring, desert streambeds fill with water from the rains and the melting snow. In the summer heat, not a trace of it is left. A caravan that planned its route by those streambeds reaches a dry gully just when it needs water most. Job is saying to his friends: you were there when I didn’t need you.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Disappointed in Myself",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 7:18-19, 24-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "I know that nothing good lives in me, that is, in my flesh; for I have the desire to do what is good, but I cannot carry it out. For I do not do the good I want to do. Instead, I keep on doing the evil I do not want to do. … What a wretched man I am! Who will rescue me from this body of death? Thanks be to God, through Jesus Christ our Lord! So then, with my mind I serve the law of God, but with my flesh I serve the law of sin."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Between the cry “What a wretched man I am!” and the thanksgiving, there isn’t a single sentence about improvement. **What changes between the one and the other?** Notice that Paul doesn’t ask “what will rescue me,” but “who.”",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is disappointment in yourself that leads to God different from the kind that leads to self-contempt?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Were Not Our Hearts Burning?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The disciples told the stranger everything, including the fact that the women had found the tomb empty that morning. Now He speaks.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 24:25-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus said to them, “O foolish ones, how slow are your hearts to believe all that the prophets have spoken! Was it not necessary for the Christ to suffer these things and then to enter His glory?” And beginning with Moses and all the Prophets, He explained to them what was written in all the Scriptures about Himself. As they approached the village where they were headed, He seemed to be going farther. But they pleaded with Him, “Stay with us, for it is nearly evening and the day is almost over.” So He went in to stay with them. While He was reclining at the table with them, He took bread, spoke a blessing and broke it, and gave it to them. Then their eyes were opened and they recognized Jesus—and He disappeared from their sight. They asked each other, “Were not our hearts burning within us as He spoke with us on the road and opened the Scriptures to us?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t tell them they hoped for too much. **According to verses 25-26, what was their mistake?** Was their hope too big or too small?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus could have let them recognize Him at the start of the road and spared them a few hours of grief. Instead, He opens the Scriptures first, and they recognize Him only at the table. **What does that order tell us about how He heals disappointment?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“He seemed to be going farther.” **Why does Jesus wait for an invitation from people who are disappointed in Him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The words “O foolish ones” sound like a rebuke for being sad, but the charge is about something else: they believed the prophets only halfway. They took the glory and the victory from the Scriptures and skipped the suffering. That’s why the cross looked to them like the end of the plan, when it was actually its center. Jesus doesn’t show them His wounds or perform a miracle. He walks them through the Scriptures they had known since childhood, because from now on their hope is to rest on something more lasting than one moving experience.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Hope That Does Not Disappoint",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 13:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Hope deferred makes the heart sick, but desire fulfilled is a tree of life."
+       ]
+      },
+      {
+       "odnosnik": "Romans 5:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ, through whom we have gained access by faith into this grace in which we stand. And we rejoice in the hope of the glory of God. Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us."
+       ]
+      },
+      {
+       "odnosnik": "Luke 24:33-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "And they got up that very hour and returned to Jerusalem. There they found the Eleven and those with them, gathered together and saying, “The Lord has indeed risen and has appeared to Simon!” Then the two told what had happened on the road, and how they had recognized Jesus in the breaking of the bread."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Proverbs agrees with the disappointed: “Hope deferred makes the heart sick.” Paul writes about a hope that does not disappoint. **According to verse 5, what does this hope rest on: on what will happen, or on something else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same two men, the same evening, the same road, this time in the dark. **What changed in their circumstances, and what changed in them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In Paul, hope stands at the end of a chain, after suffering, perseverance, and character. **How is hope after disappointments different from hope before them?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "They Trusted and Were Not Disappointed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 22:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning? I cry out by day, O my God, but You do not answer, and by night, but I have no rest. Yet You are holy, enthroned on the praises of Israel. In You our fathers trusted; they trusted and You delivered them. They cried out to You and were set free; they trusted in You and were not disappointed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist cries out and gets no answer, and right after that he remembers those who “were not disappointed.” **How does the memory of other people’s answered prayers affect someone who is still waiting: does it help or hurt?** Why does he bring it up anyway?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus prayed the first line of this psalm on the cross. **What does it mean for a disappointed person that Jesus knows this prayer from the inside?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Does not disappoint” in Romans 5:5 literally means “does not put to shame.” In Paul’s world, a disappointed hope was a public matter: I staked everything on someone, everyone saw it, and I was left with nothing. The same word comes back a few chapters later.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 10:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How much of our disappointment is the pain of loss, and how much is the shame of having believed and ending up looking naive?** What does Paul promise about that second part?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Not Disappointed, Yet They Did Not Receive",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The psalm says of the fathers: they trusted and were not disappointed. Hebrews says something about the heroes of faith that sounds like the opposite.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:39-40",
+       "przeklad": "BSB",
+       "akapity": [
+        "These were all commended for their faith, yet they did not receive what was promised. God had planned something better for us, so that together with us they would be made perfect."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some read these texts this way: the promise that hope will not disappoint concerns the final goal, not every request along the way, and that’s why the Bible shows, without embarrassment, believers who didn’t live to see something. Others stress that God is faithful here and now too, and point out how many prayers in the Bible were answered quickly and literally. Both sides share one thing: none of these texts promises that God will carry out my script. They promise God Himself, and “something better.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hebrews calls people of faith those who didn’t live to see the promise. **Can you be disappointed and a believer at the same time?** How can you tell that someone is both at once?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Today we looked at three disappointments: with God, with people, and with ourselves. **Which one is closest to you right now?** What do you think they have in common?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“I thought…” **What script have you written for God about something important?** What would happen if you set the script aside without setting aside the request itself?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **do you have your own road to Emmaus, something or someone you’re walking away from because it didn’t turn out the way you hoped?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naaman was disappointed because he had written the script himself. Moses was disappointed even though he was holding on to a true promise. **How do I know which of these two situations I’m in?** Can you even tell the difference from inside the disappointment?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. It’s worth someone noticing that both men did the same thing: they voiced their disappointment out loud, and they didn’t walk away before they heard the answer.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Disappointment tells the truth about what I expected. It doesn’t yet tell the truth about what God is doing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Romans 5:5 or Luke 24:32.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Before God, finish the disciples’ sentence: **“But I was hoping that…”** Don’t polish it, and don’t tack on a pious ending right away. They said it to Jesus’ face, and it was the beginning of the conversation, not the end.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person who let you down. Ask yourself: **what did I expect from them that only God could give me?** If the answer is “nothing, they just hurt me,” that’s an answer too, and it’s worth naming to yourself.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** tell God plainly how He has disappointed you. Then do what those two did as evening fell: ask Him to stay anyway.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says, “I’m disappointed in God.”** Don’t defend God, and don’t explain anything. Thank them for their honesty. You can say that Jeremiah and Moses said sharper things to God, and those words stayed in the Bible. On the road to Emmaus, Jesus first asked and listened to the whole story. Do the same.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone in the group answers a disappointed person with a cliché: “God has a better plan,” “everything happens for a reason,” “you just have to trust.”** Interrupt gently before a second line like that comes. Say, “Let’s stay a moment longer with what we just heard.” A true sentence spoken too soon works like a hand over someone’s mouth.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Disappointment with the congregation, a pastor, or the church, with names.** Ask people to speak without naming names. Don’t defend the institution, and don’t minimize what happened. If it sounds like real harm rather than an unmet expectation, offer to talk after the meeting. A related meeting is “Why Do I Need the Church?” in the Questions People Ask series.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Two people at the table are disappointed in each other, a married couple, for example, and one starts talking about the other.** Stop it right away and calmly: “Today everyone speaks only about themselves.” The group is not the place for settling scores between people in the room.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“It’s best not to expect anything; then you won’t be disappointed.”** This is usually said by someone who has been let down many times. Don’t argue. Ask, “What did Jesus do with those two men’s hope: make it smaller or bigger?” and go back to section 4.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So it’s my fault I was disappointed, because I expected the wrong thing?”** No. Moses held on to a true promise, and he was disappointed too. Disappointment is not a sin or proof of weak faith. The text doesn’t ask who is to blame, but what we will do with this disappointment and whom we will tell about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about being disappointed in themselves in a way that sounds like something more: that they see no point, that everyone would be better off without them.** Don’t let it pass without a response, and don’t carry it alone. Talk with the person after the meeting and encourage them to reach out to a professional or a crisis line in your country. If a life is in danger, call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Drop section 3. Sections 1 and 4 are one story and carry the whole meeting, and section 2 gives a line people will remember.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says, “I’m disappointed in God.”",
+     "odpowiedz": "Don’t defend God, and don’t explain anything. Thank them for their honesty. You can say that Jeremiah and Moses said sharper things to God, and those words stayed in the Bible. On the road to Emmaus, Jesus first asked and listened to the whole story. Do the same."
+    },
+    {
+     "sytuacja": "Someone in the group answers a disappointed person with a cliché: “God has a better plan,” “everything happens for a reason,” “you just have to trust.”",
+     "odpowiedz": "Interrupt gently before a second line like that comes. Say, “Let’s stay a moment longer with what we just heard.” A true sentence spoken too soon works like a hand over someone’s mouth."
+    },
+    {
+     "sytuacja": "Disappointment with the congregation, a pastor, or the church, with names.",
+     "odpowiedz": "Ask people to speak without naming names. Don’t defend the institution, and don’t minimize what happened. If it sounds like real harm rather than an unmet expectation, offer to talk after the meeting. A related meeting is “Why Do I Need the Church?” in the Questions People Ask series."
+    },
+    {
+     "sytuacja": "Two people at the table are disappointed in each other, a married couple, for example, and one starts talking about the other.",
+     "odpowiedz": "Stop it right away and calmly: “Today everyone speaks only about themselves.” The group is not the place for settling scores between people in the room."
+    },
+    {
+     "sytuacja": "“It’s best not to expect anything; then you won’t be disappointed.”",
+     "odpowiedz": "This is usually said by someone who has been let down many times. Don’t argue. Ask, “What did Jesus do with those two men’s hope: make it smaller or bigger?” and go back to section 4."
+    },
+    {
+     "sytuacja": "“So it’s my fault I was disappointed, because I expected the wrong thing?”",
+     "odpowiedz": "No. Moses held on to a true promise, and he was disappointed too. Disappointment is not a sin or proof of weak faith. The text doesn’t ask who is to blame, but what we will do with this disappointment and whom we will tell about it."
+    },
+    {
+     "sytuacja": "Someone talks about being disappointed in themselves in a way that sounds like something more: that they see no point, that everyone would be better off without them.",
+     "odpowiedz": "Don’t let it pass without a response, and don’t carry it alone. Talk with the person after the meeting and encourage them to reach out to a professional or a crisis line in your country. If a life is in danger, call your local emergency number."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Drop section 3. Sections 1 and 4 are one story and carry the whole meeting, and section 2 gives a line people will remember."
+    }
+   ]
+  }
+ ]
+}

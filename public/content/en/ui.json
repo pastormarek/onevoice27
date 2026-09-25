@@ -192,7 +192,7 @@
     "verseForYou": "A Verse for You"
   },
   "hope": {
-    "intro": "Readings and prayer that help us share hope together.",
+    "intro": "Readings, prayer, and materials that help us share hope together.",
     "pray40Desc": "A daily journey of prayer — continue where you left off or browse all 40 days."
   },
   "nav": {
@@ -389,7 +389,7 @@
     "lightDesc": "A bright, easy-to-read look for daytime.",
     "offlineBusy": "Downloading…",
     "offlineButton": "Download content",
-    "offlineDesc": "Downloads the Bible, Bible studies, the “40 Days of Prayer” readings, memory verses, and verses for every occasion to this device. Once finished, they will be available without internet.",
+    "offlineDesc": "Downloads the Bible, Bible studies, the “40 Days of Prayer” readings, BeHopeful, Hope Groups, memory verses, and verses for every occasion to this device. Once finished, they will be available without internet.",
     "offlineDone": "Content is available offline",
     "offlineFailed": "Not all content could be downloaded. Check your internet connection and try again.",
     "offlineTitle": "Download content for offline use"
@@ -409,5 +409,39 @@
     "topic": "study",
     "topics": "studies",
     "unavailable": "These studies are temporarily unavailable."
+  },
+  "edu": {
+    "unavailable": "These talks are unavailable right now.",
+    "all": "All talks",
+    "title": "BeHopeful",
+    "missing": "This talk is not available.",
+    "backToList": "Back to all talks",
+    "item": "Talk",
+    "questions": "Questions to Consider",
+    "question": "A Question to Consider",
+    "prev": "Previous talk",
+    "next": "Next talk",
+    "tile": "Ten short talks where science and Scripture meet: memory, language, decisions, habits, hope."
+  },
+  "groups": {
+    "title": "Hope Groups",
+    "intro": "Ready-made meetings for home groups. Read a passage, talk it over, read the next one. Every topic has three levels, and the leader needs no theological training.",
+    "unavailable": "Hope Groups materials are temporarily unavailable.",
+    "meeting": "meeting",
+    "meetings": "meetings",
+    "key": "Key question",
+    "optional": "Optional – if you have time",
+    "note": "Note",
+    "leaderNote": "Leader",
+    "leaderOnly": "leader only",
+    "missing": "This meeting is not available.",
+    "backToList": "Back to Hope Groups",
+    "about": "about",
+    "question": "question",
+    "questions": "questions",
+    "leaderMode": "Leader notes",
+    "showOptional": "Optional questions",
+    "bibleNote": "Scripture quotations are from the Berean Standard Bible (public domain) unless otherwise noted.",
+    "tile": "Ready-made Bible meetings for home groups, in three levels."
   }
 }

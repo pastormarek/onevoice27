@@ -1,0 +1,832 @@
+{
+ "tytul": "Why Do I Need the Church?",
+ "id": "P-10",
+ "seria": "Questions People Ask",
+ "opis": "For those who are fine with “God yes, church no,” and for those who left it wounded.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Hebrews 10:19-25; Ephesians 4:11-16; Matthew 18:5-6, 10, 12-14, 19-20; Revelation 2:1-5; 3:14-20; John 13:34-35; 1 John 4:19-21",
+  "p2": "Hebrews 3:12-13; Romans 12:4-5; Ezekiel 34:1-6, 11-16; 1 Corinthians 1:2; 11:17-22; Luke 4:16, 28-30",
+  "p3": "Hebrews 3:1; 3 John 9-10; Acts 8:36-39"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 30
+ },
+ "tagi": [
+  "church",
+  "community",
+  "hurt",
+  "congregation",
+  "love",
+  "faith alone"
+ ],
+ "wersja": 1,
+ "zdanie": "Jesus knows the flaws of His church better than you do, and He still walks among the lampstands.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Two groups of people ask this question. Some say: I believe in God, but I have no use for the institution. Others were inside and left wounded. This meeting doesn’t defend any institution. It shows why, according to the New Testament, believers need one another, and it shows Jesus, who knows the flaws of His church better than any critic, says so out loud, and still doesn’t walk out on it. The word “church” here means the community of disciples, not a building, an office, or a particular denomination.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "What to do when someone in the community has wronged you is covered in a separate meeting, Conflict. Here we only touch on that thread in passing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be someone at the table who was hurt by church people: by a pastor, by a congregation, by family members acting in the name of religion. For them, every sentence about the beauty of community can sound like their story is being dismissed.",
+      "Someone else doesn’t come to services because they can’t: illness, shift work, caring for a loved one. It’s easy to shame them with a single verse.",
+      "The conversation easily turns into complaining about your own congregation or into a contest between denominations."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t defend the institution, and don’t make excuses for those who did harm. Don’t tell anyone they should come back. Don’t use Hebrews 10:25 like a club.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a group of people where you once felt truly at home: a class, a team, the kids on your street, a team at work, a congregation. Say in one sentence what made you feel at home there.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Since We Have Access",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 10:19-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, brothers, since we have confidence to enter the Most Holy Place by the blood of Jesus, by the new and living way opened for us through the curtain of His body, and since we have a great priest over the house of God, let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and our bodies washed with pure water. Let us hold resolutely to the hope we profess, for He who promised is faithful. And let us consider how to spur one another on to love and good deeds. Let us not neglect meeting together, as some have made a habit, but let us encourage one another, and all the more as you see the Day approaching."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The author first says what we have, and only then says three times what to do with it: let us draw near, let us hold, let us consider. **What do we have according to verses 19-21? How do the words about meeting together sound different when you read them starting from verse 19 instead of verse 25?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look closely at verses 24 and 25. **According to this text, why do believers meet? List the verbs. What is missing from this list, even though we might expect it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“As some have made a habit.” Already in the first generation of Christians, there were people who stopped coming. **What reasons come to mind? Does the author condemn them, or does he do something else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The people this letter was written to were not beginners. Earlier they had endured insults and the loss of their property, and they had stood by fellow believers in prison. Then the years went by, Jesus did not return, and weariness set in. Some stopped coming, not out of ill will but out of burnout. The author doesn’t answer them with an order. First he reminds them what Christ has done, and he presents the community as a place where tired people encourage one another.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Daily",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 3:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "See to it, brothers, that none of you has a wicked heart of unbelief that turns away from the living God. But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The author speaks of “sin’s deceitfulness.” By definition, a person who is deceived doesn’t know they are being deceived. **What can a person not see in themselves on their own? Who in your life has the right to tell you something uncomfortable?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Let us consider” translates the Greek verb `katanoeō`, which means to look at closely, to consider carefully. In the whole letter it appears only one other time, at the beginning of chapter 3, where the BSB renders it “set your focus on.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 3:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same kind of attention the letter tells us to turn toward Jesus, it later tells us to turn toward the people beside us. **What does this say about how the author sees the connection between looking at Christ and looking at one another?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Body That Grows",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 4:11-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "And it was He who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers, to equip the saints for works of ministry and to build up the body of Christ, until we all reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ. Then we will no longer be infants, tossed about by the waves and carried around by every wind of teaching and by the clever cunning of men in their deceitful scheming. Instead, speaking the truth in love, we will in all things grow up into Christ Himself, who is the head. From Him the whole body, fitted and held together by every supporting ligament, grows and builds itself up in love through the work of each individual part."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 12 carefully. **Who does the “works of ministry”: the people listed in verse 11, or “the saints,” that is, all believers? What does this change in the picture of a church where a few people serve and the rest watch?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "According to verse 16, the body grows “through the work of each individual part.” **What does the body lack when someone withdraws? And what does the one who withdrew lack?** Verse 14 helps.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Speaking the truth in love.” **Which have you met more often among believers: truth without love, or love without truth? What does each look like?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The list in verse 11 is not a ladder of positions. In the picture Paul uses, these people are like joints and ligaments: the places where the body holds together and that allow it to move. Their job is to equip everyone else for service. A congregation that watches a few people work is not the picture in this letter. In this letter no one grows alone, and no one grows on someone else’s behalf.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Members of One Another",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 12:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Just as each of us has one body with many members, and not all members have the same function, so in Christ we who are many are one body, and each member belongs to one another."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t only say that we belong to Christ. He says that each member belongs to one another. **What does this sentence do to the conviction that faith is a purely private matter?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "One of These Little Ones",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 18:5-6, 10, 12-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "And whoever welcomes a little child like this in My name welcomes Me. But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea. … See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven. … What do you think? If a man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the hills and go out to search for the one that is lost? And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray. In the same way, your Father in heaven is not willing that any of these little ones should perish."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 18:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Again, I tell you truly that if two of you on the earth agree about anything you ask for, it will be done for you by My Father in heaven. For where two or three gather together in My name, there am I with them.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The whole of Matthew 18 is Jesus’ teaching about life in the community of disciples. We read its beginning and its end.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus aims the sharpest sentence in this chapter not at those who have left, but at those who caused someone to stumble. **What does this say about whose side He takes when a community hurts someone weaker?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Where two or three gather together in My name.” Jesus promises His presence to the smallest possible community. **What does this promise not require? And why, even so, doesn’t Jesus say “where one is”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Imagine that the sheep that went astray is someone who stopped coming. **Who in this parable is supposed to get up and move? What doesn’t the shepherd do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The millstone in this sentence isn’t a hand mill, but a large millstone turned by a donkey. Archaeologists find them in towns from that period. It’s a weight a person couldn’t lift alone. Second: the rabbis said that when two sit together over the Torah, God’s presence is among them. Jesus takes this well-known saying and puts His own name in place of the Torah, and Himself in place of God’s presence.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Shepherds Who Only Feed Themselves",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 34:1-6, 11-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the word of the LORD came to me, saying, “Son of man, prophesy against the shepherds of Israel. Prophesy and tell them that this is what the Lord GOD says: ‘Woe to the shepherds of Israel, who only feed themselves! Should not the shepherds feed their flock? You eat the fat, wear the wool, and butcher the fattened sheep, but you do not feed the flock. You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead, you have ruled them with violence and cruelty. They were scattered for lack of a shepherd, and when they were scattered they became food for all the wild beasts. My flock went astray on all the mountains and every high hill. They were scattered over the face of all the earth, with no one to search for them or seek them out.’ … For this is what the Lord GOD says: ‘Behold, I Myself will search for My flock and seek them out. As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness. I will bring them out from the peoples, gather them from the countries, and bring them into their own land. I will feed them on the mountains of Israel, in the ravines, and in all the settlements of the land. I will feed them in good pasture, and the lofty mountains of Israel will be their grazing land. There they will lie down in a good grazing land; they will feed in rich pasture on the mountains of Israel. I will tend My flock and make them lie down, declares the Lord GOD. I will seek the lost, bring back the strays, bind up the broken, and strengthen the weak; but the sleek and strong I will destroy. I will shepherd them with justice.’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Criticism of religious leaders is not an invention of our time. Here God Himself voices it. **What on the list in verse 4 do you recognize from your own experience or from other people’s stories?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God calls the scattered sheep “My flock” and repeats “I will” again and again. **What does this text say to someone who has been hurt by the very people who were supposed to lead them? Whose sheep are these when the shepherds have failed?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "I Know Your Deeds",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "In the first chapter of Revelation, John sees Jesus standing among seven lampstands, which stand for seven churches. Then Jesus dictates a letter to each of them. We read the first and the last.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 2:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "“To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands. I know your deeds, your labor, and your perseverance. I know that you cannot tolerate those who are evil, and you have tested and exposed as liars those who falsely claim to be apostles. Without growing weary, you have persevered and endured many things for the sake of My name. But I have this against you: You have abandoned your first love. Therefore, keep in mind how far you have fallen. Repent and perform the deeds you did at first. But if you do not repent, I will come to you and remove your lampstand from its place."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 3:14-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true Witness, the Originator of God’s creation. I know your deeds; you are neither cold nor hot. How I wish you were one or the other! So because you are lukewarm—neither hot nor cold—I am about to vomit you out of My mouth! You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked. I counsel you to buy from Me gold refined by fire so that you may become rich, white garments so that you may be clothed and your shameful nakedness not exposed, and salve to anoint your eyes so that you may see. Those I love, I rebuke and discipline. Therefore be earnest and repent. Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus “walks among the seven golden lampstands” and twice says “I know.” **List what He holds against Ephesus and Laodicea. Despite these charges, what doesn’t He do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Laodicea, Jesus stands outside His own church and knocks. **What does this say about the state of that church? And what does it say about Jesus that He doesn’t leave that door?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ephesus had sound teaching, hard work, and perseverance. One thing was missing. **Why does a church that has everything except love hear a warning about losing its lampstand?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The three charges against Laodicea are the three things the city was famous for. It was known for its banks, its textiles, and its medical school, where an eye salve was made. Its water came through a long aqueduct and arrived lukewarm. Jesus speaks to the church in its own language. Of the seven churches, five are rebuked. Jesus doesn’t stop speaking to any of them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Your Gatherings Do More Harm Than Good",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 1:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "To the church of God in Corinth, to those sanctified in Christ Jesus and called to be holy, together with all those everywhere who call on the name of our Lord Jesus Christ, their Lord and ours:"
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 11:17-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the following instructions I have no praise to offer, because your gatherings do more harm than good. First of all, I hear that when you come together as a church, there are divisions among you, and in part I believe it. And indeed, there must be differences among you to show which of you are approved. Now then, when you come together, it is not the Lord’s Supper you eat. For as you eat, each of you goes ahead without sharing his meal. While one remains hungry, another gets drunk. Don’t you have your own homes in which to eat and drink? Or do you despise the church of God and humiliate those who have nothing? What can I say to you? Shall I praise you for this? No, I will not!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the same letter, Paul calls the Corinthians “the church of God” and people “called to be holy,” and then writes that their “gatherings do more harm than good.” **How do the two fit together? Has there ever been a church without flaws that we could go back to?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who in Corinth paid the price for the mess in the community?** Notice verse 22.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek `ekklēsia`, which the BSB renders as “church,” meant in ordinary Greek an assembly of a city’s citizens who had been called together. In the Greek translation of the Old Testament, this word was used for the people of Israel gathered before God. In the New Testament it never means a building and never means an office. It means people whom someone has called together. So in the language of the New Testament, the question “Why do I need the church?” sounds like this: why do I need these people, and why do they need me?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "By This Everyone Will Know",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 13:34-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "A new commandment I give you: Love one another. As I have loved you, so you also must love one another. By this everyone will know that you are My disciples, if you love one another.”"
+       ]
+      },
+      {
+       "odnosnik": "1 John 4:19-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "We love because He first loved us. If anyone says, “I love God,” but hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen. And we have this commandment from Him: Whoever loves God must love his brother as well."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "As the mark by which His disciples will be recognized, Jesus doesn’t name correct doctrine, numbers, or buildings. He names something you can’t have on your own. **Why this, of all things?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John sets God, whom we have not seen, beside a brother, whom we have seen. **Why is it sometimes easier to love God than to love the person in the next chair? What does that visible person test in my faith?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“As I have loved you.” Jesus says this at the table where a moment earlier He had washed the feet of Judas and Peter too. **What kind of community did He have in mind when He gave this commandment?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "As Was His Custom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 4:16, 28-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus came to Nazareth, where He had been brought up. As was His custom, He entered the synagogue on the Sabbath. And when He stood up to read, … On hearing this, all the people in the synagogue were enraged. They got up, drove Him out of the town, and led Him to the brow of the hill on which the town was built, in order to throw Him over the cliff. But Jesus passed through the crowd and went on His way."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus had known these people since childhood and knew what they were like. Even so, going to the synagogue was His custom, later on as well, in other towns. **What does this say about what an imperfect community meant to Him?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What are you looking for in a community of believers, and what do you bring to it?** Which of those two lists is longer?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s texts clashes most with your experience of church?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there someone who stopped coming and whom nobody went after? Or maybe that someone is you?** You don’t have to say more than you want to.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Diotrephes",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "3 John 9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction. So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Already in the first century there is a church where one man rules, slanders, and puts people out. **What does John intend to do about it? What does he not tell the people Diotrephes put out to do?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: God Yes, Church No",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 8:36-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "As they traveled along the road and came to some water, the eunuch said, “Look, here is water! What is there to prevent me from being baptized?” And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip baptized him. When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first position: faith is a matter between a person and God. The Ethiopian court official came to faith on an empty road, was baptized without any congregation, and went back to a country where there was not a single Christian. The text says he “went on his way rejoicing.” The second position: the New Testament knows nothing of Christianity on your own. Its images are a body, a household, a family, and a flock, and the phrase “one another” comes back dozens of times in the letters. The two sides have more in common than it seems. Christ saves, not membership. And no one in the New Testament is called to solitude as a path of faith. The eunuch didn’t leave a community. He didn’t have one yet.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What did the official carry with him as he went home alone? What was he missing?** How is his solitude different from the solitude of someone who had a community and gave it up?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 37 is missing from many old manuscripts, and some translations put it in a footnote. **Does the scene change its meaning without that verse?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hebrews 10:25 says not to neglect meeting together. Ezekiel 34 and the Third Letter of John show communities where people were hurt and put out. **Are there situations where leaving a particular community is the right thing to do? How can you tell a departure that protects from a departure that runs away?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t decide for anyone. It helps if two distinctions come up. First: leaving a particular congregation is not the same as leaving God’s people altogether. Second: where there is violence or abuse, leaving is protection, and no one has the right to call it unfaithfulness.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jesus knows the flaws of His church better than you do, and He still walks among the lampstands.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Hebrews 10:24-25 or Matthew 18:20.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Bring to mind the face of one person from your community whom you find hard to bear. Ask God: **what do You see in them that I don’t?** Don’t rush to an answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If you carry a wound inflicted by church people, tell God about it plainly: what happened and who did it. Without softening it and without excusing anyone. Ezekiel 34 shows that He does not stand on the side of shepherds who only feed themselves.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone who has disappeared from your community. Ask yourself **what is really keeping you from reaching out to them.** Call it by its name before you do anything else.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about real harm they suffered at the hands of church people.** This is the most important moment of the meeting. Don’t defend the institution, don’t make excuses for those who did it, don’t say “people fail, but God doesn’t,” and don’t move on quickly. Say, “That should not have happened.” You can point to Matthew 18:6 and Ezekiel 34: God speaks about such things more sharply than we do. Don’t press for forgiveness or for a return. Stay with that person after the meeting. If a crime is involved, especially against a child, it is a matter for the police and the authorities, not something to be handled inside the congregation. In immediate danger, call your local emergency number, and for an adult in emotional crisis, point them to a crisis line in your country.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I believe in God, but I have no use for the church.”** Don’t argue, and don’t try to convert. Ask: “According to today’s texts, what do believers need one another for? Which of those things can you have on your own?” Let the text answer, not you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into complaining about your congregation or about particular people.** Interrupt calmly: we don’t talk about people who aren’t here. Point out that in Revelation 2-3 Jesus speaks to the church, not about the church behind its back.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So which church is the true one?”** That’s an honest question, but for another meeting. Today’s texts speak about the community of disciples as such. There may be people from different denominations at the table, and no one should feel that their church is being judged today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone feels guilty because they can’t come: illness, shift work, caring for a loved one.** Say plainly that Hebrews 10:25 speaks about a habit of abandoning the community, not about being unable to come. Instead, ask the group how the community can come to someone who can’t come themselves.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says, “A true believer doesn’t leave; you have to put up with everything.”** Don’t agree with that. Bearing with other people’s weaknesses is one thing; putting up with abuse is another. John doesn’t tell anyone to go back under Diotrephes’ control.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You run out of time.** Keep blocks 1, 3, and 4. Block 4 carries the main point: Jesus knows, tells the truth, and doesn’t leave.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone talks about real harm they suffered at the hands of church people.",
+     "odpowiedz": "This is the most important moment of the meeting. Don’t defend the institution, don’t make excuses for those who did it, don’t say “people fail, but God doesn’t,” and don’t move on quickly. Say, “That should not have happened.” You can point to Matthew 18:6 and Ezekiel 34: God speaks about such things more sharply than we do. Don’t press for forgiveness or for a return. Stay with that person after the meeting. If a crime is involved, especially against a child, it is a matter for the police and the authorities, not something to be handled inside the congregation. In immediate danger, call your local emergency number, and for an adult in emotional crisis, point them to a crisis line in your country."
+    },
+    {
+     "sytuacja": "“I believe in God, but I have no use for the church.”",
+     "odpowiedz": "Don’t argue, and don’t try to convert. Ask: “According to today’s texts, what do believers need one another for? Which of those things can you have on your own?” Let the text answer, not you."
+    },
+    {
+     "sytuacja": "The conversation turns into complaining about your congregation or about particular people.",
+     "odpowiedz": "Interrupt calmly: we don’t talk about people who aren’t here. Point out that in Revelation 2-3 Jesus speaks to the church, not about the church behind its back."
+    },
+    {
+     "sytuacja": "“So which church is the true one?”",
+     "odpowiedz": "That’s an honest question, but for another meeting. Today’s texts speak about the community of disciples as such. There may be people from different denominations at the table, and no one should feel that their church is being judged today."
+    },
+    {
+     "sytuacja": "Someone feels guilty because they can’t come: illness, shift work, caring for a loved one.",
+     "odpowiedz": "Say plainly that Hebrews 10:25 speaks about a habit of abandoning the community, not about being unable to come. Instead, ask the group how the community can come to someone who can’t come themselves."
+    },
+    {
+     "sytuacja": "Someone says, “A true believer doesn’t leave; you have to put up with everything.”",
+     "odpowiedz": "Don’t agree with that. Bearing with other people’s weaknesses is one thing; putting up with abuse is another. John doesn’t tell anyone to go back under Diotrephes’ control."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You run out of time.",
+     "odpowiedz": "Keep blocks 1, 3, and 4. Block 4 carries the main point: Jesus knows, tells the truth, and doesn’t leave."
+    }
+   ]
+  }
+ ]
+}

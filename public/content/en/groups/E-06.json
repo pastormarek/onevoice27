@@ -1,0 +1,614 @@
+{
+ "tytul": "Envy",
+ "id": "E-06",
+ "seria": "Emotions",
+ "opis": "The emotion nobody admits to. Where it comes from and what it does to the one who carries it.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 37:3-8, 11; 1 Samuel 18:6-9; Psalm 73:2-3, 16-17; Matthew 20:9-15; James 3:14-16",
+  "p2": "Numbers 12:1-2; John 3:26-30; Galatians 5:19-21",
+  "p3": "Exodus 34:14"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 23,
+  "p3": 25
+ },
+ "tagi": [
+  "emotions",
+  "comparison",
+  "rivalry",
+  "gratitude"
+ ],
+ "wersja": 1,
+ "zdanie": "Envy doesn’t count what I have. It counts the distance between me and someone else, and that’s why it never finishes counting.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Envy is a deeply embarrassing emotion, because nobody wants to admit to it. People talk easily about anger and fear, but almost never about envy. That’s why this meeting takes the long way around: first through other people’s stories, and only at the end to ourselves.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Envy in church is often about ministry: who leads, who sings, who gets noticed. That can surface and touch people sitting at the table.",
+      "Childlessness, illness, someone else’s marriage, someone else’s children. Here envy is often tangled up with real pain, and it must not be treated as an ordinary flaw.",
+      "No one will say “I’m envious.” They’ll say “It’s not fair.” Don’t point that out."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t moralize, and don’t collect resolutions. Don’t tell anyone to be happy about someone else’s good fortune. Don’t make envy a worse sin than the others.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "In whose hands does something good make you sincerely glad, and in whose hands does it bother you a little? Don’t name names. Just say whether you’ve noticed that kind of difference in yourself.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and admit to something small. That disarms everyone else.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Robe",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 37:3-8, 11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Israel loved Joseph more than his other sons, because Joseph had been born to him in his old age; so he made him a robe of many colors. When Joseph’s brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him. Then Joseph had a dream, and when he told it to his brothers, they hated him even more. He said to them, “Listen to this dream I had: We were binding sheaves of grain in the field, and suddenly my sheaf rose and stood upright, while your sheaves gathered around and bowed down to mine.” “Do you intend to reign over us?” his brothers asked. “Will you actually rule us?” So they hated him even more because of his dream and his statements. … And his brothers were jealous of him, but his father kept in mind what he had said."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text gives the reason for the brothers’ hatred very precisely. **What exactly did Joseph do, and what did his father do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The blame for this situation can be spread across three parties. **How much of it belongs to the brothers?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 4 says they “could not speak a kind word to him.” **What does envy do to our speech?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The story doesn’t begin with wicked brothers but with a father who loved unequally and gave a visible sign of it. Envy rarely comes out of nowhere. Usually it’s a reaction to a real difference in treatment. That doesn’t excuse what the brothers did, but it explains why the Bible describes this scene in such detail. The robe was visible every day. Envy needs something to look at.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Only Through Moses?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 12:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife. “Does the LORD speak only through Moses?” they said. “Does He not also speak through us?” And the LORD heard this."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The official complaint is about Moses’ wife. The second sentence reveals something else. **What are Miriam and Aaron really after?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why does envy almost always need a respectable pretext?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Tens of Thousands",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 18:6-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "As the troops were returning home after David had killed the Philistine, the women came out of all the cities of Israel to meet King Saul with singing and dancing, with joyful songs, and with tambourines and other instruments. And as the women danced, they sang out: “Saul has slain his thousands, and David his tens of thousands.” And Saul was furious and resented this song. “They have ascribed tens of thousands to David,” he said, “but only thousands to me. What more can he have but the kingdom?” And from that day forward Saul kept a jealous eye on David."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The women’s song praises both men, Saul included. **What did Saul hear in it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 8 ends with the sentence, “What more can he have but the kingdom?” **Nobody said that. Where did it come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 9 says that from that day on Saul looked at David differently. **What changed: David, or the way Saul looked at him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Saul has won the battle and is coming home in triumph. The song names him first. If there had been no comparison, it would have been the best day of his life. Comparison turns victory into defeat, even though nothing in the facts has changed. The last sentence of verse 8 is Saul’s own addition, a conclusion drawn from a single song. The rest of his story grows out of that sentence.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Until I Entered the Sanctuary",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 73:2-3, 16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "But as for me, my feet had almost stumbled; my steps had nearly slipped. For I envied the arrogant when I saw the prosperity of the wicked. … When I tried to understand all this, it was troublesome in my sight until I entered God’s sanctuary; then I discerned their end."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalmist admits outright that he envied, and says that because of it he nearly stumbled. **What danger did that envy put him in?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "He tried to understand it and couldn’t. The change didn’t come through understanding. **What happened in verse 17?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nothing about the situation of the wicked changed. **So what did change?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Denarius for the Last",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 20:9-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "The workers who were hired about the eleventh hour came and each received a denarius. So when the original workers came, they assumed they would receive more. But each of them also received a denarius. On receiving their pay, they began to grumble against the landowner. ‘These men who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden and the scorching heat of the day.’ But he answered one of them, ‘Friend, I am not being unfair to you. Did you not agree with me on one denarius? Take your pay and go. I want to give this last man the same as I gave you. Do I not have the right to do as I please with what is mine? Or are you envious because I am generous?’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The first workers received exactly what they had been promised. **Why do they still feel wronged?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The landowner’s last sentence: “are you envious because I am generous?” **What does it say about who envy is really aimed at?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The landowner calls the envious man “Friend.” **What does that add to the scene?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is one of the few parables in which Jesus names the mechanism of envy outright. The wrong done to those who worked all day isn’t that they got too little, because they got exactly what was agreed. It’s that someone else got the same. Envy doesn’t count what I have, but the distance between me and someone else. That’s why you can have it while having everything you wanted.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The One Who Rejoiced",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 3:26-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "So John’s disciples came to him and said, “Look, Rabbi, the One who was with you beyond the Jordan, the One you testified about—He is baptizing, and everyone is going to Him.” John replied, “A man can receive only what is given him from heaven. You yourselves can testify that I said, ‘I am not the Christ, but am sent ahead of Him.’ The bride belongs to the bridegroom. The friend of the bridegroom stands and listens for him, and is overjoyed to hear the bridegroom’s voice. That joy is mine, and it is now complete. He must increase; I must decrease."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John’s disciples come to him with a classic line: “everyone is going to Him.” **What were they expecting from him?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John answers with the sentence, “A man can receive only what is given him from heaven.” **How does that sentence disarm envy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“He must increase; I must decrease.” **John says this without bitterness. What makes that possible for him?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Where It Comes From",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 3:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth. Such wisdom does not come from above, but is earthly, unspiritual, demonic. For where jealousy and selfish ambition exist, there will be disorder and every evil practice."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "James puts jealousy next to selfish ambition and says the result is “disorder and every evil practice.” **Why do these two go together?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James doesn’t first tell us to stop being jealous. He first tells us to do something else. **What, and why in that order?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Paul’s List",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 5:19-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "The acts of the flesh are obvious: sexual immorality, impurity, and debauchery; idolatry and sorcery; hatred, discord, jealousy, and rage; rivalries, divisions, factions, and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Envy stands on this list among things we consider far more serious. **What does that say about its weight?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "A Jealous God",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `kin'a` means both “jealousy” and “zeal.” The same word describes Saul looking at David and God saying of Himself in Exodus 34:14 that He is a jealous God.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 34:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you must not worship any other god, for the LORD, whose name is Jealous, is a jealous God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is God’s jealousy different from the kind we’ve read about today? Try to name the difference in one sentence.**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Human envy wants what someone else has. **What does God’s jealousy want?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "it helps if someone names the difference between wanting what belongs to someone else and wanting the faithfulness of someone who belongs to Him. Don’t settle it yourself while the group is still working on it.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul heard a song and added a sentence that wasn’t in it. **What sentence do you add for yourself after someone else’s success?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist stopped envying not when he understood, but when he changed the place he was looking from. **Where do you look at your life from: by comparison with whom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there someone whose good news is hard for you to hear?** Don’t say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Envy doesn’t count what I have. It counts the distance between me and someone else, and that’s why it never finishes counting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Matthew 20:15 or John 3:27.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This week, notice one moment when someone else’s good news bothered you. Don’t judge yourself for it. **Ask yourself: what does this person have that I feel I was denied?** Underneath envy there is almost always a grievance, and it’s rarely against that person.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Take that same thing to God as a question, not a request. **Ask Him why you didn’t get that thing.** Psalm 73 shows that this question is allowed.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** say something good to that person, directly and without qualifications. Not to feel better, but to find out how hard it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Nobody admits to envy.** Normal and expected. Don’t push. Work with the texts, because other people’s stories do the job better here than direct questions.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“It’s not envy, it’s injustice.”** Sometimes that’s true. Don’t argue. Ask, “What would have to change for it to stop hurting: for you to get more, or for them to get less?” The answer usually does the commenting for you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns to specific people in the church.** Cut it off immediately: “No names.” This is the most important boundary on this topic.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about childlessness, illness or loneliness.** Here envy is tangled up with real loss. Don’t treat it as a character flaw. Listen, and don’t offer moral commentary.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“A Christian should be happy about other people’s good fortune.”** Yes, but that’s a goal, not a switch you flip. Go back to Psalm 73: first he admitted that he envied, and only then did something shift.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts justifying their own situation.** Envy rarely confesses outright; more often it explains itself. Don’t unmask it. Go back to the text.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Nobody admits to envy.",
+     "odpowiedz": "Normal and expected. Don’t push. Work with the texts, because other people’s stories do the job better here than direct questions."
+    },
+    {
+     "sytuacja": "“It’s not envy, it’s injustice.”",
+     "odpowiedz": "Sometimes that’s true. Don’t argue. Ask, “What would have to change for it to stop hurting: for you to get more, or for them to get less?” The answer usually does the commenting for you."
+    },
+    {
+     "sytuacja": "The conversation turns to specific people in the church.",
+     "odpowiedz": "Cut it off immediately: “No names.” This is the most important boundary on this topic."
+    },
+    {
+     "sytuacja": "Someone talks about childlessness, illness or loneliness.",
+     "odpowiedz": "Here envy is tangled up with real loss. Don’t treat it as a character flaw. Listen, and don’t offer moral commentary."
+    },
+    {
+     "sytuacja": "“A Christian should be happy about other people’s good fortune.”",
+     "odpowiedz": "Yes, but that’s a goal, not a switch you flip. Go back to Psalm 73: first he admitted that he envied, and only then did something shift."
+    },
+    {
+     "sytuacja": "Someone starts justifying their own situation.",
+     "odpowiedz": "Envy rarely confesses outright; more often it explains itself. Don’t unmask it. Go back to the text."
+    }
+   ]
+  }
+ ]
+}

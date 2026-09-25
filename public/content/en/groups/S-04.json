@@ -1,0 +1,819 @@
+{
+ "tytul": "Jesus and the Sabbath",
+ "id": "S-04",
+ "seria": "The Sabbath as a Gift",
+ "opis": "Jesus neither abolished the Sabbath nor brushed it aside. He chose that day to set people free.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 4:16-21; Mark 2:23-28; Luke 13:10-17; John 5:1-3, 5-11, 16-17",
+  "p2": "Acts 17:2; Mark 3:1-6; Matthew 12:5-8; Luke 14:1-6; John 9:1-7, 13-16; John 7:21-24",
+  "p3": "Mark 2:27-28; John 5:18; John 10:35"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "Sabbath",
+  "Jesus",
+  "healing",
+  "freedom",
+  "law and grace"
+ ],
+ "wersja": 1,
+ "zdanie": "Jesus didn’t take the Sabbath away from people. He took away what was taking the Sabbath away from them.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting doesn’t settle which day of the week is the right one. It looks at one thing: what Jesus did with the Sabbath. The Gospels show that He was in the synagogue every week, that He argued over this day, and that this was the very day He chose to set people free. He didn’t abolish it and He didn’t brush it aside. He stripped away what had been piled on top of it, so that people could see again what it was for.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "A guest from outside the church may feel we’re trying to win them over to the seventh-day Sabbath. That isn’t today’s point, and it helps to say so right at the start.",
+      "It’s easy to turn the Pharisees and the synagogue leader into cartoons. That man wasn’t cruel; he was consistent. The edge of these passages is aimed at religious people, which means at us.",
+      "In John’s Gospel, “the Jews” in these scenes means the religious leaders in Jerusalem, not the Jewish people. If someone at the table makes a generalization about Jews, correct it right away and calmly.",
+      "Someone at the table may live with a chronic illness. Healings after eighteen and thirty-eight years may hurt them more than comfort them."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t judge how anyone keeps their day of rest, whether on the Sabbath or on Sunday. Don’t let the conversation turn into a debate between churches. Don’t cast anyone present in the role of the Pharisee.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a rule from home or school that you had to follow even though no one could explain what it was for. Say it in one sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short, to set the length. Don’t comment on other people’s answers and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "As Was His Custom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 4:16-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus came to Nazareth, where He had been brought up. As was His custom, He entered the synagogue on the Sabbath. And when He stood up to read, the scroll of the prophet Isaiah was handed to Him. Unrolling it, He found the place where it was written: “The Spirit of the Lord is on Me, because He has anointed Me to preach good news to the poor. He has sent Me to proclaim liberty to the captives and recovery of sight to the blind, to release the oppressed, to proclaim the year of the Lord’s favor.” Then He rolled up the scroll, returned it to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on Him, and He began by saying, “Today this Scripture is fulfilled in your hearing.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke writes that Jesus entered the synagogue on the Sabbath “as was His custom.” **What does that one phrase tell us about what His Sabbaths looked like over thirty years of life in Nazareth?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List everyone this passage from Isaiah promises something to. **What do these people have in common? Why does Jesus announce this on the Sabbath of all days?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Today this Scripture is fulfilled in your hearing.” **What is the boldest thing in that one sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“The year of the Lord’s favor” is the language of the Jubilee year from Leviticus. It was a Sabbath stretched out over years: the land rested, debts were canceled, slaves went home. So Jesus begins His public ministry on the Sabbath and describes it in words taken from the Sabbath. In Luke, this is a preview of everything that follows. The further liberations Luke shows us will happen on that very day.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Background",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Sabbath service in the synagogue followed a set order. The Scriptures were read in Hebrew, and then someone translated them into Aramaic so ordinary people could understand. The synagogue leader would often ask a guest to read a passage and say a few words. So Jesus isn’t storming the pulpit. He’s following a custom He had known since childhood, in a town where everyone knew Him.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Custom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 17:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same author, Luke, describes Paul many years after the resurrection with the same phrase he used for Jesus. **What follows from that, and what can’t be concluded from this one sentence alone?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Heads of Grain",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 2:23-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain as they walked along. So the Pharisees said to Him, “Look, why are they doing what is unlawful on the Sabbath?” Jesus replied, “Have you never read what David did when he and his companions were hungry and in need? During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.” Then Jesus declared, “The Sabbath was made for man, not man for the Sabbath. Therefore, the Son of Man is Lord even of the Sabbath.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read the Pharisees’ accusation carefully. **What exactly are they objecting to, and what are they not accusing the disciples of?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "At this point Jesus could have said that the Sabbath no longer applies. **What did He say instead? How does the sentence “The Sabbath was made for man” change the question of what is allowed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The Son of Man is Lord even of the Sabbath.” **What does an owner do with what belongs to him? What does this sentence say about Jesus Himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In a dispute over a regulation, Jesus answers with a story about hungry David, not with another regulation. **Why did He choose that route?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The law of Moses explicitly allows picking heads of grain by hand in someone else’s field, in Deuteronomy 23:25. No one accuses the disciples of stealing or of walking too far. The charge is that picking grain was counted as harvesting, so it concerns an interpretation, not the commandment itself. The rabbis knew a similar saying: the Sabbath is handed over to you, not you to the Sabbath. They said it about Israel. Jesus says “for man,” and in doing so He reaches all the way back to creation.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Withered Hand",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 3:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Once again Jesus entered the synagogue, and a man with a withered hand was there. In order to accuse Jesus, they were watching to see if He would heal on the Sabbath. Then Jesus said to the man with the withered hand, “Stand up among us.” And He asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?” But they were silent. Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand.” So he stretched it out, and it was restored. At this, the Pharisees went out and began plotting with the Herodians how they might kill Jesus."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus offers only two options: to do good or to do evil. **Why is there no third option in His question, namely to do nothing and wait until evening?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who in this scene restores life on the Sabbath, and who, on that same Sabbath, plots a killing?** What does that tell us about who is really violating the day?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "I Desire Mercy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 12:5-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Or haven’t you read in the Law that on the Sabbath the priests in the temple break the Sabbath and yet are innocent? But I tell you that something greater than the temple is here. If only you had known the meaning of ‘I desire mercy, not sacrifice,’ you would not have condemned the innocent. For the Son of Man is Lord of the Sabbath.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Matthew adds two arguments to the same scene that Mark doesn’t have. **Jesus calls the disciples “innocent.” What did the Pharisees fail to understand, in His view, when they knew the regulations better than anyone?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In the sentence “The Sabbath was made for man,” Mark uses the verb `egeneto`, meaning “came into being, became.” The Greek translation of the Old Testament uses that same word in the first chapter of Genesis to describe each new work of creation appearing. “Man” here is `anthropos`, a word for a human being in general, not a member of one nation. So Jesus doesn’t point back to Sinai, but to the beginning, just as He does when, asked about divorce, He says, “it was not this way from the beginning.”",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The phrase “Lord of the Sabbath” is sometimes read not as “the one who stands above the Sabbath” but as an echo of Old Testament expressions such as “a Sabbath to the LORD” and “My Sabbaths.” If so, Jesus puts Himself in the place that God occupies in those sentences.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is the sentence “I have authority over the Sabbath” different from “This day is Mine”? Which one fits better with what Jesus actually did on the Sabbath?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Eighteen Years",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 13:10-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "One Sabbath Jesus was teaching in one of the synagogues, and a woman there had been disabled by a spirit for eighteen years. She was hunched over and could not stand up straight. When Jesus saw her, He called her over and said, “Woman, you are set free from your disability.” Then He placed His hands on her, and immediately she straightened up and began to glorify God. But the synagogue leader was indignant that Jesus had healed on the Sabbath. “There are six days for work,” he told the crowd. “So come and be healed on those days and not on the Sabbath.” “You hypocrites!” the Lord replied. “Does not each of you on the Sabbath untie his ox or donkey from the stall and lead it to water? Then should not this daughter of Abraham, whom Satan has kept bound for eighteen long years, be released from her bondage on the Sabbath day?” When Jesus said this, all His adversaries were humiliated. And the whole crowd rejoiced at all the glorious things He was doing."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The synagogue leader has an argument: there are six other days, and after eighteen years one more day won’t change anything. **What is reasonable in his thinking? What is he failing to see?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say it was “allowed” to heal the woman in spite of the Sabbath. He says she “should” be released on the Sabbath day. **What does that tell us about what this day is for?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus calls her a “daughter of Abraham.” **What do those words change for a woman who, after eighteen years, is standing up straight in the middle of the synagogue?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**In the last sentence, who is humiliated and who is rejoicing?** Which side would our group find itself on?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Greek, the same verb appears three times here: the woman is “set free” from her disability, each of them would “untie” his ox, and the daughter of Abraham should be “released.” Translations usually lose this thread, and the BSB uses three different words. The Sabbath commandment names the ox and the donkey, so Jesus appeals to a practice no one questioned. The Gospels describe seven healings like this one. None was an emergency, and none of the sick asked for it. Jesus chose the person, and He chose the day.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At a Pharisee’s Table",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely. Right there before Him was a man with dropsy. So Jesus asked the experts in the law and the Pharisees, “Is it lawful to heal on the Sabbath or not?” But they remained silent. Then Jesus took hold of the man, healed him, and sent him on his way. And He asked them, “Which of you whose son or ox falls into a pit on the Sabbath day will not immediately pull him out?” And they were unable to answer these questions."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "On the Sabbath, Jesus accepts a dinner invitation from a man who is watching Him closely. **What does that tell us about how He spent this day, and with whom?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The hosts fall silent twice, before the healing and after it. **What does the silence of people who know the answer tell us?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Was Jesus Attacking the Commandment Itself?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Some scholars read these scenes like this: the sick had suffered for years and could have waited until evening, Jesus healed them on the Sabbath deliberately, and so He meant to show that the commandment didn’t bind Him. It’s a serious argument, because it rests on something that really is in the text: the deliberateness.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Others, including Jewish scholars and Christians outside our church, read the same scenes the other way around: the dispute is about interpretation, not about whether the commandment is valid. Jesus asks what is “lawful” on the Sabbath, and that question only makes sense if the day is binding. They also point out that if the Gospel writers had wanted to announce the end of the Sabbath, they did it remarkably poorly, and at Jesus’ trial the charge of breaking the Sabbath never comes up at all.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides agree on two points. Jesus acted deliberately. And in the end it wasn’t about a regulation, but about who He is.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in the passages we read today supports the first reading, and what supports the second?** Stick to what is written.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Pick Up Your Mat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 5:1-3, 5-11, 16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Some time later there was a feast of the Jews, and Jesus went up to Jerusalem. Now there is in Jerusalem near the Sheep Gate a pool with five covered colonnades, which in Hebrew is called Bethesda. On these walkways lay a great number of the sick, the blind, the lame, and the paralyzed. … One man there had been an invalid for thirty-eight years. When Jesus saw him lying there and realized that he had spent a long time in this condition, He asked him, “Do you want to get well?” “Sir,” the invalid replied, “I have no one to help me into the pool when the water is stirred. While I am on my way, someone else goes in before me.” Then Jesus told him, “Get up, pick up your mat, and walk.” Immediately the man was made well, and he picked up his mat and began to walk. Now this happened on the Sabbath day, so the Jews said to the man who had been healed, “This is the Sabbath! It is unlawful for you to carry your mat.” But he answered, “The man who made me well told me, ‘Pick up your mat and walk.’” … Now because Jesus was doing these things on the Sabbath, the Jews began to persecute Him. But Jesus answered them, “To this very day My Father is at His work, and I too am working.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Out of a whole crowd of sick people, Jesus chooses one man who hadn’t asked for anything, and He chooses the Sabbath. He could also have told him to come back for his mat in the evening. **What did He want to show?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The leaders see a man walking after thirty-eight years, and they ask about his mat. **How is it possible to look at a miracle and see an offense?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“My Father is at His work, and I too am working.” **What does God do on the Sabbath? What would it say about Him if, faced with someone’s suffering, He did nothing on that day?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The sick man says, “I have no one.” **Who around us could say the same thing today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "There is no ban on carrying a mat in the law of Moses. It came from oral tradition, and a later written record of that tradition ruled that you could carry a bed with a sick person lying on it, but not an empty one. So this man became guilty at the exact moment he got well. The rabbis themselves taught that God works on the Sabbath too, because otherwise the world would fall apart. What caused the offense was something else: Jesus claimed that same right for Himself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Mud",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 9:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now as Jesus was passing by, He saw a man blind from birth, and His disciples asked Him, “Rabbi, who sinned, this man or his parents, that he was born blind?” Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him. While it is daytime, we must do the works of Him who sent Me. Night is coming, when no one can work. While I am in the world, I am the light of the world.” When Jesus had said this, He spit on the ground, made some mud, and applied it to the man’s eyes. Then He told him, “Go, wash in the Pool of Siloam” (which means “Sent”). So the man went and washed, and came back seeing."
+       ]
+      },
+      {
+       "odnosnik": "John 9:13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "They brought to the Pharisees the man who had been blind. Now the day on which Jesus had made the mud and opened his eyes was a Sabbath. So the Pharisees also asked him how he had received his sight. The man answered, “He put mud on my eyes, and I washed, and now I can see.” Because of this, some of the Pharisees said, “This man is not from God, for He does not keep the Sabbath.” But others said, “How can a sinful man perform such signs?” And there was division among them."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus could have healed with a word alone, and yet He makes mud, which tradition forbade on the Sabbath. **Why didn’t He choose a way that wouldn’t offend anyone?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Pharisees split into two groups. **Where does one group start its reasoning, and where does the other?** Where do we start when someone does something differently from the way we do it?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In both stories, John tells the reader it was the Sabbath only after the healing. **What changes when you read the scene a second time, already knowing that?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Don’t Judge by Appearances",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 7:21-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus answered them, “I did one miracle, and you are all amazed. But because Moses gave you circumcision, you circumcise a boy on the Sabbath (not that it is from Moses, but from the patriarchs.) If a boy can be circumcised on the Sabbath so that the law of Moses will not be broken, why are you angry with Me for making the whole man well on the Sabbath? Stop judging by outward appearances, and start judging justly.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Here Jesus Himself returns to the healing at the pool and comments on it. **Does He defend Himself like someone who has rejected the commandment, or like someone who claims to have fulfilled it?** How can you tell?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean to judge “by outward appearances” in matters of faith?** Give an example that doesn’t involve anyone here.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “Breaking the Sabbath”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 5:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Because of this, the Jews tried all the harder to kill Him. Not only was He breaking the Sabbath, but He was even calling God His own Father, making Himself equal with God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some read this sentence as the Gospel writer’s own statement: Jesus really did loosen the Sabbath, and John records it. Others point out that John is giving the reasons why the opponents wanted to kill Jesus, so he is reporting their charge. Jesus Himself answers that same charge later, in chapter 7. There is also a point about language. The Greek verb `lyo`, rendered here as “breaking,” most often means “to loose, to set free.” It comes back in John 10:35, where Jesus says that Scripture “cannot be broken.”",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Even the authors of the most serious scholarly defense of Sunday acknowledge that John moves the whole discussion to the question of who Jesus is, and does not deal directly with whether Christians should keep a weekly Sabbath. This is what both readings share: John 5 is first of all about the Son who does what the Father does.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Whose voice do we hear in verse 18: the narrator’s or the accusers’?** What in the text itself helps settle it, and what remains open?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus stripped away what had been piled on top of the Sabbath, so that people could see again what the day was for. **Where in your faith or in your home has some rule obscured what it was meant to serve?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Today we met hungry disciples, a bent-over woman, a man by the pool, and a synagogue leader. **Which of them feels closest to you today, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what has held you bound for a long time, and what would you like to bring to the Lord of the Sabbath?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The synagogue leader was defending a day he loved, and he was convinced he was defending God. **How do you tell faithfulness to a commandment from defending your own fence, when from the inside the two look exactly the same?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t wrap this up with a formula. It is worth, though, letting the criterion the text itself offers come up: what happens to the person standing next to you. In Luke 13, the woman praises God, and the defender of the Sabbath is indignant.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Jesus didn’t take the Sabbath away from people. He took away what was taking the Sabbath away from them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Mark 2:27-28.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The synagogue leader didn’t notice the woman because he was guarding the day. Ask God one thing: **who am I failing to notice while I’m guarding my own rules?** Don’t answer too quickly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "When your next day of rest comes, before you plan anything, ask yourself: **am I looking forward to this day, or just getting it done?** If you’re just getting it done, try to admit to yourself what exactly turned it into a duty.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone you’ve been thinking for years “can wait one more day.” Stay with that thought before God before you decide what to do with it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So Jesus showed that rules don’t matter.”** Go back to Mark 2:27. “Made for man” is a sentence about the purpose of the day, not about its end. Ask: “What does Jesus not say in these scenes, even though He had the perfect opportunity?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So which is it in the end, Sabbath or Sunday?”** It’s a real question, and don’t brush it off, but you won’t settle it today. Say it plainly: “Today we’re looking at what Jesus did with the Sabbath. The question of days is a separate conversation.” The passages both sides appeal to are covered in a separate meeting: “A Delight, Not a Burden.” Don’t let the table split into camps.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The Pharisees were just hypocrites, period.”** The synagogue leader had a coherent argument, and his principle was universally accepted: whatever can be done before the Sabbath isn’t done on the Sabbath. Ask: “Where do we tell someone to come back on another day?” If the conversation drifts toward Jews in general, step in: in John it’s about a group of leaders, and Jesus, the disciples, and the people who were healed were Jews too.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone with a chronic illness says, “He didn’t heal me.”** Don’t explain, and don’t comfort with a formula. You can say that these passages don’t promise everyone healing now. They show whose side God is on in the face of suffering. Stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts judging how others in the congregation spend the Sabbath.** Step in gently: “Today we’re reading about people who policed someone else’s Sabbath and didn’t notice the person next to them. Let’s stay with ourselves.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A guest from outside the church asks why there should be a day of rest at all.** It’s a good question, but not the topic of this meeting. Answer in one sentence from Mark 2:27 and offer to talk after the meeting. Separate meetings deal with why people need a day of rest: “Weary” and “The Day That Was There in the Beginning.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes silent after a question.** That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in exactly the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off, and you won’t get through the material.** Keep block 1 short and move on to block 3. The bent-over woman is the passage without which the meeting loses its point.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So Jesus showed that rules don’t matter.”",
+     "odpowiedz": "Go back to Mark 2:27. “Made for man” is a sentence about the purpose of the day, not about its end. Ask: “What does Jesus not say in these scenes, even though He had the perfect opportunity?”"
+    },
+    {
+     "sytuacja": "“So which is it in the end, Sabbath or Sunday?”",
+     "odpowiedz": "It’s a real question, and don’t brush it off, but you won’t settle it today. Say it plainly: “Today we’re looking at what Jesus did with the Sabbath. The question of days is a separate conversation.” The passages both sides appeal to are covered in a separate meeting: “A Delight, Not a Burden.” Don’t let the table split into camps."
+    },
+    {
+     "sytuacja": "“The Pharisees were just hypocrites, period.”",
+     "odpowiedz": "The synagogue leader had a coherent argument, and his principle was universally accepted: whatever can be done before the Sabbath isn’t done on the Sabbath. Ask: “Where do we tell someone to come back on another day?” If the conversation drifts toward Jews in general, step in: in John it’s about a group of leaders, and Jesus, the disciples, and the people who were healed were Jews too."
+    },
+    {
+     "sytuacja": "Someone with a chronic illness says, “He didn’t heal me.”",
+     "odpowiedz": "Don’t explain, and don’t comfort with a formula. You can say that these passages don’t promise everyone healing now. They show whose side God is on in the face of suffering. Stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "Someone starts judging how others in the congregation spend the Sabbath.",
+     "odpowiedz": "Step in gently: “Today we’re reading about people who policed someone else’s Sabbath and didn’t notice the person next to them. Let’s stay with ourselves.”"
+    },
+    {
+     "sytuacja": "A guest from outside the church asks why there should be a day of rest at all.",
+     "odpowiedz": "It’s a good question, but not the topic of this meeting. Answer in one sentence from Mark 2:27 and offer to talk after the meeting. Separate meetings deal with why people need a day of rest: “Weary” and “The Day That Was There in the Beginning.”"
+    },
+    {
+     "sytuacja": "The group goes silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in exactly the same words."
+    },
+    {
+     "sytuacja": "The conversation takes off, and you won’t get through the material.",
+     "odpowiedz": "Keep block 1 short and move on to block 3. The bent-over woman is the passage without which the meeting loses its point."
+    }
+   ]
+  }
+ ]
+}

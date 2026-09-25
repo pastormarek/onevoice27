@@ -1,0 +1,837 @@
+{
+ "tytul": "The Pharisee and the Tax Collector",
+ "id": "PJ-04",
+ "seria": "Parables of Jesus",
+ "opis": "Two men pray in the same temple, and the one who came empty-handed goes home with a gift.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 18:9-14; Luke 18:15-17",
+  "p2": "Luke 18:1-8; Philippians 3:4-9; Psalm 51:1-4, 16-17; Luke 23:48; Luke 22:33-34, 61-62; Luke 18:18-23; Luke 18:38-43",
+  "p3": "Romans 3:23-25; Luke 19:5-10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "parables",
+  "prayer",
+  "justification",
+  "humility",
+  "contempt",
+  "grace"
+ ],
+ "wersja": 1,
+ "zdanie": "Two men told God who they were. The one who came empty-handed went home with a gift.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This parable has a trapdoor. It’s short, the moral sits right on the surface, and within half a minute the reader thinks with relief: thank goodness I’m not like that Pharisee. In that very moment they are praying his prayer. This meeting aims to lead the group to that spot and let them notice it without shaming anyone. The second goal is clearer: to see what the tax collector asks for, what he bases his request on, and why Jesus says it was enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The false picture of God this parable corrects: God as a board of directors, to whom you read out your report and then wait for approval. That kind of God keeps a ledger and justifies people according to their record. Jesus shows a God who justifies from the side of the altar, not from the side of the ledger: He gives to the one who asks, before anything has been put right.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The parable is six verses long. You read it slowly, in four short sections, and the fifth block takes up the scene Luke placed right after it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The Pharisee easily becomes a caricature. Then the whole group stands safely on the tax collector’s side and nothing happens. In the eyes of Jesus’ listeners, the Pharisee was a man worthy of respect.",
+      "Someone at the table may have been tormenting themselves with guilt for years. For them the model is not endless breast-beating. The tax collector leaves the temple justified.",
+      "Someone may use the parable as a club: against the congregation, against the elders, against a particular person. That is exactly the Pharisee’s prayer, just in a new edition.",
+      "The gesture of striking one’s breast is familiar from Catholic liturgy. It deserves respect, not commentary."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask who the Pharisee is. Don’t let people point fingers at those who aren’t there. Don’t end with a call to greater humility, because humility on demand is just one more achievement to add to the list.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of the last time you compared yourself with someone and came out ahead: behind the wheel, at work, in raising your kids, at church. Don’t say who it was. Just say in which area you most like to compare yourself.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, with a smile and briefly. This should be light. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "To Whom and About Whom",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "To some who trusted in their own righteousness and viewed others with contempt, He also told this parable: “Two men went up to the temple to pray. One was a Pharisee and the other a tax collector."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke tells us up front whom this parable is for, and names two traits: trust in one’s own righteousness and contempt for others. **How is the one connected to the other? Can you have the first without the second?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Two men go to the same temple for the same purpose. **What did the average listener think of each of them before Jesus said anything more? Which of the two would they have bet on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The audience isn’t named. It isn’t “Pharisees,” just “some who.” **Who might end up in that group?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "At that time the Pharisees were the most respected movement of piety: laymen who took the Law seriously and lived modestly. Their modern equivalent is not a hypocrite but a pillar of the church. A tax collector collected fees for the occupying power and lived on whatever he added on for himself. To his neighbors he was a traitor and a thief at the same time.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Jesus is on His way to Jerusalem and is approaching Jericho. Chapter 18 opens with two parables about prayer, one right after the other. The first, about the widow and the judge, teaches persistence. The second, today’s, is about what a person brings with them when they stand before God. Right after it Luke shows three encounters: with children, with a rich ruler, and with a blind man by the road. In each one the same question comes back: who enters the Kingdom, and with what?",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Every day in the temple a sacrifice was offered for the people: one lamb in the morning and another before evening. That was also the time for communal prayer. Acts mentions Peter and John going up to the temple “at the hour of prayer, the ninth hour,” which is three in the afternoon by our clock. The two men in the parable are most likely not standing in an empty building. They are standing in a crowd, and the sacrifice is burning on the altar.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Widow and the Judge",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus told them a parable about their need to pray at all times and not lose heart: “In a certain town there was a judge who neither feared God nor respected men. And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’ For a while he refused, but later he said to himself, ‘Though I neither fear God nor respect men, yet because this widow keeps pestering me, I will give her justice. Then she will stop wearing me out with her perpetual requests.’” And the Lord said, “Listen to the words of the unjust judge. Will not God bring about justice for His elect who cry out to Him day and night? Will He continue to defer their help? I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Two parables about prayer in a row. **What does the widow have in common with the tax collector? What do they both have in their hands when they come?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first parable ends with the question of whether the Son of Man will find faith. **How does the second parable answer the question of what that kind of faith looks like?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The First Prayer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Pharisee stood by himself and prayed, ‘God, I thank You that I am not like the other men—swindlers, evildoers, adulterers—or even like this tax collector. I fast twice a week and pay tithes of all that I acquire.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The prayer begins with “God, I thank You.” **Who is the hero of every sentence after that? What does the Pharisee ask for in this prayer, and what role is left in it for God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Everything he says is true. Fasting and tithing are good things, and he gives more than he has to. **So where exactly does the problem lie?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Or even like this tax collector.” **How does the Pharisee know what the man standing at the back is like? What does he need him for in this prayer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus didn’t exaggerate anything. Later rabbinic writings preserve the prayer of a teacher who thanks God that he runs toward the life of the world to come while others run toward the pit of destruction. Fasting twice a week and tithing on everything was more than the Law of Moses required.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Paul’s List",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 3:4-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "though I myself could have such confidence. If anyone else thinks he has grounds for confidence in the flesh, I have more: circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin; a Hebrew of Hebrews; as to the law, a Pharisee; as to zeal, persecuting the church; as to righteousness in the law, faultless. But whatever was gain to me I count as loss for the sake of Christ. More than that, I count all things as loss compared to the surpassing excellence of knowing Christ Jesus my Lord, for whom I have lost all things. I consider them rubbish, that I may gain Christ and be found in Him, not having my own righteousness from the law, but that which is through faith in Christ, the righteousness from God on the basis of faith."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul was a Pharisee and had a longer list than the man in the parable. **What did he do with it? Why does he call it loss, and not simply something that doesn’t matter?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul didn’t stop living a decent life after his conversion. **What changed, if his behavior didn’t?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Second Prayer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the tax collector stood at a distance, unwilling even to lift up his eyes to heaven. Instead, he beat his breast and said, ‘God, have mercy on me, a sinner!’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before the tax collector says anything, his body speaks. **Where does he stand, where does he look, what does he do with his hands? What do we learn about him without words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The tax collector promises nothing: no reform, no repayment, no change of job. **So what does he base his request on? What does he have to offer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Pharisee compares himself with others. **Whom does the tax collector compare himself with? What disappears from prayer when a person stops looking around?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Greek text the Pharisee’s prayer has twenty-nine words and the tax collector’s has six. A Jew usually prayed standing, with eyes and hands raised toward heaven. The tax collector does everything the other way around. Luke describes the gesture of beating the breast only once more: in the crowds returning from the cross.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Psalm the Tax Collector May Have Known",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 51:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions. Wash me clean of my iniquity and cleanse me from my sin. For I know my transgressions, and my sin is always before me. Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 51:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings. The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, You will not despise."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David, like the tax collector, offers not a single mitigating circumstance. **What does he appeal to in the first sentence? Something in himself, or something in God?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“A broken and a contrite heart, O God, You will not despise.” **Who in the parable despises, and who doesn’t? What does that say about the difference between God and a pious person?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At the Cross",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:48",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when all the people who had gathered for this spectacle saw what had happened, they returned home beating their breasts."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is the second and last place where Luke describes this gesture. **What connects the tax collector in the temple with the crowd returning from Golgotha?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The tax collector doesn’t use the ordinary word for “have mercy.” That is what the blind man near Jericho will cry out a dozen or so verses later, and there the Greek has the everyday `eleēson`. In the tax collector’s prayer the word is `hilasthēti`, a word from the language of sacrifice: be propitiated, accept atonement for me. From the same root the New Testament takes its name for the cover of the ark of the covenant, the place the priest sprinkled with blood on the Day of Atonement, as well as the word Paul uses of Christ:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 3:23-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "for all have sinned and fall short of the glory of God, and are justified freely by His grace through the redemption that is in Christ Jesus. God presented Him as the atoning sacrifice through faith in His blood, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The tax collector is standing in the temple at the hour when the sacrifice for the people is being offered on the altar. **What exactly is he asking for, if you read his words literally? What is a man looking at who doesn’t dare lift his eyes to heaven?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Paul the same two ideas meet as in the parable: being justified and atonement. **What does Paul add to the tax collector’s story that no one could yet have known on the day it was told?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Verdict",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "I tell you, this man, rather than the Pharisee, went home justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Justified” is a courtroom word: declared righteous. **What changed in the tax collector’s standing between the time he walked in and the time he walked out? And what changed for the Pharisee?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "To the first listeners this verdict was a scandal. **What is unfair about it by ordinary standards? Whose standard is Jesus using?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Let’s be honest: at some point while reading, most of us think, “Thank goodness I’m not like that Pharisee.” **What just happened in that moment? How do you get out of this trap without falling into it one floor down?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "One Man, Two Prayers",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 22:33-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Lord,” said Peter, “I am ready to go with You even to prison and to death.” But Jesus replied, “I tell you, Peter, the rooster will not crow today until you have denied three times that you know Me.”"
+       ]
+      },
+      {
+       "odnosnik": "Luke 22:61-62",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the Lord turned and looked at Peter. Then Peter remembered the word that the Lord had spoken to him: “Before the rooster crows today, you will deny Me three times.” And he went outside and wept bitterly."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the evening Peter talks about how ready he is; by morning he weeps without a word. **Which of these scenes resembles which prayer from the parable? What does that say about whether the Pharisee and the tax collector are two kinds of people or two states of one heart?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Doesn’t the Tax Collector Have to Make Anything Right?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The parable ends before the tax collector changes anything. Some read it this way: justification is a gift to the one who asks, it comes before any reform and depends on none, and adding conditions turns the tax collector back into a Pharisee. Others point out that one chapter later the same Luke shows a flesh-and-blood tax collector whose encounter with Jesus reaches straight into his wallet:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 19:5-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus came to that place, He looked up and said, “Zacchaeus, hurry down, for I must stay at your house today.” So Zacchaeus hurried down and welcomed Him joyfully. And all who saw this began to grumble, saying, “He has gone to be the guest of a sinful man!” But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.” Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham. For the Son of Man came to seek and to save the lost.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Trace the order of events with Zacchaeus. **What comes first: his pledge to repay, or Jesus coming under his roof?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both readings agree on the order: first acceptance, then fruit. **Why does that order matter? What happens to a person, and to their efforts to change, when they try to reverse it?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Like a Little Child",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now people were even bringing their babies to Jesus for Him to place His hands on them. And when the disciples saw this, they rebuked those who brought them. But Jesus called the children to Him and said, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these. Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke places this scene right after the parable. The disciples rebuke the people who are bringing small children. **Who in this scene is standing where the Pharisee stood? Whom did they decide wasn’t worth Jesus’ time?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A small child has no achievements to show as credentials. **What does a child have in common with the tax collector? What does it mean to receive the Kingdom the way a child receives?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus says “receive,” not “win” and not “earn.” **What other verbs do we slip into that spot when we think about our relationship with God?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two on the Road to Jericho",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:18-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then a certain ruler asked Him, “Good Teacher, what must I do to inherit eternal life?” “Why do you call Me good?” Jesus replied. “No one is good except God alone. You know the commandments: ‘Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.’” “All these I have kept from my youth,” he said. On hearing this, Jesus told him, “You still lack one thing: Sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.” But when the ruler heard this, he became very sad, because he was extremely wealthy."
+       ]
+      },
+      {
+       "odnosnik": "Luke 18:38-43",
+       "przeklad": "BSB",
+       "akapity": [
+        "So he called out, “Jesus, Son of David, have mercy on me!” Those who led the way admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!” Jesus stopped and directed that the man be brought to Him. When he had been brought near, Jesus asked him, “What do you want Me to do for you?” “Lord,” he said, “let me see again.” “Receive your sight!” Jesus replied. “Your faith has healed you.” Immediately he received his sight and followed Jesus, glorifying God. And all the people who saw this gave praise to God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Before the chapter ends, Jesus meets two more people. **Which of them talks like the Pharisee, and which like the tax collector? Which one goes away sad, and which one follows Jesus?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "You can recognize the Pharisee in yourself by one thing: piety starts producing contempt. **Toward whom does your faith make you less patient instead of more?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think back over your prayers of the last few weeks. **How many of them were reports, and how many were requests? What does that teach you about what you bring when you stand before God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **was there a day in your life when you had nothing to say to God except the tax collector’s sentence? What did you go home with that day?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Whoever notices their own humility has already lost it. Whoever despises the Pharisee is praying his prayer. **Can you get out of this trap by your own effort? Is there a humility that doesn’t know it is humility, and where would it come from?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t hand out a prescription. It would be good for one observation from the text to come up: the tax collector is occupied neither with his own humility nor with the Pharisee. He looks in one direction and asks for one thing. Maybe humility isn’t something you work up, but a side effect of looking somewhere other than at yourself.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Two men told God who they were. The one who came empty-handed went home with a gift.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Luke 18:13 or Luke 18:14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The next time you catch yourself thinking, “At least I’m not like…,” don’t fight the thought and don’t punish yourself for it. **Just ask: what did I need that person for just now?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Try once to stand before God without any list: no list of merits and no list of sins counted out one by one. **Just the tax collector’s one sentence, and silence.** See whether you can stay in that silence.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of the person whose piety, or lack of it, you find easiest to look down on. Imagine that they are standing behind you in the temple, and that God hears their prayer, which you can’t hear.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Now in our church, there are some real Pharisees.”** Interrupt calmly, right away. You can say with a smile, “Careful, trapdoor,” and go back to the question of what happens in us when we say that. Don’t let any names be mentioned.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone generalizes: “Pharisees, meaning Jews, meaning hypocrites.”** Correct it briefly. The Pharisees were sincerely devout and respected people, and the tax collector was a Jew too. The parable isn’t about a nation or a denomination. Luke addresses it to “some who trusted in their own righteousness,” and there are people like that in every church.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who constantly torments themselves says, “I feel like that every day, and it doesn’t do anything for me.”** That is an important sentence and must not be brushed aside. Point to the end of verse 14: the tax collector went home justified. The parable doesn’t tell anyone to stay stuck in beating their breast. It shows that this prayer is heard at once. If this person’s sense of guilt is constant and overwhelming, talk with them after the meeting and encourage them to speak with a pastor or a counselor.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So fasting, tithing, and living a decent life are unnecessary?”** The text doesn’t say that. Jesus criticizes neither fasting nor tithing. The problem is the bill the Pharisee attached to them, and the contempt that grew out of that bill. At level 2, Paul speaks to this in Philippians.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Then I’ll sin a little, and afterward I’ll say the tax collector’s sentence.”** Don’t get indignant. Ask whether the tax collector in this scene looks like someone who is calculating. If you’re leading level 3, point to Zacchaeus: acceptance is free, and that is why it changes so much.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns to confession, or to striking one’s breast during Mass.** Don’t get into comparing the practices of different churches. There may be Catholics at the table, and they deserve respect. Go back to the text: to whom does the tax collector say his sentence, and what does he hear in reply?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after the trapdoor question.** That’s good. Count to ten in your head. This question needs silence more than it needs answers.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Shorten block 1 and skip block 5. Blocks 2, 3, and 4 are the whole parable and need to be heard together.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Now in our church, there are some real Pharisees.”",
+     "odpowiedz": "Interrupt calmly, right away. You can say with a smile, “Careful, trapdoor,” and go back to the question of what happens in us when we say that. Don’t let any names be mentioned."
+    },
+    {
+     "sytuacja": "Someone generalizes: “Pharisees, meaning Jews, meaning hypocrites.”",
+     "odpowiedz": "Correct it briefly. The Pharisees were sincerely devout and respected people, and the tax collector was a Jew too. The parable isn’t about a nation or a denomination. Luke addresses it to “some who trusted in their own righteousness,” and there are people like that in every church."
+    },
+    {
+     "sytuacja": "Someone who constantly torments themselves says, “I feel like that every day, and it doesn’t do anything for me.”",
+     "odpowiedz": "That is an important sentence and must not be brushed aside. Point to the end of verse 14: the tax collector went home justified. The parable doesn’t tell anyone to stay stuck in beating their breast. It shows that this prayer is heard at once. If this person’s sense of guilt is constant and overwhelming, talk with them after the meeting and encourage them to speak with a pastor or a counselor."
+    },
+    {
+     "sytuacja": "“So fasting, tithing, and living a decent life are unnecessary?”",
+     "odpowiedz": "The text doesn’t say that. Jesus criticizes neither fasting nor tithing. The problem is the bill the Pharisee attached to them, and the contempt that grew out of that bill. At level 2, Paul speaks to this in Philippians."
+    },
+    {
+     "sytuacja": "“Then I’ll sin a little, and afterward I’ll say the tax collector’s sentence.”",
+     "odpowiedz": "Don’t get indignant. Ask whether the tax collector in this scene looks like someone who is calculating. If you’re leading level 3, point to Zacchaeus: acceptance is free, and that is why it changes so much."
+    },
+    {
+     "sytuacja": "The conversation turns to confession, or to striking one’s breast during Mass.",
+     "odpowiedz": "Don’t get into comparing the practices of different churches. There may be Catholics at the table, and they deserve respect. Go back to the text: to whom does the tax collector say his sentence, and what does he hear in reply?"
+    },
+    {
+     "sytuacja": "The group falls silent after the trapdoor question.",
+     "odpowiedz": "That’s good. Count to ten in your head. This question needs silence more than it needs answers."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Shorten block 1 and skip block 5. Blocks 2, 3, and 4 are the whole parable and need to be heard together."
+    }
+   ]
+  }
+ ]
+}

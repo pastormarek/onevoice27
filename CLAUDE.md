@@ -6,8 +6,9 @@ zmiany w polskiej aplikacji **nie przechodzą tu same** – trzeba je przenieś�
 
 - Nazwa: **One Voice 27**, grafika hasła: **#AllThingsNew** (`public/allthingsnew.png`).
 - Jedyny język: `en`. Trasy po angielsku (`/en/bible`, `/en/40-days`, `/en/know-god`…).
-- **Bez pieśni** (decyzja autora). Bez „Materiałów edukacyjnych" i „Grup Nadziei" –
-  nie ma ich jeszcze po angielsku; kod stron usunięty, wróci razem z treścią.
+- **Bez pieśni** (decyzja autora). „Materiały edukacyjne" nazywają się tu **BeHopeful**
+  (`/en/behopeful`), „Grupy Nadziei" – **Hope Groups** (`/en/hope-groups`); oba moduły
+  na stronie One Voice 27 i w menu (decyzja autora 2026-09-25).
 - Repozytorium: **`pastormarek/onevoice27`**, publikacja: GitHub Actions
   (`.github/workflows/deploy-pages.yml`, każdy push na `main`) →
   **https://pastormarek.github.io/onevoice27/**. `VITE_BASE=/onevoice27/`.
@@ -31,6 +32,10 @@ npx vitest run     # testy
 | `studies/`, `index.json` – „Know God and the Bible" | gotowe tłumaczenie 35 studiów (sprzed tej sesji), nie tłumaczone na nowo |
 | `pray40/NN.json` – „40 Days of Prayer" | **napisane na nowo po angielsku** na podstawie finalnych polskich czytanek (po korekcie) |
 | `pray40/index.json` | `python tools/build_pray40_index_en.py` |
+| `edu/NN.json` – BeHopeful | napisane na nowo po angielsku z polskich `edu/` (dwie wersje, cytat z BSB) |
+| `groups/<ID>.json` – Hope Groups | 76 spotkań napisanych na nowo z polskich `groups/`; **klucze i wartości `typ` zostają po polsku** (czyta je kod), po angielsku tylko teksty |
+| `groups/index.json`, `edu/index.json` | `python tools/build_indexes_en.py` (opisy serii są w skrypcie) |
+| tekst Pisma w spotkaniach | `python tools/fill_scripture_groups.py [ID]` – wstawia wersety z BSB/WEB/KJV według `odnosnik`; nigdy nie wpisujemy ich ręcznie |
 | `ui.json` | wszystkie napisy interfejsu |
 
 Domyślny przekład: **BSB** (Berean Standard Bible, domena publiczna od 2023, „the LORD").
@@ -57,4 +62,7 @@ WEB używa imienia „Yahweh", dlatego nie jest domyślny. KJV z bolls.life ma n
 
 - Komentarze w angielskich studiach cytują Pismo luźno (tłumaczone z polskiego): na ~650
   cytatów w cudzysłowie ok. 220 jest dosłownie w BSB. Do przejrzenia, jeśli studia mają iść szeroko.
+- Hope Groups: kontrola struktury wobec polskiego oryginału – `python tools/check_groups_en.py`.
+  Polskie telefony zaufania zastąpione ogólnym „a crisis line in your country" / „your local
+  emergency number" – bez numerów, bo aplikacja jest międzynarodowa.
 - Kontakt: formularz otwiera pocztę na `marek.micyk@adwent.pl` (`ui.json` → `contact.address`).

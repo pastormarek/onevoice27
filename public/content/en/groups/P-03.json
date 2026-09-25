@@ -1,0 +1,901 @@
+{
+ "tytul": "Where Does Evil Come From If God Is Good?",
+ "id": "P-03",
+ "seria": "Questions People Ask",
+ "opis": "How evil got into the good world of a good God. A story with a culprit and an ending.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 2:16-17; 3:1-6; Genesis 3:7-13; Matthew 13:24-30; Revelation 12:7-12; 1 John 4:8-10; Revelation 21:3-5",
+  "p2": "Deuteronomy 30:19-20; Genesis 3:15; Matthew 13:36-39; Ezekiel 28:12-17; John 12:31-32; 1 John 3:8; Hebrews 2:14-15",
+  "p3": "Genesis 3:1-5; Isaiah 45:5-7; James 1:13-15; Isaiah 14:12-14; 2 Peter 3:9"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 31,
+  "p3": 37
+ },
+ "tagi": [
+  "evil",
+  "freedom",
+  "picture of God",
+  "Satan",
+  "hope",
+  "love"
+ ],
+ "wersja": 1,
+ "zdanie": "Evil began with a lie about what God is like, and it will end when everyone sees what He is really like.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting asks about the whole story: how evil got into the good world of a good God. The Bible does not answer with a lecture. It answers with a story. In that story evil does not come from God. It has a culprit, it begins with a lie about what God is like, and it has an appointed end. God does not remove it by force in a single moment, because what is at stake is love, and love cannot be forced. Adventists call this story the great controversy, the conflict between Christ and Satan over God’s character. You don’t need to use that name at the table. The texts are enough. A person who is suffering needs a different meeting: “Why Suffering?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "“God gave people freedom” sounds reasonable in an armchair and cruel in a hospital. If someone at the table is suffering right now, this meeting is not an answer to their pain, so don’t pretend it is.",
+      "Talk about Satan easily slides into sensationalism or jokes. The Bible says little about him, and says it soberly. Keep to that measure.",
+      "Genesis 3 is sometimes used against women. The text doesn’t allow it: Adam was “with her,” and God questions him first.",
+      "Someone from outside the church may consider the garden story a myth. You don’t have to settle that in order to talk about what the text says about God and about us."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t defend God faster than the Bible does. Don’t explain specific misfortunes as the work of Satan or as someone’s choice. You don’t know that.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When did you first think that something was wrong with the world? How old were you? One sentence is enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Serpent’s Question",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD God commanded him, “You may eat freely from every tree of the garden, but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 3:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’” The woman answered the serpent, “We may eat the fruit of the trees of the garden, but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’” “You will not surely die,” the serpent told her. “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.” When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Compare God’s words in Genesis 2:16 with the serpent’s first question. **What did the serpent do with God’s “You may eat freely from every tree”? What picture of God comes out of his question?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The serpent never once says “eat.” **So what is he attacking: the command, or the One who gave it? According to the serpent, what is God hiding from people, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "There was one tree in the garden they were not allowed to eat from. **Why was it there at all? What would obedience mean in a world where you can’t say “no”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Where do you hear the same suspicion today: that God is holding out on you, that His “no” is against you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Bible, evil does not begin with violence or with lust. It begins with a sentence about God: He doesn’t want what’s good for you. The serpent doesn’t deny that God exists. He undermines His character. He presents the generosity that gave every tree but one as stinginess. If that lie is the root of evil, then the answer to evil cannot be a display of power. Power proves nothing about character.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Choose",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 30:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live, and that you may love the LORD your God, obey Him, and hold fast to Him. For He is your life, and He will prolong your life in the land that the LORD swore to give to your fathers, to Abraham, Isaac, and Jacob.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God sets two ways before the people and tells them which one He would choose. **Even so, what does He not do? What does that say about how God understands love?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can you order someone to “hold fast” to you? What price does someone pay who wants to be loved, and not just obeyed?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Throughout the garden story the narrator calls the Creator “the LORD God.” That joins God’s personal name, which in the Bible stands for the God of the covenant and of closeness, to the general word “God.” The Hebrew text has one exception: the conversation with the serpent. The serpent says only “God,” and the woman, answering him, does the same. You can see this in the BSB too: compare the beginning of verse 1 with the serpent’s words and with verses 3 and 5. In verse 11 the translation supplies “the LORD God” where the original simply has “he said.” Before anyone picks the fruit, the name that meant relationship has dropped out of the conversation. Someone close becomes a concept, and it is easier to think badly of a concept.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Where Are You?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:7-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves. Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden. But the LORD God called out to the man, “Where are you?” “I heard Your voice in the garden,” he replied, “and I was afraid because I was naked; so I hid myself.” “Who told you that you were naked?” asked the LORD God. “Have you eaten from the tree of which I commanded you not to eat?” And the man answered, “The woman whom You gave me, she gave me fruit from the tree, and I ate it.” Then the LORD God said to the woman, “What is this you have done?” “The serpent deceived me,” she replied, “and I ate.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List in order what changed after they ate the fruit: in how they related to themselves, to God, and to each other. **Which of these fractures do you recognize in today’s world?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The first thing the man feels toward God after the fall is fear. **Did God do anything in this scene that should have frightened him? So where does the fear come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In a single sentence Adam blames both the woman and God: “The woman whom You gave me.” **How far is it from that sentence to the question “Where does evil come from if God is good?”**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God does not come into the garden with a verdict. The text says He called out, and the first thing He says is a question. “Where are you?” is not the question of an investigator who doesn’t know the answer. It is the call of someone who wants the conversation back. In the scene where evil enters the world, the one searching is God and the one hiding is the human being. It’s worth remembering that before reading the next texts.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Promise",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God says this to the serpent before He says anything to the humans about the consequences of what they did. **What does this sentence foretell? In this fight, who is wounded and who is defeated?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A head and a heel are not equal wounds. **What does that say about whether good and evil are equal forces in the Bible?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "An Enemy Did This",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:24-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus put before them another parable: “The kingdom of heaven is like a man who sowed good seed in his field. But while everyone was asleep, his enemy came and sowed weeds among the wheat, and slipped away. When the wheat sprouted and bore grain, then the weeds also appeared. The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’ ‘An enemy did this,’ he replied. So the servants asked him, ‘Do you want us to go and pull them up?’ ‘No,’ he said, ‘if you pull the weeds now, you might uproot the wheat with them. Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat into my barn.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servants’ question is our question: you sowed good seed, so where did the evil come from? **What is the owner’s answer? What does that answer rule out?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servants want to pull up the weeds right away. **What reason does the owner give for not doing it? Who is he concerned about?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The owner doesn’t explain how the enemy got into the field or why no one stopped him. **What do we learn for certain in this parable, and what is left unexplained?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Have you ever wanted God to “pull up the weeds” right away? What would happen to you if He did it tonight at midnight?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In English the owner’s answer is four words long, and it is one of the Bible’s shortest answers to the question of where evil comes from. It says two things: I didn’t sow this, and someone did. The owner’s delay is not indifference. It comes from his care for the wheat. And the parable doesn’t promise it will always be this way. The harvest is set.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The weeds in this parable were most likely darnel, a grass whose shoots look almost exactly like young wheat. The difference shows only as it ripens: darnel grain turns dark, while wheat turns golden. Its grain can be poisonous, so sowing it in someone else’s field was a known form of revenge, and there were laws against it. Jesus’ listeners understood at once that this was not about ordinary weeds but about sabotage. They also understood that the roots of the two plants intertwine underground, and you can’t pull up one without the other.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:36-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus dismissed the crowds and went into the house. His disciples came to Him and said, “Explain to us the parable of the weeds in the field.” He replied, “The One who sows the good seed is the Son of Man. The field is the world, and the good seed represents the sons of the kingdom. The weeds are the sons of the evil one, and the enemy who sows them is the devil. The harvest is the end of the age, and the harvesters are angels."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus Himself explains the parable and names the enemy. **Does He speak of him as a force, a principle, or a person? Why does that distinction matter for the question of where evil comes from?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The field is the world, and the harvesters are angels, not the servants. **What does that say about our attempts to decide who is wheat and who is weeds?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "War in Heaven",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 12:7-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then a war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back. But the dragon was not strong enough, and no longer was any place found in heaven for him and his angels. And the great dragon was hurled down—that ancient serpent called the devil and Satan, the deceiver of the whole world. He was hurled to the earth, and his angels with him. And I heard a loud voice in heaven saying: “Now have come the salvation and the power and the kingdom of our God, and the authority of His Christ. For the accuser of our brothers has been thrown down—he who accuses them day and night before our God. They have conquered him by the blood of the Lamb and by the word of their testimony. And they did not love their lives so as to shy away from death. Therefore rejoice, O heavens, and you who dwell in them! But woe to the earth and the sea; with great fury the devil has come down to you, knowing he has only a short time.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John gives the dragon several names and describes what he does. **List them. What weapons does this adversary fight with? Compare that with the conversation in the garden.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to verse 11, what defeated him?** Why do we read here not about a greater power but about the blood of the Lamb and the word of testimony?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text ends with two messages at once: “rejoice” and “woe to the earth.” **How do we live between the one and the other? What do the words “he has only a short time” mean?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Where the Enemy Came From",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The prophet Ezekiel addresses the king of Tyre, but his words quickly go beyond anything that could be said about a human ruler.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 28:12-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty. You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation. You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones. From the day you were created you were blameless in your ways—until wickedness was found in you. By the vastness of your trade, you were filled with violence, and you sinned. So I drove you in disgrace from the mountain of God, and I banished you, O guardian cherub, from among the fiery stones. Your heart grew proud of your beauty; you corrupted your wisdom because of your splendor; so I cast you to the earth; I made you a spectacle before kings."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Twice the text mentions the day this being was created. **What was the one described here like on the day of creation? Does the text say that God created him evil?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The text says “until wickedness was found in you,” and does not explain where it came from. It only points in a direction: a heart grown proud of its own beauty. **Can evil be explained at all? What would it mean if it had a good reason?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If evil began in the creature and not in the Creator, then it is not eternal. It had a beginning. **What follows from that about its end?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Now",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 12:31-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now judgment is upon this world; now the prince of this world will be cast out. And I, when I am lifted up from the earth, will draw everyone to Myself.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says this a few days before the cross, and with the words “lifted up” He is speaking of His death. **Why should the cross be the very moment when “the prince of this world” loses? What does the cross show about God that the serpent in the garden denied?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "What God Is Like and How It Will End",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 4:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Whoever does not love does not know God, because God is love. This is how God’s love was revealed among us: God sent His one and only Son into the world, so that we might live through Him. And love consists in this: not that we loved God, but that He loved us and sent His Son as the atoning sacrifice for our sins."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 21:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God. ‘He will wipe away every tear from their eyes,’ and there will be no more death or mourning or crying or pain, for the former things have passed away.” And the One seated on the throne said, “Behold, I make all things new.” Then He said, “Write this down, for these words are faithful and true.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John doesn’t write that God loves but that He is love. The serpent claimed that God keeps what is good for Himself. **According to John, what did God do? How does that answer the charge made in the garden?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In the garden, people hid from God. At the end, God lives with people and wipes away their tears Himself. **What had to happen in between for the fear of Genesis 3 to turn into such closeness?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "This Is Why He Came",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 3:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "The one who practices sin is of the devil, because the devil has been sinning from the very start. This is why the Son of God was revealed, to destroy the works of the devil."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 2:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now since the children have flesh and blood, He too shared in their humanity, so that by His death He might destroy him who holds the power of death, that is, the devil, and free those who all their lives were held in slavery by their fear of death."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both texts give the purpose of Jesus’ coming. **What is it? By what means does He achieve it, according to Hebrews?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God does not defeat evil from a distance. He takes on “flesh and blood” and dies Himself. **What does that say about the question of whether God is indifferent to our suffering?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The serpent didn’t urge anyone to do evil. He planted suspicion about God. **In what situations does that suspicion speak loudest in you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What did we learn for certain from today’s texts, and what was left unanswered?** What on that second list is hardest for you?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there an evil in your story where the answer “An enemy did this” changes something?** Or one where it isn’t enough for you?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “I Create Darkness”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 45:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "I am the LORD, and there is no other; there is no God but Me. I will equip you for battle, though you have not known Me, so that all may know, from where the sun rises to where it sets, that there is none but Me; I am the LORD, and there is no other. I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things."
+       ]
+      },
+      {
+       "odnosnik": "James 1:13-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does He tempt anyone. But each one is tempted when by his own evil desires he is lured away and enticed. Then after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Isaiah’s words are addressed to Cyrus, the Persian king, who grew up in a world where power over fate was divided among many deities, some friendly and some hostile. God tells him there is no second god with whom He shares power. The Hebrew word translated here as “calamity” is rendered “evil” in older translations such as the KJV. It has a broad range: it means both moral evil and disaster or judgment. Here it stands opposite the word for “peace, prosperity,” so it refers to disaster, not to sin.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How do we reconcile Isaiah with James and with the parable of the weeds?** What does Isaiah want to rule out, and what does James want to rule out?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bible rejects two simple solutions at once. The first: there are two equal gods, a good one and an evil one. The second: there is one God, and everything, including evil, comes directly from Him. **Why would either one be easier? What do we lose by choosing either of them?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Are the Prophets Talking About?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 14:12-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "How you have fallen from heaven, O day star, son of the dawn! You have been cut down to the ground, O destroyer of nations. You said in your heart: “I will ascend to the heavens; I will raise my throne above the stars of God. I will sit on the mount of assembly, in the far reaches of the north. I will ascend above the tops of the clouds; I will make myself like the Most High.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Isaiah speaks to the king of Babylon, Ezekiel to the king of Tyre. Some readers of the Bible stop there and see both texts as a poetic description of the fall of proud rulers. Others, including the Adventist tradition and many earlier interpreters, read them on two levels: the prophet looks at the king and sees through him the one who stands behind him, because no human being could be said to have been in Eden and blameless from the day of creation. Both readings share one thing: pride that wants to take God’s place is, in the Bible, the root of evil, whether it’s a king or an angel.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which reading seems closer to the text to you, and why?** What changes in the answer to the question “Where does evil come from?” if we accept only the first?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“I will make myself like the Most High” and “you will be like God.” **What connects these two sentences? What does the same temptation look like in ordinary life?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q36",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God knew what would happen, and still He created beings capable of rejecting Him. **Would a world without the possibility of evil be a world where love is possible? And if not, is love worth that price? Who has the right to answer that question: the one watching from the sidelines, or the one who is suffering?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Peter 3:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Lord is not slow in keeping His promise as some understand slowness, but is patient with you, not wanting anyone to perish but everyone to come to repentance."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q37",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter calls the delay patience. The owner in the parable calls it care for the wheat. Yet every day of delay also means more suffering. **How long does patience toward some remain goodness toward others?** Does the text answer that, or does it only ask for trust?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. But it’s worth making sure one thing gets said: the Bible doesn’t answer these questions with a theory but with a person. The God we are asking about entered the world of weeds Himself and died in it Himself.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Evil began with a lie about what God is like, and it will end when everyone sees what He is really like.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Matthew 13:28a or 1 John 4:8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This week, when a thought comes to you like “God is holding out on me” or “God doesn’t care,” stop and ask yourself: **whose voice is saying this?** The one from Genesis 2:16 or the one from Genesis 3:1?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of one evil that has touched you and whom you have blamed for it until now: yourself, other people, fate, God. Tell God that directly. Then read the owner’s words aloud to Him and stay with whatever they stir in you, even if it is protest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** recall a situation in which you are hiding from God the way Adam hid among the trees. Hear the question “Where are you?” as a call, not an interrogation, and answer it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table is in fresh pain and hears the talk about freedom like a lecture at their own graveside.** Break off and say it out loud: “Today we’re talking about the big story. It isn’t an answer to anyone’s particular pain, and it isn’t meant to be.” Don’t let anyone apply today’s texts to that person’s situation. Stay with them after the meeting. The group keeps people company; it doesn’t fix or explain.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“It’s all Eve’s fault.”** Go back to the text: Adam was “with her,” God calls out and questions him first, and the New Testament speaks of the fall as Adam’s sin. The text gives no grounds for blaming women, so don’t let a joke or a claim like that pass without correction.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t believe in the devil” or “but that’s a myth.”** Don’t argue. Suggest: “Let’s see what this story says about God and about us, and ask about the rest at the end.” In Matthew 13 Jesus speaks of the enemy as someone real, and that is enough as a starting point. A person from outside the church has the right to keep their distance.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Satan around every corner: someone blames him for a neighbor’s illness, a broken-down car, and government decisions.** The Bible speaks of him sparingly and doesn’t teach us to spot his hand in particular events. Go back to Revelation 12: his weapons are deception and accusation. That’s where to look for him, not in a broken-down car. No politics.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Why didn’t God destroy Satan right away?”** Good question. Give it back to the group and return to block 1: if the charge was “God is a tyrant who thinks only of Himself,” what would the instant destruction of the one who made it prove? Don’t present this as a closed answer. The level 3 questions leave this matter open on purpose.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So God knew and did nothing.”** Don’t defend. Show what He did: He looked for the man in the garden, gave a promise, and sent His Son, who died Himself. You can decide that’s not enough, but you can’t say it’s nothing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts into debates about the age of the earth, evolution, or whether the serpent was literal.** Don’t go there. Say it’s a topic for another meeting, and return to the question the text raises: what did the serpent say about God, and was he right?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** Count to ten in your head. Repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2 and cut block 4 down to the question about the dragon’s names. Blocks 1, 3, and 5 carry the whole thing: the lie about God, “An enemy did this,” God is love, and evil has an end.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone at the table is in fresh pain and hears the talk about freedom like a lecture at their own graveside.",
+     "odpowiedz": "Break off and say it out loud: “Today we’re talking about the big story. It isn’t an answer to anyone’s particular pain, and it isn’t meant to be.” Don’t let anyone apply today’s texts to that person’s situation. Stay with them after the meeting. The group keeps people company; it doesn’t fix or explain."
+    },
+    {
+     "sytuacja": "“It’s all Eve’s fault.”",
+     "odpowiedz": "Go back to the text: Adam was “with her,” God calls out and questions him first, and the New Testament speaks of the fall as Adam’s sin. The text gives no grounds for blaming women, so don’t let a joke or a claim like that pass without correction."
+    },
+    {
+     "sytuacja": "“I don’t believe in the devil” or “but that’s a myth.”",
+     "odpowiedz": "Don’t argue. Suggest: “Let’s see what this story says about God and about us, and ask about the rest at the end.” In Matthew 13 Jesus speaks of the enemy as someone real, and that is enough as a starting point. A person from outside the church has the right to keep their distance."
+    },
+    {
+     "sytuacja": "Satan around every corner: someone blames him for a neighbor’s illness, a broken-down car, and government decisions.",
+     "odpowiedz": "The Bible speaks of him sparingly and doesn’t teach us to spot his hand in particular events. Go back to Revelation 12: his weapons are deception and accusation. That’s where to look for him, not in a broken-down car. No politics."
+    },
+    {
+     "sytuacja": "“Why didn’t God destroy Satan right away?”",
+     "odpowiedz": "Good question. Give it back to the group and return to block 1: if the charge was “God is a tyrant who thinks only of Himself,” what would the instant destruction of the one who made it prove? Don’t present this as a closed answer. The level 3 questions leave this matter open on purpose."
+    },
+    {
+     "sytuacja": "“So God knew and did nothing.”",
+     "odpowiedz": "Don’t defend. Show what He did: He looked for the man in the garden, gave a promise, and sent His Son, who died Himself. You can decide that’s not enough, but you can’t say it’s nothing."
+    },
+    {
+     "sytuacja": "The conversation drifts into debates about the age of the earth, evolution, or whether the serpent was literal.",
+     "odpowiedz": "Don’t go there. Say it’s a topic for another meeting, and return to the question the text raises: what did the serpent say about God, and was he right?"
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "Count to ten in your head. Repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2 and cut block 4 down to the question about the dragon’s names. Blocks 1, 3, and 5 carry the whole thing: the lie about God, “An enemy did this,” God is love, and evil has an end."
+    }
+   ]
+  }
+ ]
+}

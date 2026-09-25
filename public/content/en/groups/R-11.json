@@ -1,0 +1,822 @@
+{
+ "tytul": "Single, but Not Alone",
+ "id": "R-11",
+ "seria": "Relationships",
+ "opis": "The family Jesus creates, and a place at the table for those who live on their own.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Psalm 68:5-6; Isaiah 56:3-5; Mark 3:20-21, 31-35; Mark 10:28-31; 1 Corinthians 7:7-8, 32-35; Acts 2:42-47",
+  "p2": "Luke 2:36-38; John 19:25-27; 1 Timothy 5:1-2; Romans 16:1-2, 13; Matthew 19:10-12; 1 Corinthians 7:25-28; Acts 6:1; Acts 9:36-39; James 1:27",
+  "p3": "Psalm 68:6; Genesis 2:18; 1 Corinthians 7:8"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 30,
+  "p3": 34
+ },
+ "tagi": [
+  "relationships",
+  "church",
+  "family",
+  "single people",
+  "widows",
+  "community",
+  "hospitality"
+ ],
+ "wersja": 1,
+ "zdanie": "God didn’t promise everyone a marriage. He promised everyone a home, and we are the keys to that home.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t about single people. It’s about the family Jesus creates, and about who has a place at its table. Jesus had no wife or children. Neither did Paul. One of the first people in Jerusalem to tell others about the newborn Messiah was an elderly widow. The New Testament doesn’t treat living on your own as a waiting room before real life begins. What it does take very seriously is the question of whether the church is a home for everyone, or only a place that families arrive at together and leave together.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meeting: Loneliness, in the Emotions series. That one is about the feeling; this one is about a place in the community.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Around the table there may be people who never married, people who are widowed, divorced, or abandoned, and also people in a marriage where they are very much alone. None of them is today’s topic or a case to be discussed.",
+      "Married couples can easily slip into a tone of pity or of good advice. Both hurt.",
+      "Someone may hear 1 Corinthians 7 as praise for a singleness they never asked for. Paul is talking about a gift, not a duty to be happy about it."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone about their marital status or their plans. Don’t say, “Your time will come.” Don’t divide the group into “us with families” and “you singles.” Every question is for everyone.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a table where you felt at home, even though it wasn’t your own family’s table. Say in one sentence what made the difference.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Home and a Name",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 68:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "A father of the fatherless, and a defender of the widows, is God in His holy habitation. God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 56:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let no foreigner who has joined himself to the LORD say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.” For this is what the LORD says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant— I will give them, in My house and within My walls, a memorial and a name better than that of sons and daughters. I will give them an everlasting name that will not be cut off."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalm says that God “settles the lonely in families.” **What didn’t the psalmist write, though he could have?** Notice that there isn’t a word here about a husband, a wife, or children.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A eunuch was a man who could not have children. He says of himself, “I am but a dry tree.” **Where does a person get a sentence like that about himself?** Who put it in his head?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "God promises eunuchs a place in His house and “a name better than that of sons and daughters.” **What does that say about how God measures a person’s life?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In ancient Israel a man’s name lived on in his children and in the land they inherited from him. Anyone without children vanished without a trace. That’s why the promise in Isaiah was so surprising. God doesn’t comfort the eunuch by telling him it’s no big deal. He gives him what he was missing, only from a different hand: a place no one can take away, and a name that will not be cut off. That place is God’s house, that is, His people.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Anna",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 2:36-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "There was also a prophetess named Anna, the daughter of Phanuel, of the tribe of Asher, who was well along in years. She had been married for seven years, and then was a widow to the age of eighty-four. She never left the temple, but worshiped night and day, fasting and praying. Coming forward at that moment, she gave thanks to God and spoke about the Child to all who were waiting for the redemption of Jerusalem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Luke gives Anna three verses, and each one tells us something different. **What do we learn about her loss, about her daily life, and about her role?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Seven years of marriage and decades of widowhood. **How does Luke describe those decades: as waiting for something, or as a life?** How can you tell?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word translated “lonely” in Psalm 68:6 comes from the Hebrew `yachid`, “only, single.” It describes not a feeling but a situation: a person who is all alone, with no clan to lean on. The verb the psalm uses literally means “settles” or “causes to dwell.” God doesn’t tell the solitary person to manage on their own. He settles them in a home.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In that world, a person without a clan had no defender, no support, and no voice. **Who is in a similar position today, including among people you know?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Who Is My Family",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 3:20-21, 31-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus went home, and once again a crowd gathered, so that He and His disciples could not even eat. When His family heard about this, they went out to take custody of Him, saying, “He is out of His mind.” … Then Jesus’ mother and brothers came and stood outside. They sent someone in to summon Him, and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers are outside, asking for You.” But Jesus replied, “Who are My mother and My brothers?” Looking at those seated in a circle around Him, He said, “Here are My mother and My brothers! For whoever does the will of God is My brother and sister and mother.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mark notes who is standing outside the house and who is sitting inside around Jesus. **What does the layout of the scene say all by itself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t disown His mother and brothers. **So what is He doing with the idea of family?** What is the new condition for belonging, and whom does that condition let in?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "His own family thought Jesus was “out of His mind.” **What does that mean for someone whose loved ones don’t understand their faith or their life?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus lists brother, sister, mother. **Who is missing from that list, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Gospels don’t hide the fact that Jesus’ family didn’t trust Him for a long time. In a world where the respect of your nearest relatives was part of your honor, no one would have made that up. So Jesus knows from experience what it’s like to have no support at home. There is no father on His list, because in this family there is only one Father. The other places are open to anyone who listens.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At the Cross",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 19:25-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Near the cross of Jesus stood His mother and her sister, as well as Mary the wife of Clopas and Mary Magdalene. When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son.” Then He said to the disciple, “Here is your mother.” So from that hour, this disciple took her into his home."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the last minutes of His life, Jesus makes a family out of two people who aren’t related by blood. **How does this scene put into practice what He said in Mark 3?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“This disciple took her into his home.” **How much of that sentence is feeling, and how much is concrete action?** What does a family of faith mean when you translate it into an address, keys, and a table?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Hundredfold",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 10:28-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Peter began to say to Him, “Look, we have left everything and followed You.” “Truly I tell you,” Jesus replied, “no one who has left home or brothers or sisters or mother or father or children or fields for My sake and for the gospel will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life. But many who are first will be last, and the last will be first.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus promises a hundred homes, a hundred mothers, a hundred brothers, and adds, “in the present age.” **How can that promise come true?** Who has to do something for it to come true?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "If someone is going to receive a hundred homes, someone else has to open their home. **Which side of this promise is each of us standing on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Why does Jesus add “along with persecutions”?** What does that say about the price the first disciples paid for their faith in their own homes?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In New Testament times there was no welfare state. The sick, the old, and the poor were cared for by their family, and after that by the synagogue or a trade guild. Someone who came to believe in Jesus could be cut off from both overnight. That’s why the first Christians couldn’t settle for calling one another brothers and sisters. They had to actually be brothers and sisters, because for many of them there was no other family left.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Like Mothers, Like Sisters",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Timothy 5:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not rebuke an older man, but appeal to him as to a father. Treat younger men as brothers, older women as mothers, and younger women as sisters, with absolute purity."
+       ]
+      },
+      {
+       "odnosnik": "Romans 16:1-2, 13",
+       "przeklad": "BSB",
+       "akapity": [
+        "I commend to you our sister Phoebe, a servant of the church in Cenchrea. Welcome her in the Lord in a manner worthy of the saints, and assist her with anything she may need from you. For she has been a great help to many people, including me. … Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me as well."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul had no wife or children. In a single line of greetings he writes of Rufus’s mother, “who has been a mother to me as well.” **What do those few words tell us about what his life was like?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Phoebe travels alone with a letter across half the empire, and Paul asks the church to welcome her and assist her “with anything she may need from you.” **What would that kind of welcome look like today if someone came to your church on their own?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Gift, Not a Waiting Room",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 7:7-8, 32-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "I wish that all men were as I am. But each man has his own gift from God; one has this gift, another has that. Now to the unmarried and widows I say this: It is good for them to remain unmarried, as I am. … I want you to be free from concern. The unmarried man is concerned about the work of the Lord, how he can please the Lord. But the married man is concerned about the affairs of this world, how he can please his wife, and his interests are divided. The unmarried woman or virgin is concerned about the work of the Lord, how she can be holy in both body and spirit. But the married woman is concerned about the affairs of this world, how she can please her husband. I am saying this for your own good, not to restrict you, but in order to promote proper decorum and undivided devotion to the Lord."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul calls both marriage and life without marriage a gift from God. **What changes when both are described with the same word?** How are they usually talked about in church?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t write that a married man is a lesser Christian. He writes that “his interests are divided.” **What does Paul honestly see in each way of life?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Not to restrict you.” **Why does Paul feel the need for this caveat?** How could his advice be misused?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "To Whom It Has Been Given",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 19:10-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "His disciples said to Him, “If this is the case between a man and his wife, it is better not to marry.” “Not everyone can accept this word,” He replied, “but only those to whom it has been given. For there are eunuchs who were born that way; others were made that way by men; and still others live like eunuchs for the sake of the kingdom of heaven. The one who can accept this should accept it.”"
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 7:25-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now about virgins, I have no command from the Lord, but I give a judgment as one who by the Lord’s mercy is trustworthy. Because of the present crisis, I think it is good for a man to remain as he is. Are you committed to a wife? Do not seek to be released. Are you free of commitment? Do not look for a wife. But if you do marry, you have not sinned. And if a virgin marries, she has not sinned. But those who marry will face troubles in this life, and I want to spare you this."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus names three paths to a life without marriage: from birth, because of other people, and by one’s own choice. **Why does it matter that He doesn’t lump everyone together?** Which of these paths are a choice, and which are not?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul points out that he has no command from the Lord here, only his own judgment, and that he is writing “because of the present crisis.” **How do those two caveats affect how we read his advice today?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Judaism of that time, marriage was the obvious ideal. A man without a wife was said to be not fully a man. Against that background you can see how remarkable it was that Jesus never started a family, and that His best-known apostle lived single and spoke of it as a gift. For the first time, a person’s life could be full without marriage and children, because it was now measured by something else.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Not Good, or Good",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.”"
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 7:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now to the unmarried and widows I say this: It is good for them to remain unmarried, as I am."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first page of the Bible says “not good,” and Paul says “good.” Some reconcile this by saying that Genesis gives the rule and Paul gives an exception for hard times, so marriage remains the ordinary path, and living single is a special calling for a few. Others point out that in the garden God isn’t talking about the lack of a wife but about being alone, and that Paul, without a wife, was not alone: he had Timothy, Phoebe, Rufus’s mother, and churches in every port. In their view the cure for “not good” is community, and marriage is one form of it. Both sides agree that human beings were not created to live in isolation, and that neither path is second-class Christianity.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these readings do you hear more often in church, and what effect does it have on people who live single?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If Paul, without a wife, was not alone, then someone was there with him. **What would happen to the advice of 1 Corinthians 7 if you took it out of the kind of church Paul knew?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "From House to House",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 2:42-47",
+       "przeklad": "BSB",
+       "akapity": [
+        "They devoted themselves to the apostles’ teaching and to the fellowship, to the breaking of bread and to prayer. A sense of awe came over everyone, and the apostles performed many wonders and signs. All the believers were together and had everything in common. Selling their possessions and goods, they shared with anyone who was in need. With one accord they continued to meet daily in the temple courts and to break bread from house to house, sharing their meals with gladness and sincerity of heart, praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke names two places where they met: the temple courts and homes. **What happens in each?** Which of these places is strong in our church life, and which is weak?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Daily” comes up twice here, and a meal is at the center. **Who does a shared table in the middle of the week mean the most to?** Think of someone who goes home to an empty apartment after church on Sabbath.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text says they shared “with anyone who was in need.” **How did they know who needed what?** What do people need to know about one another for that to be possible?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Overlooked",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 6:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food."
+       ]
+      },
+      {
+       "odnosnik": "Acts 9:36-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "In Joppa there was a disciple named Tabitha (which is translated as Dorcas), who was always occupied with works of kindness and charity. At that time, however, she became sick and died, and her body was washed and placed in an upper room. Since Lydda was near Joppa, the disciples heard that Peter was there and sent two men to urge him, “Come to us without delay.” So Peter got up and went with them. On his arrival, they took him to the upper room. All the widows stood around him, weeping and showing him the tunics and other clothing that Dorcas had made while she was still with them."
+       ]
+      },
+      {
+       "odnosnik": "James 1:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Pure and undefiled religion before our God and Father is this: to care for orphans and widows in their distress, and to keep oneself from being polluted by the world."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Four chapters after the beautiful description in Acts 2, the same church overlooks someone. **What does that say about how easily people without a family disappear from view, even in a good community?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Luke says nothing about Tabitha’s husband or children. He describes her by what she did and by the people who weep for her. **In this scene, who is whose family?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The widows show Peter the tunics and other clothing. **In this story, are the single people the ones being helped or the ones doing the helping?** What happens to a person whom the community sees only in the first role?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus looked at those seated around Him and said, “Here are My mother and My brothers!” **If you looked around your church, whom could you honestly say is family to you?** Who could say that about you?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The promise of a hundred homes comes true through open doors. **What specifically makes your door and your calendar open or closed to people outside your closest circle?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **at what point in the week or the year do you miss people the most?** You don’t have to say why.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus promised a hundred times as many homes, brothers, sisters, and mothers, starting now. **What do you say to someone who has been in the church for years and hasn’t experienced that promise? Is it their fault, the community’s fault, or are we misunderstanding the promise?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t defend the church, and don’t look for someone to blame. If someone talks about themselves, listen first. It helps if someone notices that Jesus made this promise to people who were meant to fulfill it for one another.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God didn’t promise everyone a marriage. He promised everyone a home, and we are the keys to that home.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 68:6a or Mark 3:35.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The eunuch said of himself, “I am but a dry tree.” Ask yourself: **what sentence about myself do I keep repeating inside, one that God never said about me?** Name it before you start arguing with it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think about your table and your holidays. **Who has never sat there simply because it never occurred to me?** Stay with the first face that comes to mind, and ask God what to do about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you are the one who lives alone, admit before God what you expect from people but have never asked anyone for. If your house is full, admit whose freedom you quietly envy, or whom you quietly avoid because their loneliness makes you uncomfortable.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone, out of a kind heart, says to a single person, “God has someone for you, you’ll see.”** Gently interrupt, because none of today’s texts promises that. You can say, “The psalm talks about a home, Isaiah about a name, and Jesus about brothers and sisters. Let’s stay with what’s actually promised.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into matchmaking, jokes about weddings, or advice on where to meet someone.** Go back to the text right away. The simplest question: “What did Jesus do at the cross for His mother and for John?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says bitterly, “Church is for families; I’m just an add-on here.”** Don’t contradict them, and don’t make excuses for the church. Thank them for their honesty. Acts 6:1 shows that the first church also overlooked some people, and took the complaint seriously. Ask what would help, and remember the answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who is widowed or divorced starts to cry.** Give them time; don’t fill the silence. Don’t let the group comfort them with clichés. It’s enough to say, “Thank you for being here with us.” Go to them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Paul says it’s better not to marry, so marriage is the lower path.”** That’s not what the text says. Paul calls both paths a gift from God, points out that he has no command from the Lord, and writes that whoever marries has not sinned. If you’re leading level 2, read 1 Corinthians 7:25-28 together.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who is married says, “I’m lonely too, and nobody talks about that.”** That is an important voice, and it doesn’t need to be compared with anyone else’s. The family Jesus talks about is also for those whose house is full and whose heart is empty. Don’t ask about the details of their marriage in front of the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after the question about their own door and calendar.** That’s good. Count to ten in your head, and don’t soften the question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Skip block 4. Blocks 2, 3, and 5 carry the meeting: who is family, the promise of a hundred homes, and the table from house to house.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone, out of a kind heart, says to a single person, “God has someone for you, you’ll see.”",
+     "odpowiedz": "Gently interrupt, because none of today’s texts promises that. You can say, “The psalm talks about a home, Isaiah about a name, and Jesus about brothers and sisters. Let’s stay with what’s actually promised.”"
+    },
+    {
+     "sytuacja": "The conversation turns into matchmaking, jokes about weddings, or advice on where to meet someone.",
+     "odpowiedz": "Go back to the text right away. The simplest question: “What did Jesus do at the cross for His mother and for John?”"
+    },
+    {
+     "sytuacja": "Someone says bitterly, “Church is for families; I’m just an add-on here.”",
+     "odpowiedz": "Don’t contradict them, and don’t make excuses for the church. Thank them for their honesty. Acts 6:1 shows that the first church also overlooked some people, and took the complaint seriously. Ask what would help, and remember the answer."
+    },
+    {
+     "sytuacja": "Someone who is widowed or divorced starts to cry.",
+     "odpowiedz": "Give them time; don’t fill the silence. Don’t let the group comfort them with clichés. It’s enough to say, “Thank you for being here with us.” Go to them after the meeting."
+    },
+    {
+     "sytuacja": "“Paul says it’s better not to marry, so marriage is the lower path.”",
+     "odpowiedz": "That’s not what the text says. Paul calls both paths a gift from God, points out that he has no command from the Lord, and writes that whoever marries has not sinned. If you’re leading level 2, read 1 Corinthians 7:25-28 together."
+    },
+    {
+     "sytuacja": "Someone who is married says, “I’m lonely too, and nobody talks about that.”",
+     "odpowiedz": "That is an important voice, and it doesn’t need to be compared with anyone else’s. The family Jesus talks about is also for those whose house is full and whose heart is empty. Don’t ask about the details of their marriage in front of the group."
+    },
+    {
+     "sytuacja": "The group falls silent after the question about their own door and calendar.",
+     "odpowiedz": "That’s good. Count to ten in your head, and don’t soften the question."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Skip block 4. Blocks 2, 3, and 5 carry the meeting: who is family, the promise of a hundred homes, and the table from house to house."
+    }
+   ]
+  }
+ ]
+}

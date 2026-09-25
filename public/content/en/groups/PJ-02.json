@@ -1,0 +1,922 @@
+{
+ "tytul": "A Father and Two Sons",
+ "id": "PJ-02",
+ "seria": "Parables of Jesus",
+ "opis": "Two lost sons, one far away and one at home, and a father who goes out to both on the same day.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 15:1-3, 11-32",
+  "p2": "Luke 15:4-10; Deuteronomy 21:18-21; Amos 8:11-12; Genesis 33:4; Psalm 103:8-14; Luke 5:29-32; Luke 19:10",
+  "p3": "Luke 7:13; Romans 2:4; Luke 9:22"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 20,
+  "p2": 32,
+  "p3": 38
+ },
+ "tagi": [
+  "parables",
+  "picture of God",
+  "grace",
+  "coming home",
+  "older brother"
+ ],
+ "wersja": 1,
+ "zdanie": "The father went out of the house twice: to the son coming back from far away, and to the son standing two steps from the door.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tradition named this story the parable of the prodigal son, but there are two lost sons in it, and neither of them is the main character. Jesus tells it to people who grumble that He eats with sinners. The meeting should lead the group to a father who goes out of the house twice on the same day: once onto the road, once into the yard. Most people at the table know the first half by heart. The second half is for them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sons carry in their heads the false picture of God that this parable corrects: God as an employer, with whom you have to earn your place and work off your return. The key question about the picture of the father in block 5 leads to it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "For some people, “father” is not a good word. A father who was absent, drank, or hit doesn’t help anyone understand this parable. Don’t assume the image of a father warms everyone’s heart.",
+      "There may be a parent at the table whose child is in a “distant country.” Every sentence about waiting and about not going after the son hits them personally.",
+      "Longtime church members may feel attacked by the figure of the older brother. It isn’t an attack. The father speaks the tenderest sentence of the whole story to him.",
+      "Someone may conclude from the parable that repentance and a changed life don’t matter. The text doesn’t say that."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t assign roles. Don’t ask who is which son. Don’t end with a moral about coming back to church. The parable ends without a final scene, and the meeting can too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a homecoming you dreaded: coming home, going back to work after a long break, going back to someone after an argument. Don’t tell the whole story. Just say whether it was better or worse at the door than you expected.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t press anyone for details.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Grumbling and a Request",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:1-3, 11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now all the tax collectors and sinners were gathering around to listen to Jesus. So the Pharisees and scribes began to grumble: “This man welcomes sinners and eats with them.” Then Jesus told them this parable: … Then Jesus said, “There was a man who had two sons. The younger son said to him, ‘Father, give me my share of the estate.’ So he divided his property between them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Two groups are standing around Jesus. **Why did each of them come, and to which one does Jesus address this story?** Remember the answer; we’ll come back to it at the end.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The son asks for what he would have received after his father’s death. **What does this request tell the father, even though not a single rude word is spoken?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The father could have refused. **What does he do, and what doesn’t he do? What does this say about him before anything else happens?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text says the father divided his property “between them,” that is, between both sons. **What does the older son do in this scene?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that culture, such a request meant roughly: I can’t wait for you to die. The father would have had to divide off, and the son sell, part of the family land in full view of the whole village. Custom also expected the older brother to step in between the father and the younger son as a peacemaker. The older son takes his share and says nothing.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Jesus is on the way to Jerusalem. A chapter earlier, He sat at the table of a leader of the Pharisees and told about a banquet to which the poor and people from the roads and country lanes came. Now tax collectors and sinners are sitting at His table, and the devout stand nearby and grumble. Back then, sharing a meal meant accepting a person, not just keeping them company. Jesus answers with three parables in a row: about a sheep, about a coin, and about two sons. Each one ends with an invitation to share in the joy.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** A son who had sold off his inheritance and lost it among foreigners could not count on slipping quietly back into the village. Later Jewish sources describe a ceremony of cutting off: a clay pot was smashed in front of such a person, and it was announced that he was cut off from his people. We don’t know how common this custom was in Jesus’ time, but the son could be sure of the village’s hostility. Anyone who wanted to spare him that had to reach him first.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Sheep and a Coin",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:4-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "“What man among you, if he has a hundred sheep and loses one of them, does not leave the ninety-nine in the pasture and go after the one that is lost, until he finds it? And when he finds it, he joyfully puts it on his shoulders, comes home, and calls together his friends and neighbors to tell them, ‘Rejoice with me, for I have found my lost sheep!’ In the same way, I tell you that there will be more joy in heaven over one sinner who repents than over ninety-nine righteous ones who do not need to repent. Or what woman who has ten silver coins and loses one of them does not light a lamp, sweep her house, and search carefully until she finds it? And when she finds it, she calls together her friends and neighbors to say, ‘Rejoice with me, for I have found my lost coin.’ In the same way, I tell you, there is joy in the presence of God’s angels over one sinner who repents.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "One out of a hundred, one out of ten, one out of two. **What grows from parable to parable?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sheep gets lost out in the open country, the coin inside the house. The sheep doesn’t know the way; the coin doesn’t even know it is lost. **Against this background, how is the son’s lostness different? And where does the older brother get lost?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both short parables end with the same sentence: “Rejoice with me.” **To whom among those present is Jesus saying this?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Law the Father Didn’t Use",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 21:18-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "If a man has a stubborn and rebellious son who does not obey his father and mother and does not listen to them when disciplined, his father and mother are to lay hold of him and bring him to the elders of his city, to the gate of his hometown, and say to the elders, “This son of ours is stubborn and rebellious; he does not obey us. He is a glutton and a drunkard.” Then all the men of his city will stone him to death. So you must purge the evil from among you, and all Israel will hear and be afraid."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The scribes listening to Jesus knew this law. **What did they expect from the father in the story, and what did they hear instead?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: Property",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The “property” the father divides in verse 12 is the Greek `bios`, meaning life and what you live on. The same word returns in verse 30, in the older brother’s accusation, where the BSB renders it “wealth.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The son asks for an estate, and the father gives him part of his own life. **What does this play on meanings say about what the son’s freedom costs the father?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Distant Country",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:13-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "After a few days, the younger son got everything together and journeyed to a distant country, where he squandered his wealth in wild living. After he had spent all he had, a severe famine swept through that country, and he began to be in need. So he went and hired himself out to a citizen of that country, who sent him into his fields to feed the pigs. He longed to fill his belly with the pods the pigs were eating, but no one would give him a thing. Finally he came to his senses and said, ‘How many of my father’s hired servants have plenty of food? But here I am, starving to death! I will get up and go back to my father and say to him, “Father, I have sinned against heaven and against you. I am no longer worthy to be called your son. Make me like one of your hired servants.”’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The son puts together a speech in three parts: a confession, an assessment of himself, a proposal. **What is he counting on? What kind of father does he expect to find?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Trace the way down step by step. **Which moment is rock bottom, and how can you tell?** Notice the words “no one would give him a thing.”",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What is the first thing he remembers about home?** What does this say about what people usually start with when they begin to come back?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "For a Jewish listener, feeding pigs was the lowest step of degradation. Later rabbis said it outright: cursed is the one who raises pigs. A hired servant, on the other hand, wasn’t the lowest rung on the estate. He was a free man, lived outside the household, and earned his own keep, so he could pay off a debt. The son isn’t asking to come back to the table. He is proposing a deal.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Famines",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Amos 8:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Behold, the days are coming, declares the Lord GOD, when I will send a famine on the land—not a famine of bread or a thirst for water, but a famine of hearing the words of the LORD. People will stagger from sea to sea and roam from north to east, seeking the word of the LORD, but they will not find it."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the distant country there is a famine of bread. Amos knows another famine. **How are these two famines related in the younger son’s story? Which one started first?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would have happened to this young man if the money hadn’t run out and the famine hadn’t come?** What does this say about the events we consider the worst thing that could have happened to us?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "An Egyptian papyrus from the second century has survived: a letter from a son to his mother. He writes that he was ashamed to come, that he is walking around in rags, that he knows he has sinned, and he begs her to be reconciled with him. So sons like this were not literary fiction, and Jesus’ listeners knew them from their own villages. What is new in this story is not the son. What is new is the father.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Father Runs",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:20-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him. The son declared, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. Bring the fattened calf and kill it. Let us feast and celebrate. For this son of mine was dead and is alive again! He was lost and is found!’ So they began to celebrate."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List in order what the father does before the son says his first word. **What is surprising about this order?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Compare the speech prepared in verses 18-19 with the one actually spoken in verse 21. **What is missing? Why do you think that is?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The father doesn’t answer his son with a single word. He speaks to the servants. **What does each of his orders communicate to the son, to the household, and to the whole village?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the East, a respected older man did not run. Running meant hitching up his robe and baring his legs, losing his dignity in front of the neighbors. The best robe in the house belonged to the father. The ring was a signet ring, used to seal the family’s affairs. Servants went barefoot; a son wore sandals. And a fattened calf is too much for one family. It is a feast for the whole village, the same village that remembered him leaving.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Running, the Same God",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 33:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 103:8-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD is compassionate and gracious, slow to anger, abounding in loving devotion. He will not always accuse us, nor harbor His anger forever. He has not dealt with us according to our sins or repaid us according to our iniquities. For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him. As far as the east is from the west, so far has He removed our transgressions from us. As a father has compassion on his children, so the LORD has compassion on those who fear Him. For He knows our frame; He is mindful that we are dust."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jacob, too, was coming back from a distant country to someone he had wronged over an inheritance, and he, too, had a speech prepared. **What did a listener who knew this story hear in verse 20?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 103 was sung long before Jesus. **So what in this parable had been known for a long time, and what did Jesus add?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Go back to the background from the beginning of the meeting: hostility awaited the son in the village, maybe even being publicly cut off. **If the father also runs in order to get there before the village does, who in this scene takes on the shame of the homecoming?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Filled with compassion” in verse 20 is the Greek verb `splanchnizomai`. It comes from a word meaning the inner organs and describes a stirring felt in the gut. In the New Testament it appears only in the Gospels, and almost always it speaks of Jesus seeing a person in need. Luke uses it a few chapters earlier:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 7:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the Lord saw her, He had compassion on her and said, “Do not weep.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The father in the parable is given the verb the Gospels use to describe Jesus Himself. **What is Jesus telling the Pharisees in this way about what is happening at His table right now?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Where the Son Repented",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "There are two ways to read verse 17. In the first, “he came to his senses” is already repentance: the son calls sin sin, gets up, and goes back, and both earlier parables speak explicitly of a sinner who repents. In the second, the son in the pigpen is counting bread and drawing up a repayment plan, and the real turning comes only on the road, at the sight of his father running. That is why the sentence about the hired servant is never spoken.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 2:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Or do you disregard the riches of His kindness, tolerance, and patience, not realizing that God’s kindness leads you to repentance?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in the text speaks for the first reading, and what for the second?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both readings agree on one thing: the son comes back because he remembers what his father’s house is like. **What does this say about where repentance comes from in the first place?** In this story the welcome is unconditional. Does that mean the son could stay the way he was?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Son Who Was in the Field",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:25-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile the older son was in the field, and as he approached the house, he heard music and dancing. So he called one of the servants and asked what was going on. ‘Your brother has returned,’ he said, ‘and your father has killed the fattened calf, because he has him back safe and sound.’ The older son became angry and refused to go in. So his father came out and pleaded with him. But he answered his father, ‘Look, all these years I have served you and never disobeyed a commandment of yours. Yet you never gave me even a young goat so I could celebrate with my friends. But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "For the second time that day, the father goes out of the house to a son. **What do these two goings-out have in common, and how are they different?** Which son is standing farther from the table at this moment?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Listen to the older son’s vocabulary: “I have served you,” “a commandment of yours,” “you never gave me.” Set it beside the younger son’s plan in verse 19. **What do these two have in common, even though one left and the other stayed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The servant says “your brother”; the older son says “this son of yours.” **Whom is the older son writing out of the family with that one phrase?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The older son would have liked a young goat to celebrate “with my friends.” **Whom does he not plan to celebrate with? What does this say about what life at home was like for him all those years?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "How Did He Know About the Prostitutes?",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Go back to verse 13. The narrator speaks only of “wild living.” The detail about prostitutes is added by the older brother. **Where did he get it from? What does this say about how someone preoccupied with their own correctness looks at another person’s fall?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Doctor and the Sick",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 5:29-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Levi hosted a great banquet for Jesus at his house. A large crowd of tax collectors was there, along with others who were eating with them. But the Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?” Jesus answered, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners, to repentance.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is the same scene ten chapters earlier: a banquet, tax collectors, grumbling. **How is Jesus’ answer in chapter 15 different from this first one? What new thing does it say about the grumblers themselves?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "“All That Is Mine Is Yours”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:31-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "‘Son, you are always with me,’ the father said, ‘and all that is mine is yours. But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The father doesn’t correct a single one of the charges. **What does he say instead? What did the older son have all those years, and how did he experience it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Both sons carried a similar picture of the father in their heads. **What is that picture? How did each of them deal with it, and what does the father do with that picture in both conversations?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The parable has no final scene. Go back to verses 1-2. **Which of those listeners was supposed to write it, and how?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The older son said “this son of yours.” The father answers “this brother of yours,” and with that one word writes both of them back into the family. His brother’s return took nothing from the older son, because the estate had already been divided. His anger isn’t about the accounts. It’s about grace shown to someone who didn’t earn it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Why He Came",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 19:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the Son of Man came to seek and to save the lost.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says this four chapters later, in the house of another tax collector. **Whom from chapter 15 does this sentence include? Does it also include someone who never left home?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“It was fitting” in verse 32 is the Greek `edei`, meaning “it was necessary,” “it had to be.” Luke uses the same verb when Jesus speaks about His own path:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 9:22",
+       "przeklad": "BSB",
+       "akapity": [
+        "“The Son of Man must suffer many things,” He said. “He must be rejected by the elders, chief priests, and scribes, and He must be killed and on the third day be raised to life.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "So in this story, joy over the one who was found is not a matter of mood or good manners. **What does it mean that in Luke the feast for the one coming home and the cross stand under the same “must”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "You can leave the father by going away, and you can leave him by staying at home. **What does that second kind of leaving look like in a believer? How can you recognize it in yourself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q36",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The younger son came back with a speech and a repayment plan. **What do you usually come back to God with after something you’re ashamed of? What would change if you expected the father of verse 20?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q37",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **which scene of this parable are you closest to today: the pigpen, the road, the table, or the yard outside the door?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q38",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The shepherd goes after the sheep into the open country. The woman searches the whole house. The father doesn’t go after his son to the distant country; he watches the road. **Why does God wait in the third parable, when in the first two He searches? When does love go after a person, and when does it let them go?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this with a formula. If there is a parent at the table whose adult child has left, this question is very personal for them. It’s worth noting only this much: the father who waits isn’t idle. He saw his son from far away because he was watching.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The father went out of the house twice: to the son coming back from far away, and to the son standing two steps from the door.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Luke 15:20 or Luke 15:31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Look at the speech you bring to God when you mess something up. **Is there a hired-servant sentence in it: a promise that you’ll work it off, that from now on things will be different, that you’ll earn it?** Try coming once without that sentence, and see what is left.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself honestly whether there is someone whose return to God, to church, or to their family you couldn’t be glad about. **Don’t judge that answer. Tell it to God the way the older brother spoke to his father: straight out.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** stay for a few days with the sentence “all that is mine is yours.” Ask what, of everything God has given you, you experience as a job and a paycheck rather than as home.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“For me, ‘father’ isn’t a good association.”** Accept this without argument and without consoling. You can say, “Jesus doesn’t say God is like our fathers. He tells about a father none of His listeners had ever seen, because none of them would have acted this way.” If someone starts talking about violence at home, listen, thank them, and don’t dig deeper in front of the group. Stay with that person after the meeting. If the violence is ongoing, don’t carry it alone, and help them find professional help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The parent of an adult child asks, “So should I wait, or go after them?”** The parable is not a manual for parents, and don’t turn it into one. Don’t give advice. You can point out two things from the text: the father never stopped watching the road, and when the son appeared, there were no reproaches and no conditions. The rest is a conversation for later, in private, not at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“That’s unfair to the older son.”** Agree, because by the math of merit it is unfair, and the parable is meant to show that. Then ask, “What exactly did the older son lose that day?” and go back to verse 31.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I never left, so this isn’t about me.”** Don’t confront. Ask the whole group, not that person: “According to verses 1-3, to whom was Jesus telling this story?” The second half of the parable was written precisely for those who didn’t leave.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So all you have to do is come back, and it doesn’t matter what you did?”** The text says something else. The son calls his sin by its name, and both earlier parables speak of a sinner who repents. The parable doesn’t cancel repentance. It shows that being welcomed doesn’t require working it off. It also shows one truth, the Father’s heart; it isn’t a lecture on the whole way of salvation, so no doctrine should be built on what isn’t in it. Luke speaks about making things right with people who have been wronged elsewhere, for example in the story of Zacchaeus.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone compares the son’s confession to confession to a priest, and an argument starts about church practices.** Don’t get into a debate. There may be Catholics at the table, and they deserve respect. Go back to the text: to whom does the son confess his guilt, and what happens to his offer to work it off?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You run out of time.** Shorten block 2, not blocks 4 and 5. Everyone knows the pigpen; hardly anyone has ever made it to the yard. If the meeting ends at the feast, the group will have heard only half of what Jesus said.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“For me, ‘father’ isn’t a good association.”",
+     "odpowiedz": "Accept this without argument and without consoling. You can say, “Jesus doesn’t say God is like our fathers. He tells about a father none of His listeners had ever seen, because none of them would have acted this way.” If someone starts talking about violence at home, listen, thank them, and don’t dig deeper in front of the group. Stay with that person after the meeting. If the violence is ongoing, don’t carry it alone, and help them find professional help."
+    },
+    {
+     "sytuacja": "The parent of an adult child asks, “So should I wait, or go after them?”",
+     "odpowiedz": "The parable is not a manual for parents, and don’t turn it into one. Don’t give advice. You can point out two things from the text: the father never stopped watching the road, and when the son appeared, there were no reproaches and no conditions. The rest is a conversation for later, in private, not at the table."
+    },
+    {
+     "sytuacja": "“That’s unfair to the older son.”",
+     "odpowiedz": "Agree, because by the math of merit it is unfair, and the parable is meant to show that. Then ask, “What exactly did the older son lose that day?” and go back to verse 31."
+    },
+    {
+     "sytuacja": "“I never left, so this isn’t about me.”",
+     "odpowiedz": "Don’t confront. Ask the whole group, not that person: “According to verses 1-3, to whom was Jesus telling this story?” The second half of the parable was written precisely for those who didn’t leave."
+    },
+    {
+     "sytuacja": "“So all you have to do is come back, and it doesn’t matter what you did?”",
+     "odpowiedz": "The text says something else. The son calls his sin by its name, and both earlier parables speak of a sinner who repents. The parable doesn’t cancel repentance. It shows that being welcomed doesn’t require working it off. It also shows one truth, the Father’s heart; it isn’t a lecture on the whole way of salvation, so no doctrine should be built on what isn’t in it. Luke speaks about making things right with people who have been wronged elsewhere, for example in the story of Zacchaeus."
+    },
+    {
+     "sytuacja": "Someone compares the son’s confession to confession to a priest, and an argument starts about church practices.",
+     "odpowiedz": "Don’t get into a debate. There may be Catholics at the table, and they deserve respect. Go back to the text: to whom does the son confess his guilt, and what happens to his offer to work it off?"
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You run out of time.",
+     "odpowiedz": "Shorten block 2, not blocks 4 and 5. Everyone knows the pigpen; hardly anyone has ever made it to the yard. If the meeting ends at the feast, the group will have heard only half of what Jesus said."
+    }
+   ]
+  }
+ ]
+}

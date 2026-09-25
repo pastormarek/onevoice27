@@ -1,0 +1,775 @@
+{
+ "tytul": "Conflict",
+ "id": "R-01",
+ "seria": "Relationships",
+ "opis": "A dispute before anyone is to blame. Believers argue too; the question is what they do next.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 13:5-12; Acts 6:1-7; Acts 15:36-41; Matthew 18:15-17; Proverbs 18:13, 17; Philippians 4:2-3; 2 Timothy 4:11",
+  "p2": "James 4:1-2; Acts 15:1-2, 6-7, 12-13, 19; Galatians 2:11-14; Colossians 4:10",
+  "p3": "Acts 15:39; Hebrews 10:24; Luke 22:24-27"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "relationships",
+  "conflict",
+  "church",
+  "conversation"
+ ],
+ "wersja": 1,
+ "zdanie": "A dispute isn’t proof that something went wrong. The proof is what we do with it.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about disputes before anyone is to blame. The Bible shows believers who argue: over pasture, over the distribution of aid, over whom to take on a journey. In most of these stories no one sinned. So the question isn’t how to avoid conflict, but what we do with it. There are separate meetings on forgiveness and reconciliation: Forgiveness and Reconciliation. Don’t go there today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be two people at the table who are in a dispute with each other, or someone who is in a dispute with the church. Don’t let the meeting turn into a trial.",
+      "Some people grew up believing that a good Christian doesn’t argue. For them the topic itself is uncomfortable, and they will stay quiet.",
+      "A conversation about Matthew 18 easily turns into a conversation about church discipline and specific cases from the past. Keep coming back to the text."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t settle who was right, Paul or Barnabas. Don’t ask for details of other people’s disputes. Don’t allow talk about people who aren’t present.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "What did an argument look like in the home you grew up in? One sentence: was it loud, was it quiet, or did everyone pretend nothing was happening?",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and briefly. Don’t comment on other people’s answers, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "After All, We Are Brothers",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 13:5-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Lot, who was traveling with Abram, also had flocks and herds and tents. But the land was unable to support both of them while they stayed together, for they had so many possessions that they were unable to coexist. And there was discord between the herdsmen of Abram and the herdsmen of Lot. At that time the Canaanites and the Perizzites were also living in the land. So Abram said to Lot, “Please let there be no contention between you and me, or between your herdsmen and my herdsmen. After all, we are brothers. Is not the whole land before you? Now separate yourself from me. If you go to the left, I will go to the right; if you go to the right, I will go to the left.” And Lot looked out and saw that the whole plain of the Jordan, all the way to Zoar, was well watered like the garden of the LORD, like the land of Egypt. (This was before the LORD destroyed Sodom and Gomorrah.) So Lot chose the whole plain of the Jordan for himself and set out toward the east. And Abram and Lot parted company. Abram lived in the land of Canaan, but Lot settled in the cities of the plain and pitched his tent toward Sodom."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look for the cause of the dispute in the text. **Who is to blame here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Abram is the elder, and God promised this land to him, yet he gives Lot first choice. **What is he giving up, and what is he protecting in exchange?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In the middle of a story about quarreling herdsmen, the narrator mentions that the Canaanites and the Perizzites were living in the land at that time. **Why put that remark right here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This dispute grows out of blessing. There are too many flocks and too little pasture, and no one has sinned. Abram first names the relationship and only then looks for a solution: we are brothers, so let there be no contention. The solution turns out to be parting ways. In the Bible, peace doesn’t always mean people stay together. Sometimes it means they part before the dispute destroys what binds them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Where Quarrels Come From",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 4:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "What causes conflicts and quarrels among you? Don’t they come from the passions at war within you? You crave what you do not have; you kill and covet, but are unable to obtain it. You quarrel and fight. You do not have, because you do not ask."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James looks for the source of quarrels not between people but within them. **How does that fit with the story of Abram and Lot, where it all started with a lack of pasture?** Does every dispute have the source James writes about?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Lot looked out and saw,” and chose. **What in his choice resembles what James writes about?** What didn’t Lot do before he chose?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Grumbling About the Widows",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 6:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food. So the Twelve summoned all the disciples and said, “It is unacceptable for us to neglect the word of God in order to wait on tables. Therefore, brothers, select from among you seven men confirmed to be full of the Spirit and wisdom. We will appoint this responsibility to them and will devote ourselves to prayer and to the ministry of the word.” This proposal pleased the whole group. They chose Stephen, a man full of faith and of the Holy Spirit, as well as Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism. They presented these seven to the apostles, who prayed and laid their hands on them. So the word of God continued to spread. The number of disciples in Jerusalem grew rapidly, and a great number of priests became obedient to the faith."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The “Grecian Jews” (Hellenists) were Greek-speaking Jews, newcomers from the diaspora. All seven names of the men chosen are Greek.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The church is growing and someone is being overlooked. **What do the apostles do with the complaint? List what they don’t do, too.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The complaint came from those who spoke Greek, and all those chosen bear Greek names. **What does that say about whom the assembly entrusted with solving the problem?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Read the last sentence again. **What did this dispute, handled well, give the Church?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Sharp Clash",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 15:36-41",
+       "przeklad": "BSB",
+       "akapity": [
+        "Some time later Paul said to Barnabas, “Let us go back and visit the brothers in every town where we proclaimed the word of the Lord, to see how they are doing.” Barnabas wanted to take John, also called Mark. But Paul thought it best not to take him, because he had deserted them in Pamphylia and had not accompanied them in the work. Their disagreement was so sharp that they parted company. Barnabas took Mark and sailed for Cyprus, but Paul chose Silas and left, commended by the brothers to the grace of the Lord. And he traveled through Syria and Cilicia, strengthening the churches."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The word “disagreement” can sound mild. The KJV puts it more strongly: “the contention was so sharp between them, that they departed asunder one from the other.”",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read both sides’ reasons. **What speaks for Paul? What speaks for Barnabas?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke doesn’t write who was right. **Why might he have left it that way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "One journey became two. **Is that a good ending, a bad one, or both at once?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Barnabas is the man who once brought Paul to the apostles when everyone was afraid of him. Mark was his relative, and during the first journey he turned back home halfway. Luke, Paul’s traveling companion, could have left this scene out or smoothed it over. He kept it. In his account the early Church isn’t a golden age without disputes, but people full of the Spirit who can fall out so badly that they won’t travel on together.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: The Same Chapter",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The chapter that ends with Paul and Barnabas parting ways begins with a far more serious dispute. The question was whether Gentiles had to be circumcised in order to be saved. There Paul and Barnabas stood on the same side.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 15:1-2, 6-7, 12-13, 19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.” And after engaging these men in sharp debate, Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question. … So the apostles and elders met to look into this matter. After much discussion, Peter got up and said to them, “Brothers, you know that in the early days God made a choice among you that the Gentiles would hear from my lips the message of the gospel and believe. … The whole assembly fell silent as they listened to Barnabas and Paul describing the signs and wonders God had done among the Gentiles through them. When they had finished speaking, James declared, “Brothers, listen to me! … It is my judgment, therefore, that we should not cause trouble for the Gentiles who are turning to God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "List the steps in order: who speaks, who is silent, how long it takes. **What stands out to you in the way this dispute is handled?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same two men win a great dispute about the gospel together, and a few verses later they can’t come to terms about one co-worker. **Why is a dispute about a person sometimes harder than a dispute about principles?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Acts 15:39 Luke uses the Greek noun `paroxysmos`. That’s where our word “paroxysm,” a violent fit or attack, comes from. The word describes sharp irritation, not a difference of opinion over a cup of tea.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the whole New Testament this noun appears only one other time, in a completely different light:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 10:24",
+       "przeklad": "BSB",
+       "akapity": [
+        "And let us consider how to spur one another on to love and good deeds."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "“Spur on” is the same word in the original. The KJV has “to provoke unto love.” According to the author of Hebrews, the same energy that split Paul and Barnabas can serve the opposite purpose.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would it mean in practice to “sharply provoke” someone to love instead of to a quarrel?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Just Between the Two of You",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Here the situation is different from what we have seen so far. Someone really has done wrong.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 18:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 18:13, 17",
+       "przeklad": "BSB",
+       "akapity": [
+        "He who answers a matter before he hears it—this is folly and disgrace to him. … The first to state his case seems right until another comes and cross-examines him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count how many people know about the matter at each stage. **What is Jesus protecting with this order?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 15 gives the goal of the whole process: to win your brother over. **How does a conversation change when I want to win someone over rather than win the argument?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "According to Proverbs, the first to state his case seems right until the other comes. **What follows from that for someone who hears about a dispute from only one side?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Regard him as you would a pagan or a tax collector.” **How did Jesus Himself treat pagans and tax collectors?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This process has several features that are easy to miss. It allows time to think things over and check the facts. At each stage as few people as possible know about the matter. The goal from beginning to end is to win the person back. The last word belongs to the whole community, not to a small circle. We usually go in the opposite order: first everyone around finds out, and the person concerned finds out last.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "In Front of Them All",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 2:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Cephas came to Antioch, however, I opposed him to his face, because he stood to be condemned. For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, for fear of those in the circumcision group. The other Jews joined him in his hypocrisy, so that by their hypocrisy even Barnabas was led astray. When I saw that they were not walking in line with the truth of the gospel, I said to Cephas in front of them all, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t go to Peter privately; he speaks in front of everyone. **How is this situation different from the one Jesus describes in Matthew 18?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter hadn’t changed his views. He was afraid of what people would think. **How many of our disputes in the Church are about convictions, and how many about what others will think of us?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Third Person and a Lot of Time",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 4:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "I urge Euodia and Syntyche to agree with each other in the Lord. Yes, and I ask you, my true yokefellow, to help these women who have labored with me for the gospel, along with Clement and the rest of my fellow workers, whose names are in the Book of Life."
+       ]
+      },
+      {
+       "odnosnik": "2 Timothy 4:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The letter was read aloud to the whole church, and Paul mentions both women by name. **What does he say about them, and what doesn’t he say? Whose side does he take?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul asks a third person to help them. **When does a dispute need a third person, and who should that person be?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The second text was written by the same Paul about the same Mark, many years after the split with Barnabas. **What must have happened along the way that the Bible doesn’t tell us?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Acts shows the rift and stops there. Only the letters show that it healed. Mark appears in them as Paul’s co-worker, and in his last letter, written from prison, the apostle asks for him specifically. Paul was able to change his mind about a person. We don’t know who took the first step or how long it took. We only know that the sharp clash was not the last word.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Trace in Another Letter",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 4:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "My fellow prisoner Aristarchus sends you greetings, as does Mark the cousin of Barnabas. You have already received instructions about him: If he comes to you, welcome him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t just work with Mark again. He recommends him to the churches. **Why might that have been necessary? What happens to the reputation of a person whom someone important once publicly rejected?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Unity Without Disputes?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jesus prayed for His disciples’ unity. Those same disciples argued at their last supper together.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 22:24-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "A dispute also arose among the disciples as to which of them would be considered the greatest. So Jesus declared, “The kings of the Gentiles lord it over them, and those in authority over them call themselves benefactors. But you shall not be like them. Instead, the greatest among you should be like the youngest, and the one who leads like the one who serves. For who is greater, the one who reclines at the table or the one who serves? Is it not the one who reclines? But I am among you as one who serves."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say “stop arguing.” **What does He do instead with the thing they are arguing about?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A dispute over pasture, a dispute over widows, a dispute over Mark, and a dispute over who is the greatest. **How is the last one different from the others?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Does the unity Jesus prayed for mean the absence of disputes? If not, what does it mean?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Today we saw several paths: give way like Abram, change the structure like the apostles, part ways like Paul and Barnabas, go privately, ask a third person. **Which do you reach for most often, and which is the hardest for you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do you usually do when a dispute starts: push forward, pull back, go silent, look for allies?** Where did you learn that?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a dispute in which you are waiting for the other side to take the first step?** You don’t have to say with whom.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abram and Lot parted ways, so did Paul and Barnabas, and in both cases God went on blessing. **When is parting ways wisdom, and when is it running away from a conversation that needs to happen? How can you tell from the inside?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. It is worth making sure the observation comes up, though, that Abram named the relationship before they parted, and that Paul came back to Mark years later. In both cases parting ways was not a severing.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A dispute isn’t proof that something went wrong. The proof is what we do with it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Genesis 13:8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a dispute you are in now or have been through. Ask yourself honestly: **what am I actually defending in it?** The matter itself, my being right, my position, someone’s good opinion of me.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Recall a time when you formed an opinion about someone else’s conflict after hearing only one side. Stay for a moment with the question: **what would have changed if I had heard the other side?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if there is a person you say more about to others than to them, admit it before God. Ask Him what you are afraid of in a one-on-one conversation.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Real Christians don’t argue.”** Don’t debate it. Point back to the text: “Paul and Barnabas were full of the Spirit, and a sharp clash broke out between them. What does that tell us?” For someone raised in a home where disputes were forbidden, this can be a freeing discovery.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts telling about a specific dispute in your church.** Interrupt calmly and immediately: “We’re not talking today about people who aren’t here.” That is exactly the principle of Matthew 18: as few people as possible know about the matter. If it is serious, suggest talking after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Two people at the table are in a dispute with each other, and you can feel the tension in the air.** Don’t try to reconcile them in front of the group. Lead the meeting normally, ask the application questions in general terms, and don’t look their way. The group is not the third step of Matthew 18.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So who was right in the end, Paul or Barnabas?”** Say honestly that the text doesn’t settle it, and ask: “Why do we want to know so badly?” The need to point out who is to blame is part of what this meeting is about.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone uses Matthew 18 to justify publicly shaming someone.** Go back to verse 15 and to the goal: to win your brother over. Ask how Jesus treated tax collectors. Don’t get into the details of church procedures.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about “conflict” at home, and from the description it is really about violence or intimidation.** That isn’t today’s topic, and it isn’t a dispute between two equal parties. Don’t advise “go to them privately.” Talk with this person after the meeting and help them find professional support.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Real Christians don’t argue.”",
+     "odpowiedz": "Don’t debate it. Point back to the text: “Paul and Barnabas were full of the Spirit, and a sharp clash broke out between them. What does that tell us?” For someone raised in a home where disputes were forbidden, this can be a freeing discovery."
+    },
+    {
+     "sytuacja": "Someone starts telling about a specific dispute in your church.",
+     "odpowiedz": "Interrupt calmly and immediately: “We’re not talking today about people who aren’t here.” That is exactly the principle of Matthew 18: as few people as possible know about the matter. If it is serious, suggest talking after the meeting."
+    },
+    {
+     "sytuacja": "Two people at the table are in a dispute with each other, and you can feel the tension in the air.",
+     "odpowiedz": "Don’t try to reconcile them in front of the group. Lead the meeting normally, ask the application questions in general terms, and don’t look their way. The group is not the third step of Matthew 18."
+    },
+    {
+     "sytuacja": "“So who was right in the end, Paul or Barnabas?”",
+     "odpowiedz": "Say honestly that the text doesn’t settle it, and ask: “Why do we want to know so badly?” The need to point out who is to blame is part of what this meeting is about."
+    },
+    {
+     "sytuacja": "Someone uses Matthew 18 to justify publicly shaming someone.",
+     "odpowiedz": "Go back to verse 15 and to the goal: to win your brother over. Ask how Jesus treated tax collectors. Don’t get into the details of church procedures."
+    },
+    {
+     "sytuacja": "Someone talks about “conflict” at home, and from the description it is really about violence or intimidation.",
+     "odpowiedz": "That isn’t today’s topic, and it isn’t a dispute between two equal parties. Don’t advise “go to them privately.” Talk with this person after the meeting and help them find professional support."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words."
+    }
+   ]
+  }
+ ]
+}

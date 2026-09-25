@@ -1,0 +1,865 @@
+{
+ "tytul": "Daniel 5. The Writing on the Wall",
+ "id": "D-05",
+ "seria": "The Book of Daniel",
+ "opis": "Babylon’s last feast and the writing on the wall. What people do with a story they know by heart.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 5:1-4; 5:5-9; 5:13-17; 5:18-24; 5:25-31",
+  "p2": "Daniel 1:2; Daniel 5:10-12; Romans 1:20-21; Psalm 62:9; 1 Samuel 2:3; Isaiah 21:4-5, 9; Jeremiah 51:39, 57",
+  "p3": "Isaiah 45:1-4; Revelation 18:2-4; Daniel 4:27"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "Daniel",
+  "accountability",
+  "pride",
+  "holiness",
+  "judgment",
+  "memory"
+ ],
+ "wersja": 1,
+ "zdanie": "Knowing the story about God is not yet the same as looking up. The light I have been given is waiting for an answer.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Anyone who has heard the phrase “the writing on the wall” knows something of this story. But this meeting is not about mysterious words. Its center lies in verse 22: “even though you knew all this.” Belshazzar knows Nebuchadnezzar’s story in detail. He knows about the seven years, about the eyes lifted up, about the letter to the whole empire. And he does nothing with that knowledge. The chapter asks what a person does with someone else’s experience of God that came to him for free. The second thread is the vessels: the same ones that, in the book’s opening lines, went into the treasury of a Babylonian god now come back to the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "You will read almost the whole chapter, in five sections. The scene with the queen mother is summarized in one italic line, and its text is at level 2. The verse about Darius the Mede closes this chapter as 5:31 in English Bibles; in some other translations it opens the next chapter as 6:1.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "This is the darkest chapter of the narrative half of the book: it ends in death, and the sentence leaves no loophole. Someone at the table may hear in it a sentence about themselves: it’s too late for me too. The text is about a man who, right up to his last hour, asks God for nothing except the meaning of a riddle.",
+      "“You knew, and you did nothing about it” can hurt parents whose adult children grew up knowing the faith at home and have walked away. The chapter doesn’t blame Nebuchadnezzar for his grandson, and it gives no one the right to that kind of accounting.",
+      "The feast and the wine pull the conversation toward alcohol. Someone at the table may have a problem with it, in the family or personally. Wine is not the axis of this text; the axis is what they drank from, and why.",
+      "The words “numbered, weighed, divided” practically beg to be applied to today’s governments and nations. Don’t go there."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone what they have wasted. Don’t apply the sentence in verses 26-28 to any present-day person or government. Don’t use fear: this chapter is meant to open eyes, not to cause panic.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a warning or a piece of good advice that you knew perfectly well and didn’t take. No details: in one sentence, say why you didn’t listen at the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Vessels on the Table",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 5:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Later, King Belshazzar held a great feast for a thousand of his nobles, and he drank wine with them. Under the influence of the wine, Belshazzar gave orders to bring in the gold and silver vessels that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king could drink from them, along with his nobles, his wives, and his concubines. Thus they brought in the gold vessels that had been taken from the temple, the house of God in Jerusalem, and the king drank from them, along with his nobles, his wives, and his concubines. As they drank the wine, they praised their gods of gold and silver, bronze and iron, wood and stone."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The palace had no shortage of goblets. **Why does the king want these particular vessels?** What does he want to show his thousand guests when he orders them brought in?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice the text says where the vessels came from, and it adds: “the house of God.” Then it lists what the gods the guests are praising are made of. **What is the author setting side by side in these four verses?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nebuchadnezzar took these vessels, but for decades he kept them in a treasury. Belshazzar turns them into tableware. **How is one gesture different from the other?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Book of Daniel begins with these same vessels. In its second verse they go into the treasury of a Babylonian god as proof that the God of Israel has lost. More than sixty years have passed since then. During that time God made Himself known to two generations of the court: through the dream of the statue, through the furnace, through Nebuchadnezzar’s seven years. Belshazzar doesn’t bring out the vessels out of ignorance. This is his answer to everything he has heard about this God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** In the fifth of the six court stories. Chapters 4 and 5 are a pair: two kings, the same pride, two different endings. The first looked up and got his throne back. The second knows that story and loses everything in one night. Between the two chapters the book jumps ahead several decades. Daniel, who was a teenager in chapter 1, is now an old man, and the court has had time to forget him.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** This is the last night of the Babylonian state. The text itself says who will take it over: the Medes and the Persians. The banqueters feel safe behind walls that were considered impregnable. The text calls Nebuchadnezzar Belshazzar’s father. In the Semitic languages the same word means father, grandfather, ancestor, and even predecessor in office, because there is simply no separate word for grandfather.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does knowing that this is the kingdom’s last night, and that the banqueters don’t know it, change the way you see this feast?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Book’s Opening Lines",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 1:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the Lord delivered into his hand Jehoiakim king of Judah, along with some of the articles from the house of God. He carried these off to the land of Shinar, to the house of his god, where he put them in the treasury of his god."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The vessels ended up in Babylon because “the Lord delivered” them into the king’s hand. **How does this sentence from the beginning of the book change the meaning of tonight’s feast?** Whom did these vessels belong to all along?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "For sixty years it looked as if nothing was happening: the vessels just sat there, and God was silent. **What does this chapter say about God’s silence?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Hand",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 5:5-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "At that moment the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. As the king watched the hand that was writing, his face grew pale and his thoughts so alarmed him that his hips gave way and his knees knocked together. The king called out for the enchanters, astrologers, and diviners to be brought in, and he said to these wise men of Babylon, “Whoever reads this inscription and tells me its interpretation will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.” So all the king’s wise men came in, but they could not read the inscription or interpret it for him. Then King Belshazzar became even more terrified, his face grew even more pale, and his nobles were bewildered."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“At that moment.” No thunder, no voice, only fingers, a wall, and the light of the lampstand. **Why is this silence more frightening than a shout?** What happens to a hall full of a thousand people?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Compare the king in verse 1 with the king in verse 6. **How much did it take for the one to turn into the other?** What was his self-confidence standing on?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The king’s first reflex is to call for the fortune-tellers and promise a reward. **What does that reflex tell you about him?** What doesn’t the king ask, though he could?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The description is mercilessly physical: his face goes pale, his hips give way, his knees knock together. A man who a moment ago was drinking from God’s vessels in front of a thousand guests cannot control his own body. This is the third time in this book that the wise men of Babylon stand helpless before what God wants to say. So the court had plenty of opportunity to learn whom to go to for an answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The queen mother enters the hall. She remembers Nebuchadnezzar’s time and reminds the king that a man named Daniel still lives in the kingdom.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Woman Who Remembers",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 5:10-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Hearing the outcry of the king and his nobles, the queen entered the banquet hall. “O king, may you live forever!” she said. “Do not let your thoughts terrify you, or your face grow pale. There is a man in your kingdom who has the spirit of the holy gods in him. In the days of your father he was found to have insight, intelligence, and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers, and diviners. Your own father, the king, did this because Daniel, the one he named Belteshazzar, was found to have an extraordinary spirit, as well as knowledge, understanding, and the ability to interpret dreams, explain riddles, and solve difficult problems. Summon Daniel, therefore, and he will give you the interpretation.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The queen mother was not at the feast. She is the only person at court who remembers Daniel, and she calls him by his Hebrew name. **What happened to this court’s memory in the space of one generation?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel was once the chief over all the wise men. Now he has to be introduced to the king. **What does faithfulness look like in a person who has been forgotten?** What was Daniel doing all those years when no one sent for him?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Keep Your Gifts",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 5:13-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Daniel was brought before the king, who asked him, “Are you Daniel, one of the exiles my father the king brought from Judah? I have heard that the spirit of the gods is in you, and that you have insight, intelligence, and extraordinary wisdom. Now the wise men and enchanters were brought before me to read this inscription and interpret it for me, but they could not give its interpretation. But I have heard about you, that you are able to give interpretations and solve difficult problems. Therefore, if you can read this inscription and give me its interpretation, you will be clothed in purple and have a gold chain placed around your neck, and you will be made the third highest ruler in the kingdom.” In response, Daniel said to the king, “You may keep your gifts for yourself and give your rewards to someone else. Nevertheless, I will read the inscription for the king and interpret it for him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The king greets the old official with the words: “Are you Daniel, one of the exiles my father the king brought from Judah?” **What is he trying to tell him?** How does that greeting sound in a hall where the vessels from Jerusalem are standing?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In chapter 2 Daniel accepted gifts and an office from Nebuchadnezzar. Tonight he says, “You may keep your gifts for yourself.” **Why does he refuse this time, before saying a single word of interpretation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "With Nebuchadnezzar, Daniel was alarmed and wished that the dream applied to his enemies. Here there is not a single warm word. **Where does that difference come from?** What does Daniel see in this king that he didn’t see in the other one?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Twice the king says, “I have heard.” Everything he knows about Daniel and his God, he knows by hearsay. The queen mother speaks of “the spirit of the holy gods,” and Belshazzar repeats it after her word for word, without the word “holy.” The text shows a man who has secondhand information and sees no reason to check it for himself. Nebuchadnezzar also began with “your God,” but along the way he said “the Most High” and finally “the King of heaven.” In the whole chapter Belshazzar does not say a single sentence of his own about Daniel’s God.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "You Knew",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 5:18-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "As for you, O king, the Most High God gave your father Nebuchadnezzar sovereignty and greatness, glory and honor. Because of the greatness that He bestowed on him, the people of every nation and language trembled in fear before him. He killed whom he wished and kept alive whom he wished; he exalted whom he wished and humbled whom he wished. But when his heart became arrogant and his spirit was hardened with pride, he was deposed from his royal throne, and his glory was taken from him. He was driven away from mankind, and his mind was like that of a beast. He lived with the wild donkeys and ate grass like an ox, and his body was drenched with the dew of heaven until he acknowledged that the Most High God rules over the kingdom of mankind, setting over it whom He wishes. But you his son, O Belshazzar, have not humbled your heart, even though you knew all this. Instead, you have exalted yourself against the Lord of heaven. The vessels from His house were brought to you, and as you drank wine from them with your nobles, wives, and concubines, you praised your gods of silver and gold, bronze and iron, wood and stone, which cannot see or hear or understand. But you have failed to glorify the God who holds in His hand your very breath and all your ways. Therefore He sent the hand that wrote the inscription."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before Daniel reads the inscription, he tells the king a story the king already knows. **Why?** What is the real charge in verse 22?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The gods of gold and stone “cannot see or hear or understand.” Of the true God, Daniel says that He “holds in His hand your very breath.” **What does that contrast say to someone who is at this moment looking at a hand writing on the wall?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Belshazzar didn’t live through seven years among the animals. He got this lesson for free, as a story. **Why does someone else’s experience so rarely change us?** What does it take for a story we have heard to become a story we have received?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel’s charge has three steps. You have not humbled your heart. You have exalted yourself against the Lord of heaven. You have failed to glorify the God who holds your breath. In the middle stands a sentence that changes the weight of everything: “even though you knew all this.” Nebuchadnezzar burned Jerusalem as a man who did not know this God, and he was given dreams, a prophet, and a year of delay. Belshazzar starts where the other man finished, with a ready-made testimony in his hand. In this book, responsibility grows along with the light.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "They Knew, and Did Not Glorify",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 1:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse. For although they knew God, they neither glorified Him as God nor gave thanks to Him, but they became futile in their thinking and darkened in their foolish hearts."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t say that people lacked knowledge. He says what was missing after it: glorifying and giving thanks. **How does that fit Belshazzar?** What is the road from “I know” to “thank You”?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Most people at this table know more about God than Belshazzar did. **What does that sentence in verse 22 mean for people who have known the Bible since childhood?** Talk about yourselves, not about people who aren’t here.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Numbered, Weighed, Divided",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 5:25-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now this is the inscription that was written: MENE, MENE, TEKEL, PARSIN. And this is the interpretation of the message: MENE means that God has numbered the days of your reign and brought it to an end. TEKEL means that you have been weighed on the scales and found deficient. PERES means that your kingdom has been divided and given over to the Medes and Persians.” Then Belshazzar gave the command, and they clothed Daniel in purple, placed a gold chain around his neck, and proclaimed him the third highest ruler in the kingdom. That very night Belshazzar king of the Chaldeans was slain, and Darius the Mede received the kingdom at the age of sixty-two."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Three words, three actions: to number, to weigh, to divide. **In this inscription, who is doing the numbering and weighing, and who is being numbered and weighed?** How does that relate to a feast where the king was showing who is in charge here?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The king hears the sentence and has Daniel clothed in purple. He keeps his word about the reward. **What doesn’t he do?** Compare this with what Nebuchadnezzar did when he heard his sentence and Daniel’s advice.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The chapter begins with a feast for a thousand and ends with one short sentence. **What is the author saying by giving the king’s death so little space?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“Found deficient” is the image of a balance scale: on one pan you place a person, on the other what that person ought to weigh. In the Bible God is the One who weighs hearts and deeds, and His scale doesn’t count gold, walls, or the number of guests. That same evening the king is still handing out offices in a kingdom that will be gone in a few hours. The last thing he does in his life is pay a reward for a message he did not act on.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "On the Scale",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 62:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Lowborn men are but a vapor, the exalted but a lie. Weighed on the scale, they go up; together they are but a vapor."
+       ]
+      },
+      {
+       "odnosnik": "1 Samuel 2:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not boast so proudly, or let arrogance come from your mouth, for the LORD is a God who knows, and by Him actions are weighed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm says about all people what the inscription says about Belshazzar: “Weighed on the scale, they go up.” **If none of us weighs enough, then what sets Belshazzar apart from Nebuchadnezzar?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do people usually use to weigh down their side of the scale?** According to these two texts, does any of it carry any weight?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Feast Foretold",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The prophets of Israel described the fall of Babylon long before this night, and they described it as a feast.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 21:4-5, 9",
+       "przeklad": "BSB",
+       "akapity": [
+        "My heart falters; fear makes me tremble. The twilight of my desire has turned to horror. They prepare a table, they lay out a carpet, they eat, they drink! Rise up, O princes, oil the shields! … Look, here come the riders, horsemen in pairs.” And one answered, saying: “Fallen, fallen is Babylon! All the images of her gods lie shattered on the ground!”"
+       ]
+      },
+      {
+       "odnosnik": "Jeremiah 51:39, 57",
+       "przeklad": "BSB",
+       "akapity": [
+        "While they are flushed with heat, I will serve them a feast, and I will make them drunk so that they may revel; then they will fall asleep forever and never wake up, declares the LORD. … I will make her princes and wise men drunk, along with her governors, officials, and warriors. Then they will fall asleep forever and not wake up,” declares the King, whose name is the LORD of Hosts."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The exiles had these scrolls with them. **How would someone like Daniel have read them for sixty years, looking at the walls of Babylon?** What does it mean for a believer that an empire that looks eternal has its end written in God’s word?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The inscription was most likely in Aramaic, and Aramaic is written with consonants only. So the wise men may have known the letters and still been unable to make a sentence out of them, because the meaning depended on which vowels were added. Read as nouns, the three words are names of weights: a mina, a shekel, and a half, probably half a mina. It sounded like a price list shouted in a marketplace. Daniel reads them as verbs: numbered, weighed, divided. In the last word you can hear a third meaning too, because `peres` sounds almost the same as the name of the Persians. One word says at once what will happen to the kingdom and who will take it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Everyone in the hall saw the same letters. The one who read them was the one who knew their Author. **What does this scene say about understanding God’s word?** What does it take besides knowing the letters?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Fall of Babylon as a Pattern",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The prophet Isaiah called Babylon’s conqueror by name and gave him a surprising title.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 45:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the LORD says to Cyrus His anointed, whose right hand I have grasped to subdue nations before him, to disarm kings, to open the doors before him, so that the gates will not be shut: “I will go before you and level the mountains; I will break down the gates of bronze and cut through the bars of iron. I will give you the treasures of darkness and the riches hidden in secret places, so that you may know that I am the LORD, the God of Israel, who calls you by name. For the sake of Jacob My servant and Israel My chosen one, I call you by name; I have given you a title of honor, though you have not known Me."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The last book of the Bible returns to that night and uses Isaiah’s words.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 18:2-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "And he cried out in a mighty voice: “Fallen, fallen is Babylon the great! She has become a lair for demons and a haunt for every unclean spirit, every unclean bird, and every detestable beast. All the nations have drunk the wine of the passion of her immorality. The kings of the earth were immoral with her, and the merchants of the earth have grown wealthy from the extravagance of her luxury.” Then I heard another voice from heaven say: “Come out of her, My people, so that you will not share in her sins or contract any of her plagues."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The parallels are in the text itself: wine, vessels, pride, a sudden fall in one night, a liberator from the east, God’s people coming out. Christians differ on what the Babylon of Revelation is. Some see in it the imperial Rome of John’s day. Others, including Adventists, read it as a picture of religion allied with power and coercion, which keeps returning throughout history and will take its final form before Christ’s return. Then Cyrus, the anointed one who opens the gates and lets the exiles go home, becomes a foreshadowing of Christ Himself. Both sides agree on the pattern of Daniel 5: a system that uses holy things for its own glory has its days numbered, and God first calls His people to come out.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**According to these three texts, what is “Babylon”: a place on the map or a way of acting?** How can you recognize it?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God calls a pagan king who doesn’t know Him His anointed, and uses him to set His people free. **What does that say about how God guides history, and through whom He is able to work?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t let the conversation turn into pointing out who Babylon is today. This material names no state, church, or person. The pattern is enough: holy things used for one’s own glory.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Belshazzar had a ready-made testimony in his own family and treated it like an old anecdote. **Whose story with God do you know by heart, your parents’, your grandparents’, someone’s at church, and what have you done with it so far?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The vessels from the temple were not for drinking at a party. **What in your life is set apart for God but sometimes gets used for something else entirely?** Think about time, abilities, your body, your words.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something you have known to be true for a long time and still do nothing about?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Nebuchadnezzar heard advice from Daniel that left the door open.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 4:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, may my advice be pleasing to you, O king. Break away from your sins by doing what is right, and from your iniquities by showing mercy to the oppressed. Perhaps there will be an extension of your prosperity.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Belshazzar gets no such advice. There is no “Perhaps,” no year of delay; there is one night. **Is there a moment after which it is too late? Who sets it: God, who closes the door, or a person who to the very end asks for nothing?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it, and don’t use fear. It helps if two observations from the text get said. In the whole chapter Belshazzar never once turns to God: he asks what the inscription means, not what he should do. And the fear that it is already too late for me is itself a sign that my heart is not like his. If someone says this about themselves in earnest, stay with them after the meeting.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Knowing the story about God is not yet the same as looking up. The light I have been given is waiting for an answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 5:22 or Daniel 5:23b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Recall one thing God has shown you clearly, through someone’s life, through your own experience, or through His word, and that has been set aside ever since. Tell Him about it plainly: “I knew this.” See what you want to say after that.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Daniel told the king about the God “who holds in His hand your very breath.” Stop for a moment today and notice your own breathing, and ask yourself: **when did I last give thanks for what I take for granted?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask someone older in the faith, a parent, a grandmother, someone at church, about their story with God, the same one you have already heard many times. This time, listen to it as if it were addressed to you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“What if it’s already too late for me too?”** Take it seriously and calmly. To the very end Belshazzar did not turn to God with a single word, and his last decision was to hand out a reward. Someone who is afraid they have closed the way for themselves is already doing what he did not do. In this same book Nebuchadnezzar, who burned the temple, is given a whole chapter for his testimony. If the fear is strong or persistent, talk with the person after the meeting and encourage them to speak with a pastor. If there are thoughts of suicide, don’t carry this alone: contact a crisis line in your country, or your local emergency number if there is immediate danger.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A parent says in pain, “My children knew everything, and they walked away.”** Don’t let this chapter become a verdict on anyone’s children. The text doesn’t blame Nebuchadnezzar for Belshazzar, and it says nothing about people who are alive and whose story is still going on. Belshazzar is a man on the last night of his life. An adult child who still comes to family dinner is not. Thank them for their honesty and don’t let the group start giving advice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to alcohol: how much is allowed, whether it’s allowed, who drinks.** Wine is not the axis of this chapter. The text only notes that the king reached for the vessels while under its influence. Someone at the table may be personally affected by this topic. Go back to the question of what they drank from, and why. If someone wants to talk about sobriety, suggest a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone applies “numbered, weighed, divided” to today’s government, a nation, or a church.** Stop it. This material points to no present-day power, date, or institution. The inscription was addressed to one man who knew the truth. Ask instead: what in my life is on the scale today?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So God kills people for sacrilege,” or fear that someone will be punished for treating holy things carelessly.** The text doesn’t say that God killed Belshazzar. It says that God numbered the days of his reign and that the king was slain that night when the city fell. Daniel’s charge is not about one gesture but about a whole life lived against what the king knew. No one at the table is in that situation because they once set a Bible on the floor.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Historical questions: who Belshazzar was, who Darius the Mede was, why “the third highest ruler in the kingdom.”** Say honestly that historians have long debated these details and that this material doesn’t settle them. What is certain is what the meeting needs: in these languages the word “father” also means ancestor and predecessor, and that night the Babylonian state passed into the hands of the Medes and Persians. The rest is a topic for those interested, after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after the question about what they know and do nothing about.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words. Don’t call on anyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Just read Block 3 aloud, without questions. Don’t shorten Blocks 4 and 5: the sentence “even though you knew all this” and the inscription carry the whole meeting.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“What if it’s already too late for me too?”",
+     "odpowiedz": "Take it seriously and calmly. To the very end Belshazzar did not turn to God with a single word, and his last decision was to hand out a reward. Someone who is afraid they have closed the way for themselves is already doing what he did not do. In this same book Nebuchadnezzar, who burned the temple, is given a whole chapter for his testimony. If the fear is strong or persistent, talk with the person after the meeting and encourage them to speak with a pastor. If there are thoughts of suicide, don’t carry this alone: contact a crisis line in your country, or your local emergency number if there is immediate danger."
+    },
+    {
+     "sytuacja": "A parent says in pain, “My children knew everything, and they walked away.”",
+     "odpowiedz": "Don’t let this chapter become a verdict on anyone’s children. The text doesn’t blame Nebuchadnezzar for Belshazzar, and it says nothing about people who are alive and whose story is still going on. Belshazzar is a man on the last night of his life. An adult child who still comes to family dinner is not. Thank them for their honesty and don’t let the group start giving advice."
+    },
+    {
+     "sytuacja": "The conversation drifts to alcohol: how much is allowed, whether it’s allowed, who drinks.",
+     "odpowiedz": "Wine is not the axis of this chapter. The text only notes that the king reached for the vessels while under its influence. Someone at the table may be personally affected by this topic. Go back to the question of what they drank from, and why. If someone wants to talk about sobriety, suggest a separate meeting."
+    },
+    {
+     "sytuacja": "Someone applies “numbered, weighed, divided” to today’s government, a nation, or a church.",
+     "odpowiedz": "Stop it. This material points to no present-day power, date, or institution. The inscription was addressed to one man who knew the truth. Ask instead: what in my life is on the scale today?"
+    },
+    {
+     "sytuacja": "“So God kills people for sacrilege,” or fear that someone will be punished for treating holy things carelessly.",
+     "odpowiedz": "The text doesn’t say that God killed Belshazzar. It says that God numbered the days of his reign and that the king was slain that night when the city fell. Daniel’s charge is not about one gesture but about a whole life lived against what the king knew. No one at the table is in that situation because they once set a Bible on the floor."
+    },
+    {
+     "sytuacja": "Historical questions: who Belshazzar was, who Darius the Mede was, why “the third highest ruler in the kingdom.”",
+     "odpowiedz": "Say honestly that historians have long debated these details and that this material doesn’t settle them. What is certain is what the meeting needs: in these languages the word “father” also means ancestor and predecessor, and that night the Babylonian state passed into the hands of the Medes and Persians. The rest is a topic for those interested, after the meeting."
+    },
+    {
+     "sytuacja": "The group goes quiet after the question about what they know and do nothing about.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words. Don’t call on anyone."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Just read Block 3 aloud, without questions. Don’t shorten Blocks 4 and 5: the sentence “even though you knew all this” and the inscription carry the whole meeting."
+    }
+   ]
+  }
+ ]
+}

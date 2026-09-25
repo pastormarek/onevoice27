@@ -1,0 +1,588 @@
+{
+ "tytul": "Sadness",
+ "id": "E-04",
+ "seria": "Emotions",
+ "opis": "The Bible makes room for sadness and doesn’t tell it to hurry up. On comfort that comes too fast.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "John 11:32-36; Psalm 42:3-5, 11; Job 2:11-13; 1 Thessalonians 4:13-14; Revelation 21:3-4",
+  "p2": "Lamentations 3:19-24; 2 Corinthians 1:3-4; Ecclesiastes 7:2-4",
+  "p3": "2 Corinthians 7:10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 22,
+  "p3": 24
+ },
+ "tagi": [
+  "emotions",
+  "grief",
+  "loss",
+  "comfort",
+  "hope"
+ ],
+ "wersja": 1,
+ "zdanie": "God doesn’t cut grief short. He sits down beside us in it.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t about how to stop being sad. It’s about the fact that the Bible makes room for sadness and doesn’t tell it to hurry up. The whole study runs against the reflex that pushes us to comfort people too quickly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have just suffered a loss. They may start crying. That isn’t the meeting breaking down; it’s what the meeting is about. Don’t rescue the moment with a joke or a change of subject.",
+      "Sentences like “It was God’s will” or “Everything happens for a reason” can hurt more than silence. If someone says them, don’t let them stand unanswered.",
+      "Depression is not the same as sadness. If someone talks about it, don’t treat it as a spiritual problem."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t force comfort, and don’t rush to block 5. Don’t ask anyone to tell the story of their loss. Don’t move on to hope before the group has spent time in the texts about grief.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "When someone close to you is sad, what do you do by reflex: sit quietly beside them, say something comforting, change the subject, try to fix the problem? One word.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and honestly, even if your answer isn’t the nice one.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Jesus Wept",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 11:32-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Mary came to Jesus and saw Him, she fell at His feet and said, “Lord, if You had been here, my brother would not have died.” When Jesus saw her weeping, and the Jews who had come with her also weeping, He was deeply moved in spirit and troubled. “Where have you put him?” He asked. “Come and see, Lord,” they answered. Jesus wept. Then the Jews said, “See how He loved him!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus knows that in a moment He will raise Lazarus. **Why does He weep anyway?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mary says, “if You had been here, my brother would not have died.” That’s an accusation. **How does Jesus respond to it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 33 says He was “deeply moved in spirit and troubled” when He saw them weeping. **What was the immediate cause of His tears: death, or the people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is the shortest verse in the New Testament and one of the hardest to explain. Jesus weeps at a tomb He is about to open in a few minutes. That means His tears here are not a sign of helplessness or of doubt about the resurrection. They are a response to the fact that death exists at all. Faith in what comes afterward doesn’t cancel the pain of what is happening now. Jesus doesn’t cut short Mary’s grief, or His own.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Talking to Your Own Soul",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 42:3-5, 11",
+       "przeklad": "BSB",
+       "akapity": [
+        "My tears have been my food both day and night, while men ask me all day long, “Where is your God?” These things come to mind as I pour out my soul: how I walked with the multitude, leading the procession to the house of God with shouts of joy and praise. Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him for the salvation of His presence. … Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalmist speaks to himself: “Why are you downcast, O my soul?” **How is that different from talking about yourself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same sentence comes back in the psalm like a refrain, including at the very end. **What does it mean that he has to keep repeating it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 4 talks about remembering joy from the past. **Does remembering the good times help here, or does it hurt?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The word “yet” in the phrase “I will yet praise Him.” **What does it admit about the present?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "About a third of the psalms are laments, that is, complaints. The Bible doesn’t treat grief as a stage to get through quickly; it gives it its own literary genre and a place in the prayer book. The psalmist doesn’t deny how he feels or convince himself that everything is fine. He does something else: he talks to himself instead of just listening to himself. His complaint is directed toward God, not away from God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Middle of Lamentations",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Lamentations 3:19-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Remember my affliction and wandering, the wormwood and the gall. Surely my soul remembers and is humbled within me. Yet I call this to mind, and therefore I have hope: Because of the loving devotion of the LORD we are not consumed, for His mercies never fail. They are new every morning; great is Your faithfulness! “The LORD is my portion,” says my soul, “therefore I will hope in Him.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "These verses stand at the very center of a book that mourns a destroyed city. **What does the author do in verse 21 that he wasn’t doing in verses 19 and 20?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“They are new every morning.” **Why every morning, and not once and for all?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Seven Days of Silence",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 2:11-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now when Job’s three friends—Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite—heard about all this adversity that had come upon him, each of them came from his home, and they met together to go and sympathize with Job and comfort him. When they lifted up their eyes from afar, they could barely recognize Job. They began to weep aloud, and each man tore his robe and threw dust in the air over his head. Then they sat on the ground with him for seven days and seven nights, but no one spoke a word to him because they saw how intense his suffering was."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Here Job’s friends do something they usually don’t get credit for, because we remember the rest of the book. **What exactly do they do in these three verses?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Seven days without a single word. **Why were they silent, and how did they know that was what was needed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Everything they do wrong later begins the moment they open their mouths. **What does that tell us about comforting people?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Sadness That Has Hope",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Thessalonians 4:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Brothers, we do not want you to be uninformed about those who sleep in death, so that you will not grieve like the rest, who are without hope. For since we believe that Jesus died and rose again, we also believe that God will bring with Jesus those who have fallen asleep in Him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t write, “Don’t grieve.” He writes that you should not “grieve like the rest, who are without hope.” **What difference does that make in practice?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul speaks of those who have “fallen asleep,” not those who have died. **What does that picture say about how long the separation is from the point of view of the one who has died?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "For Paul, the basis of comfort is a historical fact, not a feeling. **What fact is it, and why that one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paul’s sentence is often quoted as if it forbade Christians to be sad. It forbids something else: grieving without hope. The grief remains; its horizon changes. Notice what Paul does not do. He doesn’t say death is good, that the one who died is happier now, or that people need to stop crying. He gives one piece of information and leaves people with their loss, only now in a different light.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Comfort That Travels On",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 1:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Blessed be the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God."
+       ]
+      },
+      {
+       "odnosnik": "Ecclesiastes 7:2-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is better to enter a house of mourning than a house of feasting, since death is the end of every man, and the living should take this to heart. Sorrow is better than laughter, for a sad countenance is good for the heart. The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes that God comforts us “so that we can comfort those in any trouble.” **What follows from that about who comforts best?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Teacher claims, “It is better to enter a house of mourning than a house of feasting.” **That sounds gloomy. What sense does it make?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Tear Wiped Away",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 21:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God. ‘He will wipe away every tear from their eyes,’ and there will be no more death or mourning or crying or pain, for the former things have passed away.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God wipes away tears; He doesn’t make it as if they never happened. **What does that say about how God treats what we’ve been through?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first sentence isn’t about the absence of death but about God dwelling with people. **Why does that come before the list of things that will be no more?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Job’s friends sat for seven days in silence. **When was the last time you were with someone who was sad without trying to fix it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist spoke to his own soul. **What do you tell yourself when things are hard? Repeat that sentence silently and check whether it’s true.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there a loss you feel you’re no longer allowed to grieve because too much time has passed?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Two Kinds of Sorrow",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 7:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul distinguishes “godly sorrow” from “worldly sorrow.” **How can you tell which is which? By what it contains, or by what it produces?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Does every sorrow have to lead somewhere? What about sorrow that simply is, because someone died?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "be careful that this block doesn’t turn into sorting other people’s sadness into good and bad. Paul is writing here about sorrow over sin, not about grief over a death.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God doesn’t cut grief short. He sits down beside us in it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** John 11:35 or Revelation 21:4.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a loss you no longer talk about because it seems you were supposed to stop. **Ask yourself whether you really grieved it, or just stopped talking about it.** Those aren’t the same thing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There is someone around you who has just lost someone or something. **Ask God whether they need your words or your presence without words.** More often the answer is the second.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you’re carrying an accusation against God, like Mary at the tomb, say it to Him directly. She wasn’t rebuked for it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is crying.** Don’t rescue the moment. Don’t hand over a tissue as a signal that it’s time to stop. Let the silence be, wait, then quietly ask whether they want the group to go on. This is exactly what block 3 was about.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“It was God’s will” or “Everything happens for a reason.”** Don’t let it stand unanswered, because sentences like these wound. You might say, “At the tomb, Jesus didn’t say either of those things to Mary. He wept.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about depression or suicidal thoughts.** Don’t diagnose it or interpret it spiritually. Take it seriously, thank them for their trust, and be sure to talk with them privately after the meeting. If you hear about suicidal thoughts, don’t leave it without a next step.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group wants to jump quickly to block 5.** That’s a reflex. Keep them in blocks 2 and 3. Hope reached too quickly can’t carry the weight.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“A Christian should always rejoice.”** The answer is in the text: Paul, who wrote “Rejoice in the Lord always,” also wrote “weep with those who weep.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about their loss for a very long time.** Listen. It’s rarely an obstacle; more often it’s the heart of the matter. If the meeting falls apart, so be it. The material will keep for next time.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone is crying.",
+     "odpowiedz": "Don’t rescue the moment. Don’t hand over a tissue as a signal that it’s time to stop. Let the silence be, wait, then quietly ask whether they want the group to go on. This is exactly what block 3 was about."
+    },
+    {
+     "sytuacja": "“It was God’s will” or “Everything happens for a reason.”",
+     "odpowiedz": "Don’t let it stand unanswered, because sentences like these wound. You might say, “At the tomb, Jesus didn’t say either of those things to Mary. He wept.”"
+    },
+    {
+     "sytuacja": "Someone talks about depression or suicidal thoughts.",
+     "odpowiedz": "Don’t diagnose it or interpret it spiritually. Take it seriously, thank them for their trust, and be sure to talk with them privately after the meeting. If you hear about suicidal thoughts, don’t leave it without a next step."
+    },
+    {
+     "sytuacja": "The group wants to jump quickly to block 5.",
+     "odpowiedz": "That’s a reflex. Keep them in blocks 2 and 3. Hope reached too quickly can’t carry the weight."
+    },
+    {
+     "sytuacja": "“A Christian should always rejoice.”",
+     "odpowiedz": "The answer is in the text: Paul, who wrote “Rejoice in the Lord always,” also wrote “weep with those who weep.”"
+    },
+    {
+     "sytuacja": "Someone talks about their loss for a very long time.",
+     "odpowiedz": "Listen. It’s rarely an obstacle; more often it’s the heart of the matter. If the meeting falls apart, so be it. The material will keep for next time."
+    }
+   ]
+  }
+ ]
+}

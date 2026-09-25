@@ -1,0 +1,921 @@
+{
+ "tytul": "The Sheep and the Goats",
+ "id": "PJ-12",
+ "seria": "Parables of Jesus",
+ "opis": "About a judgment where everyone is surprised, and about the King we pass by without knowing it.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 25:31-46; Matthew 26:1-2",
+  "p2": "Daniel 7:13-14; Ezekiel 34:17-22; Proverbs 19:17; Acts 9:3-5; Matthew 6:3-4; Matthew 7:21-23; James 2:14-17; John 19:28; Matthew 27:35",
+  "p3": "Matthew 10:40-42; Matthew 12:48-50; Ephesians 2:8-10; Jude 7; 2 Thessalonians 1:9"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 34
+ },
+ "tagi": [
+  "parables",
+  "judgment",
+  "mercy",
+  "the poor",
+  "Jesus’ return",
+  "picture of God"
+ ],
+ "wersja": 1,
+ "zdanie": "At the judgment, what no one ever wrote down will come to light, and the Judge will be the One who was Himself hungry, naked, and in prison.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This is the last story Jesus tells before His passion, and the only picture of the judgment in the Gospels that is this fully developed. The strangest thing about it is that everyone is surprised. Those on the right don’t remember ever serving the King. Those on the left don’t remember ever passing Him by. The judgment concerns things no one wrote down. The meeting should stay with that surprise and with the words “you did for Me,” not with a tally of good deeds. Every parable of Jesus corrects some false picture of God. This one corrects the picture of a King you meet where kings are usually found: in the temple, on great occasions, in important matters. Those on the left would have been ready to serve a King like that, and that is exactly why they passed Him every day at the gate, in the line, and in the cell. The judgment here doesn’t ask for a tally of good deeds. It asks what kind of person someone has become, and their deeds are only the fingerprints. The parable is a mirror of this one truth, so don’t build doctrine on its side details, such as the character of goats.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Fear of judgment. Someone at the table has been afraid of this text since childhood and hears only verse 41 in it. See the first red flag.",
+      "One-upmanship. Someone starts listing whom they have helped, or the group starts planning a charity project in order to end up on the right side. That is the exact opposite of what the sheep do.",
+      "The question of salvation by works. It is an honest question and has its own block at level 3. At level 1 it is enough to stick to the text: the sheep weren’t counting anything.",
+      "The question of eternal torment. Verse 46 will raise it. The full study is in the material “Will God Punish Me? Judgment and Hell”; here there is only a short block at level 3.",
+      "Someone at the table may be hungry, sick, or a stranger today, or have a loved one in prison. For them this text sounds from the other side: the King is on their side."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t place anyone on either side. Don’t end with a to-do list for the group. Don’t turn the meeting into an argument about hell. Don’t soften the text, but don’t use it to frighten either.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when someone did something good for you and has probably long since forgotten it, but you still remember it today. Say in one sentence what it was.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Throne and the Shepherd",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:31-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the Son of Man comes in His glory, and all the angels with Him, He will sit on His glorious throne. All the nations will be gathered before Him, and He will separate the people one from another, as a shepherd separates the sheep from the goats. He will place the sheep on His right and the goats on His left."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In three sentences Jesus uses two pictures: a king on a throne and a shepherd with his flock. **What does each of them say about the One who judges? What does putting them together give us?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The One saying this is sitting on a hillside with a handful of disciples, and in two days He will be arrested. **How do these words sound coming from someone in that situation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“All the nations” are gathered before the throne. **Who, then, is watching this scene from the sidelines?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that region sheep and goats graze together in one flock, and in the evening the shepherd routinely separates them. The listeners had seen this done many times, and no one saw any drama in it. The goat was not an inferior animal, so the picture rests on the separation itself, on the right and the left, not on the character of the animals. The shepherd didn’t have to think about which animal was which. The difference had been visible for a long time; the evening only revealed it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** This is the end of Jesus’ last great discourse in Matthew. Jesus is sitting with His disciples on the Mount of Olives, answering their question about His coming and the end of the age. After the predictions, He tells several stories about waiting: the servant, the virgins, the talents. This scene closes the whole. The very next sentence of the Gospel is already about the Passover and the cross. After these words, Matthew records no further long discourse of Jesus.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** The title Son of Man, which Jesus uses for Himself, comes from the book of Daniel. There a figure like a human being receives authority over all nations. So listeners who knew the Scriptures heard a very high claim in the first sentence.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence. And He was given dominion, glory, and kingship, that the people of every nation and language should serve Him. His dominion is an everlasting dominion that will not pass away, and His kingdom is one that will never be destroyed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Daniel the Son of Man receives authority after the beasts that devoured and trampled. **What does the fact that He is “One like the Son of Man,” a human figure and not a beast, promise about His judgment?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Shepherd Who Has Judged Before",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 34:17-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the Lord GOD says to you, My flock: ‘I will judge between one sheep and another, between the rams and the goats. Is it not enough for you to feed on the good pasture? Must you also trample the rest of the pasture with your feet? Is it not enough for you to drink the clear waters? Must you also muddy the rest with your feet? Why must My flock feed on what your feet have trampled, and drink what your feet have muddied?’ Therefore this is what the Lord GOD says to them: ‘Behold, I Myself will judge between the fat sheep and the lean sheep. Since you shove with flank and shoulder, butting all the weak ones with your horns until you have scattered them abroad, I will save My flock, and they will no longer be prey. I will judge between one sheep and another."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Ezekiel, God judges within a single flock. **What does He judge the strong animals for, and whose side does He take?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What from this prophecy comes back in Jesus’ story, and what new thing does Jesus add?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Prepared from the Foundation of the World",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:34-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the King will say to those on His right, ‘Come, you who are blessed by My Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you took Me in, I was naked and you clothed Me, I was sick and you looked after Me, I was in prison and you visited Me.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look at the six things on the list. **What do they have in common? What is missing from this list that you might expect at a judgment?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The King says “inherit” and adds that the kingdom was prepared “from the foundation of the world.” **What do these two expressions say about where a place on the right comes from?** How do you inherit something, and how do you earn it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "None of these six things requires wealth, education, or position. **What follows from that?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "“When Did We See You?”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:37-40",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink? When did we see You a stranger and take You in, or naked and clothe You? When did we see You sick or in prison and visit You?’ And the King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers of Mine, you did for Me.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The righteous are genuinely surprised. **What does their surprise say about how and why they helped?** What were these people clearly not keeping?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The King doesn’t say “I will count it as if you had done it for Me.” He says “you did for Me.” **What is the difference between those two sentences?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**How does it change the way you look at a person in need to know that the King calls them His brother, and the least of His brothers at that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The idea that God takes personally what is done for the poor was well known. The book of Proverbs says that kindness to the poor is a loan to the Lord. Jesus goes one step further. He doesn’t speak of a loan or of an entry in an account. He says He was there in person. The surprise of the righteous is the best proof that they weren’t collecting points. People who collect points know how many they have.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Voice on the Road to Damascus",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 19:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Kindness to the poor is a loan to the LORD, and He will repay the lender."
+       ]
+      },
+      {
+       "odnosnik": "Acts 9:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "As Saul drew near to Damascus on his journey, suddenly a light from heaven flashed around him. He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute Me?” “Who are You, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” He replied."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul had never met Jesus. He was persecuting people in Jerusalem and was on his way to get more of them. **What does the voice from heaven say to him, and how does that relate to the words “you did for Me”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul also asked who the Lord was. **What connects his question with the question both groups ask before the throne?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Don’t Let Your Left Hand Know",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 6:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "But when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. And your Father, who sees what is done in secret, will reward you."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "At the beginning of His teaching, Jesus spoke about helping in a way that even your own left hand doesn’t know about. **How is that sentence fulfilled in the judgment scene?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Same Question from the Other Side",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:41-45",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then He will say to those on His left, ‘Depart from Me, you who are cursed, into the eternal fire prepared for the devil and his angels. For I was hungry and you gave Me nothing to eat, I was thirsty and you gave Me nothing to drink, I was a stranger and you did not take Me in, I was naked and you did not clothe Me, I was sick and in prison and you did not visit Me.’ And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’ Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Go through the charges. **What kinds of wrongdoing are here, and what kinds are missing altogether?** Who might these people have been in their neighbors’ eyes?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Both groups ask the same question, and both call the King “Lord.” **How is their surprise different?** Listen carefully to the end of verse 44: what does it tell you about whom these people would have been ready to serve?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Compare verse 34 with verse 41. The kingdom is prepared “for you.” **For whom is the fire prepared? What does that difference say about what God wanted for people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In this scene those on the left are not criminals. They haven’t killed or robbed anyone. Their guilt consists entirely of things left undone. They say that if they had seen the King, they would have served Him. The problem is that they were watching for the King and passing by the person. The story doesn’t ask us to guess who stands on which side. It asks us to look at what is right at our feet.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Lord, Lord",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 7:21-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only he who does the will of My Father in heaven. Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?’ Then I will tell them plainly, ‘I never knew you; depart from Me, you workers of lawlessness!’"
+       ]
+      },
+      {
+       "odnosnik": "James 2:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "What good is it, my brothers, if someone claims to have faith, but has no deeds? Can such faith save him? Suppose a brother or sister is without clothes and daily food. If one of you tells him, “Go in peace; stay warm and well fed,” but does not provide for his physical needs, what good is that? So too, faith by itself, if it does not result in action, is dead."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The people in the Sermon on the Mount remember their deeds very precisely and can list them. The sheep in chapter 25 remember nothing. **What does this comparison tell us?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James describes someone who says a pious sentence to a hungry person and walks away. **How is that kind of piety different from indifference? Or is it no different at all?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "In Two Days",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:46",
+       "przeklad": "BSB",
+       "akapity": [
+        "And they will go away into eternal punishment, but the righteous into eternal life.”"
+       ]
+      },
+      {
+       "odnosnik": "Matthew 26:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus had finished saying all these things, He told His disciples, “You know that the Passover is two days away, and the Son of Man will be handed over to be crucified.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same “Son of Man” who sits on His glorious throne in verse 31 is handed over to be crucified in the very next sentence of the Gospel. **What does this juxtaposition say about the Judge?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Go back to the list in verses 35-36 and remember what happened to Jesus over the next three days. **Which items on that list did He go through Himself?** How does that change the way you hear the words “you did for Me”?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**With what word does Jesus’ last discourse in Matthew end?** Does it matter?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The judgment in this story doesn’t introduce new rules. It checks what Jesus had been talking about from the beginning: whether the love people professed had hands. The Judge doesn’t look at human misery from the height of a throne. He knows it from the inside: hunger, thirst, a foreign court, being stripped of His clothes, prison. For the wronged and the overlooked, this is good news. Their case is taken up by Someone who lay where they lie.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A List He Went Through Himself",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 19:28",
+       "przeklad": "BSB",
+       "akapity": [
+        "After this, knowing that everything had now been accomplished, and to fulfill the Scripture, Jesus said, “I am thirsty.”"
+       ]
+      },
+      {
+       "odnosnik": "Matthew 27:35",
+       "przeklad": "BSB",
+       "akapity": [
+        "When they had crucified Him, they divided up His garments by casting lots."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "On Good Friday Jesus was thirsty, naked, imprisoned, and a stranger in His own city. **Who in the passion story behaved toward Him like the sheep in the parable, and who like the goats?** Did any of them know whom they were serving or passing by?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Are the Least of These Brothers?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "There are two readings, and both have support in Matthew’s Gospel.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the first, “the least of these brothers” are Jesus’ disciples, especially those sent out with the gospel. Matthew most often uses the word “brothers” for disciples, and the “little ones” are believers in his Gospel. The nations would then be judged by how they received the King’s defenseless messengers.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 10:40-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "He who receives you receives Me, and he who receives Me receives the One who sent Me. Whoever receives a prophet because he is a prophet will receive a prophet’s reward, and whoever receives a righteous man because he is a righteous man will receive a righteous man’s reward. And if anyone gives even a cup of cold water to one of these little ones because he is My disciple, truly I tell you, he will never lose his reward.”"
+       ]
+      },
+      {
+       "odnosnik": "Matthew 12:48-50",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Jesus replied, “Who is My mother, and who are My brothers?” Pointing to His disciples, He said, “Here are My mother and My brothers. For whoever does the will of My Father in heaven is My brother and sister and mother.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the second reading, the least brother is every person in need. The surprise of the sheep speaks for this: in chapter 10 a disciple is received “because he is My disciple,” that is, knowing whose he is, but here no one knows whom they are serving. In verse 45 the word “brothers” disappears altogether, and only “the least of these” remain.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in the text supports the first reading, and what supports the second?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both readings agree on one thing: the King identifies with the weak, not with the strong, and neither reading allows us to pass by a person in need. **Does choosing between them change anything about what we are to do tomorrow?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Judgment by Works and Salvation by Grace",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 2:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast. For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the judgment scene no criterion is mentioned other than acts of mercy, and the verdict ties itself to them with the word “For.” Paul writes that salvation is not by works. These texts are often set against each other.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Look for traces of grace in the judgment scene itself.** Notice the words “blessed by My Father,” “inherit,” “prepared for you from the foundation of the world,” and the fact that the righteous can’t point to a single merit of their own.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In one breath Paul says “not by works” and “created in Christ Jesus to do good works.” **What is the difference between a deed that is the root of salvation and a deed that is its fruit?** On which side of that difference do the sheep stand?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Eternal Punishment",
+   "elementy": [
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this is only a short introduction. The full study of the topic is in the material “Will God Punish Me? Judgment and Hell.” If the group wants to go deeper, suggest that meeting.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Verse 46 sets “eternal punishment” beside “eternal life.” Christians read it in two ways. According to the first, since the life lasts without end, the conscious suffering of the lost also lasts without end, because both expressions have the same adjective. According to the second, the punishment is eternal in its result, not as an ongoing process: the lost truly perish, forever, and the opposite of eternal life is death from which there is no return. This is how Adventists read this verse.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jude 7",
+       "przeklad": "BSB",
+       "akapity": [
+        "In like manner, Sodom and Gomorrah and the cities around them, who indulged in sexual immorality and pursued strange flesh, are on display as an example of those who sustain the punishment of eternal fire."
+       ]
+      },
+      {
+       "odnosnik": "2 Thessalonians 1:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "They will suffer the penalty of eternal destruction, separated from the presence of the Lord and the glory of His might,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jude calls the fate of Sodom “eternal fire,” and Paul speaks of “eternal destruction.” **Is Sodom still burning today? So what can the word “eternal” mean when it goes with a word for punishment or destruction?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both positions agree that the outcome is final, that it is just, and that God did not want it for anyone, because the fire was prepared for the devil, not for human beings. **How does each of these readings affect the picture of God a person lives with every day?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Those on the left say that if they had seen the King, they would have served Him. **Who is easiest to overlook in your ordinary week: at home, at work, in your building or on your street, at church?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sheep helped and forgot. **What happens to a good deed that a person remembers, counts, or tells others about?** How can you do good so that your own left hand doesn’t know about it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **have you ever been on the other side of this list, hungry, sick, a stranger, or cut off from people, and someone came?** What did it mean to you?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sheep didn’t know they were serving the King. Having read this text, we now know. **Can you feed the hungry in order to end up on the right side, and is that still what Jesus is talking about? With this knowledge, how can you keep the sheep’s not-knowing?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t resolve this with a formula. It is worth letting one observation be made: the sheep weren’t looking at the reward or at themselves. They were looking at a person who was hungry. It may be that the only way to their not-knowing is to look where they looked.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "At the judgment, what no one ever wrote down will come to light, and the Judge will be the One who was Himself hungry, naked, and in prison.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Matthew 25:40.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Over the next few days, pay attention to one person you usually pass by. **Don’t plan to help right away. First, see them.** Ask yourself why they have been invisible to you until now.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If this text stirs fear in you, tell God so plainly. Then stay with verse 34 and ask: **do I believe this kingdom was prepared for me too, before I had done anything?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** do one thing from the list in verses 35-36 in such a way that no one finds out about it, including this group. If you catch yourself wanting to tell someone, take a look at that desire.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“This text scares me. I’ll never know whether I’ve done enough.”** Take it seriously, and don’t talk it away. Notice together with this person that the question “Have I done enough?” is the question of someone who is counting, and the sheep weren’t counting. Read verse 34 again: blessed by My Father, inherit, prepared from the foundation of the world. Also point out who is judging: the One who two days later gave His life for these very people. If fear of judgment has followed someone since childhood and robs them of peace, that is a conversation for later, in private, not at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts listing whom they have helped, or the group starts competing over merits.** Interrupt gently with a question for everyone: “In this scene, what can the sheep list?” Don’t shame the person who started. They usually do it out of insecurity, not pride.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Let’s do a charity project as a group so we don’t end up on the left side.”** The idea of helping is good; the motive isn’t. Don’t squash the initiative, but separate it from the meeting: “Let’s talk about that after prayer. For now, let’s stay with the question of whom I don’t see.” Don’t let the meeting end with handing out assignments.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So salvation is by works after all.”** Don’t get into a denominational argument. There may be Catholics and Protestants at the table, and both traditions take this text seriously. Go back to the text: the kingdom is inherited, it was prepared beforehand, and the righteous can’t point to a single merit. If you are leading level 1, you can read Ephesians 2:8-10 from level 3 and ask what is the root and what is the fruit.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about people who have never heard of Jesus?”** The text speaks of “all the nations” and of people who didn’t know they were serving the King. It says no more than that, so don’t fill it in. No one at the table decides the fate of particular people. There is separate material on this: “Is Jesus the Only Way?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**An argument about hell and eternal torment.** Don’t settle it at level 1. Say that Christians read verse 46 in two ways, that there is a separate meeting on it, and go back to the question of what the Judge asks about in this scene. Don’t let anyone ridicule other people’s convictions.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table is in need today: sick, out of work, a stranger in the country, with a loved one in prison.** Don’t make them an illustration, and don’t organize help for them in front of everyone. For them this text sounds different: the King is on their side and calls them His brother. If they speak about it themselves, thank them. Talk with them about practical help after the meeting, discreetly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts into politics: refugees, welfare, the prison system.** Interrupt. The text speaks in the second person about what I did with the person on my path. It doesn’t say how my neighbor should vote.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Shorten block 2. Blocks 3 and 4 must both be covered, because the whole story rests on two identical questions. Block 5 needs at least five minutes; otherwise the meeting will end on the fire and not on the Judge.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“This text scares me. I’ll never know whether I’ve done enough.”",
+     "odpowiedz": "Take it seriously, and don’t talk it away. Notice together with this person that the question “Have I done enough?” is the question of someone who is counting, and the sheep weren’t counting. Read verse 34 again: blessed by My Father, inherit, prepared from the foundation of the world. Also point out who is judging: the One who two days later gave His life for these very people. If fear of judgment has followed someone since childhood and robs them of peace, that is a conversation for later, in private, not at the table."
+    },
+    {
+     "sytuacja": "Someone starts listing whom they have helped, or the group starts competing over merits.",
+     "odpowiedz": "Interrupt gently with a question for everyone: “In this scene, what can the sheep list?” Don’t shame the person who started. They usually do it out of insecurity, not pride."
+    },
+    {
+     "sytuacja": "“Let’s do a charity project as a group so we don’t end up on the left side.”",
+     "odpowiedz": "The idea of helping is good; the motive isn’t. Don’t squash the initiative, but separate it from the meeting: “Let’s talk about that after prayer. For now, let’s stay with the question of whom I don’t see.” Don’t let the meeting end with handing out assignments."
+    },
+    {
+     "sytuacja": "“So salvation is by works after all.”",
+     "odpowiedz": "Don’t get into a denominational argument. There may be Catholics and Protestants at the table, and both traditions take this text seriously. Go back to the text: the kingdom is inherited, it was prepared beforehand, and the righteous can’t point to a single merit. If you are leading level 1, you can read Ephesians 2:8-10 from level 3 and ask what is the root and what is the fruit."
+    },
+    {
+     "sytuacja": "“What about people who have never heard of Jesus?”",
+     "odpowiedz": "The text speaks of “all the nations” and of people who didn’t know they were serving the King. It says no more than that, so don’t fill it in. No one at the table decides the fate of particular people. There is separate material on this: “Is Jesus the Only Way?”"
+    },
+    {
+     "sytuacja": "An argument about hell and eternal torment.",
+     "odpowiedz": "Don’t settle it at level 1. Say that Christians read verse 46 in two ways, that there is a separate meeting on it, and go back to the question of what the Judge asks about in this scene. Don’t let anyone ridicule other people’s convictions."
+    },
+    {
+     "sytuacja": "Someone at the table is in need today: sick, out of work, a stranger in the country, with a loved one in prison.",
+     "odpowiedz": "Don’t make them an illustration, and don’t organize help for them in front of everyone. For them this text sounds different: the King is on their side and calls them His brother. If they speak about it themselves, thank them. Talk with them about practical help after the meeting, discreetly."
+    },
+    {
+     "sytuacja": "The conversation drifts into politics: refugees, welfare, the prison system.",
+     "odpowiedz": "Interrupt. The text speaks in the second person about what I did with the person on my path. It doesn’t say how my neighbor should vote."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Shorten block 2. Blocks 3 and 4 must both be covered, because the whole story rests on two identical questions. Block 5 needs at least five minutes; otherwise the meeting will end on the fire and not on the Judge."
+    }
+   ]
+  }
+ ]
+}

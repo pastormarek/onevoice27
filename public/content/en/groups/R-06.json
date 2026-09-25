@@ -1,0 +1,859 @@
+{
+ "tytul": "Parents and Children",
+ "id": "R-06",
+ "seria": "Relationships",
+ "opis": "How faith passes from generation to generation, and why it can be neither forced nor handed off to someone else.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Deuteronomy 6:4-9; Deuteronomy 6:20-25; 1 Samuel 2:12, 22-24; 3:11-13; Ephesians 6:1-4; Colossians 3:20-21; Luke 2:41-52",
+  "p2": "Psalm 78:4-7; 2 Timothy 1:2-5; Acts 16:1; Exodus 12:26-27; Judges 2:10; 1 Samuel 8:1-3; Ezekiel 18:20; Mark 10:13-16; Psalm 103:13-14; Luke 15:20; Isaiah 49:15-16",
+  "p3": "Proverbs 22:6"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 29,
+  "p3": 33
+ },
+ "tagi": [
+  "relationships",
+  "family",
+  "parenting",
+  "passing on faith",
+  "generations"
+ ],
+ "wersja": 1,
+ "zdanie": "You can’t hand faith to a child. You can live it in front of them, answer their questions, and remember that they have another Father too.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not a parenting course. It is about how faith passes from generation to generation, and why it can be neither forced nor handed off to someone else. The Bible shows two ways a parent can fail: Eli’s abdication, and the harshness Paul warns against. It also shows a home where no one did anything wrong, and the parents still didn’t understand their own child. Everyone at the table is someone’s child, so this meeting is for everyone, not only for parents.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Almost certainly there is a parent at the table whose adult child has left the faith or the church. That parent hears every sentence about raising children as an indictment. Read the first red flag before you start.",
+      "Someone may have been raised in a home where the Bible was used as a club, literally or figuratively. For them, the words “discipline” and “obedience” taste of harm.",
+      "There are people who have no children though they wanted them, and people who have lost a child.",
+      "Parents of young children love to give each other advice and to judge other people’s methods. That kills the conversation.",
+      "In section 3, the reading deliberately stops before verse 25, which contains a hard sentence about the LORD intending to put Eli’s sons to death. If someone reads it, say briefly that the text describes people who had rejected every warning for years, and go back to Eli."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone about their children. Don’t hold up any family as an example. Don’t let anyone comment on how someone else raised their children. Don’t promise anyone that their child will come back, and don’t suggest that the child left because of the parents.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of one thing from the home you grew up in: a habit, a saying, a way of spending a certain day. Something you still do today, or something you decided never to repeat. Say it in one sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, briefly. The question is about the home you grew up in, so everyone can answer. Don’t comment on the answers, including the bitter ones.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "At Home and Along the Road",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 6:4-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Hear, O Israel: The LORD our God, the LORD is One. And you shall love the LORD your God with all your heart and with all your soul and with all your strength. These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up. Tie them as reminders on your hands and bind them on your foreheads. Write them on the doorposts of your houses and on your gates."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Notice the order. First the words are to be “upon your hearts,” and only then are you to teach them to your children. **Why does this order matter? What happens when someone tries to reverse it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses lists four situations: at home, along the road, at bedtime, on waking. **What does that say about where a child learns faith? What isn’t on this list?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The first word is “Hear,” and it is addressed to adults. **What does a child learn about God by watching an adult who is listening himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Devout Jews recited this text morning and evening, including in the time of Jesus, who called it the first commandment. It is worth seeing what isn’t in it: no school, no temple, no priest. Faith passes on here at the table, on the road, and at the bedside, in the ordinary conversations of an ordinary day. And you can’t pass on what you don’t have. The commandment begins with the adult’s heart, not with the child’s behavior.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "To the Next Generation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 78:4-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "We will not hide them from their children, but will declare to the next generation the praises of the LORD and His might, and the wonders He has performed. For He established a testimony in Jacob and appointed a law in Israel, which He commanded our fathers to teach to their children, that the coming generation would know them—even children yet to be born—to arise and tell their own children that they should put their confidence in God, not forgetting His works, but keeping His commandments."
+       ]
+      },
+      {
+       "odnosnik": "2 Timothy 1:2-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord. I thank God, whom I serve with a clear conscience as did my forefathers, as I constantly remember you night and day in my prayers. Recalling your tears, I long to see you so that I may be filled with joy. I am reminded of your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and I am convinced is in you as well."
+       ]
+      },
+      {
+       "odnosnik": "Acts 16:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm says “We will not hide them,” in the plural. The next generation is the concern of the whole people. **What role toward children and young people in the church does someone have who has no children of their own?** Look at what Paul, who had no family, calls Timothy.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Timothy’s faith came through his grandmother and his mother, and his father didn’t share it. **What does this story say to someone who is raising a child in the faith alone, or against the rest of the family?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The BSB has “teach them diligently.” The Hebrew verb `shanan` literally means “to sharpen,” the way you sharpen a knife: with many short strokes, not one hard one. The rest of the sentence shows what this looks like in practice. These aren’t lessons, but conversations woven into the day.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is sharpening different from hammering something in?** What does this picture mean for someone who would like to pass faith on to a child in one big, serious conversation?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "When Your Son Asks",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 6:20-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the future, when your son asks, “What is the meaning of the decrees and statutes and ordinances that the LORD our God has commanded you?” then you are to tell him, “We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand. Before our eyes the LORD inflicted great and devastating signs and wonders on Egypt, on Pharaoh, and on all his household. But He brought us out from there to lead us in and give us the land that He had sworn to our fathers. And the LORD commanded us to observe all these statutes and to fear the LORD our God, that we may always be prosperous and preserved, as we are to this day. And if we are careful to observe every one of these commandments before the LORD our God, as He has commanded us, then that will be our righteousness.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The son asks about the statutes. The father doesn’t answer “because that’s how it is” or “because God said so.” **Where does he begin his answer? Why there?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look at the son’s words: the statutes the LORD has commanded “you.” The father answers: “We were,” “us.” **What happens between those two pronouns?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text assumes that the child will ask, and it treats that question as something good. **How were questions about faith received in the homes you grew up in? What happens to questions that aren’t allowed to be asked?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Moses tells the father to answer a question about the statutes with the story of liberation. First comes what God has done for us, then what we do for Him. A rule cut off from that story becomes, for a child, a burden with no reason behind it. It is also worth noticing that the father says “We were slaves,” though he himself may have been born in the wilderness. He tells the people’s story as his own. A child doesn’t inherit a rulebook, but a story they can write themselves into.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Generation That Did Not Know",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 12:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "When your children ask you, ‘What does this service mean to you?’ you are to reply, ‘It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites in Egypt when He struck down the Egyptians and spared our homes.’” Then the people bowed down and worshiped."
+       ]
+      },
+      {
+       "odnosnik": "Judges 2:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "After that whole generation had also been gathered to their fathers, another generation rose up who did not know the LORD or the works that He had done for Israel."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Passover was designed so that a child at the table would have to ask. **What in our life with God is visible enough, and different enough, that a child might ask about it?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The generation after Joshua “did not know the LORD or the works that He had done.” One generation was all it took. **How is knowing the rules of a religion different from knowing God and what He has done?** Which is easier to pass on?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "He Spoke, but Did Not Restrain Them",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 2:12, 22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the sons of Eli were wicked men; they had no regard for the LORD … Now Eli was very old, and he heard about everything his sons were doing to all Israel and how they were sleeping with the women who served at the entrance to the Tent of Meeting. “Why are you doing these things?” Eli said to his sons. “I hear about your wicked deeds from all these people. No, my sons; it is not a good report I hear circulating among the LORD’s people."
+       ]
+      },
+      {
+       "odnosnik": "1 Samuel 3:11-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Samuel, “I am about to do something in Israel at which the ears of all who hear it will tingle. On that day I will carry out against Eli everything I have spoken about his family, from beginning to end. I told him that I would judge his house forever for the iniquity of which he knows, because his sons blasphemed God and he did not restrain them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Eli talked with his sons, and yet God says he did not restrain them. **What was missing from his words?** Read them again: what is Eli worried about?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Eli’s sons grew up in the sanctuary, next to the altar, and the text says they “had no regard for the LORD” (the KJV: “they knew not the LORD”). **How is it possible to grow up so close to holy things and not know God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Eli was not only a father but also the priest at Shiloh, his sons’ superior, and they were harming the people who came to the sanctuary. **Whom did Eli protect, and whom did he leave unprotected?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Eli’s sons are grown priests, not children. They take meat from the sacrifices by force and sleep with the women serving at the Tent. Eli is their superior and could remove them from the altar. He settles for a reprimand in which he is mostly worried about what people are saying. God doesn’t blame him for having bad sons. He blames him because he knew and did not stop the harm, though he had the authority to do so.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Samuel’s Sons",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 8:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Samuel grew old, he appointed his sons as judges over Israel. The name of his firstborn son was Joel, and the name of his second was Abijah. They were judges in Beersheba. But his sons did not walk in his ways; they turned aside toward dishonest gain, accepting bribes and perverting justice."
+       ]
+      },
+      {
+       "odnosnik": "Ezekiel 18:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Samuel grew up in Eli’s house and saw up close how that ended. He was faithful to God his whole life. His sons did not walk in his ways. **What does this story say about the limits of what a parent can do?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ezekiel says a father will not bear the iniquity of his son, and a son will not bear the iniquity of his father. **What does this sentence lift off the parent of an adult child? And what does it lift off the adult child of difficult parents?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Promise or Observation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 22:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Train up a child in the way he should go, and when he is old he will not depart from it."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This saying is sometimes read as a guarantee: if you raise a child well, the child will stay with God. Many parents draw the opposite conclusion from it: since my child has left, I must have raised them badly. Yet much of the book of Proverbs makes no promises; it describes how things usually go. It says, for example, that the diligent grow rich, and we all know hardworking people who are poor. The Bible itself also shows faithful parents whose children chose differently: Samuel, and above all God, whose first children left the garden.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does this saying change if we read it as a wise observation rather than a contract with God?** What does a parent gain, and what does a parent lose, when they stop treating it as a guarantee?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this is the most important section for a parent whose child has left. Don’t soften the meaning of the proverb, though. Upbringing matters and usually leaves a lasting mark. But it is not a mechanism, and a child is not a product.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Do Not Provoke",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 6:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Children, obey your parents in the Lord, for this is right. “Honor your father and mother” (which is the first commandment with a promise), “that it may go well with you and that you may have a long life on the earth.” Fathers, do not provoke your children to wrath; instead, bring them up in the discipline and instruction of the Lord."
+       ]
+      },
+      {
+       "odnosnik": "Colossians 3:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Children, obey your parents in everything, for this is pleasing to the Lord. Fathers, do not provoke your children, so they will not become discouraged."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In both letters, right after the sentence to children, Paul adds a warning for fathers. **What does he warn against? Why did he think it needed to be said to those who hold the power at home?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“So they will not become discouraged.” **What does a child look like, even a grown one, who has become discouraged? What in a home, even a very devout one, can lead to that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Eli was too soft, and Paul warns against harshness. **How can I tell which way I tend to lean?** Does that depend on how I was raised?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Paul’s world a father had almost unlimited power over his household, and the family instructions of the day spoke only of the household members’ duties toward him. Paul addresses the children directly, as people who are listening to the letter along with the adults, and he sets a limit for the father. The words “in the Lord” are a limit too. A child’s obedience does not include consenting to evil or to harm. A parent is not God to a child. A parent is meant to lead the child to God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Like a Father",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 10:13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now people were bringing the little children to Jesus for Him to place His hands on them, and the disciples rebuked those who brought them. But when Jesus saw this, He was indignant and told them, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these. Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.” And He took the children in His arms, placed His hands on them, and blessed them."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 103:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "As a father has compassion on his children, so the LORD has compassion on those who fear Him. For He knows our frame; He is mindful that we are dust."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is one of the few places where the Gospels say Jesus was indignant. **At whom, and about what? What might adults do today that stands in the way of children coming to Jesus?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm explains God through the picture of a father who has compassion because he remembers what his child is made of. **What happens to the picture of God for someone who didn’t have a father like that? Where can such a person find a different picture?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Do not provoke … to wrath” is the Greek `parorgizo`. A noun from the same root stands in Ephesians 4:26, in the sentence about not letting the sun set upon your anger. So Paul knows that the home is the first place where a person learns anger. The second word is more interesting. “Bring them up” is `ektrepho`, the same verb Paul used a dozen or so sentences earlier when he wrote that no one ever hated his own body, but “nourishes” it. For Paul, bringing up a child means first of all feeding them.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Why Were You Looking for Me?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 2:41-52",
+       "przeklad": "BSB",
+       "akapity": [
+        "Every year His parents went to Jerusalem for the Feast of the Passover. And when He was twelve years old, they went up according to the custom of the Feast. When those days were over and they were returning home, the boy Jesus remained behind in Jerusalem, but His parents were unaware He had stayed. Assuming He was in their company, they traveled on for a day before they began to look for Him among their relatives and friends. When they could not find Him, they returned to Jerusalem to search for Him. Finally, after three days they found Him in the temple courts, sitting among the teachers, listening to them and asking them questions. And all who heard Him were astounded at His understanding and His answers. When His parents saw Him, they were astonished. “Child, why have You done this to us?” His mother asked. “Your father and I have been anxiously searching for You.” “Why were you looking for Me?” He asked. “Did you not know that I had to be in My Father’s house?” But they did not understand the statement He was making to them. Then He went down to Nazareth with them and was obedient to them. But His mother treasured up all these things in her heart. And Jesus grew in wisdom and stature, and in favor with God and man."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "No one sinned in this story, and yet it contains fear, reproach, and misunderstanding. **What does that say about the tensions between parents and a growing child? Does each of them mean someone did something wrong?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Mary says, “Your father and I.” Jesus answers about “My Father’s house.” **What is the twelve-year-old teaching His parents with that sentence? To whom does a child belong first?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Luke writes that His parents didn’t understand, and that Mary “treasured up all these things in her heart.” **What can a parent do with what they don’t understand in their child?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The same boy who says, “I had to be in My Father’s house,” goes back to Nazareth and is obedient to His parents. **How do these two things fit together in one person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "These are the first words of Jesus recorded in the Gospels, and they are a question. Parents who had heard an angel and shepherds don’t understand their own son twelve years later. Luke doesn’t smooth this over. What he does show is that they were the ones who took Him to Jerusalem every year, and it was right there, where they themselves had brought Him, that the boy found something of His own. That is what the goal of raising a child in faith looks like: the child begins to speak of God as “my Father,” and not only as “my parents’ God.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "When a Child Is Far Away",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 49:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you! Behold, I have inscribed you on the palms of My hands; your walls are ever before Me."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The father in the parable saw his son “while he was still in the distance.” **What does that say about what he was doing the whole time his son was gone? What was he not doing?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God compares Himself to a mother who does not forget. **What does it mean for a parent that their child has another Parent, who sees farther and loves longer?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In the sentence “I had to be,” the Greek has `dei`, “it is necessary.” Luke will use this word throughout his Gospel whenever Jesus speaks of His path: I must preach, I must go to Jerusalem, the Son of Man must suffer many things. The first time it is spoken, it comes from the mouth of a twelve-year-old, in the temple, in front of His parents.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A child may have a path from God that the parents didn’t choose and don’t understand. **How do you tell a child who is going astray from a child who is following something I can’t see?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses tells us to answer questions with a story of what God has done. **What story about God could you tell as your own if a child, a grandchild, or a young person from church asked you why you believe?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What did you bring from the home you grew up in that still shapes your picture of God today, for better or for worse?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something in your relationship with your own parents or your own children that you would like to hand over to God today, because you can’t carry it yourself?** You don’t have to say what.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question with No Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God holds Eli responsible for his grown sons. Ezekiel says a father will not bear the iniquity of his son. **Where does a parent’s responsibility for an adult child end? What are they responsible for, and what not anymore?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t wrap this up in one sentence. An observation from the text helps: Eli isn’t held responsible for his sons’ choices, but for letting them harm people when he had authority over the sanctuary. Samuel’s sons also went wrong, and God blames him for nothing of the kind.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "You can’t hand faith to a child. You can live it in front of them, answer their questions, and remember that they have another Father too.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Deuteronomy 6:6-7 or Isaiah 49:15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Moses begins with the words “These words … are to be upon your hearts.” Ask yourself honestly: **what in my faith is really mine, and what am I just repeating after my parents, or doing in reaction against them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of one person younger than you: a child, a grandchild, a godchild, someone from church. Ask God: **what does this person see when they look at my life with You?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you carry resentment toward your parents or guilt toward your own child, name it before God in one sentence, without excusing yourself and without accusing anyone. Stay with Ezekiel’s words: each person answers for themselves.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**A parent says, “My child has left God. Where did I go wrong?”** This is the most important moment of the meeting. Don’t analyze their parenting, and don’t let the group do it. Don’t promise that the child will come back, because you don’t know that. Say what the text says: Samuel was faithful, and his sons chose differently. Ezekiel says each person answers for themselves. The father in the parable didn’t chase his son to the far country; he kept watching for him. God has not forgotten this child. If the parent really does have something to reproach themselves for, that is a private conversation, and it usually begins with apologizing to the child, not with lecturing them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The Bible says, ‘He who spares the rod hates his son.’”** Don’t get into an argument about methods. Calmly say three things. In the Bible the rod is also a shepherd’s tool, used to guide and to protect, and the proverb is about not leaving a child without correction, which was Eli’s mistake. When Paul writes to fathers, he says nothing about hitting; he warns against provoking children to anger and discouraging them. And in many countries the law forbids physical punishment of children. The group is not a place for defending hitting children.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about abuse in the home they grew up in, including abuse justified with the Bible.** Listen, say thank you, don’t defend the parents, and don’t tell them to forgive right away. You can say that Paul sets a limit for fathers precisely because this kind of harm is real. If the wound is deep, suggest a conversation after the meeting and encourage them to seek help from a counselor or therapist.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone hints that a child around them is being harmed now.** This cannot stay at the table. Talk after the meeting, don’t carry it alone, and don’t try to handle it within the church. Point them to a child crisis line or child protection services in your country, and in immediate danger, your local emergency number. Protecting the child comes before the good name of the family and the church. That is exactly Eli’s lesson.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A person without children goes quiet or says, “This isn’t for me.”** Remind the group that everyone at the table is someone’s child, and that Psalm 78 says “we will” about the whole people. Paul had no family and called Timothy his son. Don’t ask about the reasons for childlessness. Unfulfilled parenthood has its own meeting in the Crises and Turning Points series.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Parents of young children start swapping advice or judging other people’s methods.** Interrupt with a smile: “That’s a topic for coffee after the meeting.” Go back to the question from the text. Parenting tips turn a Bible study into a counseling session, and they silence the parents for whom something didn’t work out.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Children have to obey in everything; that’s what it says.”** Point to the words “in the Lord” in Ephesians 6:1, and to the twelve-year-old Jesus, who was obedient to His parents and at the same time knew that He belonged first to His Father. A child’s obedience never includes consenting to harm or to sin.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time for the material.** Combine sections 1 and 2, asking one key question from each. Sections 3, 4, and 5 carry the meeting: the two ways a parent can fail, and the home where no one did anything wrong.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "A parent says, “My child has left God. Where did I go wrong?”",
+     "odpowiedz": "This is the most important moment of the meeting. Don’t analyze their parenting, and don’t let the group do it. Don’t promise that the child will come back, because you don’t know that. Say what the text says: Samuel was faithful, and his sons chose differently. Ezekiel says each person answers for themselves. The father in the parable didn’t chase his son to the far country; he kept watching for him. God has not forgotten this child. If the parent really does have something to reproach themselves for, that is a private conversation, and it usually begins with apologizing to the child, not with lecturing them."
+    },
+    {
+     "sytuacja": "“The Bible says, ‘He who spares the rod hates his son.’”",
+     "odpowiedz": "Don’t get into an argument about methods. Calmly say three things. In the Bible the rod is also a shepherd’s tool, used to guide and to protect, and the proverb is about not leaving a child without correction, which was Eli’s mistake. When Paul writes to fathers, he says nothing about hitting; he warns against provoking children to anger and discouraging them. And in many countries the law forbids physical punishment of children. The group is not a place for defending hitting children."
+    },
+    {
+     "sytuacja": "Someone talks about abuse in the home they grew up in, including abuse justified with the Bible.",
+     "odpowiedz": "Listen, say thank you, don’t defend the parents, and don’t tell them to forgive right away. You can say that Paul sets a limit for fathers precisely because this kind of harm is real. If the wound is deep, suggest a conversation after the meeting and encourage them to seek help from a counselor or therapist."
+    },
+    {
+     "sytuacja": "Someone hints that a child around them is being harmed now.",
+     "odpowiedz": "This cannot stay at the table. Talk after the meeting, don’t carry it alone, and don’t try to handle it within the church. Point them to a child crisis line or child protection services in your country, and in immediate danger, your local emergency number. Protecting the child comes before the good name of the family and the church. That is exactly Eli’s lesson."
+    },
+    {
+     "sytuacja": "A person without children goes quiet or says, “This isn’t for me.”",
+     "odpowiedz": "Remind the group that everyone at the table is someone’s child, and that Psalm 78 says “we will” about the whole people. Paul had no family and called Timothy his son. Don’t ask about the reasons for childlessness. Unfulfilled parenthood has its own meeting in the Crises and Turning Points series."
+    },
+    {
+     "sytuacja": "Parents of young children start swapping advice or judging other people’s methods.",
+     "odpowiedz": "Interrupt with a smile: “That’s a topic for coffee after the meeting.” Go back to the question from the text. Parenting tips turn a Bible study into a counseling session, and they silence the parents for whom something didn’t work out."
+    },
+    {
+     "sytuacja": "“Children have to obey in everything; that’s what it says.”",
+     "odpowiedz": "Point to the words “in the Lord” in Ephesians 6:1, and to the twelve-year-old Jesus, who was obedient to His parents and at the same time knew that He belonged first to His Father. A child’s obedience never includes consenting to harm or to sin."
+    },
+    {
+     "sytuacja": "You’re running out of time for the material.",
+     "odpowiedz": "Combine sections 1 and 2, asking one key question from each. Sections 3, 4, and 5 carry the meeting: the two ways a parent can fail, and the home where no one did anything wrong."
+    }
+   ]
+  }
+ ]
+}

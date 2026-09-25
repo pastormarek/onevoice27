@@ -1,0 +1,889 @@
+{
+ "tytul": "A Difficult Person",
+ "id": "R-10",
+ "seria": "Relationships",
+ "opis": "How not to become like a difficult person when you’re around one. David, Saul, and a knife in a cave.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Samuel 24:3-7; 1 Samuel 24:8-12, 15; 1 Samuel 24:16-19, 22; 1 Samuel 25:2-3, 10-13, 32-33; Luke 6:27-36",
+  "p2": "1 Samuel 18:10-11; 19:10; Psalm 57:1-3; 1 Samuel 26:21-25; 27:1; 1 Samuel 25:14-17; Proverbs 26:4-5; Proverbs 25:21-22; Romans 12:14-16; 1 Peter 2:21-23",
+  "p3": "Matthew 5:43; Leviticus 19:17-18; John 18:19-23; Luke 4:28-30"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 31,
+  "p3": 35
+ },
+ "tagi": [
+  "relationships",
+  "enemy",
+  "revenge",
+  "boundaries",
+  "David",
+  "loving your enemies"
+ ],
+ "wersja": 1,
+ "zdanie": "A difficult person can take a lot from me. They don’t get to decide who I will be around them.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t about how to change a difficult person. It’s about how not to become like them. In the cave David has a knife and an opportunity. He doesn’t use the knife; he speaks the truth out loud, leaves judgment to God, and goes his own way. Each of these four moves matters, and the fourth is the easiest to miss: David doesn’t go back to Saul’s court. One chapter later the same David nearly wipes out an entire household over a single insult, so nobody here is a flawless hero.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meetings: Anger, Forgiveness, Reconciliation. You don’t need to have done any of them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be living with a person who is abusive. To them, the words “love your enemies” can sound like an order to stay and put up with it. The text doesn’t say that. Read the first red flag before the meeting.",
+      "Everyone has their own difficult person, and some in the group may share the same one, for example someone from church. Talking about people who aren’t there turns the meeting into gossip.",
+      "Someone at the table is a difficult person for someone else at the same table. You don’t know who, and don’t try to guess."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t let anyone give names or recognizable details. Don’t advise anyone what to do about their relationship. Don’t tell anyone they should just endure it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of the person around whom it’s hardest for you to be yourself. No name and no description. Say, in one word, who you become around them.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one word. If someone starts telling a story, gently interrupt and ask for just the word.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Knife and an Opportunity",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Saul is king. David had been his musician, his commander, and his son-in-law, and for a long time now he has been on the run in the wilderness, because the king, out of jealousy, has decided to kill him. Saul sets out after him with three thousand men.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 24:3-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Soon Saul came to the sheepfolds along the road, where there was a cave, and he went in to relieve himself. And David and his men were hiding in the recesses of the cave. So David’s men said to him, “This is the day about which the LORD said to you, ‘Behold, I will deliver your enemy into your hand, that you may do with him as you wish.’” Then David crept up secretly and cut off a corner of Saul’s robe. Afterward, David’s conscience was stricken because he had cut off the corner of Saul’s robe. So he said to his men, “The LORD forbid that I should do such a thing to my master, the LORD’s anointed. May I never lift my hand against him, since he is the LORD’s anointed.” With these words David restrained his men, and he did not let them rise up against Saul. Then Saul left the cave and went on his way."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "David’s men tell him that God Himself has given him this opportunity. **What is their argument, and why is it so convincing?** What is godly about it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "David didn’t kill anyone; he only cut off a piece of a robe, and still his conscience was stricken. **What did he actually do with that one cut?** What did he want that piece of cloth for?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "David has to hold back not only himself but also his men. **What role do the people on our side play in our conflicts?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "David doesn’t say that Saul doesn’t deserve it, or that Saul is a good man deep down. He gives one reason and repeats it twice: this man belongs to the Lord. He doesn’t build on Saul’s character, because nothing could be built on that. He builds on whom Saul belongs to and who has the right to judge him. That distinction will come back throughout the meeting: I can have a low opinion of someone and still not lift my hand against them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Spear",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Before David ended up in the wilderness, he lived at court and played the harp for the king.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 18:10-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "The next day a spirit of distress sent from God came upon Saul, and he prophesied inside the house while David played the harp as usual. Now Saul was holding a spear, and he hurled it, thinking, “I will pin David to the wall.” But David eluded him twice."
+       ]
+      },
+      {
+       "odnosnik": "1 Samuel 19:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Saul tried to pin him to the wall with his spear. But the spear struck the wall and David eluded him, ran away, and escaped that night."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The spear is stuck in the wall. David could have pulled it out and thrown it back. **What two things did he do instead?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David doesn’t strike back, and he doesn’t stay in a room where spears are flying. **Why is it so easy for us to assume there are only two options: hit back or put up with it?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Psalm from the Cave",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 57:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Have mercy on me, O God, have mercy, for in You my soul takes refuge. In the shadow of Your wings I will take shelter until the danger has passed. I cry out to God Most High, to God who fulfills His purpose for me. He reaches down from heaven and saves me; He rebukes those who trample me. Selah God sends forth His loving devotion and His truth."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm’s heading connects it with the cave: David wrote it “when he fled from Saul into the cave.” **Whom does David tell about the one who tramples him, and how does that change the way he later talks to that person?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Truth Spoken Out Loud",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 24:8-12, 15",
+       "przeklad": "BSB",
+       "akapity": [
+        "After that, David got up, went out of the cave, and called out to Saul, “My lord the king!” When Saul looked behind him, David bowed facedown in reverence and said to Saul, “Why do you listen to the words of men who say, ‘Look, David intends to harm you’? Behold, this day you have seen with your own eyes that the LORD delivered you into my hand in the cave. I was told to kill you, but I spared you and said, ‘I will not lift my hand against my lord, since he is the LORD’s anointed.’ See, my father, look at the corner of your robe in my hand. For I cut it off, but I did not kill you. See and know that there is no evil or rebellion in my hands. I have not sinned against you, even though you are hunting me down to take my life. May the LORD judge between you and me, and may the LORD take vengeance on you, but my hand will never be against you. … May the LORD be our judge and decide between you and me. May He take notice and plead my case and deliver me from your hand.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "David spared Saul, but he doesn’t stay silent. **List what he says to him directly.** What is missing from this speech that could have been there?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“May the LORD judge between you and me.” David doesn’t say there was no wrong, and he doesn’t say the matter is closed. **So what is he actually doing with the wrong done to him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bowing facedown, “My lord the king!”, “my father,” and in the same breath “you are hunting me down to take my life.” **How does David manage to combine respect with calling evil by its name?** Which of the two is harder for you?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "David comes out of the cave only after Saul has already left it and gone on his way. He calls after him from a distance. He speaks the truth from a place where he can speak it. He also holds evidence in his hand. He doesn’t ask Saul to take his word for it; he shows him the piece of the robe. With a man who listens to rumors and fills in the rest himself, David talks in facts.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Saul’s Tears",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 24:16-19, 22",
+       "przeklad": "BSB",
+       "akapity": [
+        "When David had finished saying these things, Saul called back, “Is that your voice, David my son?” Then Saul wept aloud and said to David, “You are more righteous than I, for you have rewarded me with good, though I have rewarded you with evil. And you have shown this day how well you have dealt with me; for when the LORD delivered me into your hand, you did not kill me. When a man finds his enemy, does he let him go away unharmed? May the LORD reward you with good for what you have done for me this day. … So David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul weeps, admits his guilt, and blesses David. **Read the last sentence carefully. Where does Saul go, and where does David go?** Why don’t they go back together?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul’s tears seem sincere. **What is the difference between being moved and being changed?** How could David tell one from the other?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "David gives Saul his oath that he won’t wipe out his family. **What does David give in this scene, and what doesn’t he give?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Second Cave",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Two chapters later it all happens again. Saul is hunting David once more, David has him in his power once more, this time asleep, and once more he spares him. He takes only his spear.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 26:21-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Saul replied, “I have sinned. Come back, David my son. I will never harm you again, because today you considered my life precious. I have played the fool and have committed a grave error!” “Here is the king’s spear,” David answered. “Let one of the young men come over and get it. May the LORD repay every man for his righteousness and faithfulness. For the LORD delivered you into my hand today, but I would not stretch out my hand against the LORD’s anointed. As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble.” Saul said to him, “May you be blessed, David my son. You will accomplish great things and will surely prevail.” So David went on his way, and Saul returned home."
+       ]
+      },
+      {
+       "odnosnik": "1 Samuel 27:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "David, however, said to himself, “One of these days now I will be swept away by the hand of Saul. There is nothing better for me than to escape to the land of the Philistines. Then Saul will stop searching for me all over Israel, and I will slip out of his hand.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul says it plainly: “Come back… I will never harm you again.” **How does David respond to that invitation?** Notice what is missing from his answer.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David returns the spear through a messenger and doesn’t come over himself. **Is that a lack of forgiveness, a lack of faith, or something else?** What would you call it?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David spared Saul twice and never once trusted him. **What does this story say about the difference between giving up revenge and entrusting your safety to someone?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Nabal",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Between the first cave and the second, the Bible inserts another story. For months, David and his men had guarded someone else’s flocks in the wilderness. On sheep-shearing day David asks the owner for some provisions.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 25:2-3, 10-13, 32-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now there was a man in Maon whose business was in Carmel. He was a very wealthy man with a thousand goats and three thousand sheep, which he was shearing in Carmel. His name was Nabal, and his wife’s name was Abigail. She was an intelligent and beautiful woman, but her husband, a Calebite, was harsh and evil in his dealings. … But Nabal asked them, “Who is David? Who is this son of Jesse? Many servants these days are breaking away from their masters. Why should I take my bread and water and the meat I have slaughtered for my shearers, and give them to these men whose origin I do not know?” So David’s men turned around and went back, and they relayed to him all these words. And David said to his men, “Strap on your swords!” So David and all his men put on their swords, and about four hundred men followed David, while two hundred stayed with the supplies. … Then David said to Abigail, “Blessed be the LORD, the God of Israel, who sent you to meet me this day! Blessed is your discernment, and blessed are you, because today you kept me from bloodshed and from avenging myself by my own hand."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "In the part that was skipped, Abigail, Nabal’s wife, goes out to meet David with food without her husband knowing, and persuades him to turn back.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The same David who wouldn’t touch a king who was out to take his life now sets out with four hundred men to wipe out the household of a boor who insulted him. **Why the difference?** Why can an insult hurt more than a threat?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the cave David held himself back. Here someone else had to stop him. **What does that say about us, and about whom we need close by when someone wounds us?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "David says Abigail kept him “from avenging myself by my own hand.” **How does that phrase connect this scene with the cave?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The name Nabal means “fool” in Hebrew, and his wife says as much about him, outright. The narrator doesn’t hide that this man really is unbearable. The story doesn’t ask us to pretend that difficult people are nice deep down. It shows something else: the greatest danger to David that day wasn’t Nabal, but who David would have become by morning if no one had stood in his way.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nobody Can Speak to Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 25:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, one of Nabal’s young men informed Nabal’s wife Abigail, “Look, David sent messengers from the wilderness to greet our master, but he scolded them. Yet these men were very good to us. When we were in the field, we were not harassed, and nothing of ours went missing the whole time we lived among them. They were a wall around us, both day and night, the whole time we were herding our sheep near them. Now consider carefully what you must do, because disaster looms over our master and all his household. For he is such a scoundrel that nobody can speak to him!”"
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 26:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not answer a fool according to his folly, or you yourself will be like him. Answer a fool according to his folly, lest he become wise in his own eyes."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The young man doesn’t take this matter to Nabal. **Why not?** Does the Bible recognize that there are people you can’t talk to at a given moment?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Book of Proverbs puts two pieces of advice side by side that contradict each other. **Why did the editor keep both?** How can you tell which one fits today’s situation?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abigail lives with a difficult person every day. **What does she do, and what doesn’t she do?** Notice that she acts behind his back, and in doing so she saves him too.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Like the Father",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 6:27-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "But to those of you who will listen, I say: Love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you. If someone strikes you on one cheek, turn to him the other also. And if someone takes your cloak, do not withhold your tunic as well. Give to everyone who asks you, and if anyone takes what is yours, do not demand it back. Do to others as you would have them do to you. If you love those who love you, what credit is that to you? Even sinners love those who love them. If you do good to those who do good to you, what credit is that to you? Even sinners do the same. And if you lend to those from whom you expect repayment, what credit is that to you? Even sinners lend to sinners, expecting to be repaid in full. But love your enemies, do good to them, and lend to them, expecting nothing in return. Then your reward will be great, and you will be sons of the Most High; for He is kind to the ungrateful and wicked. Be merciful, just as your Father is merciful."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verses 27 and 28 Jesus describes love for enemies with four verbs. **List them. Which of them are feelings, and which are actions?** What does that mean for someone who simply doesn’t like their difficult person?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus gives one reason: God is kind to the ungrateful and wicked. **Why does He ground it in the Father’s character, and not in the idea that the enemy will change as a result?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Go back to the cave. **Which of these sayings did David live out a thousand years before they were spoken, and what was missing from his behavior?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Even sinners do the same.” **What would your week look like if you took out everything you do only for people who will return the favor?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "None of Jesus’ four verbs requires the enemy to be close by. You can do good, bless, and pray from the other side of the valley too, just as David did. Nor does Jesus say that the enemy will stop being an enemy. He calls them that to the end. The love He is talking about isn’t pretending that someone is other than they are. It means they are not the one who decides what I will be like.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Food, Water, and a Blessing",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 25:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "If your enemy is hungry, give him food to eat, and if he is thirsty, give him water to drink. For in so doing, you will heap burning coals on his head, and the LORD will reward you."
+       ]
+      },
+      {
+       "odnosnik": "Romans 12:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Bless those who persecute you. Bless and do not curse. Rejoice with those who rejoice; weep with those who weep. Live in harmony with one another. Do not be proud, but enjoy the company of the lowly. Do not be conceited."
+       ]
+      },
+      {
+       "odnosnik": "1 Peter 2:21-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps: “He committed no sin, and no deceit was found in His mouth.” When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The proverb talks about food and water, that is, about very small things. **Why is a grand gesture toward a difficult person easier than a glass of water?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter writes that Jesus “entrusted Himself to Him who judges justly.” **Where have you heard something very close to that today?** What do David outside the cave and Jesus before His judges have in common?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Right after blessing persecutors, Paul writes, “Do not be conceited.” **What is that sentence doing here?** What does it protect someone from who has just acted nobly?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The image of burning coals most likely speaks of a shame that leads to a change of heart, not of some refined revenge. The proverb is about keeping peace with the neighbors, and it doesn’t go as far as Jesus. Against that background you can see what is new in Luke 6: doing good to an enemy isn’t a strategy for achieving anything. It is simply resembling the Father.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 5:43",
+       "przeklad": "BSB",
+       "akapity": [
+        "You have heard that it was said, ‘Love your neighbor’ and ‘Hate your enemy.’"
+       ]
+      },
+      {
+       "odnosnik": "Leviticus 19:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "You must not harbor hatred against your brother in your heart. Directly rebuke your neighbor, so that you will not incur guilt on account of him. Do not seek revenge or bear a grudge against any of your people, but love your neighbor as yourself. I am the LORD."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first half of the saying Jesus quotes comes from Leviticus. The second half, the one about hating your enemy, isn’t in the Old Testament. It was most likely a popular add-on, repeated so long that it began to sound like Scripture. So Jesus isn’t correcting Moses. He is removing from the commandment an addition that people had attached to it themselves.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In a single sentence, Leviticus forbids hatred and commands rebuke. **How are those two things related?** Can you honestly rebuke someone and not hold a grudge against them?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Other Cheek",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jesus talks about turning the other cheek. It’s worth seeing what He Himself did when He was struck, and what He did when people wanted to kill Him before His time.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 18:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus had said this, one of the officers standing nearby slapped Him in the face and said, “Is this how You answer the high priest?” Jesus replied, “If I said something wrong, testify as to what was wrong. But if I spoke correctly, why did you strike Me?”"
+       ]
+      },
+      {
+       "odnosnik": "Luke 4:28-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "On hearing this, all the people in the synagogue were enraged. They got up, drove Him out of the town, and led Him to the brow of the hill on which the town was built, in order to throw Him over the cliff. But Jesus passed through the crowd and went on His way."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some read the words about the cheek as a rule: a Christian never defends himself, against anyone. Others read them as a picture of breaking with retaliation: I don’t hit back, but I may ask “why did you strike Me?”, I may walk away, and I may seek protection. Both sides agree on one thing: a disciple of Jesus does not repay evil with evil. The disagreement is over whether giving up retaliation also means giving up safety.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does Jesus do in these two scenes, and what doesn’t He do?** How does that fit with His own words in Luke 6:29?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In that world, a slap on the cheek was above all an insult, not a life-threatening assault. **Does that distinction help us read Jesus’ words, or is it a convenient way out?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "if someone at the table is experiencing abuse, don’t conduct this conversation in theory. Say clearly that David fled from the spear, Jesus walked away from Nazareth, and Paul appealed to his rights as a citizen, and that seeking safety is not a lack of love.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David did four things: he didn’t use the knife, he spoke the truth, he left judgment to God, and he went his own way. **Which of the four is hardest for you with your difficult person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nabal showed that a small insult can set off more in us than a real wrong. **Who is your Abigail, someone who has the right to stand in your way before you do something you’ll regret?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what would your food and water be, one small good thing for someone you don’t like?** You don’t have to say who it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David loved Saul enough not to kill him, and knew him well enough not to go back to him. **Are there situations where the only form of love for an enemy left to us is prayer from a distance? How do you know you’re really in that situation and not just making an excuse?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. It helps if someone notices that David didn’t make this decision after one incident but after many, and that for the rest of Saul’s life he never lifted a hand against him, in word or in deed.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A difficult person can take a lot from me. They don’t get to decide who I will be around them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Luke 6:36 or 1 Samuel 24:12.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of your difficult person and ask yourself honestly: **what is my piece of the robe?** It’s the small thing I do to them or say about them behind their back and call harmless.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "David said, “May the LORD judge between you and me.” Try saying the same thing to God about a specific person, and notice what happens inside you. **Do you really want to hand over that judgment, or would you rather keep it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask God who finds you a difficult person. Don’t defend yourself right away. Stay with the first name that comes to mind.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone describes violence at home, or their words make it clear they are afraid.** Abuse is not a difficult personality, and this meeting isn’t about it. Don’t say that we have to love our enemies, and don’t let anyone in the group say it. David didn’t go back to Saul’s court, even though Saul wept and made promises. The group never advises anyone to stay in a harmful situation. Talk with the person after the meeting, don’t carry this alone, and mention professional help. Make sure they know about a domestic violence hotline or a crisis line in your country, and that if their life is in danger they should call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I’m supposed to let myself be beaten and say thank you?”** No. Point to the last sentence of block 3: Saul goes home, David goes to the stronghold. Jesus calls an enemy an enemy and doesn’t tell us to move in with them. In this story, renouncing revenge and taking care of your own safety go together.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts talking about a specific person the group knows.** Interrupt right away, calmly: “Let’s stay with ourselves, not with people who aren’t here.” If needed, remind the group that David talked about Saul to Saul and to God, not to the camp.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Some people are just bad, and there’s no point getting sentimental about them.”** The text agrees that Nabal is unbearable, and says so outright. Shift the question from him to us: “What did Nabal nearly turn David into in a single afternoon?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t have any enemies.”** Maybe so. Gently ask about the people we avoid, the people we fall silent around, or the ones we’re relieved won’t be there today. Jesus also talks about the ungrateful, not just enemies.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says, “God will punish him, you’ll see,” with obvious satisfaction.** Don’t shut it down, but ask further: “David left judgment to God and swore to protect Saul’s family. How can I tell whether I’ve handed judgment over or I’m just waiting for the show?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after the question about their own piece of the robe.** That’s good. Count to ten in your head. This question doesn’t need an answer out loud.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Skip block 4. Blocks 1, 3, and 5 carry the whole meeting: don’t use the knife, don’t go back to court, be like the Father.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone describes violence at home, or their words make it clear they are afraid.",
+     "odpowiedz": "Abuse is not a difficult personality, and this meeting isn’t about it. Don’t say that we have to love our enemies, and don’t let anyone in the group say it. David didn’t go back to Saul’s court, even though Saul wept and made promises. The group never advises anyone to stay in a harmful situation. Talk with the person after the meeting, don’t carry this alone, and mention professional help. Make sure they know about a domestic violence hotline or a crisis line in your country, and that if their life is in danger they should call your local emergency number."
+    },
+    {
+     "sytuacja": "“So I’m supposed to let myself be beaten and say thank you?”",
+     "odpowiedz": "No. Point to the last sentence of block 3: Saul goes home, David goes to the stronghold. Jesus calls an enemy an enemy and doesn’t tell us to move in with them. In this story, renouncing revenge and taking care of your own safety go together."
+    },
+    {
+     "sytuacja": "Someone starts talking about a specific person the group knows.",
+     "odpowiedz": "Interrupt right away, calmly: “Let’s stay with ourselves, not with people who aren’t here.” If needed, remind the group that David talked about Saul to Saul and to God, not to the camp."
+    },
+    {
+     "sytuacja": "“Some people are just bad, and there’s no point getting sentimental about them.”",
+     "odpowiedz": "The text agrees that Nabal is unbearable, and says so outright. Shift the question from him to us: “What did Nabal nearly turn David into in a single afternoon?”"
+    },
+    {
+     "sytuacja": "“I don’t have any enemies.”",
+     "odpowiedz": "Maybe so. Gently ask about the people we avoid, the people we fall silent around, or the ones we’re relieved won’t be there today. Jesus also talks about the ungrateful, not just enemies."
+    },
+    {
+     "sytuacja": "Someone says, “God will punish him, you’ll see,” with obvious satisfaction.",
+     "odpowiedz": "Don’t shut it down, but ask further: “David left judgment to God and swore to protect Saul’s family. How can I tell whether I’ve handed judgment over or I’m just waiting for the show?”"
+    },
+    {
+     "sytuacja": "The group falls silent after the question about their own piece of the robe.",
+     "odpowiedz": "That’s good. Count to ten in your head. This question doesn’t need an answer out loud."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Skip block 4. Blocks 1, 3, and 5 carry the whole meeting: don’t use the knife, don’t go back to court, be like the Father."
+    }
+   ]
+  }
+ ]
+}

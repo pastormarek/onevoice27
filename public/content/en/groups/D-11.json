@@ -1,0 +1,885 @@
+{
+ "tytul": "Daniel 10-11. War Behind the Scenes",
+ "id": "D-11",
+ "seria": "The Book of Daniel",
+ "opis": "Three weeks of silence after a prayer, and an angel who tells what was going on behind the scenes all that time.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 10:1-9; 10:10-14; 10:15-19; 10:20-21; 11:1-4; 11:31-35",
+  "p2": "Ezra 1:1-3; 4:1-5; Revelation 1:13-17; Isaiah 6:5-7; Matthew 24:15-16; Daniel 11:44-45",
+  "p3": "Daniel 9:23; Jude 9; 1 Thessalonians 4:16; Revelation 12:7-9"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 33
+ },
+ "tagi": [
+  "Daniel",
+  "prayer",
+  "angels",
+  "history",
+  "perseverance",
+  "prophecy"
+ ],
+ "wersja": 1,
+ "zdanie": "Silence after prayer doesn’t mean nothing is happening. It only means I can’t see behind the scenes.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Chapters 10-12 are a single vision, Daniel’s last. Today you read its beginning: an old man fasts for three weeks and gets no answer, and then he hears that he was heard on the first day. Between the first day and the twenty-first something was happening, just not where he could see it. This meeting is not a lecture about angels. It’s about the fact that history has a backstage, that God forces no one in it, and that in the middle of this war someone says to a worn-out man: “Do not be afraid, you who are highly precious.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Chapter 11 is the longest and hardest prophecy in the book. At Level 1 you read only its beginning and five verses from the middle. A detailed interpretation of chapter 11 divides even commentators of the same school who read by the same method. The material deliberately leaves it unresolved, and so can you. The center of the meeting is Daniel 11:32: the people who know their God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table has been praying for months or years without seeing an answer. For them, block 2 is not theory. Don’t promise them that the answer is on its way. The text is about Daniel; it doesn’t issue guarantees.",
+      "The topic of angels and demons attracts stories about apparitions, dreams and “spiritual warfare” over cities. Keep going back to the text: Daniel doesn’t fight, doesn’t cast out, doesn’t command. Daniel prays.",
+      "Chapter 11 tempts people to point to modern nations and leaders. Don’t go there, and don’t let the group go there.",
+      "Someone may know one interpretation of chapter 11 and consider it the only one. Say calmly that believers who read this book by the same method differ from one another here."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t build a doctrine of angels on a single verse. Don’t explain to anyone why their prayer is still waiting. Don’t draw a chart of the kings of the North and the South.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time you waited for news that was a long time coming: a test result, a decision, a letter, a phone call. In one sentence, say what you did with the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "By the Tigris",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 10:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict. And the understanding of the message was given to him in a vision. In those days I, Daniel, was mourning for three full weeks. I ate no rich food, no meat or wine entered my mouth, and I did not anoint myself with oil until the three weeks were completed. On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris, I lifted up my eyes, and behold, there was a certain man dressed in linen, with a belt of fine gold from Uphaz around his waist. His body was like beryl, his face like the brilliance of lightning, his eyes like flaming torches, his arms and legs like the gleam of polished bronze, and his voice like the sound of a multitude. Only I, Daniel, saw the vision; the men with me did not see it, but a great terror fell upon them, and they ran and hid themselves. So I was left alone, gazing at this great vision. No strength remained in me; my face grew deathly pale, and I was powerless. I heard the sound of his words, and as I listened, I fell into a deep sleep, with my face to the ground."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "It’s the third year of Cyrus. Two years earlier the exiles were given permission to return, yet Daniel is in mourning. **What could have happened to make a man who lived to see the promise fulfilled fast and weep?** What does the text not tell us about it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel has already seen beasts, horns and a throne of fire, and he always stayed on his feet. **What is different about this encounter that he collapses?** List from the text what he sees and what he hears.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The people with him see nothing, yet they run away. **What does that say about how God’s presence affects a person who doesn’t understand it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The first month is the month of Passover. Daniel fasts through the feast of the exodus from slavery, in the year when the first exiles are already in Jerusalem. He himself did not go back. Nearly seventy years have passed since he was deported, so he is well over eighty. The book began with a teenager who refused the king’s meat and wine. It ends with an old man who again won’t let them touch his lips, this time out of grief.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** At the beginning of the last vision. Chapter 10 is the introduction, chapter 11 is the content, and chapter 12 is the conclusion of the vision and of the whole book. After the visions of chapters 7, 8 and 9, this is the fourth and longest look at the same road: from Daniel’s day to the end. Each one is more detailed than the last, and each ends the same way, with God stepping in.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Two years earlier Cyrus had allowed the Jews to return and rebuild the temple. Only a minority went back. Trouble started right away: the neighbors discouraged the builders and paid officials at the Persian court to halt the work. Daniel, a high official of that same court, must have known about it.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezra 1:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows: “This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. Whoever among you belongs to His people, may his God be with him, and may he go to Jerusalem in Judah and build the house of the LORD, the God of Israel; He is the God who is in Jerusalem."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“The LORD stirred the spirit of Cyrus.” **How does God influence the most powerful man in the world here?** How is that different from coercion?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Someone Like",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 1:13-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "and among the lampstands was One like the Son of Man, dressed in a long robe, with a golden sash around His chest. The hair of His head was white like wool, as white as snow, and His eyes were like a blazing fire. His feet were like polished bronze refined in a furnace, and His voice was like the roar of many waters. He held in His right hand seven stars, and a sharp double-edged sword came from His mouth. His face was like the sun shining at its brightest. When I saw Him, I fell at His feet like a dead man. But He placed His right hand on me and said, “Do not be afraid. I am the First and the Last,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Put the description from the Tigris next to the description from the island of Patmos. **What repeats?** List the details of his appearance, the human reaction, and what happens right after.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John says plainly whom he saw. Daniel doesn’t. **What changes in how you read chapter 10 if you suppose that the same Someone stood by the river?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "From the First Day",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 10:10-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Suddenly, a hand touched me and set me trembling on my hands and knees. He said to me, “Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you.” And when he had said this to me, I stood up trembling. “Do not be afraid, Daniel,” he said, “for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them. However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia. Now I have come to explain to you what will happen to your people in the latter days, for the vision concerns those days.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count the days. Daniel fasted for three weeks; the messenger was held up for twenty-one days. **What was happening during that time from Daniel’s point of view, and what from the messenger’s?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Your words were heard, and I have come in response to them.” **How much weight does this chapter give to the prayer of one old man by a river?** What would have changed in this scene if Daniel had stopped praying on the tenth day?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The first words spoken to the man lying on the ground are not an explanation but “you are a man who is highly precious” and “Do not be afraid.” **Why that order?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The messenger doesn’t say he was fighting for territory. He had been “left there with the kings of Persia,” where decisions about the fate of the rebuilding were being made. The book of Ezra tells the same story from the ground: bribed officials, discouraged builders. Daniel 10 pulls back the curtain and shows that the king’s decisions are being contended for from two sides. No one can force them. God does not coerce a person, and He doesn’t let anyone else coerce him either. That is why it takes time.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Thing, Seen from the Ground",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezra 4:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel, they approached Zerubbabel and the heads of the families, saying, “Let us build with you because, like you, we seek your God and have been sacrificing to Him since the time of King Esar-haddon of Assyria, who brought us here.” But Zerubbabel, Jeshua, and the other heads of the families of Israel replied, “You have no part with us in building a house for our God, since we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.” Then the people of the land set out to discourage the people of Judah and make them afraid to build. They hired counselors against them to frustrate their plans throughout the reign of Cyrus king of Persia and down to the reign of Darius king of Persia."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ezra sees bribes and intrigue. Daniel hears about the prince of the kingdom of Persia. **Are these two different stories, or one story told from two floors?** What do we gain by reading them together?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Even so, construction came to a halt for well over a decade. **What does that say about what Daniel’s prayer did not accomplish?** And what did it accomplish anyway?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Three Touches",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 10:15-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "While he was speaking these words to me, I set my face toward the ground and became speechless. And suddenly one with the likeness of a man touched my lips, and I opened my mouth and said to the one standing before me, “My lord, because of the vision, I am overcome with anguish, and I have no strength. How can I, your servant, speak with you, my lord? Now I have no strength, nor is any breath left in me.” Again the one with the likeness of a man touched me and strengthened me. “Do not be afraid, you who are highly precious,” he said. “Peace be with you! Be strong now; be very strong!” As he spoke with me, I was strengthened and said, “Speak, my lord, for you have strengthened me.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In this chapter Daniel is touched three times: in verses 10, 16 and 18. **What does each touch give back to him?** Put them in order.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before Daniel hears a single word about the future, he is given strength, a voice and peace. **What does that order say about what matters to God first?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Be strong now; be very strong!” is said to a man who survived the lions’ den. **Why does he, of all people, need to hear it, and why now?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Touched Lips",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 6:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I said: “Woe is me, for I am ruined, because I am a man of unclean lips dwelling among a people of unclean lips; for my eyes have seen the King, the LORD of Hosts.” Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken with tongs from the altar. And with it he touched my mouth and said: “Now that this has touched your lips, your iniquity is removed and your sin is atoned for.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah and Daniel both fall silent before God, and both get their voice back through a touch. **What do these two scenes have in common, and how are they different?** What does Isaiah lament, and what does Daniel?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The phrase “highly precious” appears three times in the book: in chapter 9 and twice here. The Hebrew `chamudot` is a noun used elsewhere for precious things, valuables, what people long for. Literally it comes out as “man of treasures,” someone very precious. The same word appears once more in this chapter, in verse 3, where the BSB renders it “rich food.” Daniel denied himself what was precious, and heard that he himself was precious.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 9:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Heaven doesn’t call Daniel faithful, wise or deserving, only precious. **What changes in prayer when you know that on the other side you are someone precious, not someone filing a request?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Kings Come and Go",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 10:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Do you know why I have come to you?” he said. “I must return at once to fight against the prince of Persia, and when I have gone forth, behold, the prince of Greece will come. But first I will tell you what is inscribed in the Book of Truth. Yet no one has the courage to support me against these, except Michael your prince."
+       ]
+      },
+      {
+       "odnosnik": "Daniel 11:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "“And I, in the first year of Darius the Mede, stood up to strengthen and protect him. Now then, I will tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all the others. By the power of his wealth, he will stir up everyone against the kingdom of Greece. Then a mighty king will arise, who will rule with great authority and do as he pleases. But as soon as he is established, his kingdom will be broken up and parceled out toward the four winds of heaven. It will not go to his descendants, nor will it have the authority with which he ruled, because his kingdom will be uprooted and given to others."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count how many times in these four verses of chapter 11 someone rises or arises, and look at what follows right after. **What picture of human power does this rhythm paint?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Of the mighty king it is said that he will “do as he pleases.” One sentence later his kingdom is broken up, and not even his children get it. **What does “doing as you please” mean in a world where there is a “Book of Truth”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The messenger stands beside kings, strengthens them, contends for their decisions, and history is still full of wars. **How do we reconcile God being present where power is with what power does?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The text itself names Persia and Greece, just as in chapter 8. A mighty king whose realm breaks into four parts and doesn’t pass to his descendants is such a clear picture that almost all readers see Alexander the Great in it. He died at thirty-two, and his generals divided the empire among themselves. From verse 5 on, the agreement ends.",
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Verses 5-30 describe a long series of wars between the king of the North and the king of the South, with alliances, betrayals and dynastic marriages, and between them lies “the Beautiful Land,” the land of God’s people.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The People Who Know Their God",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 11:31-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "His forces will rise up and desecrate the temple fortress. They will abolish the daily sacrifice and set up the abomination of desolation. With flattery he will corrupt those who violate the covenant, but the people who know their God will firmly resist him. Those with insight will instruct many, though for a time they will fall by sword or flame, or be captured or plundered. Now when they fall, they will be granted a little help, but many will join them insincerely. Some of the wise will fall, so that they may be refined, purified, and made spotless until the time of the end, for it will still come at the appointed time."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Two things are said about the faithful at once: they “will firmly resist him,” and they “will fall by sword or flame.” **What does strength look like when it doesn’t mean rescue?** Where else in this book do we see it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text doesn’t say “those who know about God,” but “the people who know their God.” **Judging by the whole book of Daniel, how can you recognize a person who knows their God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The enemy has two tools here: an army and flattery. **Which one does the text connect with abandoning the covenant?** Why is flattery sometimes more effective than the sword?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The wise in this passage don’t take up arms. What they do is teach: “Those with insight will instruct many.” The text promises them not great help but “a little help,” and warns that some of them will fall. Here falling is not the end but a refining. The same word for “the wise” returns in the next chapter, in the sentence about those who will shine like the stars.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jesus Reads Daniel",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 24:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "So when you see standing in the holy place ‘the abomination of desolation,’ described by the prophet Daniel (let the reader understand), then let those who are in Judea flee to the mountains."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks of “the abomination of desolation” as something His listeners have yet to see. **What does that say about how He Himself read this passage of Daniel?** Did He consider it a closed chapter of the past?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Let the reader understand.” **What is Jesus urging the reader of Daniel to do: calculate, stay alert, something else?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The End of the King of the North",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 11:44-45",
+       "przeklad": "BSB",
+       "akapity": [
+        "But news from the east and the north will alarm him, and he will go out with great fury to destroy many and devote them to destruction. He will pitch his royal tents between the sea and the beautiful holy mountain, but he will meet his end with no one to help him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The longest prophecy in the book, forty-five verses of wars, ends with the words “with no one to help him.” **Compare that with what Daniel heard about help in chapter 10.** Who in this book has help, and who is left without it?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Chapter 11 breaks off mid-thought: the next words are “At that time Michael … will rise up.” **After so many kings who “arise,” what do you expect from this one?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is Michael?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Michael appears in the Bible five times: three times in Daniel, once in the letter of Jude, and once in Revelation.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jude 9",
+       "przeklad": "BSB",
+       "akapity": [
+        "But even the archangel Michael, when he disputed with the devil over the body of Moses, did not presume to bring a slanderous charge against him, but said, “The Lord rebuke you!”"
+       ]
+      },
+      {
+       "odnosnik": "1 Thessalonians 4:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 12:7-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then a war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back. But the dragon was not strong enough, and no longer was any place found in heaven for him and his angels. And the great dragon was hurled down—that ancient serpent called the devil and Satan, the deceiver of the whole world. He was hurled to the earth, and his angels with him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Christians read this in two ways. The first, and the most common: Michael is the highest of the angels, a created commander of the heavenly armies, the guardian of Israel. In its favor are the title “one of the chief princes” and the fact that in Jude, Michael leaves judgment to the Lord. The second, long present among some Protestants and held by Adventists: Michael is a name under which Christ Himself appears as the commander of the angels, not one of them. In its favor are the meaning of the name, “who is like God?”; the title “your prince” alongside “the Prince of princes” in chapter 8 and “the Messiah, the Prince” in chapter 9; the voice of the archangel with which the Lord raises the dead; and the fact that in Daniel 12:1 Michael’s rising up coincides with the resurrection. In this reading the word “archangel” means “the one who commands the angels” and does not imply that the commander is himself a created being.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both readings share what is certain in the text: God’s people are not alone in this war, and the One who takes their side wins. Neither reading makes Christ a created being.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these readings better explains the sentence in Daniel 12:1, and which the sentence in Jude 9?** What would change in your prayer if “your prince” had the face of Jesus?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is Chapter 11 About?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Verse 31 speaks of desecrating the temple, abolishing the daily sacrifice, and the abomination of desolation. Here readers part ways.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading sees Antiochus IV Epiphanes here. In 167 BC this Syrian king forbade the Jews to keep the Sabbath, observe the food laws, and circumcise their sons; he ordered the scrolls of Scripture destroyed and dedicated the temple to Zeus. The fit with the text is close, and many commentators end the whole chapter there.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second, historicist reading notes that Jesus, two hundred years after Antiochus, spoke of the abomination of desolation as something still to come, and that the vision is meant to reach “the latter days” and ends with the resurrection. So it reads the chapter as a continuation of chapters 7 and 8: after Greece, Rome; after Rome, a religious power that reaches for the sword and for people’s consciences. In this reading Antiochus is a pattern that history repeats on a larger scale. But note: commentators of this school, working by the same method, disagree among themselves about the verse of chapter 11 where Rome enters the stage and the verse where its religious successor does. There are at least three different outlines.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The third, futurist reading moves the end of the chapter to a single future ruler just before the end of the world.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "All three read verses 32-35 the same way: whenever power reaches for people’s consciences, some let themselves be bought with flattery, while others know their God, teach, fall, and are refined. That was true under Antiochus, it was true through the centuries of persecution, and it doesn’t need the dispute settled in order to apply to us.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Commentators who agree on the method disagree on the result. **What does that say about how to hold your own interpretation of a difficult prophecy?** What should you hold firmly, and what loosely?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Sabbath, food and circumcision were three things by which a Jew could be recognized in 167 BC. **Why does a power that wants to break faith strike first at what shows up on the calendar, at the table and in the family?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where are you right now between the first day and the twenty-first?** What are you praying about without seeing anything move?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel couldn’t see what was going on behind the scenes. All he could do was keep doing what he was doing. **What in your situation corresponds to his three weeks?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **which of the three touches do you need most today: the one that lifts you off the ground, the one that gives back your voice, or the one that gives strength?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The answer went out on the first day and arrived on the twenty-first, because someone opposed it. **If God is almighty, why does He allow His messenger to be held up? What does it say about God that He would rather spend three weeks persuading a king than break him in an instant? And would we want a God who breaks people?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. It is worth, though, for someone to notice that the same restraint that delayed Daniel’s answer also protects the freedom of everyone in the room.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Silence after prayer doesn’t mean nothing is happening. It only means I can’t see behind the scenes.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 10:12 or Daniel 11:32b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a prayer you’ve been praying for a long time, or one you’ve already given up on. Ask yourself: **what did I take as a “no,” when it might only have been the twelfth day?** Don’t jump to conclusions. Stay with the question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The messenger told Daniel who he was to heaven before telling him anything about the future. Stand before God and try to hear these words addressed to you: “Do not be afraid, you who are highly precious.” **Notice what in you resists them.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** the text says flattery leads people astray more effectively than the sword. Ask God **whose approval you need so much that it could buy you.**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“I’ve been praying about this for years. Does that mean my angel got stuck somewhere too?”** Don’t confirm it and don’t deny it. This chapter tells one story; it doesn’t give a key to all of them. You can say: “I don’t know what’s happening with your prayer. I know what this text says about Daniel: that he was heard from the first day, though nothing pointed to it.” If the person is shaken, stay with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about spiritual warfare over a city, territorial demons, binding powers.** Go back to the text: what does Daniel do in this chapter? He fasts, prays, listens. He gives no orders to any spirit, and he isn’t given any such task. The battle is real, but Someone else is fighting it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So who is this king of the North? Russia? The pope? Islam?”** The material doesn’t point to any modern nation, leader or community, and the group shouldn’t either. Say that a detailed interpretation of chapter 11 divides even people of the same school, and go back to verse 32, which holds under every interpretation. This is a standing rule for the whole series: no political updates and no calculating dates.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone delivers the one correct interpretation of chapter 11, verse by verse.** Thank them and say it’s one of several outlines, and that Level 3 has a separate block about it. Don’t get into a debate at the table. Ask: “And what from this interpretation is left for Monday morning?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Michael is Jesus? I’ve never heard that. Isn’t that a Jehovah’s Witness teaching?”** The difference is fundamental, and it’s worth naming calmly: in the reading described at Level 3, Michael is a name of Christ, who is God, not evidence that Christ is a created angel. Add that most Christians see Michael as an angel, and that this question doesn’t settle anyone’s faith.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks whether Daniel’s fast is a model: “So do we have to fast for God to hear us?”** The text says Daniel was heard on the first day, not the twenty-first. The fast was not a payment. It was the mourning of a man who cared.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after the question about their own twenty-one days.** That’s fine. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Keep block 4, but just read it aloud, without the questions. Blocks 2 and 5 carry the whole meeting: “from the first day” and “the people who know their God.”",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“I’ve been praying about this for years. Does that mean my angel got stuck somewhere too?”",
+     "odpowiedz": "Don’t confirm it and don’t deny it. This chapter tells one story; it doesn’t give a key to all of them. You can say: “I don’t know what’s happening with your prayer. I know what this text says about Daniel: that he was heard from the first day, though nothing pointed to it.” If the person is shaken, stay with them after the meeting."
+    },
+    {
+     "sytuacja": "Someone talks about spiritual warfare over a city, territorial demons, binding powers.",
+     "odpowiedz": "Go back to the text: what does Daniel do in this chapter? He fasts, prays, listens. He gives no orders to any spirit, and he isn’t given any such task. The battle is real, but Someone else is fighting it."
+    },
+    {
+     "sytuacja": "“So who is this king of the North? Russia? The pope? Islam?”",
+     "odpowiedz": "The material doesn’t point to any modern nation, leader or community, and the group shouldn’t either. Say that a detailed interpretation of chapter 11 divides even people of the same school, and go back to verse 32, which holds under every interpretation. This is a standing rule for the whole series: no political updates and no calculating dates."
+    },
+    {
+     "sytuacja": "Someone delivers the one correct interpretation of chapter 11, verse by verse.",
+     "odpowiedz": "Thank them and say it’s one of several outlines, and that Level 3 has a separate block about it. Don’t get into a debate at the table. Ask: “And what from this interpretation is left for Monday morning?”"
+    },
+    {
+     "sytuacja": "“Michael is Jesus? I’ve never heard that. Isn’t that a Jehovah’s Witness teaching?”",
+     "odpowiedz": "The difference is fundamental, and it’s worth naming calmly: in the reading described at Level 3, Michael is a name of Christ, who is God, not evidence that Christ is a created angel. Add that most Christians see Michael as an angel, and that this question doesn’t settle anyone’s faith."
+    },
+    {
+     "sytuacja": "Someone asks whether Daniel’s fast is a model: “So do we have to fast for God to hear us?”",
+     "odpowiedz": "The text says Daniel was heard on the first day, not the twenty-first. The fast was not a payment. It was the mourning of a man who cared."
+    },
+    {
+     "sytuacja": "The group is silent after the question about their own twenty-one days.",
+     "odpowiedz": "That’s fine. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Keep block 4, but just read it aloud, without the questions. Blocks 2 and 5 carry the whole meeting: “from the first day” and “the people who know their God.”"
+    }
+   ]
+  }
+ ]
+}

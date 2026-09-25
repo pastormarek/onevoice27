@@ -1,0 +1,554 @@
+{
+ "tytul": "Gratitude",
+ "id": "E-12",
+ "seria": "Emotions",
+ "opis": "Gratitude is born of memory. Why we forget God not when times are hard, but when times are good.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 17:11-19; Psalm 103:1-5; Deuteronomy 8:10-14, 17-18; Colossians 3:15-17; 1 Thessalonians 5:16-18",
+  "p2": "Psalm 107:1-2, 8-9; Luke 22:19",
+  "p3": "1 Thessalonians 5:18"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 22,
+  "p3": 23
+ },
+ "tagi": [
+  "emotions",
+  "memory",
+  "thanksgiving",
+  "humility"
+ ],
+ "wersja": 1,
+ "zdanie": "Ingratitude is rarely ill will. Most often it is forgetfulness, and we forget fastest when things are going well.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In the Bible, gratitude is closely tied to memory, and ingratitude to forgetting. This is not a topic about having a positive attitude or appreciating the little things. The strong point is Deuteronomy 8: a warning that people forget not in poverty, but in prosperity.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be going through a very hard time right now. The words “give thanks in every circumstance” can sound cruel. Lead section five carefully.",
+      "Listing reasons to be grateful on command turns this meeting into a school exercise. Don’t go around the circle asking “What are you grateful for?”",
+      "Don’t tie gratitude to guilt, as in “others have it worse.”"
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t suggest that a lack of gratitude is the sin of a person in crisis. Don’t tell anyone to give thanks for suffering, because the text doesn’t say that.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Tell us about one thing someone did for you long ago that you only thought about years later.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, briefly.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Where Are the Nine?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 17:11-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "While Jesus was on His way to Jerusalem, He was passing between Samaria and Galilee. As He entered one of the villages, He was met by ten lepers. They stood at a distance and raised their voices, shouting, “Jesus, Master, have mercy on us!” When Jesus saw them, He said, “Go, show yourselves to the priests.” And as they were on their way, they were cleansed. When one of them saw that he was healed, he came back, praising God in a loud voice. He fell facedown at Jesus’ feet in thanksgiving to Him—and he was a Samaritan. “Were not all ten cleansed?” Jesus asked. “Where then are the other nine? Was no one found except this foreigner to return and give glory to God?” Then Jesus said to him, “Rise and go; your faith has made you well!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "All ten were cleansed, and all of them obeyed Jesus’ instruction. **So what were the nine missing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus asks, “Where then are the other nine?” **Is He asking Himself or someone else? What does the question express?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To the one He says, “your faith has made you well,” even though he had already been healed. **What did the one who came back receive that the others did not?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text stresses that he was a Samaritan, a foreigner. **Why include that detail?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The nine did nothing wrong. They did exactly what Jesus told them: they went to the priests. No one accuses them of disobedience. The lack of gratitude here is not a broken rule; it is simply something that was missing. It is also worth seeing that coming back cost something: that man had to turn around on the road back to his own life, which was just opening up before him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Do Not Forget",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 103:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Bless the LORD, O my soul; all that is within me, bless His holy name. Bless the LORD, O my soul, and do not forget all His kind deeds— He who forgives all your iniquities and heals all your diseases, who redeems your life from the Pit and crowns you with loving devotion and compassion, who satisfies you with good things, so that your youth is renewed like the eagle’s."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalmist speaks to his own soul in the imperative. **Why do you have to command yourself to bless and not to forget?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 2 assumes that forgetting is the default. **What is it about good gifts that makes them vanish from memory so easily?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Then comes a very concrete list: iniquities, diseases, rescue, loving devotion, being satisfied with good things. **Why does gratitude need a list rather than a general impression?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Let the Redeemed Say So",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 107:1-2, 8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Give thanks to the LORD, for He is good; His loving devotion endures forever. Let the redeemed of the LORD say so, whom He has redeemed from the hand of the enemy … Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men. For He satisfies the thirsty and fills the hungry with good things."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm calls on the redeemed to speak. **To whom, and why?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is gratitude spoken out loud different from gratitude that is only felt?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "When You Eat and Are Satisfied",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 8:10-14, 17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "When you eat and are satisfied, you are to bless the LORD your God for the good land that He has given you. Be careful not to forget the LORD your God by failing to keep His commandments and ordinances and statutes, which I am giving you this day. Otherwise, when you eat and are satisfied, when you build fine houses in which to dwell, and when your herds and flocks grow large and your silver and gold increase and all that you have is multiplied, then your heart will become proud, and you will forget the LORD your God who brought you out of the land of Egypt, out of the house of slavery. … You might say in your heart, “The power and strength of my hands have made this wealth for me.” But remember that it is the LORD your God who gives you the power to gain wealth, in order to confirm His covenant that He swore to your fathers even to this day."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The warning is about times of prosperity, not poverty. **Why is that exactly when people forget God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 17 gives a specific sentence they must not say: “The power and strength of my hands have made this wealth for me.” **What does that sentence cut out of the picture?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The text links forgetting with a proud heart. **How are those two things connected?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Moses says this to people who are about to enter the promised land, on the eve of the greatest prosperity in their history. He doesn’t warn them about hunger or about enemies, but about being full. Gratitude requires remembering where what I have came from, and abundance works like an anesthetic on that memory. The longer we have something, the more it looks like our own achievement.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "And Be Thankful",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 3:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let the peace of Christ rule in your hearts, for to this you were called as members of one body. And be thankful. Let the word of Christ richly dwell within you as you teach and admonish one another with all wisdom, and as you sing psalms, hymns, and spiritual songs with gratitude in your hearts to God. And whatever you do, in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through Him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul puts gratitude alongside peace and the word of Christ dwelling in people. **Why in that company?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 17 extends thanksgiving to everything we do, in word or deed. **What would that look like on an ordinary workday?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Gratitude appears here in the context of community and singing, not solitude. **What does that add?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "In Remembrance",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 22:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "And He took the bread, gave thanks and broke it, and gave it to them, saying, “This is My body, given for you; do this in remembrance of Me.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus gave thanks over the bread the night before He died. **What was He thanking God for, knowing what was about to happen?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "He establishes a rite whose very essence is remembering. **Why does gratitude need a repeated form, and not just good intentions?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Give Thanks in Every Circumstance",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Thessalonians 5:16-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Rejoice at all times. Pray without ceasing. Give thanks in every circumstance, for this is God’s will for you in Christ Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes “Give thanks in every circumstance,” not “be glad about everything.” **Does that mean we are to give thanks for harm and illness? Read carefully what it actually says.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Three commands stand together: rejoice, pray, give thanks. **What happens if we take out the middle one?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How do you give thanks in the middle of misfortune without lying? Where is the line between gratitude and pretending everything is fine?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "notice that Paul writes “in every circumstance,” that is, in every situation, and not “for every thing, as if it were good.” But don’t offer this right away; let the group get there on its own.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist had to command himself to remember. **What do you do so that you don’t forget? Do you have any method, or are you counting on memory?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Deuteronomy 8 warns that people forget in prosperity. **In which area of your life are things going best right now? Check whether that isn’t exactly where you give thanks the least.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there someone you have never thanked, and should have?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Ingratitude is rarely ill will. Most often it is forgetfulness, and we forget fastest when things are going well.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 103:2 or Deuteronomy 8:18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of something you now take for granted that was once a prayer request. **Ask yourself when you stopped noticing it.** Usually you can point to the moment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Give someone one specific thank-you they aren’t expecting. **Not a general “thanks for everything,” but thanks for something they have probably forgotten.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if there is someone who helped you and you never acknowledged it, because it was long ago or awkward, do it now.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“We have to give thanks for everything, including suffering.”** Stay with the text. Paul writes “Give thanks in every circumstance,” which means in every situation, not that every thing is good. That difference matters to someone who has just lost a child.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they have nothing to be thankful for.** Don’t try to convince them, and don’t suggest a list. Ask how long it has been this way. Follow up with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Going around the circle with “What are you grateful for?”** Don’t do it, even if someone asks. It turns gratitude into an exercise and leads to predictable answers.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Others have it worse, so we should be thankful.”** That is not gratitude but comparison, which is envy seen from the other side. Don’t pursue it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group gets sentimental.** Go back to Deuteronomy 8. That text is sharp and cools things down well.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone tells a long testimony.** Listen, but make sure it doesn’t turn into a contest. Then bring the group back to the text with a question.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“We have to give thanks for everything, including suffering.”",
+     "odpowiedz": "Stay with the text. Paul writes “Give thanks in every circumstance,” which means in every situation, not that every thing is good. That difference matters to someone who has just lost a child."
+    },
+    {
+     "sytuacja": "Someone says they have nothing to be thankful for.",
+     "odpowiedz": "Don’t try to convince them, and don’t suggest a list. Ask how long it has been this way. Follow up with them after the meeting."
+    },
+    {
+     "sytuacja": "Going around the circle with “What are you grateful for?”",
+     "odpowiedz": "Don’t do it, even if someone asks. It turns gratitude into an exercise and leads to predictable answers."
+    },
+    {
+     "sytuacja": "“Others have it worse, so we should be thankful.”",
+     "odpowiedz": "That is not gratitude but comparison, which is envy seen from the other side. Don’t pursue it."
+    },
+    {
+     "sytuacja": "The group gets sentimental.",
+     "odpowiedz": "Go back to Deuteronomy 8. That text is sharp and cools things down well."
+    },
+    {
+     "sytuacja": "Someone tells a long testimony.",
+     "odpowiedz": "Listen, but make sure it doesn’t turn into a contest. Then bring the group back to the text with a question."
+    }
+   ]
+  }
+ ]
+}

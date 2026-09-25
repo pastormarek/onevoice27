@@ -1,0 +1,860 @@
+{
+ "tytul": "Betrayal and Disappointment",
+ "id": "K-07",
+ "seria": "Crises and Turning Points",
+ "opis": "A wound inflicted by someone close, seen from both sides: the voice of the betrayed and the road Peter walked.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Psalm 55:12-14, 20-21; Psalm 55:4-8, 16-17, 22; Luke 22:31-34, 54-62; John 21:9, 12-13, 15-19; 2 Timothy 4:9-13, 16-18",
+  "p2": "Psalm 41:9; John 13:21-22; Matthew 26:47-50; Matthew 27:3-5; Acts 1:15-17; Ezekiel 34:2-6, 11-12, 15-16",
+  "p3": "Psalm 55:15, 23; 1 Peter 5:7; John 18:18"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "crisis",
+  "betrayal",
+  "trust",
+  "friendship",
+  "Church",
+  "Peter",
+  "restoration"
+ ],
+ "wersja": 1,
+ "zdanie": "God hears the betrayed person’s complaint all the way through, and for the one who failed He lights a fire. He rushes neither of them.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about a wound inflicted by someone close: a friend, a husband or wife, a family member, a pastor, a church. The Bible looks at it from two sides. First the betrayed one speaks, in a psalm, and no one silences him. Then we look at the one who failed, Peter, and at what Jesus does with him. People from both sides of this story may be sitting at the table. Some are on both sides at once.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are separate meetings on forgiveness itself and on reconciliation. Here we stay with the pain of betrayal and with the road back.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone may have just discovered a spouse’s unfaithfulness, or may have been unfaithful themselves. The whole group may know about it, or no one.",
+      "Someone may have been harmed by a minister or by a church. For them the word “Church” doesn’t sound safe, and yet here they are at a church meeting.",
+      "Groups like to get quickly to the sentence “you have to forgive.” To the wounded person that sounds like an order to stop talking.",
+      "Peter’s story is sometimes used against those who have been harmed: since Jesus restored Peter, you have to take back the person who hurt you. The text doesn’t say that.",
+      "At level 2 the death of Judas comes up. Read the red flag on suicidal thoughts beforehand."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t probe for details. Don’t judge who was at fault in someone’s story. Don’t defend the institution when someone tells how it hurt them. Don’t give marital or legal advice. The group listens and walks alongside.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a person you trust without reservation. Don’t say who it is. Say in one sentence how you came to know you could trust them.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and briefly. Don’t comment on the answers. If someone says there is no such person, acknowledge it with a nod and move on.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Not an Enemy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 55:12-14, 20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "For it is not an enemy who insults me; that I could endure. It is not a foe who rises against me; from him I could hide. But it is you, a man like myself, my companion and close friend. We shared sweet fellowship together; we walked with the crowd into the house of God. … My companion attacks his friends; he violates his covenant. His speech is smooth as butter, but war is in his heart. His words are softer than oil, yet they are swords unsheathed."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "David says he could endure an enemy and could hide from a foe. **Why is a wound from a friend different? What exactly is destroyed that an enemy couldn’t touch?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List what bound these two men together: close friend, sweet fellowship, the house of God. **What happens to good memories once it turns out who the other person really was?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "This text is a prayer, and it was sung in the temple. **What does that say about what we are allowed to bring to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the middle of a sentence the psalm stops speaking about the betrayer and starts speaking to him: “But it is you.” It is the only such place in the whole song. David gives no name and doesn’t describe what happened. Because of that, anyone can fill the empty space with their own story. Notice a detail: these two walked together into the house of God. The Bible knows that betrayal also happens between people who have prayed together.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Jesus Knows It from the Inside",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 41:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Even my close friend whom I trusted, the one who shared my bread, has lifted up his heel against me."
+       ]
+      },
+      {
+       "odnosnik": "John 13:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "After Jesus had said this, He became troubled in spirit and testified, “Truly, truly, I tell you, one of you will betray Me.” The disciples looked at one another, perplexed as to which of them He meant."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 26:47-50",
+       "przeklad": "BSB",
+       "akapity": [
+        "While Jesus was still speaking, Judas, one of the Twelve, arrived, accompanied by a large crowd armed with swords and clubs, sent from the chief priests and elders of the people. Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him.” Going directly to Jesus, he said, “Greetings, Rabbi!” and kissed Him. “Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "In that world a shared meal bound people by obligation. Betraying someone you had broken bread with weighed more than an ordinary betrayal. At the table Jesus quotes exactly Psalm 41:9.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John writes that Jesus “became troubled in spirit.” He had known about the betrayal beforehand, and it still shook Him. **What difference does that make for someone praying after their own betrayal?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sign of betrayal is a kiss, and Jesus’ answer is the word “Friend.” **How do you hear that word: as irony, as pain, as a last invitation?** What in the text supports each of these possibilities?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: May We Pray Like This?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The same psalm contains two sentences no one reads in church services.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 55:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let death seize them by surprise; let them go down to Sheol alive, for evil is with them in their homes."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 55:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "But You, O God, will bring them down to the Pit of destruction; men of bloodshed and deceit will not live out half their days. But I will trust in You."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two ways to read prayers like these. The first says: this is honesty. David doesn’t pretend before God to a gentleness he doesn’t have, and he voices all his desire for revenge in prayer instead of carrying it out. The second says: this is a prayer from before the cross, and a disciple of Jesus has before his eyes the One who prayed for those who were killing Him, so he cannot stop there. Both positions share one thing: in neither does the betrayed person take revenge into his own hands. Judgment stays with God.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What is safer for the betrayed person and for those around them: anger spoken to God in words like these, or anger that may never be spoken anywhere?** Where do you see the limit of such a prayer?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Wings and a Burden",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 55:4-8, 16-17, 22",
+       "przeklad": "WEB",
+       "akapity": [
+        "My heart is severely pained within me. The terrors of death have fallen on me. Fearfulness and trembling have come on me. Horror has overwhelmed me. I said, “Oh that I had wings like a dove! Then I would fly away, and be at rest. Behold, then I would wander far off. I would lodge in the wilderness.” Selah. “I would hurry to a shelter from the stormy wind and storm.” … As for me, I will call on God. Yahweh will save me. Evening, morning, and at noon, I will cry out in distress. He will hear my voice. … Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "David’s first impulse is to escape: wings, the wilderness, anywhere far from people. Then he does something else. **Trace in the text what he does instead of escaping, and how often.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The psalm doesn’t say “forget it” or “pull yourself together.” It says “cast.” **How is casting a burden on someone different from pretending there is no burden?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“Evening, morning, and at noon” (WEB) are the ordinary times of prayer, listed starting with evening because that is when the day began. David doesn’t settle the matter with a single prayer. He comes back with the same complaint three times a day and calls it what it is: crying out in distress. The psalm doesn’t promise that the burden will disappear. It promises that God will sustain the one who carries it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew word rendered “burden” appears in the whole Old Testament only in this one verse. It means something like “what has fallen to you,” “what has been thrown on you.” The Greek translation of the Old Testament rendered it with `merimna`, meaning care or worry. Later someone used that same word who knew betrayal from his own experience, only from the other side.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Peter 5:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Cast all your anxiety on Him, because He cares for you."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter, who himself failed a friend, reaches for a sentence from the psalm of a man failed by a friend. **What does that say about who can pray this psalm?** Is the anxiety of the one who did the hurting also a burden that can be cast on the Lord?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "I Do Not Know Him",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Now the other side. We look at the man who failed.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 22:31-34, 54-62",
+       "przeklad": "BSB",
+       "akapity": [
+        "Simon, Simon, Satan has asked to sift each of you like wheat. But I have prayed for you, Simon, that your faith will not fail. And when you have turned back, strengthen your brothers.” “Lord,” said Peter, “I am ready to go with You even to prison and to death.” But Jesus replied, “I tell you, Peter, the rooster will not crow today until you have denied three times that you know Me.” … Then they seized Jesus, led Him away, and took Him into the house of the high priest. And Peter followed at a distance. When those present had kindled a fire in the middle of the courtyard and sat down together, Peter sat down among them. A servant girl saw him seated in the firelight and looked intently at him. “This man also was with Him,” she said. But Peter denied it. “Woman, I do not know Him,” he said. A short time later, someone else saw him and said, “You also are one of them.” But Peter said, “Man, I am not.” About an hour later, another man insisted, “Certainly this man was with Him, for he too is a Galilean.” “Man, I do not know what you are talking about,” Peter replied. While he was still speaking, the rooster crowed. And the Lord turned and looked at Peter. Then Peter remembered the word that the Lord had spoken to him: “Before the rooster crows today, you will deny Me three times.” And he went outside and wept bitterly."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter wasn’t lying when he promised to go to death. A few hours earlier he had drawn a sword against an armed detachment. **How is it possible that the same man loses to a servant girl’s question?** What was he ready for, and what wasn’t he?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In a single sentence Jesus foretells the fall and says, “when you have turned back.” **What does it mean for Peter that he heard about his return before he had even fallen?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "More than an hour passes between the first and the third denial. **What might have been going on inside Peter during that time, and why didn’t he get up from the fire?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Luke alone records that the Lord turned and looked. The text doesn’t say what kind of look it was. **What might Peter have seen in it, given that he went out and wept, rather than storming off in anger?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "All four Gospels tell this scene, and all of them keep the same things: the fire, the servant girl, three questions, the rooster. The early Church didn’t hide its leader’s greatest disgrace. It was a cold April night, which is why a fire was burning in the courtyard. Peter sat down among the people who had just arrested Jesus and wanted to look like one of them. The denial began before anyone asked him anything.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Men on the Same Night",
+   "elementy": [
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this passage speaks of suicide. If you know that for someone at the table this is personal, skip this block.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 27:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders. “I have sinned by betraying innocent blood,” he said. “What is that to us?” they replied. “You bear the responsibility.” So Judas threw the silver into the temple and left. Then he went away and hanged himself."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judas is filled with remorse, confesses his guilt, and returns the money. **To whom does he go with his guilt, and what does he hear from them?** Compare that with where Peter will go a few days later.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both failed on the same night, and both bitterly regretted it. **According to these texts, what makes their paths different: the size of the guilt, or something else?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In the sentence “Satan has asked to sift each of you,” the Greek “you” is plural and applies to all the disciples. In “I have prayed for you” it is singular. The trial comes on the whole group, and Jesus’ prayer has a name. The verb rendered “turned back” literally means “turn around.” Jesus doesn’t say “if”; He says “when.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus prays by name for the disciple who will fail most loudly, and He doesn’t ask that Peter not fall. He asks that his faith not fail. **How is falling different from faith failing?** What does that difference look like in real life?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Second Fire",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After the resurrection the disciples go back to Galilee. Peter goes fishing, fishes all night, and catches nothing. At dawn someone calls from the shore.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 21:9, 12-13, 15-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "When they landed, they saw a charcoal fire there with fish on it, and some bread. … “Come, have breakfast,” Jesus said to them. None of the disciples dared to ask Him, “Who are You?” They knew it was the Lord. Jesus came and took the bread and gave it to them, and He did the same with the fish. … When they had finished eating, Jesus asked Simon Peter, “Simon son of John, do you love Me more than these?” “Yes, Lord,” he answered, “You know I love You.” Jesus replied, “Feed My lambs.” Jesus asked a second time, “Simon son of John, do you love Me?” “Yes, Lord,” he answered, “You know I love You.” Jesus told him, “Shepherd My sheep.” Jesus asked a third time, “Simon son of John, do you love Me?” Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?” “Lord, You know all things,” he replied. “You know I love You.” Jesus said to him, “Feed My sheep. Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted; but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.” Jesus said this to indicate the kind of death by which Peter would glorify God. And after He had said this, He told him, “Follow Me.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "First comes the fire, the bread and the fish, and the conversation only after breakfast. **What does this order say about how Jesus approaches a man who failed Him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What is missing from this conversation?** List everything you might expect from someone who had been betrayed that Jesus doesn’t say.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Three questions after three denials. The third question hurt Peter. **Why didn’t Jesus spare him that pain? How is pain that heals different from pain inflicted to get even?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In the courtyard Peter made claims about himself. Now he says, “Lord, You know all things.” **What has changed in the way he talks about his own love?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus had forgiven Peter earlier. Something else happens here: Peter denied Him publicly, so in front of witnesses he is given his task back. In this story forgiveness and restoration to service are two separate things. It’s also worth seeing who walked this road first. The initiative comes from the one who was betrayed, and from him alone. None of the disciples tells Jesus He ought to trust Peter again by now. And the last words of the conversation are the same as at the beginning of their friendship: follow Me.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "How Peter Speaks About Judas",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "A few weeks later Peter addresses the gathered disciples for the first time. He has to say something about Judas.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 1:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days Peter stood up among the brothers (a gathering of about a hundred and twenty) and said, “Brothers, the Scripture had to be fulfilled which the Holy Spirit foretold through the mouth of David concerning Judas, who became a guide for those who arrested Jesus. He was one of our number and shared in this ministry.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter says what Judas did and adds not a single contemptuous word. He even recalls that “he was one of our number.” **Where does Peter’s tone come from?** How does someone who remembers their own fall talk about someone else’s?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "You often hear that Jesus asks Peter about a higher love, the Greek `agapaō`, and Peter answers with the humbler `phileō`, and that this is the heart of the scene. It makes for a striking point, but the text won’t bear it. John uses the two verbs interchangeably throughout his Gospel: both describe the Father’s love for the Son, and both Jesus’ love for Lazarus. John himself tells us why Peter was hurt: because Jesus asked him a third time.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Another detail is stronger. The fire in this scene is the Greek `anthrakia`, a charcoal fire. In the whole New Testament the word appears twice, both times in John.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 18:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Because it was cold, the servants and officers were standing around a charcoal fire they had made to keep warm. And Peter was also standing with them, warming himself."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "By the lake Jesus lights the same kind of fire as the one where Peter denied Him. **Why lead a person back into the place, the smell and the image of their fall?** What would Peter have lost if this conversation had happened anywhere else?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Who Stayed",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Paul writes from prison, near the end of his life, after his first hearing before the court.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Timothy 4:9-13, 16-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Make every effort to come to me quickly, because Demas, in his love of this world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia. Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry. Tychicus, however, I have sent to Ephesus. When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments. … At my first defense, no one stood with me, but everyone deserted me. May it not be charged against them. But the Lord stood by me and strengthened me, so that through me the message would be fully proclaimed, and all the Gentiles would hear it. So I was delivered from the mouth of the lion. And the Lord will rescue me from every evil action and bring me safely into His heavenly kingdom. To Him be the glory forever and ever. Amen."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Everyone deserted me.” These weren’t enemies; they were co-workers and brothers. **What does Paul do with this disappointment in a single sentence, and what is missing from that sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Deserted, Paul doesn’t shut himself off from people. He asks: come, bring Mark, bring the cloak. **What does this say about how to live after being let down? Which is harder: to stop trusting anyone, or to ask again?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Mark is the same man who years earlier had abandoned Paul halfway through a journey, and Paul then refused to take him on the next one. **What must have happened for Paul to write of him, “he is useful to me in the ministry”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In this short passage three kinds of people stand side by side. Demas left and didn’t come back. Mark once failed and years later was won back. Luke simply stayed. Paul doesn’t pretend they are all the same, and he doesn’t write anyone off forever. The sentence “the Lord stood by me” doesn’t replace people for him. It lets him keep needing them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "When the Shepherd Wounds",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Sometimes the harm is done by someone who was supposed to lead people to God. The Bible has a separate, very sharp text about that.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 34:2-6, 11-12, 15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Son of man, prophesy against the shepherds of Israel. Prophesy and tell them that this is what the Lord GOD says: ‘Woe to the shepherds of Israel, who only feed themselves! Should not the shepherds feed their flock? You eat the fat, wear the wool, and butcher the fattened sheep, but you do not feed the flock. You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead, you have ruled them with violence and cruelty. They were scattered for lack of a shepherd, and when they were scattered they became food for all the wild beasts. My flock went astray on all the mountains and every high hill. They were scattered over the face of all the earth, with no one to search for them or seek them out.’ … For this is what the Lord GOD says: ‘Behold, I Myself will search for My flock and seek them out. As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness. … I will tend My flock and make them lie down, declares the Lord GOD. I will seek the lost, bring back the strays, bind up the broken, and strengthen the weak; but the sleek and strong I will destroy. I will shepherd them with justice.’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Whose side does God take in this text?** Whom does He blame for the sheep being scattered: the sheep or the shepherds?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God calls the scattered sheep “My flock,” even though they have left the fold. **What does that mean for someone who left the Church because they were hurt in it?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David wanted to escape into the wilderness, Peter went back to fishing, Paul wrote a letter with a request. **What is your first impulse when someone lets you down?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Today’s texts showed the one betrayed and the one who failed. **In which of them is it easier for you to recognize yourself today? What in what we read was the hardest for you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a fire in your life you don’t want to go back to, or someone waiting for your first word?** You don’t have to say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus didn’t just forgive Peter; He gave him back the sheep. **Does everyone who has failed and is sorry deserve a return to the same place: to the marriage, to the friendship, to a role in the Church? How is the betrayed person to know that it’s possible to trust again, and are they allowed never to trust again?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. It is worth making sure three observations from the text come up, though. The restoration was decided by the one betrayed, not by the guilty one and not by the witnesses. Peter demanded nothing and didn’t point to his tears. Peter failed out of fear and hurt someone stronger than himself. Someone who abused power over a weaker person is in a different situation, and this story cannot be used as an argument for returning him to his role.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God hears the betrayed person’s complaint all the way through, and for the one who failed He lights a fire. He rushes neither of them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 55:22 or Luke 22:32.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If you carry a wound from someone close: the psalm says, “Cast your burden upon the LORD.” Ask yourself **whether you are really handing this burden over, or just telling God about it and taking it back again.** You don’t have to settle anything today about that person. It’s enough to tell God the truth about how much it hurts.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If you are the one who let someone down: Peter heard about his return before he fell. Stay with the question **whether you believe that Jesus knew everything about you when He called you, and that He still says to you, “Follow Me.”**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask God whether there is someone who has been let down by you without your even noticing. Don’t force it. If a specific face comes to mind, don’t push it away.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is in a fresh crisis: they have just found out about a betrayal, or have just confessed one.** For them this meeting isn’t a lesson, but it can be a place where they aren’t alone. Don’t make them answer questions. The group listens and walks alongside. It doesn’t advise whether to stay in the marriage or leave, and it doesn’t weigh in on legal or financial matters. Stay with this person after the meeting and suggest talking with someone trained: a pastor, a psychologist, a family counseling service. If they talk about suicidal thoughts or you see they aren’t coping, don’t carry it alone. Point them to a crisis line in your country, and in an emergency call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Both spouses are at the table, and the betrayal is between them.** Don’t let the meeting turn into a trial. No questions directed at them personally. If one starts talking about the other, interrupt gently: “This is too important to sort out in front of everyone. Let’s talk after the meeting.” Read block 4 without any hint as to which of them is Peter.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about harm done by a pastor, a church elder, or the whole community.** Believe them and thank them for their trust. Don’t explain the other side, don’t say “I’m sure he didn’t mean it,” don’t defend the Church’s good name. Read Ezekiel 34 from level 2, even if you are leading level 1: there God takes the side of the sheep. If a crime is involved, especially against a child or a dependent person, this is not a matter to be handled inside the church. It is reported to the authorities, and the person who was harmed is helped to find professional support.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group pushes: “you have to forgive,” “it’s time to let it go,” “Jesus forgave Peter.”** Step in. You can say: “David came back with the same thing three times a day, and God didn’t rush him. We won’t either.” There is a separate meeting on forgiveness. Remind the group that in John 21 the one betrayed decided everything, and no one set Him a deadline.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t trust anyone anymore, and I’m fine with that.”** Don’t argue. Ask what stands out to this person in Paul’s letter: a man deserted by everyone asks for a cloak and for Mark. Leave it there without comment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts confessing their own betrayal at the table, in detail.** Stop them respectfully: “Thank you for telling us. Let’s finish this after the meeting, just the two of us.” A public confession can hurt third parties who aren’t at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The block about Judas raises the question of whether someone who dies by suicide is condemned.** Don’t go into it today, and don’t pronounce verdicts. Say that the text describes where Judas went with his guilt, and that judgment belongs to God, who knows the whole person. If the question is personal, talk after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2 and block 5. Blocks 1, 3 and 4 carry the whole meeting: the voice of the betrayed, the fall, and the second fire.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone is in a fresh crisis: they have just found out about a betrayal, or have just confessed one.",
+     "odpowiedz": "For them this meeting isn’t a lesson, but it can be a place where they aren’t alone. Don’t make them answer questions. The group listens and walks alongside. It doesn’t advise whether to stay in the marriage or leave, and it doesn’t weigh in on legal or financial matters. Stay with this person after the meeting and suggest talking with someone trained: a pastor, a psychologist, a family counseling service. If they talk about suicidal thoughts or you see they aren’t coping, don’t carry it alone. Point them to a crisis line in your country, and in an emergency call your local emergency number."
+    },
+    {
+     "sytuacja": "Both spouses are at the table, and the betrayal is between them.",
+     "odpowiedz": "Don’t let the meeting turn into a trial. No questions directed at them personally. If one starts talking about the other, interrupt gently: “This is too important to sort out in front of everyone. Let’s talk after the meeting.” Read block 4 without any hint as to which of them is Peter."
+    },
+    {
+     "sytuacja": "Someone talks about harm done by a pastor, a church elder, or the whole community.",
+     "odpowiedz": "Believe them and thank them for their trust. Don’t explain the other side, don’t say “I’m sure he didn’t mean it,” don’t defend the Church’s good name. Read Ezekiel 34 from level 2, even if you are leading level 1: there God takes the side of the sheep. If a crime is involved, especially against a child or a dependent person, this is not a matter to be handled inside the church. It is reported to the authorities, and the person who was harmed is helped to find professional support."
+    },
+    {
+     "sytuacja": "The group pushes: “you have to forgive,” “it’s time to let it go,” “Jesus forgave Peter.”",
+     "odpowiedz": "Step in. You can say: “David came back with the same thing three times a day, and God didn’t rush him. We won’t either.” There is a separate meeting on forgiveness. Remind the group that in John 21 the one betrayed decided everything, and no one set Him a deadline."
+    },
+    {
+     "sytuacja": "“I don’t trust anyone anymore, and I’m fine with that.”",
+     "odpowiedz": "Don’t argue. Ask what stands out to this person in Paul’s letter: a man deserted by everyone asks for a cloak and for Mark. Leave it there without comment."
+    },
+    {
+     "sytuacja": "Someone starts confessing their own betrayal at the table, in detail.",
+     "odpowiedz": "Stop them respectfully: “Thank you for telling us. Let’s finish this after the meeting, just the two of us.” A public confession can hurt third parties who aren’t at the table."
+    },
+    {
+     "sytuacja": "The block about Judas raises the question of whether someone who dies by suicide is condemned.",
+     "odpowiedz": "Don’t go into it today, and don’t pronounce verdicts. Say that the text describes where Judas went with his guilt, and that judgment belongs to God, who knows the whole person. If the question is personal, talk after the meeting."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2 and block 5. Blocks 1, 3 and 4 carry the whole meeting: the voice of the betrayed, the fall, and the second fire."
+    }
+   ]
+  }
+ ]
+}

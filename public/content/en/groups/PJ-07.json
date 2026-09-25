@@ -1,0 +1,880 @@
+{
+ "tytul": "The Wheat and the Weeds",
+ "id": "PJ-07",
+ "seria": "Parables of Jesus",
+ "opis": "Where evil in God’s field comes from, why God doesn’t pull it up right away, and whose hands will do it in the end.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 13:24-26; Matthew 13:27-28; Matthew 13:29-30; Matthew 13:36-39; Matthew 13:40-43",
+  "p2": "Isaiah 5:3-4; Luke 13:16; Luke 9:51-56; John 13:26-30; 1 Corinthians 4:5; Matthew 13:47-50; Ezekiel 33:11",
+  "p3": "Matthew 18:15-17; 1 Corinthians 5:12-13; Malachi 4:1; Daniel 12:3; Revelation 6:9-10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 33
+ },
+ "tagi": [
+  "parables",
+  "evil",
+  "God’s patience",
+  "judging others",
+  "the church",
+  "judgment"
+ ],
+ "wersja": 1,
+ "zdanie": "The weeds are not from God, and they won’t stay forever. Until the harvest, God protects the wheat, even from our zeal.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The servants ask the owner two questions, and both of them are ours. The first: where did the weeds come from, if the field is yours and the seed was good? The second: should we go and pull them up? To the first the owner answers with one sentence that clears him of blame. To the second he answers “No” and gives a reason, which is concern for the wheat. This meeting aims to bring the group to two things: God is not the author of evil and is not indifferent to it, and His patience has a purpose and has an end.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Every parable of Jesus corrects some false picture of God. This one corrects two at once. The first is a God who sowed what hurts, or who watches it calmly and does nothing. The second is an impatient God who needs our help with a hoe before He gets around to it Himself. Keep in mind the rule for reading parables: a parable mirrors a single truth; it isn’t a rulebook, so you don’t build doctrine on side details. Here Jesus Himself gives the explanation, which makes things easier.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have been wronged, and for them “Let both grow together” may sound like God consenting to the harm. See the first red flag.",
+      "The conversation easily turns into listing the weeds: in the congregation, in other churches, in politics. The parable takes exactly that job away from us.",
+      "A sensitive person may begin to fear that they themselves are a weed.",
+      "Someone from outside the church may be hearing for the first time that the devil is real. There is no need to convince them; just read the text."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t point to anyone, by name or by hint. Don’t turn the ban on pulling weeds into a ban on setting limits to evil. Don’t use the fiery furnace to frighten people, and don’t soften it either. Don’t label someone else’s misfortune as God’s will.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when you were sure you had judged someone correctly, and then it turned out you were wrong. Tell us in one sentence which way the mistake went.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence and without names. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "While Everyone Was Asleep",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:24-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus put before them another parable: “The kingdom of heaven is like a man who sowed good seed in his field. But while everyone was asleep, his enemy came and sowed weeds among the wheat, and slipped away. When the wheat sprouted and bore grain, then the weeds also appeared."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The enemy doesn’t burn the field or scatter stones on it. He sows something that for a long time looks like a crop. **What does this method tell us about how evil works?** How does it finally become visible?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In this story evil has no field of its own. It sows in someone else’s field and slips away. **What follows from that for the question of whom the world belongs to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text says everyone was asleep, and it doesn’t blame anyone for it. **Why doesn’t Jesus turn this parable into a story about someone’s negligence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The weed in this parable is most likely darnel, a poisonous look-alike of wheat. Until the grain heads out, the two plants are almost impossible to tell apart. Ripe darnel seed turns dark, and when it is ground together with wheat it spoils the flour and makes people sick. Sowing it in someone’s grain was not a fairy-tale idea. This form of revenge was known well enough that the law provided a penalty for it. So the listeners by the lake knew at once that someone here meant to destroy the whole crop through someone else’s hands.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Matthew 13 is one day by the Sea of Galilee. Jesus sits in a boat, and the crowd stands on the shore listening to parables of the kingdom. The first was about the sower; this is the second. Then Jesus sends the crowd away and goes into the house, and there the disciples ask Him to explain this very story. It is one of two parables that Jesus Himself explains point by point.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** People were waiting for the kingdom of God as the day when evil would disappear and the righteous would be left on their own. Jesus announced that the kingdom had already come, and yet nothing around them had changed: Rome was in charge, the sick were still sick, John the Baptist sat in prison. The parable answers the question that had to come up: how can this be the kingdom, when evil is doing so well?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What question for God did someone carry who had believed Jesus and then gone home in the evening to the same old world?** Has that question grown old?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Where Did the Weeds Come From?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:27-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’ ‘An enemy did this,’ he replied. So the servants asked him, ‘Do you want us to go and pull them up?’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servants’ first question contains a quiet accusation: maybe the seed wasn’t good. **When do people ask God the same question?** What does it say about the one asking that the sight of weeds surprises them at all?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The owner answers briefly: “An enemy did this.” **What does that sentence rule out?** How many things do we label as God’s will in everyday life, even though according to this answer they don’t come from Him?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The owner says who did it. He doesn’t say why it happened, or why he didn’t post a guard. **What is this answer enough for, and what is it not enough for?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Voice Twice",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 13:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then should not this daughter of Abraham, whom Satan has kept bound for eighteen long years, be released from her bondage on the Sabbath day?”"
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 5:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "“And now, O dwellers of Jerusalem and men of Judah, I exhort you to judge between Me and My vineyard. What more could I have done for My vineyard than I already did for it? Why, when I expected sweet grapes, did it bring forth sour fruit?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Of the bent-over woman Jesus says that Satan has kept her bound. He doesn’t take responsibility for her illness; He takes responsibility for straightening her up. **How does this scene help us hear the sentence “An enemy did this”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Isaiah, God Himself asks people to judge His work in the vineyard. **What does it say about God that He submits to that kind of judgment instead of forbidding it?** How does that fit with waiting until the harvest?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Let Both Grow Together",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:29-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "‘No,’ he said, ‘if you pull the weeds now, you might uproot the wheat with them. Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat into my barn.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The owner gives one reason for his “No.” **Whom is he worried about? What does that reason not contain?** Check whether there is any indifference toward the weeds in it, or any doubt that the harvest will come.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servants meant well. **What would have happened to the field if the owner had agreed? Whose plan would they have finished then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The owner talks about harvesters, not about servants. **What role at the harvest is planned for those who wanted to pull weeds?** What does that say about our qualifications?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A farmer understood this refusal from the ground up. Before the grain heads out, the leaves of the two plants differ only slightly in width. By the time the difference finally shows, the roots are already tangled together underground, and whoever pulls one uproots the other. The parable doesn’t tell us to pretend the weeds aren’t there, and it doesn’t call off the harvest. It postpones it and puts it into other hands. The separation has its own time and its own workers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Fire from Heaven and a Piece of Bread",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 9:51-56",
+       "przeklad": "WEB",
+       "akapity": [
+        "It came to pass, when the days were near that he should be taken up, he intently set his face to go to Jerusalem, and sent messengers before his face. They went, and entered into a village of the Samaritans, so as to prepare for him. They didn’t receive him, because he was traveling with his face set towards Jerusalem. When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky, and destroy them, just as Elijah did?” But he turned and rebuked them, “You don’t know of what kind of spirit you are. For the Son of Man didn’t come to destroy men’s lives, but to save them.” They went to another village."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James and John ask the servants’ question almost word for word: “Do you want us to…?” **What in Jesus’ answer is the same as in the owner’s answer?** A few years later Samaria received the gospel, and John was one of those who went there. What would have happened if the fire had fallen?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 13:26-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus answered, “It is the one to whom I give this morsel after I have dipped it.” Then He dipped the morsel and gave it to Judas son of Simon Iscariot. And when Judas had taken the morsel, Satan entered into him. Then Jesus said to Judas, “What you are about to do, do quickly.” But no one at the table knew why Jesus had said this to him. Since Judas kept the money bag, some thought that Jesus was telling him to buy what was needed for the feast, or to give something to the poor. As soon as he had received the morsel, Judas went out into the night."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus had known about Judas for a long time. For three years He never once exposed him; He trusted him with the money bag, and on the last evening He handed him bread. The Eleven suspected nothing to the very end. **How did Jesus Himself practice at the table what He had told by the lake?** What would the disciples have thought of Him if He had removed Judas a year earlier without a word of explanation?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Greek `zizania`, which the BSB renders simply as “weeds” (the KJV: “tares”), means a specific weed that grows in grain, not weeds in general. A broad word like “weeds” can hide this: the plant meant here looks like wheat, and the whole sense of the parable hangs on its being a look-alike.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second word is `skandala` in verse 41, in the BSB “every cause of sin.” Originally it named a trap or an obstacle a person trips over. The angels will first weed out of the kingdom the things that make people fall, and only then those who practice lawlessness.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in how we hear the parable when we know the weed is a counterfeit of wheat and not an ordinary weed?** Where today does evil most successfully look like a crop?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Field Is the World",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jesus sends the crowd away and goes into the house. The disciples ask Him to explain just this one parable.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:36-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus dismissed the crowds and went into the house. His disciples came to Him and said, “Explain to us the parable of the weeds in the field.” He replied, “The One who sows the good seed is the Son of Man. The field is the world, and the good seed represents the sons of the kingdom. The weeds are the sons of the evil one, and the enemy who sows them is the devil. The harvest is the end of the age, and the harvesters are angels."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus explains seven images: the sower, the field, the good seed, the weeds, the enemy, the harvest, and the harvesters. **Who is missing from this list, even though they did the most talking in the parable?** What might that silence mean?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The field is the world.” **How does this parable read when the field is the whole world, and how does it read when someone narrows it to their own congregation?** What stays the same in both cases?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "A stalk of grain is not a person. A weed will never turn into wheat. **Can the same be said about a human being?** If not, what is God giving the time until the harvest for?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not Before the Time",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 4:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore judge nothing before the appointed time; wait until the Lord comes. He will bring to light what is hidden in darkness and will expose the motives of men’s hearts. At that time each will receive his praise from God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t say there will be no judgment. He says: not before the appointed time. **What are we missing that we would need in order to judge right now?** Notice how this verse ends. What does Paul expect from the day when the motives of hearts come to light?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "At the same table as Judas, Peter was the loudest in insisting on his loyalty. **What if Peter had been judged by his night in the high priest’s courtyard?** What does that story say about weeds growing not next to me but in me?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Does the Parable Forbid Church Discipline?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If we mustn’t pull weeds, can a community correct anyone, or remove anyone from membership? The difficulty is real, because a few chapters later the same Matthew records what looks like the opposite instruction.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 18:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector."
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 5:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "What business of mine is it to judge those outside the church? Are you not to judge those inside? God will judge those outside. “Expel the wicked man from among you.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two ways of reading this. The first holds to Jesus’ words that the field is the world: the parable explains why the kingdom grows alongside evil, and doesn’t deal with church order at all, which has its own texts. The second, from the early centuries on, applies it to the church as well, because the mixture doesn’t stop at the church door, and sees in it a brake on the kind of zeal that wants a community made up only of the pure. Both readings share one distinction: a community has the right and the duty to respond to public actions, following a clear procedure and with the aim of winning the brother or sister back. It has no right to pronounce on anyone’s heart or on anyone’s final destiny. History has shown what happens when the servants set out with their hoes despite the ban: for centuries people were imprisoned and burned for heresy, real or imagined, in the belief that God’s field was being cleaned up.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where is the line between responding to someone’s action and pronouncing a verdict on the person?** How can you tell that a community has crossed it?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Matthew says to treat the unrepentant person like a pagan or a tax collector. **How did Jesus treat pagans and tax collectors?** How does that change our understanding of this instruction?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Like the Sun",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:40-43",
+       "przeklad": "BSB",
+       "akapity": [
+        "As the weeds are collected and burned in the fire, so will it be at the end of the age. The Son of Man will send out His angels, and they will weed out of His kingdom every cause of sin and all who practice lawlessness. And they will throw them into the fiery furnace, where there will be weeping and gnashing of teeth. Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The owner’s patience has an end. **For whom is the news that evil will one day be gathered up and removed good news?** Think of people who have been waiting years for justice.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The last sentence of the explanation isn’t about fire but about the sun and the kingdom of the Father. **Why does Jesus end exactly this way?** What would change if He had ended with verse 42?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "A farmer burns weeds so that they will be gone. **What does this picture say about the purpose of the fire?** What is it for, and what is it not for?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Net and Ezekiel’s Words",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:47-50",
+       "przeklad": "BSB",
+       "akapity": [
+        "Once again, the kingdom of heaven is like a net that was cast into the sea and caught all kinds of fish. When it was full, the men pulled it ashore. Then they sat down and sorted the good fish into containers, but threw the bad away. So will it be at the end of the age: The angels will come and separate the wicked from the righteous, and throw them into the fiery furnace, where there will be weeping and gnashing of teeth."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "On the same day Jesus tells a second story about separation and ends it with the same words. As long as the net is in the water, no one sorts through it. **What does Jesus want to fix in our minds through this repetition?** What do you think we least want to hear in it?",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 33:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but rather that the wicked should turn from their ways and live. Turn! Turn from your evil ways! For why should you die, O house of Israel?’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does this sentence shed light on the long summer between sowing and harvest?** What is the God who speaks this way doing during that time?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Fiery Furnace",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Verse 42 is sometimes read as a description of torment that will never end. The picture itself says something else: weeds thrown into the fire burn up and cease to exist. The prophet from whom this image comes speaks of a day that burns like a furnace:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Malachi 4:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "“For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Christians read this in different ways. Some see in the fire a punishment that lasts without end. Others, Adventists among them, see a fire that puts an end to evil: the weeping and gnashing of teeth describe the horror and grief of that day, not its length. Both positions agree that the judgment is real, that God carries it out and not we, and that Jesus speaks of it so that no one would have to end up on the other side. In some editions, following the Hebrew numbering, this verse from Malachi is 3:19. A full study of this topic is in the material “Will God Punish Me? Judgment and Hell”",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 12:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the wise will shine like the brightness of the heavens, and those who lead many to righteousness will shine like the stars forever and ever."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of the two pictures of God inspires more trust: a God who puts an end to evil, or a God who keeps its pain going forever?** What in the text you’ve read stands behind each of them?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus ends His explanation with Daniel’s words about the righteous shining. **Why does He reach for this text in particular?** To whom was Daniel writing it?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where are you most tempted to reach for the hoe:** in your family, in your congregation, online, in judging people who think differently? What drives you at those moments?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The owner was worried about the wheat. **Do you remember a situation in which someone’s zeal for stamping out evil hurt someone innocent?** What would the sentence “Let both grow together” have changed in it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a weed you recognize in your own heart, and how do you hear today the news that God doesn’t pull you up along with it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 6:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony they had upheld. And they cried out in a loud voice, “How long, O Lord, holy and true, until You avenge our blood and judge those who dwell upon the earth?”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The patience that gives one person time to change prolongs another person’s suffering. In Revelation the victims cry out, “How long?” **What would the owner in the parable have to say to the wheat that the weeds are choking all summer long?** Does the text give any answer beyond the fact that the harvest will come?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. It is a picture from a vision, not a description of the state of the dead, and this is not the time to argue about that. But it would be good for two things to come up. The Bible doesn’t silence this cry; it records it. And the One who tells us to wait came into the field Himself and let Himself be killed there, so He doesn’t speak about the cost of this patience from a safe distance.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The weeds are not from God, and they won’t stay forever. Until the harvest, God protects the wheat, even from our zeal.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Matthew 13:30a or Matthew 13:43.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person you wrote off as a weed long ago. Ask God: **what do You see in them that I don’t?** You don’t have to change anything in that relationship right away. Stay with the question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of something painful that you once labeled as God’s will, or that someone labeled that way for you. Hold the owner’s sentence up against it: “An enemy did this.” **What changes in you when the blame goes back where it belongs?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** the disciples at the table didn’t ask, “Is it him?” but “Surely not I, Lord?” Stand before God with that second question, and don’t answer yourself too quickly, either with condemnation or with reassurance.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who has been wronged says, “So God wants me to put up with it and wait until the end of the world.”** No. The parable answers the question of why evil still exists, not the question of what to do about harm done to you. What is forbidden is pronouncing verdicts on people, not setting boundaries. It is right, and necessary, to get out of a situation of abuse, and crimes are reported to the police. Say this plainly, and don’t let the group counsel patience. If the matter is recent, stay with this person after the meeting. With domestic violence or suicidal thoughts, don’t handle it alone: help them contact a crisis line in your country, or call your local emergency number if they are in danger.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts pointing out the weeds: in the congregation, in another church, in politics.** Interrupt calmly. That is exactly the job the owner took away from the servants. Go back to the question in the first person. You can point out that in Jesus’ explanation the servants don’t appear at all, and the harvesters are angels.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Maybe I’m the weed.”** Don’t brush it off and don’t diagnose. Notice that the weeds in the parable don’t ask anything and don’t worry about anything. A person who is afraid of this is doing what the disciples did at the table. In this story, the time until the harvest is a time of grace, not of selection. If the fear is strong and long-standing, offer to talk privately.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If everything bad comes from the devil, then people aren’t responsible for anything.”** The text doesn’t say that. Verse 41 speaks of “all who practice lawlessness,” meaning people and their actions. The parable takes the blame off God, not off us.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So in church we can’t correct anyone or remove anyone from membership.”** That is the topic of the Tension block at level 3. In short: responding to public actions is allowed and necessary, but pronouncing verdicts on someone’s heart and salvation is not. If the conversation is about a specific case in your congregation, stop it, because the other side isn’t at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**An argument about hell and eternal torment.** Don’t settle it today. Say what can be seen in the picture itself: weeds are burned so that they will be gone. Leave the rest for the material “Will God Punish Me? Judgment and Hell.” If someone was raised in fear of hell, don’t make them explain themselves.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone from outside the church reacts to the word “devil” with a smile or with resistance.** Don’t try to convince them. It’s enough to say that in this story Jesus speaks of the enemy as someone real, and to ask what it changes in our picture of God that evil has a different author than Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Combine blocks 4 and 5 into one reading and take one key question from each. Blocks 2 and 3 carry the whole meeting.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone who has been wronged says, “So God wants me to put up with it and wait until the end of the world.”",
+     "odpowiedz": "No. The parable answers the question of why evil still exists, not the question of what to do about harm done to you. What is forbidden is pronouncing verdicts on people, not setting boundaries. It is right, and necessary, to get out of a situation of abuse, and crimes are reported to the police. Say this plainly, and don’t let the group counsel patience. If the matter is recent, stay with this person after the meeting. With domestic violence or suicidal thoughts, don’t handle it alone: help them contact a crisis line in your country, or call your local emergency number if they are in danger."
+    },
+    {
+     "sytuacja": "Someone starts pointing out the weeds: in the congregation, in another church, in politics.",
+     "odpowiedz": "Interrupt calmly. That is exactly the job the owner took away from the servants. Go back to the question in the first person. You can point out that in Jesus’ explanation the servants don’t appear at all, and the harvesters are angels."
+    },
+    {
+     "sytuacja": "“Maybe I’m the weed.”",
+     "odpowiedz": "Don’t brush it off and don’t diagnose. Notice that the weeds in the parable don’t ask anything and don’t worry about anything. A person who is afraid of this is doing what the disciples did at the table. In this story, the time until the harvest is a time of grace, not of selection. If the fear is strong and long-standing, offer to talk privately."
+    },
+    {
+     "sytuacja": "“If everything bad comes from the devil, then people aren’t responsible for anything.”",
+     "odpowiedz": "The text doesn’t say that. Verse 41 speaks of “all who practice lawlessness,” meaning people and their actions. The parable takes the blame off God, not off us."
+    },
+    {
+     "sytuacja": "“So in church we can’t correct anyone or remove anyone from membership.”",
+     "odpowiedz": "That is the topic of the Tension block at level 3. In short: responding to public actions is allowed and necessary, but pronouncing verdicts on someone’s heart and salvation is not. If the conversation is about a specific case in your congregation, stop it, because the other side isn’t at the table."
+    },
+    {
+     "sytuacja": "An argument about hell and eternal torment.",
+     "odpowiedz": "Don’t settle it today. Say what can be seen in the picture itself: weeds are burned so that they will be gone. Leave the rest for the material “Will God Punish Me? Judgment and Hell.” If someone was raised in fear of hell, don’t make them explain themselves."
+    },
+    {
+     "sytuacja": "Someone from outside the church reacts to the word “devil” with a smile or with resistance.",
+     "odpowiedz": "Don’t try to convince them. It’s enough to say that in this story Jesus speaks of the enemy as someone real, and to ask what it changes in our picture of God that evil has a different author than Him."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence drags on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Combine blocks 4 and 5 into one reading and take one key question from each. Blocks 2 and 3 carry the whole meeting."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,561 @@
+{
+ "tytul": "Bitterness",
+ "id": "E-09",
+ "seria": "Emotions",
+ "opis": "The residue of emotions that never found a way out. The story of Naomi, who called herself Bitter.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ruth 1:19-21; Exodus 15:23-25; Job 7:11; Job 10:1; Hebrews 12:14-15; Ruth 4:14-15",
+  "p2": "1 Samuel 1:10-11; Acts 8:22-23",
+  "p3": "Ruth 1:20"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 22,
+  "p3": 23
+ },
+ "tagi": [
+  "emotions",
+  "resentment",
+  "forgiveness",
+  "loss"
+ ],
+ "wersja": 1,
+ "zdanie": "Bitterness is not the emotion of a single day. It is the residue of days no one listened to.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Bitterness is not a passing emotion. It is the residue of emotions that never found a way out. That is why it can’t be treated the way anger is. This material walks through the story of Naomi, which begins with her calling herself Bitter and ends differently, even though no one along the way rebuked her.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Bitterness usually has a reason, and the reason is real. It must not be treated as a character flaw until the wrong has been acknowledged.",
+      "Someone at the table may be bitter toward the church, the congregation, or a specific person in this group. That may come out.",
+      "Naomi says the LORD has testified against her. Don’t correct that sentence, because the Bible doesn’t correct it."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t try to convince anyone they have no reason to feel this way. Don’t move on to forgiveness before the group has named the wrong. Don’t present section five as the moral of the story.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone you know who became warmer after a hard experience, and someone who became harder. Don’t give names. **Do you know what made the difference?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this is a doorway question into the whole topic. Don’t settle it here.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Call Me Mara",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 1:19-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole city was stirred because of them, and the women of the city exclaimed, “Can this be Naomi?” “Do not call me Naomi,” she replied. “Call me Mara, because the Almighty has dealt quite bitterly with me. I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Naomi means “my sweetness”; Mara means “bitter.” She asks to have her name changed. **What does it mean that bitterness has become her identity and not just her condition?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Again and again she speaks of what the LORD has done, and not once of what people have done. **Who is her grievance aimed at?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In this scene Ruth is standing beside her, the one who has just left everything for her. **Naomi says, “the LORD has brought me back empty.” What is she failing to notice?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "No one in the text corrects her words. **What does that tell us about how the Bible treats the bitter words of someone who has suffered loss?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Naomi lost her husband and two sons in a foreign country. Her bitterness has a real cause, and it is no exaggeration. Notice three things. First, she speaks directly to people, not behind their backs. Second, she speaks of God as someone who exists and acts, not as someone who isn’t there. Third, no one rebukes her. The narrator records her words without comment, and the book will end differently from what she expects at this moment.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew root `mar` means “bitter,” and it comes back in the Bible in three contexts: bitter water, the bitter herbs eaten at Passover, and a person’s bitter soul. So the same word describes a taste, a ritual that remembers slavery, and a condition of the heart.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What connects these three things? Why did taste, of all things, become the picture of what happens inside a person after a long-standing wrong?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Bitter Waters",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 15:23-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when they came to Marah, they could not drink the water there because it was bitter. (That is why it was named Marah.) So the people grumbled against Moses, saying, “What are we to drink?” And Moses cried out to the LORD, and the LORD showed him a log. And when he cast it into the waters, they were sweetened. There the LORD made for them a statute and an ordinance, and there He tested them,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This happens three days after the crossing of the sea, that is, after the greatest miracle in this people’s history. **What does that tell us about how quickly bitterness comes back?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God doesn’t move them to a different spring, and He doesn’t tell them to drink it anyway. **What does He do with the water that is already there?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The place was named Marah, and the name stuck. **Why wasn’t it changed after the water became sweet?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Bitterness Spoken Aloud",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 7:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
+       ]
+      },
+      {
+       "odnosnik": "Job 10:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "“I loathe my own life; I will express my complaint and speak in the bitterness of my soul."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Job announces that he will speak in the bitterness of his soul, and he does so for many chapters. **Who is he speaking to, and what difference does that make?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "At the end of the book God says that Job spoke about Him rightly and his pious friends did not. **How is that possible, when Job said such bitter things?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“I will express my complaint.” **How is a complaint brought to God different from grumbling?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Bible distinguishes between bitterness spoken aloud and bitterness stored up, and it treats them completely differently. Job says things no one would dare say out loud in church today, and he is commended. His friends say correct things, and they are rebuked. The difference is not in the content but in the address. Job directs everything to God, and so he doesn’t shut himself in. Bitterness becomes poison when it has nowhere to go.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Hannah in the Temple",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 1:10-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, pleading, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever come over his head.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The text says plainly that she prayed “in her bitter distress.” **Did the bitterness get in the way of her prayer?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "She asks for a son and immediately promises to give him back. **What changed in her during that prayer?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Root of Bitterness",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 12:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Pursue peace with everyone, as well as holiness, without which no one will see the Lord. See to it that no one falls short of the grace of God, and that no root of bitterness springs up to cause trouble and defile many."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The image comes from farming: a root that springs up. **What does this picture say about the pace, and about what can be seen on the surface?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The writer says such a root can “defile many.” **How does one person’s bitterness spread to a group?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The warning begins with a sentence about falling short of the grace of God. **According to this text, what is the soil in which bitterness grows best?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Poisoned by Bitterness",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 8:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Repent, therefore, of your wickedness, and pray to the Lord. Perhaps He will forgive you for the intent of your heart. For I see that you are poisoned by bitterness and captive to iniquity.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter uses two images for Simon: poison and captivity. **What do these two images say about bitterness: is it a condition, or a prison?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The End of Naomi’s Story",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 4:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the women said to Naomi, “Blessed be the LORD, who has not left you this day without a kinsman-redeemer. May his name become famous in Israel. He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and is better to you than seven sons, has given him birth.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The women speak to Naomi about a kinsman-redeemer and about one who will renew her life. **Compare that with what Naomi said about herself in chapter one.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "No one in this book told Naomi she had no right to be bitter. **So what changed her?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The change comes through Ruth, the person who stayed with her. **What does that say about the role people play in coming out of bitterness?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Naomi asked to be called Bitter. **Is there an area in you where you introduce yourself by what was done to you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Job spoke his bitterness to God, not about God. **Where does yours go? Does it stay inside, go to other people, or go to Him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something from years ago that you go back to in your thoughts more often than you’d like to admit?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Bitterness is not the emotion of a single day. It is the residue of days no one listened to.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Hebrews 12:15 or Ruth 4:15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think back to the oldest wrong you still remember in detail. **Ask yourself what you would lose if you set it down.** Bitterness is usually guarding something: the sense that you were right, or the need for the wrong not to be written off as unimportant.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Tell God one sentence about it, the kind you wouldn’t say in front of other people. **Job said stronger things and was commended.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** there is someone you can’t find a good word to say about. Look for one true good thing about them and say it out loud, even in an empty room. Notice how much it costs you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“You just have to forgive and let it go.”** True, and useless at this moment. Go back to Naomi: no one told her that, and yet the book ends well. Forgiveness that a person is pushed into too early is usually pretended.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about bitterness toward the church or toward someone in this group.** Don’t defend the institution, and don’t set the facts straight. Listen, say thank you, and offer to talk separately. If it concerns someone who is present, stop and take it outside the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they hold a grudge against God.** Don’t correct them. Naomi and Job said the same thing, and the Bible recorded it without comment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts deciding who was right in some old conflict.** Cut it off. This topic is not about finding who is to blame.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t hold anything against anyone.”** Don’t confront. Shift the question: “Is there anyone you’d rather not think about?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Silence after the question about the oldest wrong.** Leave it. That question is meant to work on the way home, not at the table.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“You just have to forgive and let it go.”",
+     "odpowiedz": "True, and useless at this moment. Go back to Naomi: no one told her that, and yet the book ends well. Forgiveness that a person is pushed into too early is usually pretended."
+    },
+    {
+     "sytuacja": "Someone talks about bitterness toward the church or toward someone in this group.",
+     "odpowiedz": "Don’t defend the institution, and don’t set the facts straight. Listen, say thank you, and offer to talk separately. If it concerns someone who is present, stop and take it outside the meeting."
+    },
+    {
+     "sytuacja": "Someone says they hold a grudge against God.",
+     "odpowiedz": "Don’t correct them. Naomi and Job said the same thing, and the Bible recorded it without comment."
+    },
+    {
+     "sytuacja": "The group starts deciding who was right in some old conflict.",
+     "odpowiedz": "Cut it off. This topic is not about finding who is to blame."
+    },
+    {
+     "sytuacja": "“I don’t hold anything against anyone.”",
+     "odpowiedz": "Don’t confront. Shift the question: “Is there anyone you’d rather not think about?”"
+    },
+    {
+     "sytuacja": "Silence after the question about the oldest wrong.",
+     "odpowiedz": "Leave it. That question is meant to work on the way home, not at the table."
+    }
+   ]
+  }
+ ]
+}

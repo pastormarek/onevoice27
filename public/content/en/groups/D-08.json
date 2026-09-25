@@ -1,0 +1,887 @@
+{
+ "tytul": "Daniel 8. How Long?",
+ "id": "D-08",
+ "seria": "The Book of Daniel",
+ "opis": "Someone tramples the truth and succeeds at everything. In heaven the question “How long?” is asked, and heaven answers it.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 8:1-8; 8:9-12; 8:13-14; 8:15-22; 8:23-27",
+  "p2": "Psalm 74:3-4, 7, 9-10; Revelation 6:9-11; Leviticus 16:5, 15-16, 29-30; Daniel 2:34-35",
+  "p3": "Daniel 7:25-26; Matthew 24:15; Numbers 14:34; Ezekiel 4:6; Hebrews 8:1-2; Hebrews 9:24"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 31
+ },
+ "tagi": [
+  "Daniel",
+  "prophecy",
+  "sanctuary",
+  "judgment",
+  "patience",
+  "hope"
+ ],
+ "wersja": 1,
+ "zdanie": "Evil has a deadline. The question “How long?” is asked in heaven, and heaven answers it.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This is the hardest chapter in the first half of the visions, and it’s easy to turn it into a lecture full of dates. This meeting follows one question, asked at the very center of the chapter, in heaven, not on earth: “How long?” Someone tramples the truth, the sanctuary, and people, and succeeds at everything. The answer is: not forever. The sanctuary “will be properly restored.” God does not leave His cause unresolved. Everything else in this chapter serves that sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "At level 1 you read the whole chapter in five sections and stick to what the text itself names: the ram is Media and Persia, the goat is Greece. The text doesn’t say outright who the little horn is or how long the 2,300 evenings and mornings last. Those questions are at levels 2 and 3, along with the reading Adventists hold and the reading most modern commentaries hold.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Adventists connect this chapter with the teaching about a judgment that comes before Jesus’ return, sometimes called the investigative judgment. It means this: before Jesus returns, it is openly settled in heaven who belongs to Him. You don’t need to use that term at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone knows the calculation of years by heart and will want to present it. Ask them to wait for level 3, or, if you are leading level 1, for a conversation after the meeting.",
+      "Catholics may be sitting at the table. Some Adventists have a reflex to start talking about the papacy the moment the little horn comes up. Don’t let anyone at the table feel accused. The text describes a power that puts itself in God’s place and reaches for coercion. It does not describe ordinary believers of any church.",
+      "This chapter easily tempts people to look for the little horn in today’s news. Don’t go there.",
+      "Someone may leave feeling they understood nothing. Daniel left with the same feeling; that is how the chapter ends."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give dates at level 1. Don’t draw a timeline. Don’t settle the debate about the little horn in a tone that shuts down the conversation. Don’t use fear.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a situation in which something unjust was happening and all you could do was wait. In one sentence, say what was hardest about the waiting.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Ram and the Goat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 8:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, subsequent to the one that had appeared to me earlier. And in the vision I saw myself in the citadel of Susa, in the province of Elam. I saw in the vision that I was beside the Ulai Canal. Then I lifted up my eyes and saw a ram with two horns standing beside the canal. The horns were long, but one was longer than the other, and the longer one grew up later. I saw the ram charging toward the west and the north and the south. No animal could stand against him, and there was no deliverance from his power. He did as he pleased and became great. As I was contemplating all this, suddenly a goat with a prominent horn between his eyes came out of the west, crossing the surface of the entire earth without touching the ground. He came toward the two-horned ram I had seen standing beside the canal and rushed at him with furious power. I saw him approach the ram in a rage against him, and he struck the ram and shattered his two horns. The ram was powerless to stand against him, and the goat threw him to the ground and trampled him, and no one could deliver the ram from his power. Thus the goat became very great, but at the height of his power, his large horn was broken off, and four prominent horns came up in its place, pointing toward the four winds of heaven."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Retell this vision in your own words, like a scene from a movie.** What does the ram do, what does the goat do, and how does each of them end up?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Of the ram we read: “He did as he pleased and became great.” Of the goat: “at the height of his power, his large horn was broken off.” **What do these two sentences say about any power that looks unstoppable?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Twice we are told that there was no one to deliver. **What does the world look like from the point of view of those the ram and the goat trample over?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** In the second half of the book, in the second of Daniel’s four visions. Chapter 7 showed four beasts, a little horn, and the judgment. Chapter 8 returns to the same history but begins later, since Babylon is already coming to an end, and it focuses on one thing: what will happen to the sanctuary. Chapter 9 will be the answer to what Daniel did not understand here.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** From this chapter on, the book switches back from Aramaic to Hebrew, the language of Israel and the temple. The symbols change along with the language. The wild beasts disappear, and a ram and a goat appear, clean animals every Israelite knew from the sacrificial service. The choice of animals alone tells you this chapter will be about the sanctuary. Susa, where Daniel sees himself in the vision, would later become one of the capitals of Persia.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does it change your reading of this chapter to know that an Israelite saw in the ram and the goat not monsters but animals familiar from the temple?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Horn That Reached to Heaven",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 8:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "From one of these horns a little horn emerged and grew extensively toward the south and the east and toward the Beautiful Land. It grew as high as the host of heaven, and it cast down some of the host and some of the stars to the earth, and trampled them. It magnified itself, even to the Prince of the host; it removed His daily sacrifice and overthrew the place of His sanctuary. And in the rebellion, the host and the daily sacrifice were given over to the horn, and it flung truth to the ground and prospered in whatever it did."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The ram and the goat fought each other over land. **Whom does the little horn fight, and over what?** List from the text everything it raises its hand against.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“It flung truth to the ground and prospered in whatever it did.” **Why is that sentence harder for a believer than the whole description of wars in Block 1?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The text says the horn “magnified itself, even to the Prince of the host.” **What does a power look like that reaches for the place that belongs to God?** How can you recognize it before it starts trampling?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The earlier powers in this chapter grow horizontally, across the map: west, north, south. The little horn at first grows the same way, and then upward, toward heaven. That is new. Its goal is no longer territory but “the Prince of the host,” His sanctuary, and what happens in it every day so that people can have access to God. The text doesn’t yet say who the horn is. It says what it does: it stands between God and people.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verses 11-13 the BSB has “the daily sacrifice.” In Hebrew there is a single word here, `tamid`, meaning “continual,” “unceasing.” The word “sacrifice” is not in the text; the translators supplied it. In the Law of Moses, `tamid` describes everything in the sanctuary that went on without interruption: the daily burnt offering, the lamp that was to burn continually, the fire on the altar, the bread always lying on the table. It never, however, describes the annual rite of the Day of Atonement.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "So what the horn takes from “the Prince of the host” is not one sacrifice but the whole unceasing ministry through which a person could come to God every day. **What does that say about what this horn is really attacking?** What does it look like to take away people’s “continual” access to God?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "How Long?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 8:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I heard a holy one speaking, and another holy one said to him, “How long until the fulfillment of the vision of the daily sacrifice, the rebellion that causes desolation, and the surrender of the sanctuary and of the host to be trampled?” He said to me, “It will take 2,300 evenings and mornings; then the sanctuary will be properly restored.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The question “How long?” doesn’t come from Daniel or from any human being. A heavenly being asks it. **What does it say about heaven that this is where someone asks it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The answer has two parts: a number and a promise. Set the number aside for a moment. **What does the sentence “then the sanctuary will be properly restored” promise to someone who has just seen truth flung to the ground?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The answer is not “right away” and not “never,” but a set span followed by “then.” **How is waiting that has an appointed end different from waiting without end?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is the center of the chapter and its most important sentence. The vision could have ended with a horn that succeeds at everything. It doesn’t end there. In this chapter evil has a deadline, and the cause of God and His sanctuary will be settled. The BSB’s “properly restored” points in the right direction: this is the language of a court, about giving back to someone the right that was taken from them. How much time this is, and which sanctuary is meant, readers still debate today. That the end is appointed, no one disputes.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Cry That Keeps Returning",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 74:3-4, 7, 9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Turn Your steps to the everlasting ruins, to everything in the sanctuary the enemy has destroyed. Your foes have roared within Your meeting place; they have unfurled their banners as signs, … They have burned Your sanctuary to the ground; they have defiled the dwelling place of Your Name. … There are no signs for us to see. There is no longer any prophet. And none of us knows how long this will last. How long, O God, will the enemy taunt You? Will the foe revile Your name forever?"
+       ]
+      },
+      {
+       "odnosnik": "Revelation 6:9-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony they had upheld. And they cried out in a loud voice, “How long, O Lord, holy and true, until You avenge our blood and judge those who dwell upon the earth?” Then each of them was given a white robe and told to rest a little while longer, until the full number of their fellow servants, their brothers, were killed, just as they had been killed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same question comes up in the psalm, in Daniel, and in the last book of the Bible. **What do the people asking it have in common?** What are they demanding: revenge, or something else?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist complains that no one knows how long. Daniel hears an answer. **What difference does it make just to know that an answer exists, even if you don’t fully understand it?**",
+     "poziom": 2
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the picture in Revelation 6 is symbolic, like Abel’s blood crying out from the ground. If someone asks about the souls under the altar, don’t get into the state of the dead today. There is a separate study on this in the Questions People Ask series.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Day the Sanctuary Was Cleansed",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Once a year, on the Day of Atonement, the high priest cleansed the sanctuary itself. Among the animals of that day are a ram and a goat.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 16:5, 15-16, 29-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "And he shall take from the congregation of Israel two male goats for a sin offering and one ram for a burnt offering. … Aaron shall then slaughter the goat for the sin offering for the people and bring its blood behind the veil, and with its blood he must do as he did with the bull’s blood: He is to sprinkle it against the mercy seat and in front of it. So he shall make atonement for the Most Holy Place because of the impurities and rebellious acts of the Israelites in regard to all their sins. He is to do the same for the Tent of Meeting which abides among them, because it is surrounded by their impurities. … This is to be a permanent statute for you: On the tenth day of the seventh month, you shall humble yourselves and not do any work—whether the native or the foreigner who resides among you— because on this day atonement will be made for you to cleanse you, and you will be clean from all your sins before the LORD."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "All year long, people brought their sins to the sanctuary and went away forgiven. Once a year, the building itself was cleansed. **Why did God care that the matter of sin be not only forgiven but also closed?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "An Israelite who heard about a ram, a goat, and a sanctuary restored to its rightful state had this day in mind. **What was the Day of Atonement to him: a day of fear or a day of relief?** What does verse 30 say about that?",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Day of Atonement was not the day on which God first began to forgive. People received forgiveness all year long. On that day the matter was brought to a close: what had accumulated in the sanctuary was removed from it, and the people stood before God clean. So it was a day of judgment whose outcome, for those who trusted God, was acquittal. Adventists read Daniel 8:14 against this background: as a promise that the matter of sin will be finally closed before Jesus returns.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The verb the BSB renders “will be properly restored” is `nitsdaq`. In this form it occurs in the Old Testament only once, right here. Its root means “to be righteous, to be in the right,” and from there “to be restored to the proper state,” “to be vindicated,” “to be cleansed.” It is used in three settings: in court, when a falsely accused person has their good name restored; in texts about salvation; and in the language of the sanctuary. That is why some translations, like the KJV, have “be cleansed” here, while others, like the BSB, speak of restoration.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these meanings best answers what the horn did in verses 10-12?** Or are all three needed at once?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: How Long Are 2,300 Evenings and Mornings?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The text doesn’t say “days” but “evenings and mornings.” There are three main ways of counting.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first sees here 2,300 sacrifices, morning and evening, which makes 1,150 days. The second counts 2,300 full days, because in Genesis 1 “evening and morning” describes a whole day, which makes over six years. Both apply the number to the persecution under Antiochus IV, a ruler of one of the Greek kingdoms who desecrated the temple in Jerusalem. The difficulty: First Maccabees gives the day the altar was desecrated and the day it was rededicated, and a little over three years pass between them, so neither number fits exactly.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The third way, held by Adventists, reads the number the same way as the rest of the vision, that is, symbolically: a day stands for a year. It rests on the fact that the question in verse 13 concerns the whole vision, which begins with Persia and, according to Gabriel, reaches to “the time of the end,” so a few years cannot contain it. The principle has a basis in the Bible:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 14:34",
+       "przeklad": "BSB",
+       "akapity": [
+        "In keeping with the forty days you spied out the land, you shall bear your guilt forty years—a year for each day—and you will experience My alienation."
+       ]
+      },
+      {
+       "odnosnik": "Ezekiel 4:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "When you have completed these days, lie down again, but on your right side, and bear the iniquity of the house of Judah. I have assigned to you 40 days, a day for each year."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This reading takes the starting point of the calculation from chapter 9 and arrives at the nineteenth century. The difficulty: it has to explain which sanctuary is meant, since the one in Jerusalem had long been gone. It answers: the one the Letter to the Hebrews speaks of.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 8:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven, and who ministers in the sanctuary and true tabernacle set up by the Lord, not by man."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 9:24",
+       "przeklad": "BSB",
+       "akapity": [
+        "For Christ did not enter a man-made copy of the true sanctuary, but He entered heaven itself, now to appear on our behalf in the presence of God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does each of these readings have to explain, and which explanation seems stronger to you?** Which verse do you base that on?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Whatever the calculation: **what difference does it make to a Christian to hear from Hebrews 8 and 9 that the ministry in the true sanctuary is going on now, and that Jesus is the one carrying it out?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this reading does not calculate a date for the end of the world, and it never should. It speaks about what is happening in heaven, not about when Jesus will return. The calculation of years has its own meeting: “Daniel 9:20-27. Seventy Weeks.”",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Gabriel, Explain",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 8:15-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "While I, Daniel, was watching the vision and trying to understand it, there stood before me one having the appearance of a man. And I heard the voice of a man calling from between the banks of the Ulai: “Gabriel, explain the vision to this man.” As he came near to where I stood, I was terrified and fell facedown. “Son of man,” he said to me, “understand that the vision concerns the time of the end.” While he was speaking with me, I fell into a deep sleep, with my face to the ground. Then he touched me, helped me to my feet, and said, “Behold, I will make known to you what will happen in the latter time of wrath, because it concerns the appointed time of the end. The two-horned ram that you saw represents the kings of Media and Persia. The shaggy goat represents the king of Greece, and the large horn between his eyes is the first king. The four horns that replaced the broken one represent four kingdoms that will rise from that nation, but will not have the same power."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel tries to understand and can’t. **Who takes the first step in this scene to help him?** What does that say about how God treats a person who doesn’t understand?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gabriel calls the ram and the goat by name. **Which kingdoms are they?** What follows from the fact that the text itself explains the symbols, not the reader?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Daniel falls facedown and loses consciousness, and the angel touches him and helps him to his feet. **What does that gesture say about why God shows people such things at all?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is the only place in the book where an angel himself gives the names of the kingdoms. In Belshazzar’s time Persia was only just gaining strength, and Greece was a collection of quarreling cities at the edge of the world. About the large horn all readers agree: it is Alexander the Great, who in a few years conquered the Persian Empire and died young at the height of his power, and whose realm his generals divided among themselves. The text gives neither his name nor any dates. It gives the order.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Not by Human Hands",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 8:23-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the latter part of their reign, when the rebellion has reached its full measure, an insolent king, skilled in intrigue, will come to the throne. His power will be great, but it will not be his own. He will cause terrible destruction and succeed in whatever he does. He will destroy the mighty men along with the holy people. Through his craft and by his hand, he will cause deceit to prosper, and in his own mind he will make himself great. In a time of peace he will destroy many, and he will even stand against the Prince of princes. Yet he will be broken off, but not by human hands. The vision of the evenings and the mornings that has been spoken is true. Now you must seal up the vision, for it concerns the distant future.” I, Daniel, was exhausted and lay ill for days. Then I got up and went about the king’s business. I was confounded by the vision; it was beyond understanding."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Gabriel named the ram and the goat, but he doesn’t name this king. He describes him. **List his characteristics. How can you recognize such a power, in whatever age it appears?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This king’s end fits into four words: “not by human hands.” **Then who defeats him?** What does that mean for people who have no strength of their own to stand against him?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The last verse: Daniel falls ill, gets up, goes back to work, and admits that the vision “was beyond understanding.” **What does it say about faith that the prophet ends the chapter by admitting he didn’t understand?** What does he do with what he doesn’t understand?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The vision doesn’t tell Daniel to organize anything or fight anyone. The horn is not defeated by an uprising, a coalition, or a better king. He “will be broken off, but not by human hands.” It is the same language chapter 2 used for the stone that struck the statue. So Daniel gets two messages: it will be worse than you think, and it will end differently than you could ever bring about. Then he gets up and goes to work for the king.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Ending",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 2:34-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "As you watched, a stone was cut out, but not by human hands. It struck the statue on its feet of iron and clay, and crushed them. Then the iron, clay, bronze, silver, and gold were shattered and became like chaff on the threshing floor in summer. The wind carried them away, and not a trace of them could be found. But the stone that had struck the statue became a great mountain and filled the whole earth."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The king’s dream in chapter 2 and Daniel’s vision in chapter 8 end the same way: not by human hands. **Why does the book return to this phrase so stubbornly?** What does it protect believers from, especially when they are right?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is the Little Horn?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The text doesn’t name it, so for centuries readers have proposed answers. Two are the main ones.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Most modern commentaries see Antiochus IV here, the ruler of one of the four Greek kingdoms who in the second century before Christ banned the sacrifices in Jerusalem, desecrated the temple, and persecuted the faithful. What fits is the horn’s rising in the neighborhood of the four Greek horns, the attack on the sanctuary and the daily ministry, the deceit and the pride. But this reading has to explain three things. In the text the ram is great, the goat very great, and the horn outgrows them both, whereas Antiochus was one of many rulers of a divided Greek empire, lesser than Alexander. Gabriel says twice that the vision concerns the time of the end. And Jesus, speaking of Daniel’s prophecy, places it in the future:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 24:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "So when you see standing in the holy place ‘the abomination of desolation,’ described by the prophet Daniel (let the reader understand),"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The historicist reading, which Adventists hold, reads chapter 8 in parallel with chapter 7. There, after Greece comes a fourth power, and out of it a horn that strikes at God and the saints:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time. But the court will convene, and his dominion will be taken away and completely destroyed forever."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "According to this reading, the horn of chapter 8 is Rome in two phases: first the empire that destroyed the temple and crucified “the Prince of princes,” then the union of church and state power that for centuries reached for coercion in matters of conscience and, in this reading’s view, obscured from people the ministry of Christ Himself. It speaks of a system of power, not of the faith of the people who lived within it. This reading also has things to explain: where exactly the horn comes from, since the text mentions four Greek horns, and why Rome is not named. It answers that the Hebrew phrase “out of one of them” (KJV) can grammatically refer to the four winds of heaven, from one of which the horn comes.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do both readings have in common when they describe what this horn does?** Could knowing how such a power operates be more important than being certain of its name?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The historicist reading speaks of a system that stands between people and God and reaches for coercion. **Why is it important to distinguish the system from the people who lived within it and sincerely believed?** Where could the same temptation appear in any church, including ours?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "if there are Catholics at the table, say it plainly and calmly: this reading says nothing about the faith of individual people. It speaks about what happens when a church, any church, reaches for power and coercion. God does not need political force to lead His people.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where do you see truth “flung to the ground” today** and catch yourself asking “how long”? This isn’t about politics. It’s about what weighs on your heart.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The horn is broken “not by human hands.” **In what matter are you trying to handle with your own hand something that belongs to God?** What would change if you stopped?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something about God or your own life that you don’t understand, and yet you still “got up and went about” your business?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God knows the limit of evil and has set it. Yet for that whole time He lets the horn prosper “in whatever it did,” while people are trampled. **Why does God set a deadline for evil instead of stopping it at once? Is an answer that names a limit a comfort or a difficulty?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. It helps if one observation from the text gets made: in this chapter even heaven asks “How long?” Impatience with evil is not a lack of faith. It is something believers share with the angels.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Evil has a deadline. The question “How long?” is asked in heaven, and heaven answers it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 8:14 or Daniel 8:25b.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In this chapter the question “How long?” is asked by a heavenly being. Think of something you yourself have been asking this about for a long time. Ask God that question directly, without softening it. Then stay a moment in silence with the answer Daniel heard: not “right away,” not “never,” but a set time, and then restoration.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself: **is there something in my life that has come between me and coming to God every day?** Don’t look for someone outside to blame. Name it before Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit before God one thing about Him that you don’t understand, and tell Him that even so, tomorrow you will get up and do what is yours to do.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“This is happening now; the little horn is…” followed by the name of a politician, a nation, or an organization.** Interrupt calmly. This material points to no present-day person or institution, and the group shouldn’t either. History knows a long list of such confident identifications that had to be withdrawn years later. Go back to the question of what such a power does and what verse 14 promises.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts calculating dates, including the date of the end of the world.** Say plainly: this chapter gives no date for Jesus’ return, and no honest reading derives one from it. The calculation of years is at level 3. There is also a separate meeting on it: “Daniel 9:20-27. Seventy Weeks.” Today we stay with the promise, not the calendar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t understand any of this.”** That is the best sentence anyone could say today. Read verse 27 aloud: Daniel, who saw it with his own eyes, says the same thing. Then ask, “And what did you understand from verse 14?” It usually turns out that the most important thing got through.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So the pope is the antichrist?” Or, the other way around, someone at the table feels attacked as a Catholic.** Don’t allow the conversation in that tone. Say that the text describes a power that puts itself in God’s place and uses coercion, not people who sincerely believe. God has His people in every church. The temptation of power applies to every community, ours too. If someone wants to keep talking, offer a conversation after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is afraid: of persecution, of the end of the world, of “terrible destruction.”** Point out how the chapter is built. It doesn’t end with the horn but with the horn being broken, and without our help. The vision was given so that people would know that evil has a limit, not to frighten them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone speaks about a wrong done to them and asks how much longer.** Don’t answer with a verse. Listen. You can say that in the Bible this question is a prayer, not rebellion, and that heaven itself asks it. Stay with this person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Why do we even need chapters like this?”** Good question. The first readers lived under a power that trampled everything they held sacred. They received two messages: God sees it, and God has set an end to it. Ask whether anyone at the table could use a message like that today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Just read Block 1 aloud and go straight to verses 20-21 in Block 4 to name the animals. Don’t shorten Block 3, because without it the chapter remains a story about a horn that succeeds at everything.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“This is happening now; the little horn is…” followed by the name of a politician, a nation, or an organization.",
+     "odpowiedz": "Interrupt calmly. This material points to no present-day person or institution, and the group shouldn’t either. History knows a long list of such confident identifications that had to be withdrawn years later. Go back to the question of what such a power does and what verse 14 promises."
+    },
+    {
+     "sytuacja": "Someone starts calculating dates, including the date of the end of the world.",
+     "odpowiedz": "Say plainly: this chapter gives no date for Jesus’ return, and no honest reading derives one from it. The calculation of years is at level 3. There is also a separate meeting on it: “Daniel 9:20-27. Seventy Weeks.” Today we stay with the promise, not the calendar."
+    },
+    {
+     "sytuacja": "“I don’t understand any of this.”",
+     "odpowiedz": "That is the best sentence anyone could say today. Read verse 27 aloud: Daniel, who saw it with his own eyes, says the same thing. Then ask, “And what did you understand from verse 14?” It usually turns out that the most important thing got through."
+    },
+    {
+     "sytuacja": "“So the pope is the antichrist?” Or, the other way around, someone at the table feels attacked as a Catholic.",
+     "odpowiedz": "Don’t allow the conversation in that tone. Say that the text describes a power that puts itself in God’s place and uses coercion, not people who sincerely believe. God has His people in every church. The temptation of power applies to every community, ours too. If someone wants to keep talking, offer a conversation after the meeting."
+    },
+    {
+     "sytuacja": "Someone is afraid: of persecution, of the end of the world, of “terrible destruction.”",
+     "odpowiedz": "Point out how the chapter is built. It doesn’t end with the horn but with the horn being broken, and without our help. The vision was given so that people would know that evil has a limit, not to frighten them."
+    },
+    {
+     "sytuacja": "Someone speaks about a wrong done to them and asks how much longer.",
+     "odpowiedz": "Don’t answer with a verse. Listen. You can say that in the Bible this question is a prayer, not rebellion, and that heaven itself asks it. Stay with this person after the meeting."
+    },
+    {
+     "sytuacja": "“Why do we even need chapters like this?”",
+     "odpowiedz": "Good question. The first readers lived under a power that trampled everything they held sacred. They received two messages: God sees it, and God has set an end to it. Ask whether anyone at the table could use a message like that today."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Just read Block 1 aloud and go straight to verses 20-21 in Block 4 to name the animals. Don’t shorten Block 3, because without it the chapter remains a story about a horn that succeeds at everything."
+    }
+   ]
+  }
+ ]
+}

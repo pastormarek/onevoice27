@@ -1,0 +1,866 @@
+{
+ "tytul": "The Great Banquet",
+ "id": "PJ-09",
+ "seria": "Parables of Jesus",
+ "opis": "About God’s table, which is already set today, and the good things we give as excuses for staying away.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 14:1, 7-24",
+  "p2": "Luke 14:2-6; Proverbs 25:6-7; Isaiah 25:6-9; Deuteronomy 20:5-7; 24:5; Matthew 22:1-10",
+  "p3": "Luke 24:28-29; Matthew 22:11-14; Revelation 19:7-8"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "parables",
+  "invitation",
+  "grace",
+  "excuses",
+  "hospitality",
+  "kingdom of God"
+ ],
+ "wersja": 1,
+ "zdanie": "What keeps people from God’s table is rarely some great evil. More often it is a good thing that just can’t wait today.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The whole passage is one scene at one table. Jesus is a guest at a Sabbath meal in the home of a prominent Pharisee, and all through the meal He talks about meals: who sits where, who gets invited, who shows up. The parable of the great banquet answers one pious remark that moved God’s banquet safely into the future. Jesus replies that the table is set now. The meeting should bring the group to two things at once: to a host who cares that his house is full, and to the question of what good things we have learned to put between ourselves and His invitation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Every parable of Jesus corrects some false picture of God. This one corrects two at once. The first is a God at whose table you have to earn your seat, where the guest list is arranged by rank and by who can pay you back. The second is a God whose banquet is always someday, so it asks nothing of anyone today. The host in the parable is different: he prepared everything himself, he is calling now, and more than anything he wants his house to be full. The parable is a mirror of this one truth, so don’t build doctrine on its side details, such as the number of excuses.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The excuses in the parable are land, work, and marriage. Someone who is overworked or caring for family may hear an accusation that they aren’t doing enough for God. The parable is about accepting an invitation, not about the number of church duties.",
+      "The guest list includes the poor, the crippled, the lame, and the blind. Someone with a disability or in financial hardship may be sitting with you. In the parable these people are guests of honor, not charity cases. Make sure the group doesn’t talk about them as “those people.”",
+      "The word “compel” has a bad history. Someone may bring it up with bitterness, and someone else may use it to justify pressuring loved ones.",
+      "A conversation about inviting the poor easily turns into an argument about welfare and politics. Don’t go there."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone why they rarely come to church. Don’t turn the excuses into a list of modern sins. Don’t end with an appeal for more involvement.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of an invitation you answered with “I’d love to, but not this time.” Don’t say who invited you. Just say what reason you gave.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Who Sits Where",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:1, 7-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely. … When Jesus noticed how the guests chose the places of honor, He told them a parable: “When you are invited to a wedding banquet, do not sit in the place of honor, in case someone more distinguished than you has been invited. Then the host who invited both of you will come and tell you, ‘Give this man your seat.’ And in humiliation, you will have to take the last place. But when you are invited, go and sit in the last place, so that your host will come and tell you, ‘Friend, move up to a better place.’ Then you will be honored in front of everyone at the table with you. For everyone who exalts himself will be humbled, and the one who humbles himself will be exalted.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verse 1 they are the ones watching Jesus. In verse 7 it turns out who is really watching whom. **What did Jesus notice? What are these people looking for when they choose their seats?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The advice sounds like a lesson in good manners, but the last sentence says “will be humbled” and “will be exalted.” **Who does the humbling and the exalting in that sentence? What table is Jesus starting to talk about here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "There are two ways to end up in a good seat: take it yourself, or hear “Friend, move up to a better place.” **What is the difference between a seat you win and a seat you are given, when it may be the very same seat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "At a formal meal, guests reclined on couches arranged around the table, and their distance from the host told everyone how much each one mattered. The imagination of that time carried this order all the way into heaven. The rule book of the community by the Dead Sea set out the seating order for the banquet of the messianic age by rank and ritual purity. Against that background Jesus talks about the last places.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Jesus is on His long journey to Jerusalem, which takes up ten chapters in Luke. Along the way He sits down at table again and again, including with people who are not on His side. This is a Sabbath meal at the home of one of the leaders of the Pharisees. Verses 1 through 24 are one scene: a healing, advice for the guests, advice for the host, and a parable. Right after it, in chapter 15, tax collectors and sinners are already sitting at Jesus’ table, and the religious people are grumbling.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** A clean, carefully kept meal among the devout was more than dinner. It was a foretaste of the banquet God would host in the days of the Messiah, and that is why it mattered so much who sat at it. Jesus is a guest here, yet He acts like the host: He corrects the guests, He corrects the guest list, and at the end He speaks of the banquet as His own. The verb “invite” comes up twelve times in this one scene. The whole conversation is about who is called and who comes.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Man Nobody Invited",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:2-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Right there before Him was a man with dropsy. So Jesus asked the experts in the law and the Pharisees, “Is it lawful to heal on the Sabbath or not?” But they remained silent. Then Jesus took hold of the man, healed him, and sent him on his way. And He asked them, “Which of you whose son or ox falls into a pit on the Sabbath day will not immediately pull him out?” And they were unable to answer these questions."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The guests are silent twice: before the healing and after it. **What does that silence say about the mood at this table before the first parable is even told?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sick man appears, is healed, and leaves. No one asks him to the table. **How does this scene set up what Jesus is about to say about the guest list?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Old Advice",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 25:6-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not exalt yourself in the presence of the king, and do not stand in the place of great men; for it is better that he says to you, “Come up here!” than that you should be demoted in the presence of the prince. Even what you have seen with your own eyes,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The guests knew this advice from the book of Proverbs. Jesus isn’t telling them anything new, only reminding them of their own wisdom. **What does verse 11 add to it? Why are knowing the advice and choosing your seat by it two different things?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Guest List",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:12-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus said to the man who had invited Him, “When you host a dinner or a banquet, do not invite your friends or brothers or relatives or rich neighbors. Otherwise, they may invite you in return, and you will be repaid. But when you host a banquet, invite the poor, the crippled, the lame, and the blind, and you will be blessed. Since they cannot repay you, you will be repaid at the resurrection of the righteous.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus says this to the host in front of his guests. **By what principle was the guest list for this dinner put together? What part does being “repaid” play in that principle?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The poor, the crippled, the lame, the blind. **From the point of view of someone drawing up a guest list, what do these four have in common?** Remember these four; they will come back.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Who in the Bible feeds those who have nothing to repay?** Whom would the host start to resemble if he took this advice?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "These four are not a random list of misfortunes. The community by the Dead Sea excluded, in writing, precisely the lame, the blind, and the maimed from its assemblies. So Jesus is not naming people who had been forgotten. He is naming the ones the devout had shut out.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "“Everything Is Now Ready”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "When one of those reclining with Him heard this, he said to Jesus, “Blessed is everyone who will eat at the feast in the kingdom of God.” But Jesus replied, “A certain man prepared a great banquet and invited many guests. When it was time for the banquet, he sent his servant to tell those who had been invited, ‘Come, for everything is now ready.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After Jesus’ words about the guest list, someone makes a pious remark. The remark is true. **What does it do to the conversation? Where does it move the banquet, and what stops being uncomfortable as a result?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The guest at the table says “will eat.” The servant in the parable says “everything is now ready.” **How does the second sentence answer the first?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The guests had been invited earlier and had known about the banquet for a long time. **How does that change the way we judge what they are about to do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "For a large feast, guests were invited twice. The first invitation came well in advance, and the guests accepted it. In Middle Eastern villages this custom survived for a long time: the host chose the animal to match the number of people who had promised to come, and only when the meat was ready did he send a servant with the words “Come, everything is ready.” Anyone who declined at that hour left the host with a laden table and insulted his house in front of the whole village.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Where the Feast in the Kingdom Comes From",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 25:6-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "On this mountain the LORD of Hosts will prepare a banquet for all the peoples, a feast of aged wine, of choice meat, of finely aged wine. On this mountain He will swallow up the shroud that enfolds all peoples, the sheet that covers all nations; He will swallow up death forever. The Lord GOD will wipe away the tears from every face and remove the disgrace of His people from the whole earth. For the LORD has spoken. And in that day it will be said, “Surely this is our God; we have waited for Him, and He has saved us. This is the LORD for whom we have waited. Let us rejoice and be glad in His salvation.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The man at the table didn’t invent his remark. The hope of a banquet with God begins, among other places, right here. **For whom does the Lord prepare a banquet in Isaiah? Count how many times you find “all” or “every.”**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What from Isaiah’s guest list had already disappeared from the imagination of people who picked the best seats for themselves?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Three Excuses",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:18-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "But one after another they all began to make excuses. The first one said, ‘I have bought a field, and I need to go see it. Please excuse me.’ Another said, ‘I have bought five yoke of oxen, and I am going to try them out. Please excuse me.’ Still another said, ‘I have married a wife, so I cannot come.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A field, oxen, a wife. **What do these three things have in common? Is any of them bad?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "None of the three says “I don’t want to.” **What do they say instead? What does that show about the way people usually turn God down?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Two ask to be excused; the third no longer bothers. **Could the field and the oxen really not wait until morning? How did Jesus’ listeners know these were excuses and not reasons?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Back then nobody bought land without looking at it first, and nobody paid for five yoke of oxen before seeing them at work. The law about a newly married man exempted him from going to war, not from a neighbor’s dinner. All three had accepted the invitation earlier. So the listeners at the table heard three polite sentences, none of which was the real reason.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Law Someone Stretched",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The third excuse leans on the law about a newly married man. Some readers also hear the first two as an echo of the exemptions from military service; others think that connection is too far-fetched. Read both laws and judge for yourselves.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 20:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Furthermore, the officers are to address the army, saying, “Has any man built a new house and not dedicated it? Let him return home, or he may die in battle and another man dedicate it. Has any man planted a vineyard and not begun to enjoy its fruit? Let him return home, or he may die in battle and another man enjoy its fruit. Has any man become pledged to a woman and not married her? Let him return home, or he may die in battle and another man marry her.”"
+       ]
+      },
+      {
+       "odnosnik": "Deuteronomy 24:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "If a man is newly married, he must not be sent to war or be pressed into any duty. For one year he is free to stay at home and bring joy to the wife he has married."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What did the Law exempt such people from, and why?** The third guest says “so I cannot come,” as if he were citing a regulation. **If he reached for an exemption from war, what was he comparing the banquet to?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In these laws God protects the joy of a home, a vineyard, and a marriage. **What happens when a gift God Himself protects becomes a reason not to come to Him?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "So That the House Will Be Full",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:21-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "The servant returned and reported all this to his master. Then the owner of the house became angry and said to his servant, ‘Go out quickly into the streets and alleys of the city, and bring in the poor, the crippled, the blind, and the lame.’ ‘Sir,’ the servant replied, ‘what you ordered has been done, and there is still room.’ So the master told his servant, ‘Go out to the highways and hedges and compel them to come in, so that my house will be full. For I tell you, not one of those men who were invited will taste my banquet.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The master becomes angry. **What does his anger do in the very next sentence?** Compare the list in verse 21 with the list in verse 13.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“There is still room.” **What does that sentence say about the house and about the master?** Picture a man from along the hedges whom the servant takes by the arm and leads to a rich man’s party. **Why is he the one the servant has to “compel”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The master is talking to one servant, yet the last sentence begins with “I tell you.” **Who is saying this, and to whom?** Go back to the table in verse 15.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A man from the road won’t believe the invitation is meant for him. He will hang back and look for the catch, because people like him aren’t invited to houses like that. So the servant’s instructions describe patiently persuading someone who doesn’t believe in his own invitation.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Banquet, Sharper",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Matthew recorded a similar parable, told in Jerusalem a few days before the cross.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 22:1-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Once again, Jesus spoke to them in parables: “The kingdom of heaven is like a king who prepared a wedding banquet for his son. He sent his servants to call those he had invited to the banquet, but they refused to come. Again, he sent other servants and said, ‘Tell those who have been invited that I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet.’ But they paid no attention and went away, one to his field, another to his business. The rest seized his servants, mistreated them, and killed them. The king was enraged, and he sent his troops to destroy those murderers and burn their city. Then he said to his servants, ‘The wedding banquet is ready, but those I invited were not worthy. Go therefore to the crossroads and invite to the banquet as many as you can find.’ So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do the two parables have in common, and what is sharper in Matthew?** Think about to whom and when Jesus tells each one.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Matthew the servants gather in people “both evil and good.” **What does that say about what gets someone into this hall? What does it say about every church that has ever existed?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“I need to go see it” in verse 18 is, in Greek, a phrase built on the word `anankē`, meaning necessity. “Compel” in verse 23 is the verb `anankazō`, formed from the same root. The first guest felt compelled by his field. Now the servant is to press people on the roads with the same force. The verb itself means both “to force” and “to urge strongly,” and the servant goes alone, without a troop, so in this scene all he can do is plead and persuade. What that kind of urging looks like, Luke shows ten chapters later, though with a different word:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 24:28-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "As they approached the village where they were headed, He seemed to be going farther. But they pleaded with Him, “Stay with us, for it is nearly evening and the day is almost over.” So He went in to stay with them."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In church history the words “compel them to come in” were used to justify conversion by force. **What in the parable itself rules out that reading?** Look at who the servant is, whom he goes to, and what the master did with those who refused.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Free, but Not Just Any Way",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Matthew adds a scene to his banquet that is not in Luke.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 22:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But when the king came in to see the guests, he spotted a man who was not dressed in wedding clothes. ‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless. Then the king told the servants, ‘Tie him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’ For many are called, but few are chosen.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two main readings of the garment. According to the first, the garment is the king’s gift: people swept in straight off the road could not have had proper clothes of their own, so they received them at the door, and this one man decided his own clothes were good enough. The garment then stands for the righteousness a person receives from Christ rather than produces himself. In fairness, the text says nothing about garments being handed out. According to the second reading, the garment is a life that fits the invitation. The picture in Revelation speaks for it:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 19:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let us rejoice and be glad and give Him the glory. For the marriage of the Lamb has come, and His bride has made herself ready. She was given clothing of fine linen, bright and pure.” For the fine linen she wears is the righteous acts of the saints."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in Matthew’s text supports the first reading, and what supports the second?** Notice that the guest has nothing to say in his defense.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Revelation the bride “has made herself ready,” and at the same time the clothing “was given” to her. **What ties the two readings together?** Can a person accept the invitation to this banquet and stay exactly as they were when they came?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Master’s Anger",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The last sentence of the parable sounds harsh: none of those invited will taste the banquet. Some readers hear in it a sentence the master passes in anger. Others point out that the master takes nothing away from anyone. He doesn’t send the servant out to punish. He states the result: the banquet is happening today, and those three chose something else for today. Both sides agree on one thing: the places at the table will not stay empty, and they are not lost because the master was stingy with his invitations.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Is verse 24 a punishment, or a description of what the invited guests chose for themselves? What in the text supports each answer?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A field, oxen, and a marriage are good, and none of these things was meant to be an obstacle. **What is your field and your oxen, the good thing that regularly wins out over God’s invitation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Go back to verses 12-14. **Who has a place at our table, at home or in this group, even though they will never pay us back?** And who is on the list mainly because they will?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **which of God’s invitations have you long been answering with “I’ll come, just not yet”?** You don’t have to say what is standing in the way.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The master doesn’t send the servant back a second time to those who made excuses. He sends him somewhere else. **Is there a moment when “not now” becomes “never”? Who decides that: the host or the one invited?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question with a formula, and don’t let anyone start guessing which of their loved ones is already too late. The parable is told to people who are still sitting at the table with Jesus, so for them it is still an invitation, not a verdict.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "What keeps people from God’s table is rarely some great evil. More often it is a good thing that just can’t wait today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Luke 14:17 or Luke 14:23.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This week, listen to your own excuses to God. **Which of them are reasons, and which are just polite sentences?** Try at least once to tell Him plainly “I don’t want to” instead of “I can’t,” and see what stirs in you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The words “everything is now ready” mean that nothing needs to be added to this table. Ask yourself: **what do I keep trying to bring along so I can feel I have a right to come in?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone who, in your opinion, doesn’t belong at God’s table. Tell God honestly why you think so, and stay for a while with the words “there is still room.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So work and family get in the way of faith?”** The text doesn’t say that. A field, oxen, and a wife are good, and the Law of Moses itself protected the joy they bring. The parable shows something else: a good thing used as a reason not to come. Ask: “How can I tell that something good has started to hide the One who gave it?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone overworked or caring for a sick person hears an accusation in the parable.** Say plainly that the banquet does not mean the number of services attended or roles held in church. The invitation is about accepting what God has prepared, and that can be done at the bedside of a sick mother too. Don’t let the group judge anyone’s calendar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Compel them to come in”: someone brings up religious coercion from history or their own experience of pressure.** Admit that these words have been abused. Show the text: one servant, no force, people from along the hedges, and toward those who refused, the master uses no coercion at all. If someone tells how faith was forced on them at home, listen and don’t defend anyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone uses the same words to justify pressuring a husband, a wife, or adult children.** Go back to the note in block 5. The urging in the parable persuades someone who doesn’t believe they are welcome. It doesn’t break anyone’s will. Don’t give advice about a specific family situation in front of the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns to politics: the homeless, welfare, migrants.** Interrupt calmly. Jesus is speaking to the host about his own table, not about a government program. Go back to the question in the first person: who is on my list.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone with a disability or in financial hardship is at the table, and the group is talking about “those poor people.”** Reframe without shaming anyone: in the parable these people are not objects of charity but guests for whom a place was being kept. All of us at this table come from the roads and the hedges.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So God takes offense and writes people off?”** Ask what the master’s anger does in verse 21. The result of his anger is a wider invitation, not revenge. If the group is working at level 3, there is a separate block on verse 24.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone wants to argue about healing on the Sabbath.** It’s an important topic, but not for today. The series “The Sabbath as a Gift” has a separate meeting, “Jesus and the Sabbath.” For today it is enough to notice that this whole conversation takes place at a Sabbath table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Shorten blocks 1 and 2 to reading the text and one question. Blocks 3, 4, and 5 are the parable itself, and without verse 15 you can’t see what it is answering.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So work and family get in the way of faith?”",
+     "odpowiedz": "The text doesn’t say that. A field, oxen, and a wife are good, and the Law of Moses itself protected the joy they bring. The parable shows something else: a good thing used as a reason not to come. Ask: “How can I tell that something good has started to hide the One who gave it?”"
+    },
+    {
+     "sytuacja": "Someone overworked or caring for a sick person hears an accusation in the parable.",
+     "odpowiedz": "Say plainly that the banquet does not mean the number of services attended or roles held in church. The invitation is about accepting what God has prepared, and that can be done at the bedside of a sick mother too. Don’t let the group judge anyone’s calendar."
+    },
+    {
+     "sytuacja": "“Compel them to come in”: someone brings up religious coercion from history or their own experience of pressure.",
+     "odpowiedz": "Admit that these words have been abused. Show the text: one servant, no force, people from along the hedges, and toward those who refused, the master uses no coercion at all. If someone tells how faith was forced on them at home, listen and don’t defend anyone."
+    },
+    {
+     "sytuacja": "Someone uses the same words to justify pressuring a husband, a wife, or adult children.",
+     "odpowiedz": "Go back to the note in block 5. The urging in the parable persuades someone who doesn’t believe they are welcome. It doesn’t break anyone’s will. Don’t give advice about a specific family situation in front of the group."
+    },
+    {
+     "sytuacja": "The conversation turns to politics: the homeless, welfare, migrants.",
+     "odpowiedz": "Interrupt calmly. Jesus is speaking to the host about his own table, not about a government program. Go back to the question in the first person: who is on my list."
+    },
+    {
+     "sytuacja": "Someone with a disability or in financial hardship is at the table, and the group is talking about “those poor people.”",
+     "odpowiedz": "Reframe without shaming anyone: in the parable these people are not objects of charity but guests for whom a place was being kept. All of us at this table come from the roads and the hedges."
+    },
+    {
+     "sytuacja": "“So God takes offense and writes people off?”",
+     "odpowiedz": "Ask what the master’s anger does in verse 21. The result of his anger is a wider invitation, not revenge. If the group is working at level 3, there is a separate block on verse 24."
+    },
+    {
+     "sytuacja": "Someone wants to argue about healing on the Sabbath.",
+     "odpowiedz": "It’s an important topic, but not for today. The series “The Sabbath as a Gift” has a separate meeting, “Jesus and the Sabbath.” For today it is enough to notice that this whole conversation takes place at a Sabbath table."
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Shorten blocks 1 and 2 to reading the text and one question. Blocks 3, 4, and 5 are the parable itself, and without verse 15 you can’t see what it is answering."
+    }
+   ]
+  }
+ ]
+}

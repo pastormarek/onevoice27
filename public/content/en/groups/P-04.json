@@ -1,0 +1,951 @@
+{
+ "tytul": "What Happens After Death?",
+ "id": "P-04",
+ "seria": "Questions People Ask",
+ "opis": "The Bible speaks plainly about death: a person sleeps, and God will wake them. A hope built on the resurrection.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Ecclesiastes 9:5-6, 10; Psalm 146:3-4; Genesis 2:7; Genesis 3:19; John 11:11-14; John 5:28-29; 1 Corinthians 15:16-23; 1 Corinthians 15:51-55; 1 Timothy 6:15-16",
+  "p2": "Psalm 115:17; Psalm 6:5; Acts 2:29, 34; Job 14:10-15; 1 Thessalonians 4:13-18; Isaiah 8:19-20",
+  "p3": "Ecclesiastes 12:7; Luke 23:42-43; John 20:17; Philippians 1:21-24; 2 Timothy 4:6-8; 2 Corinthians 5:1-8; Luke 16:14, 22-31"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 35
+ },
+ "tagi": [
+  "death",
+  "resurrection",
+  "hope",
+  "sleep of death",
+  "state of the dead",
+  "grief"
+ ],
+ "wersja": 1,
+ "zdanie": "The dead are asleep, and Jesus knows them by name. Our hope is not that death is gentle, but that He will interrupt it.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about hope, not about who is right regarding the afterlife. The Bible speaks plainly about death: the whole person dies and sleeps, and God will wake them. All our hope rests on the resurrection, that is, on what Jesus will do when He returns. Most people at the table grew up with a different picture: right after death the soul goes to heaven, to purgatory, or to hell. Don’t start by correcting that picture. Read the texts in order and let the group see for itself what they say.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The “Grief” study in the Crises and Turning Points series reads some of the same passages from the side of someone who has lost a loved one. Here we ask what the Bible teaches. If someone in the group is newly bereaved, consider whether that meeting would serve the group better.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table recently buried a loved one and is comforted by the thought that this person is already in heaven, looking down on them. The sentence “the dead know nothing” can sound like taking that person away from them a second time.",
+      "Someone prays for the dead, has Masses said for them, and visits their graves in November. That is their way of loving the dead. It is not the subject of today’s meeting.",
+      "Someone may have had an experience they consider contact with a dead person: a dream, a voice, a sign. For them it is not a theory.",
+      "Someone may simply be afraid of death, their own or someone else’s, and be ashamed of it.",
+      "The question of hell is hanging in the air. It has its own meeting in this series, and we won’t open it today."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t tell anyone where their loved one is or isn’t. Don’t judge other people’s religious practices. Don’t use phrases like “the Catholic Church teaches this wrongly” or anything similar. Don’t win the discussion with verses. If the group leaves with one sentence, let it be a sentence about Jesus who wakes the dead, not a sentence about what the dead don’t know.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think back to what you were told as a child about where the dead are. Say it in one sentence, the way you heard it back then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on the answers, and don’t let others comment. At this stage every answer is fine, because these are memories, not opinions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "What the Dead Know",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ecclesiastes 9:5-6, 10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the living know that they will die, but the dead know nothing. They have no further reward, because the memory of them is forgotten. Their love, their hate, and their envy have already vanished, and they will never again have a share in all that is done under the sun. … Whatever you find to do with your hands, do it with all your might, for in Sheol, where you are going, there is no work or planning or knowledge or wisdom."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 146:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Put not your trust in princes, in mortal man, who cannot save. When his spirit departs, he returns to the ground; on that very day his plans perish."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List everything that, according to these two texts, ends at the moment of death.** What on that list did you expect, and what surprises you?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Teacher does not conclude, “So nothing matters.” He draws a conclusion about today. **What is it? What changes in your life when you know that after death there is no work and no planning?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "These sentences sound harsh. **Is there also something in them that brings relief?** Think of a person who has died and who, according to this text, does not see their loved ones suffering.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Teacher in Ecclesiastes describes life “under the sun,” that is, as it looks from the earth. So you might decide this is only the voice of a skeptic. But Psalm 146 says the same thing in the language of prayer, and the Old Testament repeats it many times. “Sheol” is the Hebrew name for the place where all the dead lie, good and bad alike. It is neither heaven nor hell. It is silence.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Land of Silence",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 115:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is not the dead who praise the LORD, nor any who descend into silence."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 6:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "For there is no mention of You in death; who can praise You from Sheol?"
+       ]
+      },
+      {
+       "odnosnik": "Acts 2:29, 34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Brothers, I can tell you with confidence that the patriarch David died and was buried, and his tomb is with us to this day. … For David did not ascend into heaven, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist prays for his life and gives God a reason: the dead do not praise You. **What would a person who prays like that have to think about death?** Would someone convinced that they would stand before God right after death pray like that?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter speaks about David on the day of Pentecost, a thousand years after David’s death. **According to Peter, where is David?** Why did Peter need that sentence in a sermon about the resurrection of Jesus?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "What a Human Being Is Made Of",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 3:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "By the sweat of your brow you will eat your bread, until you return to the ground—because out of it were you taken. For dust you are, and to dust you shall return.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read Genesis 2:7 slowly. **What does God do, and in what order? What does the man “become” at the end of the sentence?** Notice what the text does not say: that the man received something inside him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Genesis 3:19 describes death. **How does that description relate to the description of creation?** Try telling death as the film of creation played backward.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Many people think of themselves as a soul living in a body. **What picture of a human being does this text give? What follows from it for how we treat the body, our own and other people’s?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This sentence does not contain two components, one of which is the real person and the other the packaging. It contains two acts of God: He formed and He breathed. The result is someone who began to breathe. The Hebrew phrase translated “a living being” was rendered “a living soul” in older translations such as the KJV. According to this text, a human being does not have a soul. A human being is a soul, that is, a living being, as long as they breathe.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Living being” in Hebrew is `nefesh chayyah`. The first chapter of the Bible uses the same phrase for fish, birds, and land animals. So it does not mean an immortal part of a human being, just a living creature.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second important word is `ruach`, meaning spirit, breath, wind.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ecclesiastes 12:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "before the dust returns to the ground from which it came and the spirit returns to God who gave it."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This verse is sometimes read as describing a soul that goes to heaven after death. **Compare it with Genesis 2:7 and Psalm 146:4. In these three texts, what returns to the ground and what returns to God?** Notice that the Teacher is speaking here about every human being, not only about believers.",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "if the “spirit” is the breath of life that God gave, then the verse says that life returns to the Giver. If someone sees a conscious soul in it, they have to accept that everyone without exception goes to God after death. Don’t settle it for the group; show both consequences.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Jesus Calls Death Sleep",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 11:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "After He had said this, He told them, “Our friend Lazarus has fallen asleep, but I am going there to wake him up.” His disciples replied, “Lord, if he is sleeping, he will get better.” They thought that Jesus was talking about actual sleep, but He was speaking about the death of Lazarus. So Jesus told them plainly, “Lazarus is dead,"
+       ]
+      },
+      {
+       "odnosnik": "John 5:28-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not be amazed at this, for the hour is coming when all who are in their graves will hear His voice and come out—those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus had many words to choose from, and He chose “has fallen asleep.” **What do sleep and death have in common from the point of view of the one who is asleep? And from the point of view of the one standing beside them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In John 5 Jesus says where the dead will come out from and what will wake them. **According to this sentence, where are the dead until that hour? What does their future rest on: something they have inside them, or something outside them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Lazarus was in the tomb four days and came back. The Gospel does not record a single word from him about what he saw. **What do you make of that silence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The image of sleep was not Jesus’ invention. The prophet Daniel wrote about those “who sleep in the dust of the earth” and will awake. Paul calls believers who have died “those who have fallen asleep.” Sleep has two features that matter here. The sleeper does not know how much time has passed. And sleep ends in waking. In the New Testament this word is not used as a gentle euphemism. It is used because it says what death has become in the presence of Jesus.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Job Asks",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 14:10-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "But a man dies and is laid low; he breathes his last, and where is he? As water disappears from the sea and a river becomes parched and dry, so a man lies down and does not rise. Until the heavens are no more, he will not be awakened or roused from sleep. If only You would hide me in Sheol and conceal me until Your anger has passed! If only You would appoint a time for me and then remember me! When a man dies, will he live again? All the days of my hard service I will wait, until my renewal comes. You will call, and I will answer; You will desire the work of Your hands."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Job asks our question today straight out. **What answer does he give himself? What is he waiting for, and who, in his view, will make the first move?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“You will desire the work of Your hands.” **What does this sentence say about God? How does it change the way we think about death to know that it is God who longs for the one who has died, not only we?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "If the Dead Are Not Raised",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 15:16-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "For if the dead are not raised, then not even Christ has been raised. And if Christ has not been raised, your faith is futile; you are still in your sins. Then those also who have fallen asleep in Christ have perished. If our hope in Christ is for this life alone, we are to be pitied more than all men. But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep. For since death came through a man, the resurrection of the dead comes also through a man. For as in Adam all die, so in Christ all will be made alive. But each in his own turn: Christ the firstfruits; then at His coming, those who belong to Him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul says that without the resurrection, Christians who have died “have perished.” **Why does he use such a strong word? Could he say that if he believed they were already with God in heaven?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Each in his own turn.” **What order does Paul give, and with what event does he connect the raising of “those who belong to Him”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The “firstfruits” were the first sheaf of the harvest, a foretaste of the whole crop. **What does Jesus’ resurrection tell us about what ours will be like?**",
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "A full study of whether Jesus really rose from the dead is in a separate meeting in this series.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "When We Will Be with the Lord",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Thessalonians 4:13-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Brothers, we do not want you to be uninformed about those who sleep in death, so that you will not grieve like the rest, who are without hope. For since we believe that Jesus died and rose again, we also believe that God will bring with Jesus those who have fallen asleep in Him. By the word of the Lord, we declare to you that we who are alive and remain until the coming of the Lord will by no means precede those who have fallen asleep. For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise. After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord. Therefore encourage one another with these words."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Thessalonians were worried about their dead. Paul could have written: don’t worry, they are already with the Lord. **What does he comfort them with instead? List the order of events in verses 16 and 17.**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Will by no means precede those who have fallen asleep” and “together with them.” **What does that say about the moment when the living and the dead meet the Lord? Why does the word “together” matter to Paul?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Who Has Immortality",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Timothy 6:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "which the blessed and only Sovereign One—the King of kings and Lord of lords—will bring about in His own time. He alone is immortal and dwells in unapproachable light. No one has ever seen Him, nor can anyone see Him. To Him be honor and eternal dominion! Amen."
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 15:51-55",
+       "przeklad": "BSB",
+       "akapity": [
+        "Listen, I tell you a mystery: We will not all sleep, but we will all be changed— in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed. For the perishable must be clothed with the imperishable, and the mortal with immortality. When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.” “Where, O Death, is your victory? Where, O Death, is your sting?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to the first text, who is immortal? According to the second, when and how does a human being receive immortality?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul calls death an enemy that in the end can be mocked. **How is that different from the sentence “death is a passage to a better world”? Which of these two attitudes is closer to you at a graveside, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Today we have traveled from Ecclesiastes to Paul. **What changed between “the dead know nothing” and “Where, O Death, is your sting?” What had to happen in between?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Bible immortality belongs to God and is His gift, not equipment a person is born with. That is why Paul uses the word “clothed”: it is something received from outside, at a set moment, at the sound of the trumpet. Paul takes the cry about death’s sting from the prophet Hosea, where God promises to ransom His people from Sheol. Our hope is not that death isn’t real. It is that death will be defeated.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Consulting the Dead",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 8:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "When men tell you to consult the spirits of the dead and the spiritists who whisper and mutter, shouldn’t a people consult their God instead? Why consult the dead on behalf of the living? To the law and to the testimony! If they do not speak according to this word, they have no light of dawn."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Longing for someone who has died can be so strong that a person would give anything for one word from them. **Where does Isaiah direct someone with that longing and with the questions they would like to ask the dead?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does what we read today about the state of the dead protect a grieving person from those who promise them contact with a loved one?**",
+     "poziom": 2
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "this is not the place for ghost stories. If someone starts talking about their own experience, check the red flags.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “Today You Will Be with Me in Paradise”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:42-43",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then he said, “Jesus, remember me when You come into Your kingdom!” And Jesus said to him, “Truly I tell you, today you will be with Me in Paradise.”"
+       ]
+      },
+      {
+       "odnosnik": "John 20:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This is the text most often cited to show that a believer is with Christ immediately after death. The first reading: Jesus promises the thief a meeting that very day. In its favor are the natural word order of the sentence and the fact that elsewhere Jesus never adds to the phrase “Truly I tell you” a note of when He is saying it. The second reading: “Truly I tell you today, you will be with Me in Paradise.” The oldest Greek manuscripts had no commas, so punctuation is the translator’s decision. In its favor are the thief’s request, which asks about the day the Kingdom comes, and Jesus’ words on Sunday morning that He had not yet ascended to the Father. What matters most unites both sides: the promise is certain, it is given to a man who had nothing to offer, and its content is “with Me.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What exactly did the thief ask for, and for when? Which part of his request does Jesus answer with the word “today”: the question “when?” or the question “is it certain?”**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “To Depart and Be with Christ”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 1:21-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "For to me, to live is Christ, and to die is gain. But if I go on living in the body, this will mean fruitful labor for me. So what shall I choose? I do not know. I am torn between the two. I desire to depart and be with Christ, which is far better indeed. But it is more necessary for you that I remain in the body."
+       ]
+      },
+      {
+       "odnosnik": "2 Timothy 4:6-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "For I am already being poured out like a drink offering, and the time of my departure is at hand. I have fought the good fight, I have finished the race, I have kept the faith. From now on there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but to all who crave His appearing."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading: Paul expects that after death he will immediately be consciously with Christ, and that the resurrection of the body will complete this later. The second reading: Paul puts two successive moments of his own experience side by side. Someone who falls asleep does not feel time, so for him the next moment after death is the face of Christ. In his last letter the same Paul, writing about the same “departure,” places his reward “on that day” and together with everyone else. Both sides share this: the goal is not heaven as a place but Christ as a person, and both confess that the body will be raised.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**When does Paul in 2 Timothy 4 date his crown, and with whom will he receive it? How does that sentence help us read Philippians 1:23?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “Away from the Body and at Home with the Lord”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 5:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now we know that if the earthly tent we live in is dismantled, we have a building from God, an eternal house in heaven, not built by human hands. For in this tent we groan, longing to be clothed with our heavenly dwelling, because when we are clothed, we will not be found naked. So while we are in this tent, we groan under our burdens, because we do not wish to be unclothed but clothed, so that our mortality may be swallowed up by life. And God has prepared us for this very purpose and has given us the Spirit as a pledge of what is to come. Therefore we are always confident, although we know that while we are at home in the body, we are away from the Lord. For we walk by faith, not by sight. We are confident, then, and would prefer to be away from the body and at home with the Lord."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading sees in verse 8 an intermediate state: without a body, but already with the Lord. The second reading points out that Paul describes three states, not two: the tent, nakedness, and the new building. Nakedness, being “unclothed,” is clearly what he does not want. He longs to be clothed, and he describes it in the same words he uses for the resurrection in 1 Corinthians 15. Both sides share the confidence that God, who has given the Spirit as a pledge, will see the matter through to the end.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**List the three states Paul talks about. Which one does he long for, and which one does he not want? How does verse 4 connect with 1 Corinthians 15:53-54?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Rich Man and Lazarus",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 16:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Pharisees, who were lovers of money, heard all of this and were scoffing at Jesus."
+       ]
+      },
+      {
+       "odnosnik": "Luke 16:22-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "One day the beggar died and was carried by the angels to Abraham’s side. And the rich man also died and was buried. In Hades, where he was in torment, he looked up and saw Abraham from afar, with Lazarus by his side. So he cried out, ‘Father Abraham, have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue. For I am in agony in this fire.’ But Abraham answered, ‘Child, remember that during your lifetime you received your good things, while Lazarus received bad things. But now he is comforted here, while you are in agony. And besides all this, a great chasm has been fixed between us and you, so that even those who wish cannot cross from here to you, nor can anyone cross from there to us.’ ‘Then I beg you, father,’ he said, ‘send Lazarus to my father’s house, for I have five brothers. Let him warn them, so that they will not also end up in this place of torment.’ But Abraham replied, ‘They have Moses and the prophets; let your brothers listen to them.’ ‘No, father Abraham,’ he said, ‘but if someone is sent to them from the dead, they will repent.’ Then Abraham said to him, ‘If they do not listen to Moses and the prophets, they will not be persuaded even if someone rises from the dead.’”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading: Jesus would not use a false picture, so the story shows that the dead are conscious and that their fate is decided right away. The second reading: this is a parable told to people who loved money, and its setting comes from popular ideas of the afterlife at the time. “Abraham’s side” was a phrase the listeners knew from other writings. Jesus takes a familiar picture and turns it against those who believed in it. The details are hard to read literally: a conversation across a chasm, the finger and tongue of people whose bodies lie in graves, a drop of water on a flame. Both sides are united by the punch line, which Jesus speaks in His own voice: eternity is decided now, at your own gate, and whoever is not satisfied with Scripture will not be convinced even by someone risen from the dead.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who is Jesus telling this story to, and after what? What is its last sentence about: the afterlife, or listening?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus told a story about a Lazarus whom Abraham will not send back from the dead. Not long afterward He raised another Lazarus. **How did those who did not listen to Moses and the prophets react? What does that say about the power of evidence?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does the thought that the dead are asleep and don’t know what is happening stir in you: relief, sadness, resistance?** Where do you think that reaction comes from?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bible does not rest our hope on what a person has inside them, but on what Jesus will do. **How does that change the way you think about your own death?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **whose voice do you miss most, and what would you like to hear on the first morning after the resurrection?** You can just say a name.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 3,
+   "tytul": "Questions Without Easy Answers",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "For centuries millions of sincere Christians lived and died convinced they were going straight to heaven. **If death is sleep, what happens to their hope at the moment they wake up? Were they mistaken about something that decides salvation?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Someone who falls asleep in Christ does not feel time passing. For them there is nothing between the last breath and the face of Jesus. **So how big is the practical difference between “right after death” and “at the resurrection” for the one who dies? And for those who are left behind?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q35",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If a person dies completely, then on the day of resurrection God creates them anew. **What makes it me and not a copy of me? What does Job’s sentence say about this: “You will desire the work of Your hands”?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the material deliberately gives no answer to any of these questions. With the first, it’s worth someone noting that Christ saves, not a correct map of the afterlife. With the third: our identity is safe in God’s memory, not in our own continuity.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The dead are asleep, and Jesus knows them by name. Our hope is not that death is gentle, but that He will interrupt it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** John 5:28 or 1 Corinthians 15:22.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "From a sentence about death the Teacher draws a conclusion about today: whatever you have to do, do it now. Ask yourself: **what am I putting off as if I had an unlimited supply of days?** This isn’t about a to-do list. It’s about one thing you have known about for a long time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone you have buried. Try to entrust them to God in Job’s words: You long for them more than I do. Notice what happens in you as you say it: **can you leave them in God’s hands without knowing anything more?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit to God what you are really afraid of in dying. Not what you’re supposed to say, but what is true. Stay with it until you stop rushing to comfort yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone newly bereaved says, “So my mom isn’t in heaven?”** Stop the material. Don’t answer with a lecture. Say what is certain: she is safe with God, she is not suffering, she does not see your pain, and the next thing she hears will be the voice of Jesus. For her it will be a single moment. If you can see it’s too much, leave the topic and stay with that person after the meeting. The group listens and keeps company. It doesn’t fix and it doesn’t lecture.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I pray for my dead and have Masses said for them.”** Don’t argue, and don’t let others argue. You can say: “That you remember them and entrust them to God is beautiful. Today we’re only asking what these particular texts say about the dead.” A person who feels attacked in their love for the dead won’t hear anything else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I shouldn’t visit graves on All Saints’ Day?”** The text says nothing of the kind. Remembering the dead, caring for a grave, and gathering as a family are good things. Abraham bought a tomb for Sarah, and the disciples buried Stephen with great mourning. Today’s question is a different one: what do we rest our hope on when we stand at that grave?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says a dead person appeared to them, spoke to them, or gave them a sign.** Don’t mock, don’t frighten, and don’t diagnose. Dreams about the dead and a sense of their presence are an ordinary part of grief. Thank them for their trust and don’t make it a topic for the group. After the meeting you can calmly show them Isaiah 8:19-20: the Bible advises against seeking such contact and directs our longing to God. If someone is using a medium or is getting drawn into it, talk with your pastor.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Only cults teach that.”** Don’t defend your denomination; go back to the text: “Let’s look again at what the Teacher, Jesus, and Paul say, and judge for ourselves.” You can add that belief in the sleep of death and the hope of the resurrection does not belong to one church. It is found among Christians of various traditions from the earliest centuries.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about hell? What about Matthew 10:28?”** Good question, and it has its own meeting in this series: “Will God Punish Me? Judgment and Hell.” Write it down and don’t open it today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about their own death in a way that worries you: that they’ve had enough, that they’d like to go to sleep now.** Don’t stay alone with this, and don’t leave that person alone. Talk with them after the meeting and ask directly whether they are thinking of taking their own life. Give them the number of a crisis line in your country. If a life is in danger, call your local emergency number. Let your pastor know.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The debate over the level 3 texts is getting heated.** Remind the group what both sides share: all Christians confess the resurrection of the body and the return of Jesus. No one at this table has to change their mind today. It’s enough that they saw what the text says.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 3 and 5 are essential: Jesus who calls death sleep, and death swallowed up in victory. The meeting must not end with Ecclesiastes.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone newly bereaved says, “So my mom isn’t in heaven?”",
+     "odpowiedz": "Stop the material. Don’t answer with a lecture. Say what is certain: she is safe with God, she is not suffering, she does not see your pain, and the next thing she hears will be the voice of Jesus. For her it will be a single moment. If you can see it’s too much, leave the topic and stay with that person after the meeting. The group listens and keeps company. It doesn’t fix and it doesn’t lecture."
+    },
+    {
+     "sytuacja": "“I pray for my dead and have Masses said for them.”",
+     "odpowiedz": "Don’t argue, and don’t let others argue. You can say: “That you remember them and entrust them to God is beautiful. Today we’re only asking what these particular texts say about the dead.” A person who feels attacked in their love for the dead won’t hear anything else."
+    },
+    {
+     "sytuacja": "“So I shouldn’t visit graves on All Saints’ Day?”",
+     "odpowiedz": "The text says nothing of the kind. Remembering the dead, caring for a grave, and gathering as a family are good things. Abraham bought a tomb for Sarah, and the disciples buried Stephen with great mourning. Today’s question is a different one: what do we rest our hope on when we stand at that grave?"
+    },
+    {
+     "sytuacja": "Someone says a dead person appeared to them, spoke to them, or gave them a sign.",
+     "odpowiedz": "Don’t mock, don’t frighten, and don’t diagnose. Dreams about the dead and a sense of their presence are an ordinary part of grief. Thank them for their trust and don’t make it a topic for the group. After the meeting you can calmly show them Isaiah 8:19-20: the Bible advises against seeking such contact and directs our longing to God. If someone is using a medium or is getting drawn into it, talk with your pastor."
+    },
+    {
+     "sytuacja": "“Only cults teach that.”",
+     "odpowiedz": "Don’t defend your denomination; go back to the text: “Let’s look again at what the Teacher, Jesus, and Paul say, and judge for ourselves.” You can add that belief in the sleep of death and the hope of the resurrection does not belong to one church. It is found among Christians of various traditions from the earliest centuries."
+    },
+    {
+     "sytuacja": "“What about hell? What about Matthew 10:28?”",
+     "odpowiedz": "Good question, and it has its own meeting in this series: “Will God Punish Me? Judgment and Hell.” Write it down and don’t open it today."
+    },
+    {
+     "sytuacja": "Someone talks about their own death in a way that worries you: that they’ve had enough, that they’d like to go to sleep now.",
+     "odpowiedz": "Don’t stay alone with this, and don’t leave that person alone. Talk with them after the meeting and ask directly whether they are thinking of taking their own life. Give them the number of a crisis line in your country. If a life is in danger, call your local emergency number. Let your pastor know."
+    },
+    {
+     "sytuacja": "The debate over the level 3 texts is getting heated.",
+     "odpowiedz": "Remind the group what both sides share: all Christians confess the resurrection of the body and the return of Jesus. No one at this table has to change their mind today. It’s enough that they saw what the text says."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 3 and 5 are essential: Jesus who calls death sleep, and death swallowed up in victory. The meeting must not end with Ecclesiastes."
+    }
+   ]
+  }
+ ]
+}

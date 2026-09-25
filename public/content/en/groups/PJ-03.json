@@ -1,0 +1,775 @@
+{
+ "tytul": "The Good Samaritan",
+ "id": "PJ-03",
+ "seria": "Parables of Jesus",
+ "opis": "An expert asks whom he is required to love, and Jesus turns the question around: to whom have you become a neighbor?",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 10:25-37",
+  "p2": "Leviticus 19:17-18, 33-34; Hosea 6:6; 2 Chronicles 28:14-15; Luke 9:51-56; Micah 6:8",
+  "p3": "Luke 15:20; John 8:48"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "parables",
+  "neighbor",
+  "mercy",
+  "limits of love",
+  "the stranger"
+ ],
+ "wersja": 1,
+ "zdanie": "You can’t define a neighbor. You can only become one.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Everyone knows this story, and nearly everyone knows it as an appeal: be kind to people in need. But Jesus tells it to a man who is asking for a definition, which means asking for a boundary: whom do I have to love, and whom can I leave out? This meeting sets out to show what Jesus does with that question. He doesn’t move the boundary further out. He takes away the questioner’s right to draw it. By the end the question sounds different from how it sounded at the start, and that is the point.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The false picture of God this parable corrects: God as a party to a contract. The expert asks what he must do to get eternal life, and then asks for the smallest range of duty that will be enough. In that arrangement God is a supplier and the neighbor is a line item in the accounts. Jesus shows a God who is Himself like the third traveler on the road: He doesn’t ask whether He has to. He simply stops. At level 3 this reading gets its own block.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be worn out from helping: caring for a sick parent, raising a child with a disability, the person everyone leans on. To them, “Go and do likewise” may sound like one more burden.",
+      "Someone may carry the memory of a time they walked past a person in need. Don’t draw those stories out.",
+      "The conversation easily veers into current arguments about whom we should be helping today. The parable is not any side’s social program.",
+      "The priest and the Levite tempt people to generalize about clergy or about Jews. Jesus isn’t attacking any group. He picks people His listeners respected."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone whom they recently walked past. Don’t end with a list of outreach projects. Don’t assign roles.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when a stranger helped you even though they didn’t have to: on a trip, at a government office, on the road. Tell us in one sentence what they did.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, briefly. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Test Question",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:25-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "One day an expert in the law stood up to test Him. “Teacher,” he asked, “what must I do to inherit eternal life?” “What is written in the Law?” Jesus replied. “How do you read it?” He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’ and ‘Love your neighbor as yourself.’” “You have answered correctly,” Jesus said. “Do this and you will live.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t give an answer. He sends the expert back to what he himself reads. **What does the expert already know before a single word of the parable is spoken? So what is he missing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Do this and you will live.” Hold verse 27 up against an ordinary week: all your heart, all your soul, all your strength, your neighbor as yourself. **How does Jesus’ sentence sound to someone who takes it seriously?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Luke tells us up front that the question was a test. **What in the way Jesus talks shows that He doesn’t treat the man as an enemy?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** A chapter earlier Luke records that Jesus resolved to go to Jerusalem. From that moment everything happens on the road. The first place on the way was a Samaritan village that refused to welcome Him. Then Jesus sent a large group of disciples ahead of Him, and they came back full of joy. The conversation with the expert in the law comes right after their return. Immediately after it Luke places the scene in the home of Martha and Mary. Only Luke records the parable of the Samaritan.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** An expert in the law was a specialist in the Law of Moses, something between a lawyer and a theologian. He answers with two quotations. The first comes from Israel’s confession of faith in Deuteronomy, which a devout Jew recited every day. The second comes from Leviticus. The question of whom the word “neighbor” covers was a live dispute in those days. Some read it broadly; other communities narrowed it to their own people.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Neighbor in Leviticus",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 19:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "You must not harbor hatred against your brother in your heart. Directly rebuke your neighbor, so that you will not incur guilt on account of him. Do not seek revenge or bear a grudge against any of your people, but love your neighbor as yourself. I am the LORD."
+       ]
+      },
+      {
+       "odnosnik": "Leviticus 19:33-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "When a foreigner resides with you in your land, you must not oppress him. You must treat the foreigner living among you as native-born and love him as yourself, for you were foreigners in the land of Egypt. I am the LORD your God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In verse 18 the neighbor stands right next to “any of your people.” **How could someone use that to narrow the commandment?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "About a dozen verses later the same words, “love him as yourself,” apply to someone else. **To whom? What does that say about the question the expert is about to ask?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Question About the Boundary",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:29-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "But wanting to justify himself, he asked Jesus, “And who is my neighbor?” Jesus took up this question and said, “A man was going down from Jerusalem to Jericho when he fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke gives the motive: “wanting to justify himself.” **What does the expert want to justify himself from? What is someone really asking when they ask for a definition of “neighbor,” and how do they picture the God they want to settle accounts with this way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In those days two things told you who someone was: their clothes and their speech. The man by the road has been stripped and lies unconscious. **What do we know about him? Why does Jesus say nothing more about him than “a man”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus could have answered with a definition. **What can a story do with a question like this that a definition can’t?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Two Who Saw",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:31-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now by chance a priest was going down the same road, but when he saw him, he passed by on the other side. So too, when a Levite came to that spot and saw him, he passed by on the other side."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "For the ones who walk past, Jesus could have picked a tax collector and a robber. He picked a priest and a Levite, people of the temple. **What is He trying to tell a man whose profession is the Law?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The parable gives not a single reason. **What reasons do you quietly supply for these two? What does it say about us that they come to mind so easily?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Now by chance a priest was going down the same road.” **What does that phrase do in this story? Did any of the three travelers plan this encounter?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The priest had a reason he could have defended. The Law forbade him to touch a dead body outside his closest family, and anyone who touched a corpse was unclean for seven days. From a distance, a man half dead looks like a dead man. But that defense only works if the man really is dead, and the priest didn’t check. In time the rabbis taught that saving a life comes before the rules of purity. The Levite came closer, saw, and walked away too. Jesus isn’t telling a story about bad people. He’s telling one about respectable people.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What God Wants",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hosea 6:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The priest and the Levite served at the sacrifices. **What does the prophet say about the order of the things God cares about? How does that sentence sound on the road to Jericho?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the Law, oil and wine were also offerings brought to the altar. Read verse 34. **Who in this story poured them out where God wanted them at that moment?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Third",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:33-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "But when a Samaritan on a journey came upon him, he looked at him and had compassion. He went to him and bandaged his wounds, pouring on oil and wine. Then he put him on his own animal, brought him to an inn, and took care of him. The next day he took out two denarii and gave them to the innkeeper. ‘Take care of him,’ he said, ‘and on my return I will repay you for any additional expense.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After the priest and the Levite, the listeners expected a third: an ordinary, devout Israelite. Then comes the word “Samaritan.” **What happened to the listeners at that moment?** Think quietly about whom Jesus would have to put in that spot for it to sting you the same way. Don’t say it out loud.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The priest and the Levite get one sentence each. The Samaritan gets three long ones. **Why does mercy take up so much room in this story? What about it can’t be summarized?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Samaritan takes the beaten man to an inn and stays the night, in a region where he himself is a foreigner and unwelcome. **What is he risking? What does he leave behind besides money?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The hostility was old, and it ran both ways. About a hundred and fifty years earlier a Jewish ruler had destroyed the Samaritan temple on Mount Gerizim. In turn, Galilean pilgrims passing through Samaria on the way to Jerusalem were sometimes attacked, as sources outside the Bible confirm. Rabbinic writings preserve a saying that the bread of Samaritans is like pork, though not every teacher agreed with it. Two denarii were two days’ wages for a laborer. The sentence that follows matters more: whatever more you spend, I will repay. The Samaritan signs a bill with no upper limit.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "People from Samaria, the Road to Jericho",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 28:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "So the armed men left the captives and the plunder before the leaders and all the assembly. Then the men who were designated by name arose, took charge of the captives, and provided from the plunder clothing for the naked. They clothed them, gave them sandals and food and drink, anointed their wounds, and put all the feeble on donkeys. So they brought them to Jericho, the City of Palms, to their brothers. Then they returned to Samaria."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is a scene from several centuries earlier: people from Samaria send home the captives they had taken from Judah. **Which details come back in the parable? What might Jesus have been reminding a man who knew the Scriptures by heart?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Fire from Heaven",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 9:51-56",
+       "przeklad": "WEB",
+       "akapity": [
+        "It came to pass, when the days were near that he should be taken up, he intently set his face to go to Jerusalem, and sent messengers before his face. They went, and entered into a village of the Samaritans, so as to prepare for him. They didn’t receive him, because he was traveling with his face set towards Jerusalem. When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky, and destroy them, just as Elijah did?” But he turned and rebuked them, “You don’t know of what kind of spirit you are. For the Son of Man didn’t come to destroy men’s lives, but to save them.” They went to another village."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James and John had a fresh grievance, a biblical precedent, and their Teacher’s honor to defend. Not long afterward they hear a parable whose hero is a Samaritan. **How did it sound in their ears?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus really was treated badly in that Samaritan village. **What does it tell us about Him that He still makes a Samaritan the example?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Had compassion” in verse 33 is the Greek verb `splanchnizomai`. It comes from a word meaning the inner organs and describes a stirring you feel in your gut. Luke uses it only three times. Once of Jesus as He sees a widow following the coffin of her only son. Once of the Samaritan. And once of the father in another parable:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Samaritan gets a verb that Luke otherwise keeps for Jesus and for the father running out onto the road. **What does that tell us about whose portrait Jesus is painting in this character?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Example or Portrait",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This parable is read in two ways. In the first it is an example: this is what love of neighbor looks like, and the last sentence says it plainly, “Go and do likewise.” In the second, known since ancient times, it is first of all a portrait: it is Christ who comes down the road, stops beside a man whom religion passed by, bandages him, pays, and promises to come back. The reader is then first of all the one lying by the road. Jesus’ opponents themselves handed Him this role:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 8:48",
+       "przeklad": "BSB",
+       "akapity": [
+        "The Jews answered Him, “Are we not right to say that You are a Samaritan and You have a demon?”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in Luke’s text itself supports the first reading, and what leaves room for the second?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both readings agree on one thing: you can’t squeeze mercy out of yourself by resolve alone. **What changes in the words “Go and do likewise” when they are heard by someone who remembers being lifted up from the road themselves?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Question Turned Around",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:36-37",
+       "przeklad": "BSB",
+       "akapity": [
+        "Which of these three do you think was a neighbor to the man who fell into the hands of robbers?” “The one who showed him mercy,” replied the expert in the law. Then Jesus told him, “Go and do likewise.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Put the expert’s question in verse 29 next to Jesus’ question in verse 36. **What has changed? In each of them, who is the neighbor: the one being helped, or the one helping?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The expert answers correctly, but in a roundabout way. **What word does he avoid? What does that say about how deeply this story has gotten into him, and how far he still has to go?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The conversation began with the question “what must I do to inherit eternal life?” **Did Jesus answer it? How?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "He Has Shown You",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Micah 6:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "He has shown you, O man, what is good. And what does the LORD require of you but to act justly, to love mercy, and to walk humbly with your God?"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The prophet says that what God requires has already been shown. The expert, too, knew the answer before he asked. **So what is missing in a person who knows? What does the question about a definition often become in a believer’s life?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Each of the men who passed by probably had a good reason. **What are your most common good reasons? Which of them sounds the most pious?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The expert was asking where his duty ended. **Where are you asking God, “And whom don’t I have to love?”**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **was there a moment in your life when you were the one lying by the road? Who stopped, and what did that change in you?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Samaritan meets one wounded man on one road, and the next day he travels on. **What about someone who passes a person lying on their road every week? Does mercy have limits of time, strength, and money, and if it does, who sets them, since Jesus took away the expert’s right to define?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. Just point out two things from the text. The Samaritan didn’t move into the inn: he did what needed doing, brought the innkeeper into the care, and went on his way. And Jesus’ question isn’t “how many did you help?” but “who did you become to the person you met?”",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "You can’t define a neighbor. You can only become one.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Luke 10:36-37 or Luke 10:33.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Take a look at the routes you travel: at work, in your family, at church. **Is there someone you avoid so carefully that you hardly see them anymore?** Don’t plan right away what you’ll do about it. First let yourself see them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask God about your good reasons. **Which of them is real, and which just sounds good?** Stay with that question, even if the answer is uncomfortable.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone from a group of people you wouldn’t want to accept help from. Ask yourself what would have to change in you for you to say about them the word the expert couldn’t bring himself to say.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone worn out from caring for a loved one says, “I just don’t have the strength to help anyone anymore.”** Don’t load the parable onto them. Tell them they know this story from the inside better than most people at the table. You might point out that the Samaritan didn’t carry the wounded man alone all the way: he took him to an inn and asked the innkeeper to carry on the care. Asking for help belongs to this parable. After the meeting, ask what this person needs from the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So being a good person is enough, and faith is unnecessary.”** The conversation starts with the commandment to love God with all your heart, and only out of that comes the neighbor. Ask, “Which of us can say we do verse 27?” The parable doesn’t lower the bar. It shows the bar is higher than the expert thought.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation veers into current politics: whom we should be helping today and whom not.** Interrupt calmly. Say that the parable doesn’t settle disputes about legislation. It asks each person about the human being they meet on their own road. Go back to verse 36.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Priests and pastors have always been like that.”** Or a generalization about Jews. Don’t take it up. Jesus chose a priest and a Levite because His listeners respected them. Today that spot would be filled by someone we respect, perhaps by us. The expert in the law is a Jew too, and he is the one who answers correctly in the end.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone ashamedly recalls a time they didn’t help.** Listen, thank them, don’t absolve them, and don’t press. You might say that this story doesn’t end with a verdict on the priest but with the word “Go,” which opens up the next day.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks whether we also have to help a person who exploits or hurts us.** The parable is about a man lying half dead, not about someone who is harming us. Mercy doesn’t mean consenting to harm. If a specific situation of abuse lies behind the question, talk after the meeting and help them find professional support.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Shorten block 1. Blocks 2 and 5 must both stay, because only together do they show that the question has been turned around.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone worn out from caring for a loved one says, “I just don’t have the strength to help anyone anymore.”",
+     "odpowiedz": "Don’t load the parable onto them. Tell them they know this story from the inside better than most people at the table. You might point out that the Samaritan didn’t carry the wounded man alone all the way: he took him to an inn and asked the innkeeper to carry on the care. Asking for help belongs to this parable. After the meeting, ask what this person needs from the group."
+    },
+    {
+     "sytuacja": "“So being a good person is enough, and faith is unnecessary.”",
+     "odpowiedz": "The conversation starts with the commandment to love God with all your heart, and only out of that comes the neighbor. Ask, “Which of us can say we do verse 27?” The parable doesn’t lower the bar. It shows the bar is higher than the expert thought."
+    },
+    {
+     "sytuacja": "The conversation veers into current politics: whom we should be helping today and whom not.",
+     "odpowiedz": "Interrupt calmly. Say that the parable doesn’t settle disputes about legislation. It asks each person about the human being they meet on their own road. Go back to verse 36."
+    },
+    {
+     "sytuacja": "“Priests and pastors have always been like that.”",
+     "odpowiedz": "Or a generalization about Jews. Don’t take it up. Jesus chose a priest and a Levite because His listeners respected them. Today that spot would be filled by someone we respect, perhaps by us. The expert in the law is a Jew too, and he is the one who answers correctly in the end."
+    },
+    {
+     "sytuacja": "Someone ashamedly recalls a time they didn’t help.",
+     "odpowiedz": "Listen, thank them, don’t absolve them, and don’t press. You might say that this story doesn’t end with a verdict on the priest but with the word “Go,” which opens up the next day."
+    },
+    {
+     "sytuacja": "Someone asks whether we also have to help a person who exploits or hurts us.",
+     "odpowiedz": "The parable is about a man lying half dead, not about someone who is harming us. Mercy doesn’t mean consenting to harm. If a specific situation of abuse lies behind the question, talk after the meeting and help them find professional support."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Shorten block 1. Blocks 2 and 5 must both stay, because only together do they show that the question has been turned around."
+    }
+   ]
+  }
+ ]
+}

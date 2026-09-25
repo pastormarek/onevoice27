@@ -1,0 +1,690 @@
+{
+ "tytul": "Illness",
+ "id": "K-02",
+ "seria": "Crises and Turning Points",
+ "opis": "The healed and the unhealed in one and the same New Testament. God is close to the sick person either way.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Mark 5:24-34; John 5:1-9; 2 Corinthians 12:7-10; 2 Timothy 4:20; 1 Timothy 5:23; John 9:1-3; James 5:13-16",
+  "p2": "Psalm 38:9-11; Philippians 2:25-27; 2 Kings 20:1-7",
+  "p3": "John 5:4; Matthew 8:16-17"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 28
+ },
+ "tagi": [
+  "crisis",
+  "illness",
+  "healing",
+  "prayer",
+  "weakness",
+  "accompanying others"
+ ],
+ "wersja": 1,
+ "zdanie": "God doesn’t take illness away from everyone, but He leaves no one alone in it. Neither should we.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In one and the same New Testament, healed and unhealed people stand side by side. A woman gets well after twelve years, and Paul, after praying three times, is left with his thorn. This meeting doesn’t promise anyone healing, and it doesn’t take the hope of it away from anyone. It shows that in both cases God is close to the sick person, and that illness is neither a verdict nor a measure of faith. A second thread is just as important: illness takes people away from people, and every time, Jesus restores the sick person to the community.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Almost certainly someone at the table is sick, has recently received a diagnosis, or is caring for someone who is ill. Not everyone talks about it.",
+      "The most dangerous sentence of the evening is “If you really believed, you’d be healthy.” The runner-up: “You brought this on yourself.”",
+      "A conversation about illness immediately slides into advice: diets, herbs, doctors, therapies. That’s not what this meeting is about.",
+      "Someone may tell about a miraculous healing. It’s a good testimony, as long as it doesn’t become a standard that others fail to measure up to."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t promise anyone healing in God’s name. Don’t explain to anyone where their illness came from. Don’t give advice about treatment, and don’t let the group do it. Don’t ask anyone about their diagnosis.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when you were sick in bed, even with an ordinary flu. Apart from your health, what did you miss most then? One sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. Don’t ask follow-up questions and don’t comment.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Twelve Years",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 5:24-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Jesus went with him, and a large crowd followed and pressed around Him. And a woman was there who had suffered from bleeding for twelve years. She had borne much agony under the care of many physicians and had spent all she had, but to no avail. Instead, her condition had only grown worse. When the woman heard about Jesus, she came up through the crowd behind Him and touched His cloak. For she kept saying, “If only I touch His garments, I will be healed.” Immediately her bleeding stopped, and she sensed in her body that she was healed of her affliction. At once Jesus was aware that power had gone out from Him. Turning to the crowd, He asked, “Who touched My garments?” His disciples answered, “You can see the crowd pressing in on You, and yet You ask, ‘Who touched Me?’” But He kept looking around to see who had done this. Then the woman, knowing what had happened to her, came and fell down before Him trembling in fear, and she told Him the whole truth. “Daughter,” said Jesus, “your faith has healed you. Go in peace and be free of your affliction.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In two verses, Mark sums up twelve years. **List everything the illness took from this woman. What on that list do you know from your own life or the lives of people close to you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The woman is already well and could slip away unnoticed. **Why does Jesus stop the whole crowd and not move on until He finds her? What does she receive in verse 34 that she didn’t receive in verse 29?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "She came up from behind, and then she confesses “trembling in fear.” **What could someone who had just been healed be afraid of?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "According to Leviticus, a flow of blood made a woman ritually unclean, and the uncleanness passed to anyone she touched. So twelve years of illness meant twelve years without the temple and almost without touch. By pushing her way through the crowd, she broke the rules and had reason to be afraid. All the caution of that world rested on the assumption that the unclean defiles the clean. With Jesus, the direction is reversed. The word “Daughter” tells her, in front of everyone, that she belongs to someone again.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At a Distance",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 38:9-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "O Lord, my every desire is before You; my groaning is not hidden from You. My heart pounds, my strength fails, and even the light of my eyes has faded. My beloved and friends shun my disease, and my kinsmen stand at a distance."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sick man in the psalm describes two things: what is happening to his body, and what is happening to his people. **Why do those close to him “stand at a distance”? What are the honest reasons we avoid people who are sick?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first sentence of this passage is addressed to God. **What does it mean for someone who no longer has the strength to pray in words?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "“I Have No One”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 5:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Some time later there was a feast of the Jews, and Jesus went up to Jerusalem. Now there is in Jerusalem near the Sheep Gate a pool with five covered colonnades, which in Hebrew is called Bethesda. On these walkways lay a great number of the sick, the blind, the lame, and the paralyzed. One man there had been an invalid for thirty-eight years. When Jesus saw him lying there and realized that he had spent a long time in this condition, He asked him, “Do you want to get well?” “Sir,” the invalid replied, “I have no one to help me into the pool when the water is stirred. While I am on my way, someone else goes in before me.” Then Jesus told him, “Get up, pick up your mat, and walk.” Immediately the man was made well, and he picked up his mat and began to walk. Now this happened on the Sabbath day,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus asks, “Do you want to get well?” **What question does the sick man actually answer? What does his answer tell us about what thirty-eight years do to a person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I have no one.” **Who around you could say that sentence today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The sick man confesses nothing, asks for nothing, and doesn’t even know who he is talking to. **What does this scene say about what God’s help depends on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "At this pool, as the people lying there understood it, the fastest and strongest won. Whoever needed help most lost by definition, and so it went for thirty-eight years. Jesus doesn’t help the sick man win the race, and He doesn’t carry him into the water. He shows a God who works differently: He comes first to the one who has no one and no longer even has anything to ask for.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: A Verse Not in Every Bible",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If you’re reading the BSB or most other modern translations, you won’t find the sentence about an angel stirring the water. The end of verse 3 and all of verse 4 are missing from the oldest surviving manuscripts of John’s Gospel. It looks like an old explanation written in the margin, so that readers would understand what stirring of the water the sick man mentions in verse 7. The KJV kept it. This matters for the conversation: the angel belongs to what the people lying in the colonnades believed, and John doesn’t ask us to attribute it to God.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Unhealed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 12:7-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "or because of these surpassingly great revelations. So to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me. That is why, for the sake of Christ, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+       ]
+      },
+      {
+       "odnosnik": "2 Timothy 4:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Erastus has remained at Corinth, and Trophimus I left sick in Miletus."
+       ]
+      },
+      {
+       "odnosnik": "1 Timothy 5:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Stop drinking only water and use a little wine instead, because of your stomach and your frequent ailments."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul asked three times and received an answer, but not the one he asked for. **What exactly did he hear? What is missing from that answer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God healed people through Paul’s hands. The same Paul leaves Trophimus sick in Miletus, and recommends a home remedy to Timothy for his stomach. **What do these two short sentences do to the claim that a truly believing person doesn’t get sick?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“When I am weak, then I am strong.” **When is this sentence real comfort, and when does it sound like an excuse? What makes the difference?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "We don’t know what Paul’s thorn was. Most likely it was a bodily ailment, known to the people of his time and nameless to us. What matters is what Paul calls it: “a messenger of Satan.” He doesn’t attribute it to God, though he sees that God was able to use it for his good. And a second thing: the request was refused, but not because Paul lacked faith. It’s hard to point to anyone in the New Testament who had more.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Near Death",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 2:25-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "But I thought it necessary to send back to you Epaphroditus, my brother, fellow worker, and fellow soldier, who is also your messenger and minister to my needs. For he has been longing for all of you and is distressed because you heard he was ill. He was sick indeed, nearly unto death. But God had mercy on him, and not only on him but also on me, to spare me sorrow upon sorrow."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Epaphroditus recovered. **What words does Paul use to describe it? How is “God had mercy on him” different from “he deserved it” or “we prayed him through”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The apostle writes openly that his friend’s death would have been “sorrow upon sorrow” for him. **What does that say about whether a believer is allowed to be afraid for someone who is sick?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Who Sinned?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 9:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now as Jesus was passing by, He saw a man blind from birth, and His disciples asked Him, “Rabbi, who sinned, this man or his parents, that he was born blind?” Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples see a suffering man, and the first thing they ask is whose fault it is. **Why is that question so tempting? What does it give the person who asks it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What does Jesus reject in His answer, and where does He turn the disciples’ attention?** Notice that He turns a question about the past into a statement about what is about to happen.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**In what forms does the question “who sinned” come back today, even among believers and people who take care of their health?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Let Him Call the Elders",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 5:13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Is any one of you suffering? He should pray. Is anyone cheerful? He should sing praises. Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord. And the prayer offered in faith will restore the one who is sick. The Lord will raise him up. If he has sinned, he will be forgiven. Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man has great power to prevail."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**According to James, what is the sick person supposed to do, and what is the church supposed to do? Whose move is the first step, and why might that be hard?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "James writes that the prayer offered in faith will restore the sick person. Paul prayed three times, and the illness remained. **How can these two passages stand in one Bible? What is each of them protecting?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "James writes, “If he has sinned.” **What does the word “if” change in that sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The sick person isn’t sent away to pray alone. **What does it give a person when someone comes to their bedside and prays over them out loud?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "According to James, the power lies in the prayer, not in the elders. They were ordinary people from the local church, people who were trusted. Oil was an everyday remedy back then, the same one the Samaritan used on the wounds of the man who was beaten. Prayer and medicine go together here, and no one sees a contradiction in that. James speaks of any illness and of a return to strength. The word “if” separates illness from guilt: they are sometimes connected, but nothing about guilt follows from the illness itself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Prayer and a Poultice of Figs",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Kings 20:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’” Then Hezekiah turned his face to the wall and prayed to the LORD, saying, “Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what was good in Your sight.” And Hezekiah wept bitterly. Before Isaiah had left the middle courtyard, the word of the LORD came to him, saying, “Go back and tell Hezekiah the leader of My people that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. I will surely heal you. On the third day from now you will go up to the house of the LORD. I will add fifteen years to your life. And I will deliver you and this city from the hand of the king of Assyria. I will defend this city for My sake and for the sake of My servant David.’” Then Isaiah said, “Prepare a poultice of figs.” So they brought it and applied it to the boil, and Hezekiah recovered."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God promises healing, and the prophet still has a poultice applied. **What does this scene say about the relationship between prayer and medical treatment?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hezekiah turns to the wall and weeps. **What does God say about his tears? Compare this answer with the answer Paul received. What do they have in common, even though one is “yes” and the other is “no”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Is Healing Promised to Us?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 8:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "When evening came, many who were demon-possessed were brought to Jesus, and He drove out the spirits with a word and healed all the sick. This was to fulfill what was spoken through the prophet Isaiah: “He took on our infirmities and carried our diseases.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Some Christians read this passage like this: since Jesus bore our diseases just as He bore our sins, healing belongs to the believer right now, and it only has to be received by faith. Others point out that Matthew sees these words fulfilled in the specific healings of that evening, and that Paul, Trophimus, and Timothy went on being sick. In their view, the complete healing of the body is certain, but it comes together with the resurrection.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do both positions have in common?** What does each of them say about whether God cares about the human body?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What happens to a sick person who hears the first position and doesn’t get well?** And what can be lost by holding only to the second?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Your own illness, or that of someone close to you, teaches you what helps a sick person and what harms them. **What has it taught you? Which of today’s passages confirm it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which picture feels closest to you today:** the woman pushing through the crowd, the man who has no one, Paul with his thorn, or the sick person who is to call others to their bedside?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a health concern you’ve stopped praying about? What made you stop?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“A great number of the sick” lay in the colonnades, and Jesus went up to one. Two people in the same church pray for the same thing, and one gets well while the other doesn’t. **What may we say about that, and what must we not say?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the material deliberately doesn’t give an answer. Just guard the two boundaries that came out of the text today: the difference isn’t explained by the amount of faith, and it isn’t explained by guilt.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God doesn’t take illness away from everyone, but He leaves no one alone in it. Neither should we.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** 2 Corinthians 12:9 or Mark 5:34.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The woman from the crowd “told Him the whole truth.” If you’re ill or afraid for your health, tell God the whole truth about what the illness is taking from you beyond your health itself: peace, plans, the sense of being needed. No embellishing, and no adding that others have it worse.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone who has been sick for a long time and who could say, “I have no one.” Ask yourself honestly: **what keeps me from being that someone?** Lack of time, helplessness, or perhaps fear of what their illness says about my own fragility.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you’re keeping an illness, or a fear about a medical test, secret, tell one person you trust and ask them to pray for you. In James, it’s the sick person who takes the first step.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table is seriously ill or has just received a diagnosis.** Talk with that person before the meeting, tell them the topic, and leave them complete freedom: they can stay silent, step out, or not come. During the meeting, don’t make them an example and don’t direct questions to them by name. If they start talking on their own, listen to the end. Don’t force comfort on them, and don’t jump straight to a story about an acquaintance who had the same thing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If you really believed, you’d be healthy,” or a healing testimony presented as the model for everyone.** Give sincere thanks for the healing, because it’s a reason for joy. Then go back to block 3: “Paul prayed three times and was left with his thorn, and he left Trophimus sick. Did they lack faith?” Don’t let anyone leave the meeting carrying an extra burden of guilt for their own illness.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“It’s their own fault, look how they ate,” or principles of healthy living used to judge people.** Caring for your health is good, and it has a long tradition in our church. It stops being good the moment it’s used to decide who deserved their illness. Go back to John 9: Jesus didn’t let the disciples look for someone to blame. People who live very healthy lives get sick too.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone wants to stop taking medication or give up treatment “in faith,” or the group starts recommending diets and therapies.** Stop it calmly and firmly. The group doesn’t give medical advice, even if there’s a nurse or a doctor in it. Hezekiah received a promise from God Himself, and still a poultice was applied. Changes to treatment are discussed with the doctor in charge. If someone talks about stopping their medication, talk with them after the meeting and encourage them to see their doctor first.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Depression and other mental illnesses.** These are illnesses, not a lack of faith or a weak character, and they are treated by a psychiatrist and a psychotherapist. If someone says they no longer have the strength to live, take it seriously, stay with them after the meeting, and don’t carry this alone. Point them to a crisis line in your country; if life is in immediate danger, call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The caregiver.** People who have been caring for a sick parent, child, or spouse for months or years are sometimes more exhausted than the sick person, and they rarely talk about it because they feel it isn’t right to. If someone like that speaks up, don’t steer the conversation back to the sick person. Ask how they themselves are holding up, and think together as a group about whether you can realistically take something off their shoulders.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks for prayer with anointing.** That’s a good request, and exactly what James writes about. Don’t organize it on the spot in the middle of the meeting. Help that person get in touch with the pastor or a church elder, and offer to be there with them.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone at the table is seriously ill or has just received a diagnosis.",
+     "odpowiedz": "Talk with that person before the meeting, tell them the topic, and leave them complete freedom: they can stay silent, step out, or not come. During the meeting, don’t make them an example and don’t direct questions to them by name. If they start talking on their own, listen to the end. Don’t force comfort on them, and don’t jump straight to a story about an acquaintance who had the same thing."
+    },
+    {
+     "sytuacja": "“If you really believed, you’d be healthy,” or a healing testimony presented as the model for everyone.",
+     "odpowiedz": "Give sincere thanks for the healing, because it’s a reason for joy. Then go back to block 3: “Paul prayed three times and was left with his thorn, and he left Trophimus sick. Did they lack faith?” Don’t let anyone leave the meeting carrying an extra burden of guilt for their own illness."
+    },
+    {
+     "sytuacja": "“It’s their own fault, look how they ate,” or principles of healthy living used to judge people.",
+     "odpowiedz": "Caring for your health is good, and it has a long tradition in our church. It stops being good the moment it’s used to decide who deserved their illness. Go back to John 9: Jesus didn’t let the disciples look for someone to blame. People who live very healthy lives get sick too."
+    },
+    {
+     "sytuacja": "Someone wants to stop taking medication or give up treatment “in faith,” or the group starts recommending diets and therapies.",
+     "odpowiedz": "Stop it calmly and firmly. The group doesn’t give medical advice, even if there’s a nurse or a doctor in it. Hezekiah received a promise from God Himself, and still a poultice was applied. Changes to treatment are discussed with the doctor in charge. If someone talks about stopping their medication, talk with them after the meeting and encourage them to see their doctor first."
+    },
+    {
+     "sytuacja": "Depression and other mental illnesses.",
+     "odpowiedz": "These are illnesses, not a lack of faith or a weak character, and they are treated by a psychiatrist and a psychotherapist. If someone says they no longer have the strength to live, take it seriously, stay with them after the meeting, and don’t carry this alone. Point them to a crisis line in your country; if life is in immediate danger, call your local emergency number."
+    },
+    {
+     "sytuacja": "The caregiver.",
+     "odpowiedz": "People who have been caring for a sick parent, child, or spouse for months or years are sometimes more exhausted than the sick person, and they rarely talk about it because they feel it isn’t right to. If someone like that speaks up, don’t steer the conversation back to the sick person. Ask how they themselves are holding up, and think together as a group about whether you can realistically take something off their shoulders."
+    },
+    {
+     "sytuacja": "Someone asks for prayer with anointing.",
+     "odpowiedz": "That’s a good request, and exactly what James writes about. Don’t organize it on the spot in the middle of the meeting. Help that person get in touch with the pastor or a church elder, and offer to be there with them."
+    }
+   ]
+  }
+ ]
+}

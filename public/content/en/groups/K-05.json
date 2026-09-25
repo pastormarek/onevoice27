@@ -1,0 +1,790 @@
+{
+ "tytul": "When the Child Doesn’t Come",
+ "id": "K-05",
+ "seria": "Crises and Turning Points",
+ "opis": "For those who wanted to become parents and didn’t. What the Bible doesn’t promise, and what it does.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Samuel 1:2-8; 1 Samuel 1:9-18; 1 Samuel 1:19-20; Luke 1:5-7; Isaiah 54:1; Isaiah 56:3-5; Luke 11:27-28",
+  "p2": "Genesis 30:1-2; Genesis 25:20-21, 26; 1 Samuel 1:24-28; Acts 8:27-28, 36-39",
+  "p3": "Deuteronomy 23:1; Genesis 1:28; Psalm 127:3-5; Psalm 113:9"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "crisis",
+  "childlessness",
+  "infertility",
+  "waiting",
+  "prayer",
+  "identity"
+ ],
+ "wersja": 1,
+ "zdanie": "God doesn’t measure your life in children. He gives you a name nothing can erase.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about people who wanted to become parents and didn’t, or haven’t yet. The Bible knows this pain well and describes it without softening it: Hannah weeps and won’t eat; Rachel cries out that she will die. The meeting does not promise that persistent prayer ends with a baby, because the text doesn’t promise that. It shows two things. God takes in this pain whole, with no pretty words. And God tells people without children something their world couldn’t tell them: your name and your place don’t depend on whether you have children.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Usually no one in the group knows about someone’s infertility. A couple who has been in treatment for years, a woman who has had a miscarriage, a man who has heard a diagnosis, a single person who wanted a family and whose time ran out. Assume someone like that is sitting at the table.",
+      "Hannah’s story ends with Samuel’s birth. It’s easy to turn it into a recipe: pray like Hannah and God will give. For someone after ten years of prayer, that sentence is a blow.",
+      "Parents of young children can, with the best intentions, take over the conversation with stories about their kids.",
+      "Spouses often experience this very differently and don’t always talk about it with each other. Don’t ask one of them how the other feels."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone whether this is their story. Don’t comfort people with examples of couples who “finally made it.” Don’t judge anyone’s medical decisions, and don’t let the group judge them. Don’t explain why God didn’t give someone a child. The text never does that, not once.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Some questions people ask out of kindness can still hurt. Don’t say what the question was. Just say what you do when you hear it: do you answer, joke, change the subject, go quiet?",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t press anyone about which question they meant.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Year After Year",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 1:2-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "He had two wives, one named Hannah and the other Peninnah. And Peninnah had children, but Hannah had none. Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the LORD. And whenever the day came for Elkanah to present his sacrifice, he would give portions to his wife Peninnah and to all her sons and daughters. But to Hannah he would give a double portion, for he loved her even though the LORD had closed her womb. Because the LORD had closed Hannah’s womb, her rival would provoke her and taunt her viciously. And this went on year after year. Whenever Hannah went up to the house of the LORD, her rival taunted her until she wept and would not eat. “Hannah, why are you crying?” her husband Elkanah asked. “Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**List what each person in this scene does toward Hannah: Peninnah, Elkanah.** Who wounds her, who loves her, and who understands her? Is that the same person?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Elkanah really does love his wife, and the text shows it. He asks, “Am I not better to you than ten sons?” **What in that question is love, and what misses the mark?** What did Hannah need instead?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The worst of it comes “year after year,” at the feast, in the house of the LORD, at the family table. **Why can the days and places meant for joy hurt the most?** What are today’s equivalents of that yearly trip to Shiloh?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In that world there were no pensions or social safety nets. Children were the only security in old age and the only way to keep a name and land in the family. Neighboring peoples saw infertility as a verdict from a god. Against that background you can see what the Bible doesn’t do: it never says of any of the childless women it tells about that she is being punished. The narrator gives no reason for Hannah’s infertility. He only tells us what it cost her.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Rachel",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 30:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob. Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Give me children, or I will die!” **What does that cry say about what childlessness meant to Rachel?** Is it an exaggeration or an accurate description?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jacob answers with anger, Elkanah with tenderness. Both love their wives, and both miss the mark. **What does the text show about how two people in one marriage live through the same pain?** What did neither husband say about himself?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Twice we read that “the LORD had closed her womb.” Hebrew doesn’t separate here what God did from what God allowed. Since He could have prevented it and didn’t, it is said that He did it. Hannah herself speaks the same way later in her song: the LORD brings death and gives life, sends poverty and wealth. This isn’t an explanation of the cause. It’s a confession that nothing happens outside of God.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The narrator says the LORD closed her womb and says not a word about why. **How is the statement “this is in God’s hands” different from “God is punishing you for something”?** Which one do we hear in this text, and which one do people add?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "I Poured Out My Soul",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 1:9-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD. In her bitter distress, Hannah prayed to the LORD and wept with many tears. And she made a vow, pleading, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever come over his head.” As Hannah kept on praying before the LORD, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman oppressed in spirit. I have not had any wine or strong drink, but I have poured out my soul before the LORD. Do not take your servant for a wicked woman; for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began eating again, and her face was no longer downcast."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Describe this prayer: what Hannah’s body is doing, what her voice is doing, what words she uses for what she is doing.** How is it different from the prayers we usually hear in church?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The priest on duty looks at the deepest prayer in this chapter and sees a drunk woman. **What does that say about how this pain looks from the outside and how people of faith sometimes read it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verse 18 Hannah leaves, eats, and her face is no longer downcast. She has no child, and she doesn’t know whether she will. **What changed between verse 10 and verse 18?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Hannah prays “in her bitter distress.” **Can bitterness and prayer go together?** What would have happened if she had waited to pray until the bitterness passed?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dedicated",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "A son was born. A few years later Hannah comes back to Shiloh.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 1:24-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the LORD at Shiloh. And when they had slaughtered the bull, they brought the boy to Eli. “Please, my lord,” said Hannah, “as surely as you live, my lord, I am the woman who stood here beside you praying to the LORD. I prayed for this boy, and since the LORD has granted me what I asked of Him, I now dedicate the boy to the LORD. For as long as he lives, he is dedicated to the LORD.” So they worshiped the LORD there."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A woman who wept for a child for years leaves him at the temple, “though the boy was still young.” **What does that say about what Hannah was really looking for at Shiloh?** Only a son?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Already in her prayer Hannah treats the child as something she will receive and give back. **How is longing for a child as a gift different from longing for a child as proof that my life has turned out well?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The LORD Remembered",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 1:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "The next morning Elkanah and Hannah got up early to bow in worship before the LORD, and then returned home to Ramah. And Elkanah had relations with his wife Hannah, and the LORD remembered her. So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”"
+       ]
+      },
+      {
+       "odnosnik": "Luke 1:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the time of Herod king of Judea there was a priest named Zechariah, who belonged to the priestly division of Abijah, and whose wife Elizabeth was a daughter of Aaron. Both of them were righteous in the sight of God, walking blamelessly in all the commandments and decrees of the Lord. But they had no children, because Elizabeth was barren, and they were both well along in years."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke puts two statements side by side: they were blameless, and they had no children. **What is the first statement there for?** What theory about the causes of infertility does it cut off before anyone can voice it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hannah gave birth to Samuel. Elizabeth will give birth too, but after a lifetime of waiting. The Bible tells the stories that ended with a child. **Do these stories contain a promise for everyone who prays?** What is promised in them, and what isn’t there?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“The LORD remembered her.” **Does that mean He had forgotten her before?** What did the years before that sentence look like from Hannah’s side, and what might they look like from God’s?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Scripture tells about Sarah, Rebekah, Rachel, Hannah, and Elizabeth because their sons carried the story of salvation forward. These are stories of how God carries His promise through people no one expected anything from. They are not instructions for praying a child into being. In the same books live people whose descendants are never mentioned, and no one blames them for it. The text doesn’t promise a child. It says that God remembers, even when nothing suggests it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Twenty Years in One Sentence",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 25:20-21, 26",
+       "przeklad": "BSB",
+       "akapity": [
+        "and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean. Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived. … After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In verse 21 the prayer and the answer stand in a single sentence. **Count the years between verse 20 and verse 26. What does the text leave unsaid?** What might those twenty years have been like in Isaac and Rebekah’s tent?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In a similar situation Isaac’s father reached for a quick fix and took Hagar. About Isaac the text says only that he prayed on behalf of his wife. **What does it mean to pray for someone who shares the same pain with you, and not just for the problem to be solved?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Name Better Than Sons and Daughters",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 54:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the LORD."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 56:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Let no foreigner who has joined himself to the LORD say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.” For this is what the LORD says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant— I will give them, in My house and within My walls, a memorial and a name better than that of sons and daughters. I will give them an everlasting name that will not be cut off."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I am but a dry tree.” **Who talks about themselves this way, and where does that sentence come from?** Does a person hear it from God, from other people, or from themselves?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God doesn’t promise the eunuchs children here. **What does He promise instead, and why does He call it “better”?** What does this say about what a person’s future depends on?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Isaiah 54:1 tells the barren woman to shout for joy before anything has changed. **When does a word like that carry someone, and when does it wound?** What decides whether it’s right to say it to someone?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A eunuch was a man who could not have children, in the ancient world usually a castrated court official. In a world where a person lived on in his sons, he was someone without a future, and the old law did not admit him into the assembly. Isaiah announces something new: a place in God’s house and a name that will not be erased. The first passage speaks to the whole nation after its defeat, using the image of a barren woman. The second speaks to specific people. No one measures their worth in descendants.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "On the Road to Gaza",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 8:27-28, 36-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "So he started out, and on his way he met an Ethiopian eunuch, a court official in charge of the entire treasury of Candace, queen of the Ethiopians. He had gone to Jerusalem to worship, and on his return was sitting in his chariot reading Isaiah the prophet. … As they traveled along the road and came to some water, the eunuch said, “Look, here is water! What is there to prevent me from being baptized?” And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip baptized him. When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This man is reading the scroll of Isaiah, the same book that holds the promise to the eunuchs. He asks, “What is there to prevent me…?” **How many times in his life might he have heard that something stood in the way?** What does he hear this time?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "He “went on his way rejoicing.” Nothing about his body or his situation had changed. **What is this joy made of?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Behind Isaiah’s promise stands an old regulation.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 23:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "No man with crushed or severed genitals may enter the assembly of the LORD."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In Isaiah 56:5 the words “memorial” and “name” are the Hebrew `yad vashem`. The first literally means “hand” and is sometimes used of a monument, a marker that stands for a person when no sons remain after him. So God is saying: I will be what remains of you, and I will set it up in My own house. The verb in “will not be cut off” is exactly that: cut off. To a man defined by being cut, God promises a name no one will cut off.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah doesn’t cancel the old regulation by arguing with it, but with a promise that goes further. **What does this say about the direction in which God leads His community: who is there more of over time?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Children as a Blessing",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 1:28",
+       "przeklad": "BSB",
+       "akapity": [
+        "God blessed them and said to them, “Be fruitful and multiply, and fill the earth and subdue it; rule over the fish of the sea and the birds of the air and every creature that crawls upon the earth.”"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 127:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Children are indeed a heritage from the LORD, and the fruit of the womb is His reward. Like arrows in the hand of a warrior, so are children born in one’s youth. Blessed is the man whose quiver is full of them. He will not be put to shame when he confronts the enemies at the gate."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 113:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "He settles the barren woman in her home as a joyful mother to her children. Hallelujah!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "These texts are true and beautiful, and they can hurt a person without children. If children are a gift and a blessing, what is their absence? The Bible itself guards against drawing that conclusion. The words in Genesis are a blessing spoken over humanity, not a yardstick held up to each individual. Psalm 113 sings of what God can do; it doesn’t make a promise to every woman. And at the center of the New Testament stand people without children: Jesus, Paul, most likely John the Baptist.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can we say that children are a gift without also saying that people without children have been passed over?** How can you tell when a church has crossed that line?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Blessed Rather",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 11:27-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "As Jesus was saying these things, a woman in the crowd raised her voice and said, “Blessed is the womb that bore You, and blessed are the breasts that nursed You!” But He replied, “Blessed rather are those who hear the word of God and obey it.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The woman in the crowd pays a compliment, and in it she measures another woman’s happiness by her son. Jesus answers, “Blessed rather…” **What is He correcting?** Is He diminishing motherhood, or opening the blessing to people who didn’t fit in that woman’s sentence?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What does our church measure people by, and where can you hear it?** Think of Mother’s Day services, child dedications, conversations after church. What do those moments look like from the pew where someone without children is sitting?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What well-meant remarks hurt people who have no children but wanted them?** What can we say instead, and when is it better to say nothing?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hannah stopped eating, and later she could say, “I have poured out my soul before the LORD.” **What have you been waiting for so long in your life that you’ve stopped talking about it, even to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a prayer you stopped praying because it hurt too much?** You don’t have to say which one.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hannah prayed with tears and gave birth to a son. Another woman prays just as sincerely for twenty years and doesn’t. **Does anything set these two prayers apart in God’s eyes? If not, what is Hannah’s story actually telling us?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t answer on God’s behalf. It is worth making sure the observation from verse 18 comes up, though: Hannah went away comforted before she had received anything. The text shows that she was heard in two senses, and the first didn’t depend on the second.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God doesn’t measure your life in children. He gives you a name nothing can erase.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Isaiah 56:5 or 1 Samuel 1:15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "If this is your pain: at Shiloh Hannah didn’t say pretty words; she prayed “out of the depth of my anguish and grief.” There is a sentence about this that you don’t say to anyone, maybe not even to your husband or wife. **Say it to God exactly as it is.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If this isn’t your pain: think back to a question, a joke, or a piece of advice you once tossed at someone without children. **Stay for a moment with how it may have sounded on the other side.** This isn’t about guilt, just about hearing it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask yourself what you use to measure whether your life is full. Children, work, what you’ll leave behind? What would happen to that measure if you took seriously what God says in Isaiah to people who called themselves a dry tree?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a miscarriage or the death of a baby before birth, sometimes out loud for the first time in their life.** This is grief, even if no one around them has called it that. Listen to the end. Don’t say “you’ll have another one,” “at least it was early,” “it was God’s will.” It is enough to say: “Thank you for telling us. That was a real loss.” Stop the group before it starts giving advice. After the meeting, ask whether this person has someone to talk to about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is in the middle of a crisis: a fresh diagnosis, another failed attempt, a marriage coming apart under the strain.** The group listens and walks alongside; it doesn’t treat and doesn’t give medical or psychological advice. Shorten the material if needed. Long efforts to have a child often end in depression. If you see that someone isn’t holding up, tell them about a crisis line in your country and encourage them to talk to a professional. If someone says life has no meaning, don’t leave that person alone, and call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to IVF, other treatments, or adoption, and someone starts passing judgment.** Step in right away. At the table there may be someone who has made such a decision, is making it now, or came into the world that way. The group doesn’t judge anyone’s medical decisions and isn’t the place to argue about them. Say: “These are decisions for a couple, their doctor, and their conscience. If anyone wants to talk about them in the light of faith, the pastor is the right person for that, not our group.” Go back to the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So when are you two going to have kids?”, “Just relax and it’ll happen,” “You can always adopt.”** Remarks like these come from kindness and hurt for years. If one is said at the table, don’t shame the speaker, but don’t let it pass without a word: “Let’s pause here. That’s exactly what the first application question is about.” Adoption is a good path for those who choose it themselves, not a remedy prescribed by others.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A testimony: “We prayed for seven years and God gave. You have to believe.”** Receive this person’s joy; it’s real. Then calmly add what the text says: blameless Elizabeth waited her whole life, and many faithful people never saw it happen. One story is not a rule for everyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Maybe God has some purpose in this,” “maybe it’s because of something.”** No one has the right to say the first sentence to someone else; a person can only arrive at it on their own. The second flatly contradicts the text. Go back to Luke 1:6: blameless and childless, in the same sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The silent man.** Infertility is talked about almost exclusively as women’s pain. Men feel it just as deeply, usually without words, and the medical cause can lie with either partner. Don’t put anyone on the spot, but make sure the conversation doesn’t go on as if fatherhood were an afterthought.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A single person who wanted a family.** This is their meeting too, even though no one will ask about them. Block 4 speaks to them directly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 5 and fold its questions into the application. Don’t shorten blocks 2 and 4: the first shows what you are allowed to do with pain, the second says who a person is when their prayer doesn’t end the way Hannah’s did.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone talks about a miscarriage or the death of a baby before birth, sometimes out loud for the first time in their life.",
+     "odpowiedz": "This is grief, even if no one around them has called it that. Listen to the end. Don’t say “you’ll have another one,” “at least it was early,” “it was God’s will.” It is enough to say: “Thank you for telling us. That was a real loss.” Stop the group before it starts giving advice. After the meeting, ask whether this person has someone to talk to about it."
+    },
+    {
+     "sytuacja": "Someone is in the middle of a crisis: a fresh diagnosis, another failed attempt, a marriage coming apart under the strain.",
+     "odpowiedz": "The group listens and walks alongside; it doesn’t treat and doesn’t give medical or psychological advice. Shorten the material if needed. Long efforts to have a child often end in depression. If you see that someone isn’t holding up, tell them about a crisis line in your country and encourage them to talk to a professional. If someone says life has no meaning, don’t leave that person alone, and call your local emergency number."
+    },
+    {
+     "sytuacja": "The conversation drifts to IVF, other treatments, or adoption, and someone starts passing judgment.",
+     "odpowiedz": "Step in right away. At the table there may be someone who has made such a decision, is making it now, or came into the world that way. The group doesn’t judge anyone’s medical decisions and isn’t the place to argue about them. Say: “These are decisions for a couple, their doctor, and their conscience. If anyone wants to talk about them in the light of faith, the pastor is the right person for that, not our group.” Go back to the text."
+    },
+    {
+     "sytuacja": "“So when are you two going to have kids?”, “Just relax and it’ll happen,” “You can always adopt.”",
+     "odpowiedz": "Remarks like these come from kindness and hurt for years. If one is said at the table, don’t shame the speaker, but don’t let it pass without a word: “Let’s pause here. That’s exactly what the first application question is about.” Adoption is a good path for those who choose it themselves, not a remedy prescribed by others."
+    },
+    {
+     "sytuacja": "A testimony: “We prayed for seven years and God gave. You have to believe.”",
+     "odpowiedz": "Receive this person’s joy; it’s real. Then calmly add what the text says: blameless Elizabeth waited her whole life, and many faithful people never saw it happen. One story is not a rule for everyone."
+    },
+    {
+     "sytuacja": "“Maybe God has some purpose in this,” “maybe it’s because of something.”",
+     "odpowiedz": "No one has the right to say the first sentence to someone else; a person can only arrive at it on their own. The second flatly contradicts the text. Go back to Luke 1:6: blameless and childless, in the same sentence."
+    },
+    {
+     "sytuacja": "The silent man.",
+     "odpowiedz": "Infertility is talked about almost exclusively as women’s pain. Men feel it just as deeply, usually without words, and the medical cause can lie with either partner. Don’t put anyone on the spot, but make sure the conversation doesn’t go on as if fatherhood were an afterthought."
+    },
+    {
+     "sytuacja": "A single person who wanted a family.",
+     "odpowiedz": "This is their meeting too, even though no one will ask about them. Block 4 speaks to them directly."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 5 and fold its questions into the application. Don’t shorten blocks 2 and 4: the first shows what you are allowed to do with pain, the second says who a person is when their prayer doesn’t end the way Hannah’s did."
+    }
+   ]
+  }
+ ]
+}

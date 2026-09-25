@@ -1,0 +1,779 @@
+{
+ "tytul": "Grief",
+ "id": "K-01",
+ "seria": "Crises and Turning Points",
+ "opis": "The Bible gives grief room and time. Jesus weeps at a tomb He is about to open.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "John 11:17-27; John 11:33-44; Genesis 23:1-4; Genesis 50:1-3, 10; Acts 8:2; 2 Samuel 12:16-23; 1 Thessalonians 4:13-18; 1 Corinthians 15:26",
+  "p2": "John 11:1-6, 11-15; Ecclesiastes 3:1-4; Proverbs 25:20; Romans 12:15; 1 Corinthians 15:51-55",
+  "p3": "Job 1:20-21"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "crisis",
+  "grief",
+  "death",
+  "hope",
+  "resurrection",
+  "accompanying others"
+ ],
+ "wersja": 1,
+ "zdanie": "Faith doesn’t shorten grief. It gives it a horizon.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting isn’t meant to lead anyone out of grief. It’s meant to show that the Bible gives grief room and time, and that faith doesn’t shorten it but gives it a horizon. The people in these passages weep long and loud, and no one reproaches them for it. Jesus weeps at a tomb He is about to open. In these passages, the hope of the resurrection comes alongside the tears, not instead of them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Almost everyone at the table has buried someone. You don’t know whose loss is fresh and whose has gone unmourned for twenty years.",
+      "There may be people at the table who pray for their dead, or who are convinced their loved one is already in heaven. This meeting isn’t the place to argue about that. We read what John 11 and 1 Thessalonians 4 say, and we leave it to the passages.",
+      "Block 4 tells of a child’s death. If you know that someone in the group has lost a child or had a miscarriage, talk with them before the meeting and ask whether they want this block to be read.",
+      "Pious sentences can hurt more than silence. The topic will tempt the group to comfort. Today we’re learning, rather, to be present."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t explain to anyone why their loved one died. Don’t say, “I know how you feel.” Don’t compare losses. Don’t set anyone a deadline by which they should pull themselves together. Don’t press someone who has gone quiet.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when things were very hard for you, not necessarily after someone’s death. What did someone do or say for you then that you still remember today? One sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. Don’t comment on other people’s answers. If someone wants to skip their turn, move on without a word.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "“If You Had Been Here”",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Lazarus of Bethany, a friend of Jesus, fell ill and died. His sisters sent for Jesus while their brother was still alive.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 11:17-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus arrived, He found that Lazarus had already spent four days in the tomb. Now Bethany was near Jerusalem, a little less than two miles away, and many of the Jews had come to Martha and Mary to console them in the loss of their brother. So when Martha heard that Jesus was coming, she went out to meet Him; but Mary stayed at home. Martha said to Jesus, “Lord, if You had been here, my brother would not have died. But even now I know that God will give You whatever You ask of Him.” “Your brother will rise again,” Jesus told her. Martha replied, “I know that he will rise again in the resurrection at the last day.” Jesus said to her, “I am the resurrection and the life. Whoever believes in Me will live, even though he dies. And everyone who lives and believes in Me will never die. Do you believe this?” “Yes, Lord,” she answered, “I believe that You are the Christ, the Son of God, who was to come into the world.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Martha greets Jesus with a sentence that holds both reproach and faith. **What does Jesus do with that sentence, and what doesn’t He do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Martha speaks of “the last day.” Jesus answers, “I am the resurrection.” **What changes when hope stops being a date on the calendar and starts having a face?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Martha ran out to the road; Mary stayed at home. **What do these two reactions tell us about how differently people live through the same loss?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Martha believes correctly. The resurrection on the last day was taught in the synagogue, and Jesus doesn’t correct her on anything. He only shifts the weight from a distant “it” to a near “I.” He asks about trust in the Person standing in front of her on the road. It’s also worth noticing that Jesus doesn’t defend Himself against the reproach or explain His absence. The sentence “if You had been here” is received without rebuke.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Days’ Delay",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 11:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "At this time a man named Lazarus was sick. He lived in Bethany, the village of Mary and her sister Martha. (Mary, whose brother Lazarus was sick, was to anoint the Lord with perfume and wipe His feet with her hair.) So the sisters sent word to Jesus, “Lord, the one You love is sick.” When Jesus heard this, He said, “This sickness will not end in death. No, it is for the glory of God, so that the Son of God may be glorified through it.” Now Jesus loved Martha and her sister and Lazarus. So on hearing that Lazarus was sick, He stayed where He was for two days,"
+       ]
+      },
+      {
+       "odnosnik": "John 11:11-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "After He had said this, He told them, “Our friend Lazarus has fallen asleep, but I am going there to wake him up.” His disciples replied, “Lord, if he is sleeping, he will get better.” They thought that Jesus was talking about actual sleep, but He was speaking about the death of Lazarus. So Jesus told them plainly, “Lazarus is dead, and for your sake I am glad I was not there, so that you may believe. But let us go to him.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John writes it in one breath: Jesus loved them, and He stayed two more days. **How do those two sentences sound to someone who prayed, and help didn’t come in time?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus calls His friend’s death sleep, and right after that He says plainly, “Lazarus is dead.” **Why both sentences? What would be lost if only one of them remained?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Background",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Counting the days removes an old charge from this scene: that Jesus let His friend die for effect. From Bethany to the place across the Jordan where Jesus was staying was roughly a day’s journey. A day for the messenger’s journey, two days’ delay, and a day for Jesus’ journey add up to four days, and that is exactly how long Lazarus had already been in the tomb. So he most likely died while the messenger was still on the road. The delay didn’t decide anything. The sisters don’t know that, and their “if You had been here” remains real pain.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jesus says of Lazarus that he has fallen asleep, and Paul, in 1 Thessalonians 4, uses the same word for believers who have died. The Greek verb is `koimaomai`, “to fall asleep.” From it comes `koimeterion`, literally “a place of sleep, a bedroom.” The first Christians gave that name to the places where they buried their dead, and that is where the English word “cemetery” comes from. The name itself is a confession of faith: here people sleep, and whoever sleeps will be woken.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Tears Before the Miracle",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 11:33-44",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus saw her weeping, and the Jews who had come with her also weeping, He was deeply moved in spirit and troubled. “Where have you put him?” He asked. “Come and see, Lord,” they answered. Jesus wept. Then the Jews said, “See how He loved him!” But some of them asked, “Could not this man who opened the eyes of the blind also have kept Lazarus from dying?” Jesus, once again deeply moved, came to the tomb. It was a cave with a stone laid across the entrance. “Take away the stone,” Jesus said. “Lord, by now he stinks,” said Martha, the sister of the dead man. “It has already been four days.” Jesus replied, “Did I not tell you that if you believed, you would see the glory of God?” So they took away the stone. Then Jesus lifted His eyes upward and said, “Father, I thank You that You have heard Me. I knew that You always hear Me, but I say this for the benefit of the people standing here, so they may believe that You sent Me.” After Jesus had said this, He called out in a loud voice, “Lazarus, come out!” The man who had been dead came out with his hands and feet bound in strips of linen, and his face wrapped in a cloth. “Unwrap him and let him go,” Jesus told them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus knows what He will do in a few minutes, and yet He weeps. **What does that say about the place of tears for someone who has hope?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The people at the tomb comment on Jesus’ tears in two ways, in verse 36 and in verse 37. **Which of these two sentences have you heard when someone was grieving, and what does it do to the person who is weeping?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus calls Lazarus out of the tomb, but people roll away the stone, and people take off the grave clothes too. **In someone’s grief, what belongs to God, and what belongs to those standing nearby?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Lazarus came out of the tomb, and years later he died a second time. His sisters, if they outlived him, buried him again. So the raising at Bethany wasn’t the answer to death, but a sign of who He is, the One who said, “I am the resurrection.” The answer lies in that sentence, not in the stone that was rolled away. That’s why this story also belongs to those whose loved ones did not come out of the grave.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The BSB says gently that Jesus was “deeply moved in spirit.” The Greek verb `embrimaomai` is much sharper. It appears three more times in the New Testament, and each time it carries a sternness close to anger: in the stern order of silence given to the healed blind men and to the leper, and in the indignation at the woman with the perfume. In classical Greek it described a horse snorting. John uses it twice, in verses 33 and 38. So at the tomb Jesus is not only sad; He is stirred up.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**At what, or at whom, might this anger be directed?** What does it change in our picture of God that Jesus goes to His friend’s tomb stirred up, not resigned?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Grief Has Its Time",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 23:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Sarah lived to be 127 years old. She died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went out to mourn and to weep for her. Then Abraham got up from beside his dead wife and said to the Hittites, “I am a foreigner and an outsider among you. Give me a burial site among you so that I can bury my dead.”"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 50:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Joseph fell upon his father’s face, wept over him, and kissed him. And Joseph directed the physicians in his service to embalm his father Israel. So they embalmed him, taking the forty days required to complete the embalming. And the Egyptians mourned for him seventy days."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 50:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "When they reached the threshing floor of Atad, which is across the Jordan, they lamented and wailed loudly, and Joseph mourned for his father seven days."
+       ]
+      },
+      {
+       "odnosnik": "Acts 8:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "God-fearing men buried Stephen and mourned deeply over him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List everything these people do after their loss: with their bodies, with their voices, with their time. **What does no one reproach them for in these passages?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "We read first that Abraham went to mourn for Sarah, and then that he “got up from beside his dead wife” and went to arrange a grave. **What does it mean that the Bible recorded both sentences, and in that order?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Seventy days, then seven more. **How much time for grief does a person’s world give them today: work, family, church? Where does that hurry come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Abraham is the Bible’s model of faith, and he weeps over Sarah. The people who buried Stephen had just heard how, as he was dying, he saw heaven opened, and yet they “mourned deeply over him.” Luke doesn’t see weak faith in that; he calls them God-fearing. In Genesis, seven days is the measure of life’s great passages: a wedding lasts that long, and so does mourning. In the Bible, loss gets its own time, and no one cuts it short.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Vinegar on a Wound",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ecclesiastes 3:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "To everything there is a season, and a time for every purpose under heaven: a time to be born and a time to die, a time to plant and a time to uproot, a time to kill and a time to heal, a time to break down and a time to build, a time to weep and a time to laugh, a time to mourn and a time to dance,"
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 25:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Like one who removes a garment on a cold day or vinegar poured on a wound is one who sings songs to a heavy heart."
+       ]
+      },
+      {
+       "odnosnik": "Romans 12:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Rejoice with those who rejoice; weep with those who weep."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The proverb speaks of someone who “sings songs to a heavy heart.” **Which pious or well-meaning sentences act on a grieving person like vinegar on a wound? Why do they have that effect, when the speaker means well?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t write “comfort those who weep,” but “weep with those who weep.” **What’s the difference?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "David Gets Up from the Ground",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "David’s infant son fell ill. In his story, this illness is linked to the father’s guilt, described a chapter earlier. That link belongs to that one story, and no conclusion about any other death may be drawn from it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Samuel 12:16-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "David pleaded with God for the boy. He fasted and went into his house and spent the night lying in sackcloth on the ground. The elders of his household stood beside him to help him up from the ground, but he was unwilling and would not eat anything with them. On the seventh day the child died. But David’s servants were afraid to tell him that the child was dead, for they said, “Look, while the child was alive, we spoke to him, and he would not listen to us. So how can we tell him the child is dead? He may even harm himself.” When David saw that his servants were whispering to one another, he perceived that the child was dead. So he asked his servants, “Is the child dead?” “He is dead,” they replied. Then David got up from the ground, washed and anointed himself, changed his clothes, and went into the house of the LORD and worshiped. Then he went to his own house, and at his request they set food before him, and he ate. “What is this you have done?” his servants asked. “While the child was alive, you fasted and wept, but when he died, you got up and ate.” David answered, “While the child was alive, I fasted and wept, for I said, ‘Who knows? The LORD may be gracious to me and let him live.’ But now that he is dead, why should I fast? Can I bring him back again? I will go to him, but he will not return to me.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servants had a ready-made picture in their heads of what grief should look like, and David did everything the other way around. **What does this scene say about our expectations of other people’s grief?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I will go to him, but he will not return to me.” **What does David accept in this sentence, and what does he hold on to in spite of everything?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "David prayed for seven days, and the child died. **Where does he go right after that, even before he eats? What does that say about his relationship with a God who didn’t give him what he asked for?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Not Like Those Who Have No Hope",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Thessalonians 4:13-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Brothers, we do not want you to be uninformed about those who sleep in death, so that you will not grieve like the rest, who are without hope. For since we believe that Jesus died and rose again, we also believe that God will bring with Jesus those who have fallen asleep in Him. By the word of the Lord, we declare to you that we who are alive and remain until the coming of the Lord will by no means precede those who have fallen asleep. For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise. After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord. Therefore encourage one another with these words."
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 15:26",
+       "przeklad": "BSB",
+       "akapity": [
+        "The last enemy to be destroyed is death."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t write “do not grieve.” He writes that you should not grieve like the rest, who are without hope. **In what way is the grief of a person with hope the same as any other grief, and in what way is it different?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What does Paul base this hope on?** Find the one event in the passage that everything else follows from.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Therefore encourage one another with these words.” **Which words exactly? What is the content of the comfort in verses 16 and 17: where the dead will be, with whom, and for how long?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul calls death an enemy. **What does it change in grief to know that God isn’t on death’s side, but stands with me against it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The believers in Thessalonica were afraid that their dead would lose out because they hadn’t lived to see Jesus return. Paul answers that no one will get ahead of anyone else. He speaks of the dead the same way Jesus spoke of Lazarus: they have fallen asleep. The comfort here isn’t a description of what is happening to them now. The comfort is the reunion that is coming. Two phrases carry the whole passage: “together with them” and “always be with the Lord.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Death Has Been Swallowed Up",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 15:51-55",
+       "przeklad": "BSB",
+       "akapity": [
+        "Listen, I tell you a mystery: We will not all sleep, but we will all be changed— in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed. For the perishable must be clothed with the imperishable, and the mortal with immortality. When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.” “Where, O Death, is your victory? Where, O Death, is your sting?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare this passage with 1 Thessalonians 4. **What is repeated in both descriptions? According to Paul, when is a person clothed with immortality?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul taunts death: “Where, O Death, is your sting?” **Can someone in fresh grief say that sentence? When is it comfort, and when is it vinegar on a wound?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Is It God Who Takes?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Job’s sentence is often spoken beside a casket.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Job 1:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Job stood up, tore his robe, and shaved his head. He fell to the ground and worshiped, saying: “Naked I came from my mother’s womb, and naked I will return. The LORD gave, and the LORD has taken away. Blessed be the name of the LORD.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "But the reader of the book of Job knows something Job doesn’t. A few verses earlier, the reader saw who really struck his household, and it wasn’t God. Paul calls death an enemy that God will destroy. Jesus goes to His friend’s tomb stirred up.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**So what is Job’s sentence: a teaching about who takes people’s loved ones away, or something else?** What is Job doing with this sentence, when he says it lying face down on the ground?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How do we hold together both voices of the Bible: the one that sees God as the Lord of life in every loss, and the one that calls death His enemy?** What do these two voices have in common?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "in the church there are people for whom the sentence “the LORD has taken away” brings peace, and people for whom it takes God away. Don’t decide for them. One thing unites them: the one who died has not fallen out of God’s hands.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "What words and gestures helped you or someone close to you in grief, and which ones hurt? **What in today’s passages explains the difference?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s people is closest to you in the way they live through loss:** Martha, who runs out with a reproach; Mary, who sits at home; Abraham, who gets up to arrange the burial; or David, whom no one understands?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a loss you have never fully grieved?** You don’t have to say which one.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "That year in Bethany there were other funerals too, and no one came out of those graves. **What do you say to someone who prayed like Martha and Mary, and their loved one died? What does John 11 say to them, since it doesn’t say, “This will happen to you too, before the funeral”?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t manufacture an answer. If the group gets stuck, go back to two things in the text: Jesus wept even at the tomb He was about to open, and the promise “I am the resurrection” was spoken to Martha before anything had happened.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Faith doesn’t shorten grief. It gives it a horizon.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** John 11:25 or 1 Thessalonians 4:14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone you have lost. Say Martha’s sentence to God in your own words: “If You had been here…” Don’t smooth it over, and don’t immediately tack on a pious ending. Jesus received that sentence without rebuke.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone around you who is grieving and whom you’ve been avoiding for a while. Ask yourself honestly: **what am I afraid of, that I’m avoiding them?** That I won’t know what to say, or what their loss reminds me of in my own?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** go to that person without prepared sentences. Say the name of the one who died, ask what they were like, and listen to the end. Don’t comfort until you’re asked to.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table is freshly bereaved or starts to cry.** If you know about a fresh loss, talk with that person before the meeting. Tell them what it will be about, and give them complete freedom: they can stay silent, step out, or not come. During the meeting, don’t direct questions to them by name. When someone cries, don’t stop the meeting and don’t bury them in words. A moment of silence and someone’s hand on their shoulder are enough. Go on when that person signals that it’s okay.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“He’s already in heaven, watching over us,” or someone mentions praying for the dead.** Don’t correct them, and don’t open a debate, especially when it’s a grieving person speaking. You can say, “Today’s passages speak of death as sleep and of waking up when Jesus returns. One thing is certain for all of us: your loved one is in God’s hands, and the reunion is still ahead of us.” If the group wants to go deeper into what the Bible says about the state of the dead, suggest a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“It was God’s will,” “God needed another angel,” “everything happens for a reason.”** These sentences usually come from someone who wants to help, so don’t shame them. Go back to the text: “Let’s look at how Jesus acts at the tomb. Does He look like someone who wanted this?” Paul calls death an enemy, not a tool.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“It’s been a year already, time to pull yourself together,” or comparing losses.** Stop it calmly. In Genesis 50 no one counts Joseph’s days. Grief has no schedule, and after some losses it comes back in waves for years. The sentence “others have it worse” has never yet helped anyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The loss of a child, a miscarriage, and the block about David.** This is the hardest part of the meeting. Read aloud the introductory sentence to block 4: the link between the child’s death and the father’s guilt belongs to that one story. If someone asks whether God took their child as a punishment, answer plainly that He didn’t, and point to John 9:3, where Jesus rejects that kind of reckoning. If you know the topic is too fresh for someone, skip block 4 entirely. The meeting will hold up without it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone speaks of a loved one’s death by suicide, or says they themselves no longer want to live.** Don’t pass judgment on the one who died, and don’t let the group do so. It isn’t for us to decide their fate. If someone at the table says they themselves see no point in living, take it seriously. Stay with them after the meeting, ask them directly whether they are thinking of taking their own life, and don’t carry this alone. Point them to a crisis line in your country; in immediate danger, call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts giving advice or treatment.** The group listens and walks alongside. It doesn’t diagnose, doesn’t recommend medications or stopping them, and doesn’t replace a counselor. If after many months someone’s grief still keeps them from eating, sleeping, or working, encourage them privately to talk with a doctor or a counselor. That isn’t a lack of faith; it’s caring for yourself, just like the sleep and the bread God gave Elijah.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone at the table is freshly bereaved or starts to cry.",
+     "odpowiedz": "If you know about a fresh loss, talk with that person before the meeting. Tell them what it will be about, and give them complete freedom: they can stay silent, step out, or not come. During the meeting, don’t direct questions to them by name. When someone cries, don’t stop the meeting and don’t bury them in words. A moment of silence and someone’s hand on their shoulder are enough. Go on when that person signals that it’s okay."
+    },
+    {
+     "sytuacja": "“He’s already in heaven, watching over us,” or someone mentions praying for the dead.",
+     "odpowiedz": "Don’t correct them, and don’t open a debate, especially when it’s a grieving person speaking. You can say, “Today’s passages speak of death as sleep and of waking up when Jesus returns. One thing is certain for all of us: your loved one is in God’s hands, and the reunion is still ahead of us.” If the group wants to go deeper into what the Bible says about the state of the dead, suggest a separate meeting."
+    },
+    {
+     "sytuacja": "“It was God’s will,” “God needed another angel,” “everything happens for a reason.”",
+     "odpowiedz": "These sentences usually come from someone who wants to help, so don’t shame them. Go back to the text: “Let’s look at how Jesus acts at the tomb. Does He look like someone who wanted this?” Paul calls death an enemy, not a tool."
+    },
+    {
+     "sytuacja": "“It’s been a year already, time to pull yourself together,” or comparing losses.",
+     "odpowiedz": "Stop it calmly. In Genesis 50 no one counts Joseph’s days. Grief has no schedule, and after some losses it comes back in waves for years. The sentence “others have it worse” has never yet helped anyone."
+    },
+    {
+     "sytuacja": "The loss of a child, a miscarriage, and the block about David.",
+     "odpowiedz": "This is the hardest part of the meeting. Read aloud the introductory sentence to block 4: the link between the child’s death and the father’s guilt belongs to that one story. If someone asks whether God took their child as a punishment, answer plainly that He didn’t, and point to John 9:3, where Jesus rejects that kind of reckoning. If you know the topic is too fresh for someone, skip block 4 entirely. The meeting will hold up without it."
+    },
+    {
+     "sytuacja": "Someone speaks of a loved one’s death by suicide, or says they themselves no longer want to live.",
+     "odpowiedz": "Don’t pass judgment on the one who died, and don’t let the group do so. It isn’t for us to decide their fate. If someone at the table says they themselves see no point in living, take it seriously. Stay with them after the meeting, ask them directly whether they are thinking of taking their own life, and don’t carry this alone. Point them to a crisis line in your country; in immediate danger, call your local emergency number."
+    },
+    {
+     "sytuacja": "The group starts giving advice or treatment.",
+     "odpowiedz": "The group listens and walks alongside. It doesn’t diagnose, doesn’t recommend medications or stopping them, and doesn’t replace a counselor. If after many months someone’s grief still keeps them from eating, sleeping, or working, encourage them privately to talk with a doctor or a counselor. That isn’t a lack of faith; it’s caring for yourself, just like the sleep and the bread God gave Elijah."
+    }
+   ]
+  }
+ ]
+}

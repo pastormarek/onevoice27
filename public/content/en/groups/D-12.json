@@ -1,0 +1,881 @@
+{
+ "tytul": "Daniel 12. Go On Your Way and Rest",
+ "id": "D-12",
+ "seria": "The Book of Daniel",
+ "opis": "The last page of the book: those who sleep in the dust will awake, and the old prophet hears that he may rest.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 11:44-45; 12:1; 12:2-3; 12:4; 12:5-10; 12:13; 1:21",
+  "p2": "Luke 10:20; Isaiah 25:8; 26:19; Acts 24:14-15; Revelation 22:10; Hebrews 11:13, 39-40",
+  "p3": "Genesis 3:19; Daniel 7:25; Daniel 12:11-12"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 31
+ },
+ "tagi": [
+  "Daniel",
+  "resurrection",
+  "hope",
+  "death",
+  "perseverance",
+  "the end"
+ ],
+ "wersja": 1,
+ "zdanie": "I don’t have to understand the end of the world to come to my own end in peace. It’s enough to know who wakes the sleepers.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This is the last page of the book. After eleven chapters of kings, beasts and numbers, God ends His conversation with Daniel with two things. The first is the clearest statement about resurrection in the whole Old Testament: those who sleep in the dust of the earth will awake. The second is said to an old man who asks “how long” and “what will be the outcome”: go on your way; you will rest, and will arise. Daniel doesn’t get answers to all his questions. He gets a promise that his own story doesn’t end in the grave.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is not a lecture on the state of the dead or on the chronology of the end. A full study on death is in a separate meeting, “What Happens After Death?” Here you stay with what Daniel 12 brings.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be newly bereaved. For them, verse 2 is not a doctrine but a question about a particular person. Read it slowly, and don’t add who will awake to what.",
+      "The second half of verse 2 speaks of shame and contempt. Someone may hear in it a verdict on a loved one who died without faith. The text gives no names, and neither does the group.",
+      "The numbers in verses 7, 11 and 12 attract number crunchers. At Level 1 you read verse 7 without calculations, and verses 11-12 are only at Level 3.",
+      "Some people at the table may believe the dead are already in heaven. Don’t argue. Show what this text says: it speaks of sleep and of awaking."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t calculate dates. Don’t point to what today’s “time of distress” is. Don’t comfort anyone with statements the text doesn’t make.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of an older person you knew who knew how to bring things to a close: retire from work, hand over the keys, say goodbye. In one sentence, say what was good about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "At That Time",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The last ruler in the long prophecy of chapter 11 sets out on his final war.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 11:44-45",
+       "przeklad": "BSB",
+       "akapity": [
+        "But news from the east and the north will alarm him, and he will go out with great fury to destroy many and devote them to destruction. He will pitch his royal tents between the sea and the beautiful holy mountain, but he will meet his end with no one to help him."
+       ]
+      },
+      {
+       "odnosnik": "Daniel 12:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "“At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Of the king it is said: “with no one to help him.” Of Daniel’s people: the one who “stands watch over” them will rise up. **What is the difference between these two endings?** What decides which side of that sentence you are on?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 1 announces the greatest distress and deliverance at the same time. **What does this text not promise God’s people, and what does it promise?** Compare it with the furnace of chapter 3 and the lions’ den of chapter 6.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The one delivered will be “everyone whose name is found written in the book.” There’s not a word about merit or knowledge. **What does it mean to be written down? Who keeps this book?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In chapter 11 the verb “arise” comes up again and again, and it almost always means one more king who will soon disappear. In chapter 12 it comes up for the last time, and the one who rises up doesn’t fall. The name Michael means “who is like God?” That question is an answer to the whole book: to the golden statue, to the king who ordered people to pray to him, to the horn speaking arrogant words.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** On the last page. Chapter 12 finishes the vision that began by the Tigris in chapter 10 and closes the whole book. Each of Daniel’s four great visions ended with God stepping in: a stone smashes the statue, the Son of Man receives the kingdom, the arrogant king is broken “not by human hands.” This last one goes a step further than those. It reaches beyond history, into the graves.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** For the first readers this was not a theoretical question. Chapter 11 had announced that the most faithful, those with insight who instruct others, would “fall by sword or flame.” If death is the end, then the very people who were right have lost. Verses 2 and 3 answer that question.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 10:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Nevertheless, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The disciples come back thrilled with what they can do, and Jesus redirects their joy to where they are written down. **Why is the second a surer reason for joy than the first?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Those Who Sleep in the Dust",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 12:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "And many who sleep in the dust of the earth will awake, some to everlasting life, but others to shame and everlasting contempt. Then the wise will shine like the brightness of the heavens, and those who lead many to righteousness will shine like the stars forever and ever."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text calls death sleep, and what comes after it, awaking. **What does this image say about death, and what does it not say?** What do we know about a person who is asleep?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The previous chapter says the wise will “fall by sword or flame” and that some of them will fall. Now those same wise ones shine like the stars. **What does the resurrection change in how we judge a life that, humanly speaking, ended in defeat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The ones who will shine are not the strongest or the most famous, but “those who lead many to righteousness.” **Who was that kind of person in your life?** Do they know it?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The earlier books of the Old Testament speak of death mainly in the language of dust and silence: “to dust you shall return”; “who can praise You from Sheol?” This sentence is a turning point. It takes the same word, “dust,” and writes what comes next. The hope here isn’t that something in a person doesn’t die, but that God wakes those who have truly fallen asleep. In the world Jesus lived in, “resurrection” was understood as a rule to mean a return to bodily life, not the continued existence of a soul.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Isaiah Said It First",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 25:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "He will swallow up death forever. The Lord GOD will wipe away the tears from every face and remove the disgrace of His people from the whole earth. For the LORD has spoken."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 26:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Your dead will live; their bodies will rise. Awake and sing, you who dwell in the dust! For your dew is like the dew of the morning, and the earth will bring forth her dead."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of Isaiah’s words come back in Daniel?** What does Daniel add to what Isaiah said?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah says that God “will wipe away the tears from every face.” **How does that promise sound to someone who is grieving a particular person today?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Shared Hope",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 24:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "I do confess to you, however, that I worship the God of our fathers according to the Way, which they call a sect. I believe everything that is laid down by the Law and written in the Prophets, and I have the same hope in God that they themselves cherish, that there will be a resurrection of both the righteous and the wicked."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul stands before a court and says that his hope is the same as his accusers’ hope, and that he took it from the Prophets. **What does that say about the place of Daniel 12:2 in the faith of the first Christians?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word “dust” in verse 2 is the Hebrew `afar`, the same word used in the sentence pronounced in the garden of Eden.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "By the sweat of your brow you will eat your bread, until you return to the ground—because out of it were you taken. For dust you are, and to dust you shall return.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "So Daniel 12:2 is an answer to Genesis 3:19, given with the same word. The first pages of the Bible say where a person returns. The last page of Daniel says that this is not the final address.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Between Genesis 3:19 and Daniel 12:2 lies almost the entire Old Testament. **Why do you think God waited so long to say this plainly?** To whom did He finally say it, and at what moment?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “Many” and “Everlasting Contempt”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Verse 2 raises two questions. The first: why “many” and not “all”? Some read it as the resurrection of a particular group during the final distress. Others see a Hebrew way of speaking here, in which “many” means “a multitude, the many” and excludes no one, and they set it beside Jesus’ words that all who are in the graves will hear His voice. Both readings agree on the main thing: the grave is not the end, either for the faithful or for the unfaithful.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second question concerns the words “shame and everlasting contempt.” The Hebrew word rendered “contempt” appears only once more in the Bible, at the end of the book of Isaiah, where it means the revulsion stirred by the sight of God’s fallen enemies. Some read the verse as announcing endless, conscious suffering. Others, including Adventists, point out that the text speaks of shame that is everlasting in its consequences, not of torment that goes on without end, and that in this sentence only the first group receives “everlasting life.” The full conversation about this is in the meeting “Will God Punish Me? Judgment and Hell.” What both sides share is that God takes human choices seriously and that evil will not have the last word.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does this verse say for certain, and what do we add to it from other places or from our imagination?** Try to separate the one from the other.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Seal the Book",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 12:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "But you, Daniel, shut up these words and seal the book until the time of the end. Many will roam to and fro, and knowledge will increase.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel is to write down a book that he himself will never fully understand, for people he will never meet. **How do you work on something whose fruit you will never see?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Many will roam to and fro, and knowledge will increase.” From the whole book we know what kind of knowledge Daniel seeks, and what kind the people had who “know their God.” **What knowledge is this verse talking about: knowledge of the future, or something else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Important documents were sealed so that they would reach the recipient intact. **What changes if you think of this book as sealed not against the reader but for the reader?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Do Not Seal",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 22:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then he told me, “Do not seal up the words of prophecy in this book, because the time is near."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel hears “seal,” and several centuries later John hears “do not seal.” **What happened between these two commands that the second reverses the first?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "How Long?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 12:5-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I, Daniel, looked and saw two others standing there, one on this bank of the river and one on the opposite bank. One of them said to the man dressed in linen, who was above the waters of the river, “How long until the fulfillment of these wonders?” And the man dressed in linen, who was above the waters of the river, raised his right hand and his left hand toward heaven, and I heard him swear by Him who lives forever, saying, “It will be for a time, and times, and half a time. When the power of the holy people has finally been shattered, all these things will be completed.” I heard, but I did not understand. So I asked, “My lord, what will be the outcome of these things?” “Go on your way, Daniel,” he replied, “for the words are closed up and sealed until the time of the end. Many will be purified, made spotless, and refined, but the wicked will continue to act wickedly. None of the wicked will understand, but the wise will understand."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Two questions are asked here: “How long until the fulfillment of these wonders?” and “What will be the outcome of these things?” Look closely at the answers. **What gets an answer, and what doesn’t?** What does Daniel get instead?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I heard, but I did not understand.” These are the words of a man of whom chapter 1 says that he “had insight into all kinds of visions and dreams.” **What does this sentence, written on the last page, say about how to read this whole book?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The oath is sworn with both hands raised toward heaven, by Him who lives forever. **What exactly is being sworn here: a date, or that the end will come?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The question “how long” comes back in this book like a refrain. It is asked in chapter 8 over the trampled sanctuary, it stands behind the prayer of chapter 9, and here it is asked for the last time. God doesn’t rebuke it. He answers it with a measure that always has one thing in common: it is counted, and it has an end. In this book evil always has an appointed time. God’s kingdom doesn’t.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A Time, Times, and Half a Time",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The same measure already appeared in chapter 7.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The end of verse 7 says: “When the power of the holy people has finally been shattered, all these things will be completed.” So the end comes not when God’s people are at the height of their strength, but when, humanly speaking, they have none left.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are three readings of this measure. The first takes it literally, as three and a half years, and connects it with the persecution under Antiochus IV in the second century BC. The second, historicist reading takes prophetic days as years, sets this measure alongside the 1,260 days and 42 months of Revelation, and sees in it long centuries in which a religious power allied with the state persecuted those who believed differently. The third moves it to a short period just before the end of the world. Each has something to explain: the first, why Revelation, written long after Antiochus, speaks of this measure as something still to come; the second, exactly where to start and end the count; the third, why there would be a gap between the rest of the prophecy and its end, when the text says nothing about one.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "All three share the most important thing: the time of distress is measured out in advance, and it ends.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does a persecuted person gain simply from knowing that the time of their distress is counted, even if they don’t know the calculation?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 12:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "And from the time the daily sacrifice is abolished and the abomination of desolation set up, there will be 1,290 days. Blessed is he who waits and reaches the end of the 1,335 days."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bible repeats these two numbers nowhere else and explains them nowhere. Commentators of every school propose different calculations, and none has won general agreement. **Why did God leave on the last page of the book something that, after twenty-five centuries, we still can’t work out? How do you live with a Bible that contains sentences sealed for us, too? And what in these two verses is clear without any calculation?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t propose your own calculation, and don’t let it turn into a bidding war over dates. It’s worth having someone notice that the only word here addressed to a person is “Blessed is he who waits,” and that the difference between the numbers speaks of a wait longer than expected.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Go On Your Way",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 12:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "But as for you, go on your way until the end. You will rest, and will arise to your inheritance at the end of the days.”"
+       ]
+      },
+      {
+       "odnosnik": "Daniel 1:21",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Daniel remained there until the first year of King Cyrus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The last sentence of the book has four verbs: go on your way, you will rest, you will arise, and also “until the end.” **What does each of them say about what awaits Daniel?** Which one is a command, and which are promises?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel asked about the end of the world. He got an answer about his own end and what comes after it. **Why did God swap one question for the other?** Which of the two matters more to a man past eighty?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The first chapter ends with the words “Daniel remained,” the last with “will arise.” **What fits between those two words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel didn’t return to Jerusalem, didn’t see the rebuilt temple, and didn’t live to see the coming of the Anointed One he wrote about. He died in the land of exile, with unanswered questions. The last words he heard are not about empires. They are about him: there is a place of rest for you, and there is a share for you at the end of the days. The word rendered “inheritance” meant, in that language, the plot of land each family received in the promised land.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not Without Us",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "All these people died in faith, without having received the things they were promised. However, they saw them and welcomed them from afar. And they acknowledged that they were strangers and exiles on the earth."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 11:39-40",
+       "przeklad": "BSB",
+       "akapity": [
+        "These were all commended for their faith, yet they did not receive what was promised. God had planned something better for us, so that together with us they would be made perfect."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "According to the letter to the Hebrews, Daniel and the others have not yet received what was promised to them, and they are waiting to receive it together with us. **What does that say about how God thinks of His people: as individuals, or as a family that sits down at the table only when everyone is there?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does your thinking about your own death change if it is a rest on the way to a shared reunion?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel heard “go on your way,” though he didn’t get an answer to everything. **What question to God are you carrying without an answer, and what would it mean for you to keep going with it instead of standing still?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The book of Daniel is full of images: the king’s table, the statue, the furnace, the king’s madness, the writing on the wall, the lions’ den, the beasts and the Son of Man, the prayer “we have sinned,” the seventy weeks, the war behind the scenes, and today the awakening of those who sleep in the dust. **Which image from this book, even if only from today’s chapter, will stay with you, and what does it tell you about God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what do the words “You will rest, and will arise” change in your life today?** You can think about yourself or about someone you’ve said goodbye to.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "not everyone at the table knows the whole book. Read the list in the second question slowly and let people choose from what they know, even if only from today’s chapter.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "For twelve chapters the book of Daniel shows a God who rules over history, and yet His most faithful people end up in the furnace, in the den and under the sword, and they die in a foreign land without seeing the end. **Is the resurrection a sufficient answer to what the faithful lose along the way? What does it not repair, and what would need a different answer?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If you took verse 12:2 out of this book, what would be left of its hope?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t defend God, and don’t close the conversation. If someone speaks out of their own loss, listen and thank them.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "I don’t have to understand the end of the world to come to my own end in peace. It’s enough to know who wakes the sleepers.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 12:13 or Daniel 12:3.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone who led you “to righteousness” and who has died or is far away. Thank God for them by name. If they are alive, ask yourself: **what is stopping me from telling them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Sit for a moment with the words “You will rest, and will arise,” and think about your own death without running from the thought. **Notice what comes up in you: fear, relief, protest, indifference.** Tell God about it in whatever words you have.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** Daniel worked on a book whose fruit he never saw. Ask God **what in your life is work for people you will never meet**, and whether you’re ready to keep doing it without seeing the result.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is newly bereaved and starts to cry or goes quiet at verse 2.** Don’t hurry, and don’t comfort with a formula. You can say: “Thank you for being here with us with this.” Allow silence. The group walks alongside; it doesn’t explain. Stay with that person after the meeting. If the grief goes on a long time and drains their strength to live, encourage them to talk with a professional. Point them to a crisis line in your country, and in immediate danger, your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“But my father didn’t believe. Does that mean he’ll wake up to contempt?”** Don’t answer for God. The text gives no names, and the book of life is kept by Someone who knows the heart better than the family does. You can point out that in this same book God spends three chapters contending for a pagan king. Don’t give false certainty in either direction.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“But the dead are already in heaven, watching over us.”** Don’t argue, and don’t correct. Say that Christians understand this in different ways, and ask what the text in front of you says: it speaks of sleep and of awaking. Add that there is a separate meeting, “What Happens After Death?”, and that you can come back to it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone pulls out a calculator: 1260, 1290, 1335, dates, charts.** Interrupt kindly. This is a standing rule for the whole series: no calculating dates and no political updates. Point to verse 8: Daniel himself didn’t understand, and he was told, “Go on your way.” Suggest Level 3 for another occasion.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Many will roam to and fro, and knowledge will increase: that’s obviously about airplanes and the internet.”** In context the verse is about a sealed book and about people who go searching through it, and the knowledge Daniel cares about is the knowledge of God and His ways. Don’t turn it into an argument; just read the verse again together.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So is this the great tribulation now? Wars, crises, everything’s falling apart.”** Don’t confirm it and don’t deny it. Every generation of Daniel’s readers has had reasons to think so. The text doesn’t tell us to identify a date; it tells us who will rise up at that time. Go back to the question of what it means to be written down.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is afraid of the end of the world or of the judgment.** Point out to whom, and in what tone, the last sentence of the book is spoken. The man who knew the most about the end heard: go on your way, you will rest, you will arise. This book doesn’t end with a threat.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Keep block 3, but just read it aloud. Blocks 2 and 5 carry the whole meeting: “will awake” and “will arise.”",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone is newly bereaved and starts to cry or goes quiet at verse 2.",
+     "odpowiedz": "Don’t hurry, and don’t comfort with a formula. You can say: “Thank you for being here with us with this.” Allow silence. The group walks alongside; it doesn’t explain. Stay with that person after the meeting. If the grief goes on a long time and drains their strength to live, encourage them to talk with a professional. Point them to a crisis line in your country, and in immediate danger, your local emergency number."
+    },
+    {
+     "sytuacja": "“But my father didn’t believe. Does that mean he’ll wake up to contempt?”",
+     "odpowiedz": "Don’t answer for God. The text gives no names, and the book of life is kept by Someone who knows the heart better than the family does. You can point out that in this same book God spends three chapters contending for a pagan king. Don’t give false certainty in either direction."
+    },
+    {
+     "sytuacja": "“But the dead are already in heaven, watching over us.”",
+     "odpowiedz": "Don’t argue, and don’t correct. Say that Christians understand this in different ways, and ask what the text in front of you says: it speaks of sleep and of awaking. Add that there is a separate meeting, “What Happens After Death?”, and that you can come back to it."
+    },
+    {
+     "sytuacja": "Someone pulls out a calculator: 1260, 1290, 1335, dates, charts.",
+     "odpowiedz": "Interrupt kindly. This is a standing rule for the whole series: no calculating dates and no political updates. Point to verse 8: Daniel himself didn’t understand, and he was told, “Go on your way.” Suggest Level 3 for another occasion."
+    },
+    {
+     "sytuacja": "“Many will roam to and fro, and knowledge will increase: that’s obviously about airplanes and the internet.”",
+     "odpowiedz": "In context the verse is about a sealed book and about people who go searching through it, and the knowledge Daniel cares about is the knowledge of God and His ways. Don’t turn it into an argument; just read the verse again together."
+    },
+    {
+     "sytuacja": "“So is this the great tribulation now? Wars, crises, everything’s falling apart.”",
+     "odpowiedz": "Don’t confirm it and don’t deny it. Every generation of Daniel’s readers has had reasons to think so. The text doesn’t tell us to identify a date; it tells us who will rise up at that time. Go back to the question of what it means to be written down."
+    },
+    {
+     "sytuacja": "Someone is afraid of the end of the world or of the judgment.",
+     "odpowiedz": "Point out to whom, and in what tone, the last sentence of the book is spoken. The man who knew the most about the end heard: go on your way, you will rest, you will arise. This book doesn’t end with a threat."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Keep block 3, but just read it aloud. Blocks 2 and 5 carry the whole meeting: “will awake” and “will arise.”"
+    }
+   ]
+  }
+ ]
+}

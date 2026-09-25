@@ -1,0 +1,540 @@
+{
+ "tytul": "Joy",
+ "id": "E-10",
+ "seria": "Emotions",
+ "opis": "The Bible’s texts about joy were written from prisons and ruins. A joy that can live alongside sorrow.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Nehemiah 8:9-12; Philippians 4:4-7; Luke 15:8-10; John 16:20-22; Habakkuk 3:17-18; Psalm 16:11",
+  "p2": "Acts 16:25",
+  "p3": "Philippians 4:4"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 80,
+  "p3": 95
+ },
+ "liczbaPytan": {
+  "p1": 20,
+  "p2": 22,
+  "p3": 23
+ },
+ "tagi": [
+  "emotions",
+  "gratitude",
+  "hope",
+  "community"
+ ],
+ "wersja": 1,
+ "zdanie": "Biblical joy doesn’t wait for the list of what’s missing to run out. It begins with the word “yet.”",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Bible’s texts about joy were most often written from places with no reason for cheerfulness: from prison, from the ruins of a city, from the prospect of empty barns. Joy here is not the opposite of sorrow. It is something that can live alongside it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be in a place where joy sounds like a reproach. Watch your tone.",
+      "The words “Rejoice in the Lord always” are sometimes used as a ban on sadness. If they come up that way, respond.",
+      "Don’t make anyone list reasons to be grateful. That turns joy into a chore."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t present joy as the cure for sadness, fear, or anger. Don’t make it a reward for getting through hard things.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "What made you happy recently that was so small you’re almost embarrassed to say it out loud? Say it anyway.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and pick something truly trivial.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Joy as Strength",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 8:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Nehemiah the governor, Ezra the priest and scribe, and the Levites who were instructing the people said to all of them, “This day is holy to the LORD your God. Do not mourn or weep.” For all the people were weeping as they heard the words of the Law. Then Nehemiah told them, “Go and eat what is rich, drink what is sweet, and send out portions to those who have nothing prepared, since today is holy to our Lord. Do not grieve, for the joy of the LORD is your strength.” And the Levites calmed all the people, saying, “Be still, since today is holy. Do not grieve.” Then all the people began to eat and drink, to send out portions, and to rejoice greatly, because they understood the words that had been made known to them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The people are weeping, because they have just heard the Law and seen how far they have strayed from it. **Why do the leaders tell them to stop?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The instruction is very concrete: eat, drink, and send portions to those who have nothing prepared. **Why does joy take the form of a meal and sharing here, rather than a feeling?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“The joy of the LORD is your strength.” **Strength here is something that holds you up. What does it mean that joy is a support and not a reward?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 12 gives the reason they truly rejoiced. **What is it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is one of the few scenes in the Bible where people are told to stop weeping, and it is worth seeing when. Not at a funeral or in a disaster, but on the day they understood the words of the Law. Joy here is a response to the fact that God has spoken and that they are still dealing with Him. What makes it concrete is a shared table and portions for those who have nothing. Biblical joy is almost always plural.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Letter from Prison",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 4:4-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Rejoice in the Lord always. I will say it again: Rejoice! Let your gentleness be apparent to all. The Lord is near. Be anxious for nothing, but in everything, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes this as a prisoner, to people who are worried about him. **What does that circumstance do to the words “Rejoice in the Lord always”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "He gives the command twice in one verse. **Can joy be commanded? What would a command be if joy were only a feeling?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Between the call to rejoice and the promise of peace stands one sentence: “The Lord is near.” **How does it connect the one to the other?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Rejoice in the Lord,” not “rejoice in your circumstances.” **What difference does that narrowing make?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Singing at Midnight",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 16:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul and Silas have been beaten and are locked in the stocks. **What are they doing at midnight, and who is listening?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The text notes that the other prisoners were listening to them. **Why is that detail in the story?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Woman Who Turned the House Upside Down",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 15:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Or what woman who has ten silver coins and loses one of them does not light a lamp, sweep her house, and search carefully until she finds it? And when she finds it, she calls together her friends and neighbors to say, ‘Rejoice with me, for I have found my lost coin.’ In the same way, I tell you, there is joy in the presence of God’s angels over one sinner who repents.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "She has lost one of ten coins, so she still has nine. **Why does she turn the whole house upside down anyway?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "When she finds the coin, she calls her neighbors together. A party like that could cost more than the coin was worth. **What does that say about the nature of joy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says this is what the joy in the presence of God’s angels is like over one sinner who repents. **Whose joy is this parable describing: ours or God’s?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Grief That Will Turn to Joy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 16:20-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Truly, truly, I tell you, you will weep and wail while the world rejoices. You will grieve, but your grief will turn to joy. A woman has pain in childbirth because her time has come; but when she brings forth her child, she forgets her anguish because of her joy that a child has been born into the world. So also you have sorrow now, but I will see you again and your hearts will rejoice, and no one will take away your joy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say, “After sorrow, joy will come.” He says, “Your grief will turn to joy.” **What’s the difference?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The image of a woman in childbirth. The pain is not canceled or shortened. **What happens to it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The last sentence speaks of a joy no one will take away. **What does that say about the source of this joy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Greek verb here means one thing being transformed into another, not one thing following another in time. Jesus doesn’t promise that a better season will come after a hard one. He says that the very event that is now the reason for weeping will turn out to be the reason for joy. He says this before the cross, and about the cross. That is why the image of childbirth fits best: no one claims there was no pain, but no one wants to undo what came about through it either.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Though the Fig Tree Does Not Bud",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Habakkuk 3:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Though the fig tree does not bud and no fruit is on the vines, though the olive crop fails and the fields produce no food, though the sheep are cut off from the fold and no cattle are in the stalls, yet I will exult in the LORD; I will rejoice in the God of my salvation!"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 16:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "You have made known to me the path of life; You will fill me with joy in Your presence, with eternal pleasures at Your right hand."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Habakkuk lists six things that are missing, and all of them are the basis of his people’s survival. **What is left when you take that whole list away?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Yet I will exult in the LORD.” That is a decision, not a description of a mood. **Can you decide to rejoice? What exactly are you choosing when you do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm speaks of being filled with joy in God’s presence. **Why in His presence, face to face, being seen and seeing?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do you say to a person with depression who hears “Rejoice in the Lord always” and takes it as an accusation? Is Paul’s command about feelings this person is unable to produce?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "be careful not to turn this into psychological advice. It is worth noticing that Paul writes “in the Lord,” not “in life,” and that biblical joy repeatedly walks hand in hand with weeping, for example in Nehemiah and in John 16.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiah told the people to send portions to those who had nothing prepared. **Who could you send your portion to this week?** Whatever that means for you.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Habakkuk listed everything that was missing before he said “yet I will.” **Try putting together a sentence like that about yourself. First the list, then “yet.”**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **when was the last time you rejoiced over something together with someone, and not just next to someone?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Biblical joy doesn’t wait for the list of what’s missing to run out. It begins with the word “yet.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Nehemiah 8:10 or Habakkuk 3:18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Over the next few days, notice a moment when something makes you glad, and **stay in it five seconds longer than you usually do.** Joy usually isn’t rarer than we think. It just gets noticed for a shorter time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The woman in the parable called her neighbors together. **Ask yourself who you share your good news with.** If the answer is “no one,” that matters more than the question about joy itself.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** tell someone who is going through a hard time about something good that has happened to you, and ask them directly whether it weighs on them. Sharing joy with someone in a hard moment takes a sensitivity you can only learn by practice.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“If you’re a Christian, you should be joyful.”** The most common and most harmful sentence on this topic. The answer is in the texts: Nehemiah speaks of joy to people who are weeping, and Jesus promises joy to people who will weep and wail.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they can’t feel joy.** Don’t give advice, and don’t suggest reasons to be grateful. Ask how long this has been going on. If the answer is “a long time,” talk with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts trying to outdo one another with testimonies.** Stop it. Joy told competitively is a form of comparison, and it breeds envy.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about joy as a reward for getting through hard things.** Joy is not a reward. In today’s texts it comes in the middle of hardship, not after it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t have anything to be happy about.”** Don’t try to convince them they do. Go back to Habakkuk: he too first listed everything that was missing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation becomes light and shallow.** That is the risk with this topic. Go back to section five, because that is where joy carries the most weight.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“If you’re a Christian, you should be joyful.”",
+     "odpowiedz": "The most common and most harmful sentence on this topic. The answer is in the texts: Nehemiah speaks of joy to people who are weeping, and Jesus promises joy to people who will weep and wail."
+    },
+    {
+     "sytuacja": "Someone says they can’t feel joy.",
+     "odpowiedz": "Don’t give advice, and don’t suggest reasons to be grateful. Ask how long this has been going on. If the answer is “a long time,” talk with them after the meeting."
+    },
+    {
+     "sytuacja": "The group starts trying to outdo one another with testimonies.",
+     "odpowiedz": "Stop it. Joy told competitively is a form of comparison, and it breeds envy."
+    },
+    {
+     "sytuacja": "Someone talks about joy as a reward for getting through hard things.",
+     "odpowiedz": "Joy is not a reward. In today’s texts it comes in the middle of hardship, not after it."
+    },
+    {
+     "sytuacja": "“I don’t have anything to be happy about.”",
+     "odpowiedz": "Don’t try to convince them they do. Go back to Habakkuk: he too first listed everything that was missing."
+    },
+    {
+     "sytuacja": "The conversation becomes light and shallow.",
+     "odpowiedz": "That is the risk with this topic. Go back to section five, because that is where joy carries the most weight."
+    }
+   ]
+  }
+ ]
+}

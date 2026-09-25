@@ -1,0 +1,821 @@
+{
+ "tytul": "The Talents",
+ "id": "PJ-11",
+ "seria": "Parables of Jesus",
+ "opis": "About a servant who buried a fortune because he thought badly of his master, and about what that master is really like.",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 25:14-30",
+  "p2": "Matthew 24:3; Genesis 3:10; Romans 8:15; Luke 19:11-13, 15-24; Psalm 18:25-26; Luke 12:48",
+  "p3": "Matthew 13:12; Ephesians 2:8-10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "parables",
+  "picture of God",
+  "fear",
+  "faithfulness",
+  "gifts",
+  "Jesus’ return"
+ ],
+ "wersja": 1,
+ "zdanie": "What you think of the Master decides what you will do with what He has given you.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This parable usually ends up as encouragement to try harder. The text goes somewhere else. The third servant doesn’t fail for lack of ability or for laziness in the ordinary sense. He fails because of what he thinks about his master. He says so himself, in his own words, in verse 24. The meeting should bring the group to the question: what kind of master do I carry around in my head, and what does that picture do with what I have been given?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Every parable of Jesus corrects some false picture of God. This one corrects the picture of a hard God who demands more than He gives, around whom the safest thing is to touch nothing. That picture doesn’t turn a person into a rebel. It turns them into someone guarding a clean record. Two things are worth keeping in mind. The master in this story is not an investor waiting for a return: the wealth entrusted to the servants is a good they are to put to work among people. And second: the parable is a mirror of one truth, so don’t build doctrine on its side details, such as the bankers and the interest.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may believe they have wasted their life: years, health, a marriage, a calling. They will hear “wicked, lazy servant” as a sentence about themselves. Read the first red flag before you begin.",
+      "Someone raised in fear of God carries in their head exactly the master of verse 24. For them this meeting may be very important, but they must not be pushed into anything.",
+      "The conversation easily slides into comparison: who got how much, who does how much in church. The text cuts that off with identical praise for the first two servants.",
+      "Today the word “talent” means a natural gift. In the parable it is money, and an enormous amount of it."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t end with a call for more involvement in church. Don’t ask anyone what they have buried. Don’t make profit the proof of God’s blessing. Don’t defend the master against the servant’s charges too quickly; let the group check them against the text for themselves.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when someone entrusted you with something valuable: the keys to their home, their child for an afternoon, an important task at work. Say in one sentence what you felt first: joy or worry.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, in one sentence. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Wealth in Someone Else’s Hands",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "For it is just like a man going on a journey, who called his servants and entrusted them with his possessions. To one he gave five talents, to another two talents, and to another one talent—each according to his own ability. And he went on his journey."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The master goes away and leaves his wealth with his servants. **What does this gesture say about the master before anyone has done anything?** List what is missing from this scene that you might have expected.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Each one receives “according to his own ability.” **How could that be heard as unfair, and how as care?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The master leaves no instructions. **How are the servants supposed to know what he wants?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In those days a talent did not mean a natural gift. It was a measure of weight for precious metal, worth roughly six thousand denarii, and a denarius was a laborer’s daily wage. One talent was about twenty years of work. The servant who received the least was holding a fortune. The meaning “ability” attached itself to the word only later, precisely because of this parable.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** These are the last days before the crucifixion. Jesus is sitting with His disciples on the Mount of Olives, answering their question about the end. First He speaks about signs, then He stops talking about dates and tells several stories about waiting: a servant whose master is delayed, virgins waiting for the bridegroom, the talents. Right after this parable comes the picture of the judgment of the nations. All these stories answer one question: what should we do when the master is gone for a long time?",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Wealthy owners often went away for long periods, and trusted servants managed their wealth on their behalf. Such a servant was not the owner, but he acted with full freedom. There was no safe banking system for everyone, so burying valuables was considered ordinary, sensible caution.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 24:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "While Jesus was sitting on the Mount of Olives, the disciples came to Him privately. “Tell us,” they said, “when will these things happen, and what will be the sign of Your coming and of the end of the age?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The disciples ask “when.” Jesus answers with a story about what the servants did while their master was away. **What question is He answering this way, instead of the one they asked?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "He Went at Once",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:16-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "The servant who had received the five talents went at once and put them to work and gained five more. Likewise, the one with the two talents gained two more. But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Of the first servant it says that he “went at once.” **What do you have to believe about the master to risk his wealth without hesitating?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The third servant steals nothing and loses nothing. **What is he protecting the talent from, and what is he protecting himself from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Putting money to work could have ended in a loss. **Why does the parable show no servant who tried and lost?** What might that say about what matters to the master?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The First “I Was Afraid”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "“I heard Your voice in the garden,” he replied, “and I was afraid because I was naked; so I hid myself.”"
+       ]
+      },
+      {
+       "odnosnik": "Romans 8:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you did not receive a spirit of slavery that returns you to fear, but you received the Spirit of sonship, by whom we cry, “Abba! Father!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first words a human being speaks to God after the fall are: I was afraid, and I hid. In a moment the third servant will say almost the same thing. **What connects these two scenes?** What ends up hidden in the ground or among the trees in each?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul sets a spirit of slavery against the Spirit of sonship. **What does the same work look like when it is done in the one spirit and in the other?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Enter into the Joy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:19-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "After a long time the master of those servants returned to settle accounts with them. The servant who had received the five talents came and presented five more. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’ His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’ The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’ His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Compare word for word what the master says to the first and to the second servant. **What does that mean for someone who has spent their whole life comparing themselves with others?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The master praises the servant as “faithful,” not as effective. He calls five talents a few things. **So what counts as much in his eyes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Enter into the joy of your master!” doesn’t sound like the language of an audit. **What does it sound like? What did this master want from the beginning: profit, or something else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The master returns “after a long time.” Jesus says this to disciples who wanted to know the date. The parable assumes the waiting will last longer than anyone expects, and that this time is not empty. The reward is not a rest from tasks but greater trust and a place at the master’s table. The praise doesn’t grow with the amount.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Story Told Differently",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "A few days earlier, near Jericho, Jesus told a similar story to people who thought the kingdom would appear immediately.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 19:11-13, 15-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "While the people were listening to this, Jesus proceeded to tell them a parable, because He was near Jerusalem and they thought the kingdom of God would appear imminently. So He said, “A man of noble birth went to a distant country to lay claim to his kingship and then return. Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said. … When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned. The first servant came forward and said, ‘Master, your mina has produced ten more minas.’ His master replied, ‘Well done, good servant! Because you have been faithful in a very small matter, you shall have authority over ten cities.’ The second servant came and said, ‘Master, your mina has made five minas.’ And to this one he said, ‘You shall have authority over five cities.’ Then another servant came and said, ‘Master, here is your mina, which I have laid away in a piece of cloth. For I was afraid of you, because you are a harsh man. You withdraw what you did not deposit and reap what you did not sow.’ His master replied, ‘You wicked servant, I will judge you by your own words. So you knew that I am a harsh man, withdrawing what I did not deposit and reaping what I did not sow? Why then did you not deposit my money in the bank, and upon my return I could have collected it with interest?’ Then he told those standing by, ‘Take the mina from him and give it to the one who has ten minas.’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Matthew each servant receives a different sum and the same praise. In Luke each receives the same amount, and the results differ. A mina was about a hundred days’ wages, sixty times less than a talent. **What does each version say to someone who feels life has given them too little?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The servants in Luke say “your mina has produced,” not “I have gained.” **What does this way of speaking reveal about how they understand their role?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Almost everything differs between the two versions except one thing: the servant who was afraid and his opinion of his master. **Why does this particular character come back every time?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "“Master, I Knew…”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:24-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Finally, the servant who had received the one talent came and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed. So I was afraid and went out and hid your talent in the ground. See, you have what belongs to you.’ ‘You wicked, lazy servant!’ replied his master. ‘You knew that I reap where I have not sown and gather where I have not scattered seed. Then you should have deposited my money with the bankers, and on my return I would have received it back with interest."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servant begins with the words “Master, I knew that you are…” **Test his portrait of the master against what we have read so far. What fits, and what doesn’t?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Compare verse 24 with verse 26. The master repeats the servant’s words but leaves out one description. **Which one? What does the master accept from this description, and what does he refuse to take on himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I was afraid and went out and hid your talent.” **How did the picture of the master in the servant’s head lead him, step by step, to a hole in the ground?** Try to reconstruct his reasoning.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Three men served the same master, and two of them knew someone completely different from the one the third knew. The difference didn’t come from the facts, because the facts were the same for all: they all received a fortune on trust. The master doesn’t correct the accusation or defend his character. He only shows that the servant wasn’t even faithful to his own picture. Anyone truly afraid of a hard master would have taken the money to the bankers. Fear didn’t make the servant a rebel. It made him a man who does nothing for the sake of safety.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "How You See Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 18:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "To the faithful You show Yourself faithful, to the blameless You show Yourself blameless; to the pure You show Yourself pure, but to the crooked You show Yourself shrewd."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm says that the way a person lives affects how they see God. **How might that have worked in the third servant during that “long time” while the talent lay in the ground?** What came first: the fear, or avoiding the master?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where do people get the picture of a hard God who reaps where He has not sown?** List the sources without judging anyone.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Hard” in verse 24 is the Greek `sklēros`: severe, harsh, ruthless. At the same point Luke uses the word `austēros`, which originally described a sour, astringent taste. Both describe someone you can’t talk to. Notice that in the whole parable this adjective comes only from the servant’s mouth. The narrator never calls the master that, and the master himself, repeating the accusation in verse 26, doesn’t use the word.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“See, you have what belongs to you” sounds like closing an account: we’re even. **What does the servant want from his master by giving back exactly what he received?** What kind of relationship is he looking for, and what kind is he avoiding?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The One Who Has",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 25:28-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore take the talent from him and give it to the one who has ten talents. For everyone who has will be given more, and he will have an abundance. But the one who does not have, even what he has will be taken away from him. And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The first two enter “into the joy of your master”; the third is thrown “into the outer darkness.” **Where was the third servant in relation to his master before any verdict was spoken?** What does the verdict change, and what does it only reveal?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The servant said he had the talent and brought it back whole. The master speaks of him as “the one who does not have.” **What did this servant not have?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The talent goes to the servant who already has ten, and the master doesn’t take it for himself. **What does that say about whom the master trusts, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Buried money doesn’t grow; it isn’t seed. What isn’t used withers away, and that sentence is an observation before it becomes a verdict. The ending is sharp, and there is no need to soften it. But it is worth seeing to whom Jesus says this: to His disciples, two days before the cross, where He Himself will show what the Master is like. The strongest answer to verse 24 isn’t given in the parable. It is given at Golgotha.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "To Whom Much Has Been Given",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:48",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the one who unknowingly does things worthy of punishment will be beaten with few blows. From everyone who has been given much, much will be required; and from him who has been entrusted with much, even more will be demanded."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This sentence says the measure is matched to what each person received and knew. **How does it read with fear, and how does it read with trust?** What does the third servant hear in it, and what does the first?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Doesn’t the Verdict Prove the Servant Right?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The difficulty is real. The servant says the master is hard, and at the end the master has him thrown into the darkness. One could ask whether the ending confirms the portrait in verse 24.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two ways of reading it. In the first, the master in the parable is a picture of God, and the servant’s accusation is false, as shown by the master’s generosity, by the identical praise, and by the invitation into joy. In the end the servant gets what he himself chose: a life far from a master he didn’t want to know. In the second, the parable is above all a warning about responsibility, and one shouldn’t draw a teaching about God’s character from every detail, just as one doesn’t with the unjust judge in another parable. Both readings agree on one thing: in Jesus’ eyes, doing nothing out of fear is not neutral, and the picture of God that produces it is false.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 13:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Whoever has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken away from him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus said the same sentence earlier, when He explained why He speaks in parables. There it was about listening. **What connects hearing that goes unused with a talent that goes unused?** Does this sentence describe a master’s whim, or the way every gift works?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of the two readings is closer to you, and what in the text supports it?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Accounting and Grace",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 2:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast. For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul says salvation is a gift, not a wage. Jesus tells of a master who settles accounts with his servants. **Before you decide these texts contradict each other, check: what in the parable is a gift, and at what point is it given?** Did any of the servants earn his talent?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The three servants had one master and two different portraits of him. **What portrait of God is at work in you when you have to risk something for Him or for another person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "It’s not only money that can be buried. **What does a buried talent look like in someone who lives a proper, careful believer’s life?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **is there something you were given that has been lying in the ground for a long time because you were afraid you’d do it wrong?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the parable no one tries and loses. In life it happens: someone took a risk for God, put years into ministry, a marriage, or a work, and was left with nothing. **What would the master in this parable say to a servant who came back empty-handed, but not from a hole in the ground?** Does the text give any basis for predicting it?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the text is silent on this, so don’t fill it in. All you can point out is that the master praises faithfulness, not results, and that the only charge against the third servant is what he failed to do out of fear.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "What you think of the Master decides what you will do with what He has given you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Matthew 25:21 or Matthew 25:24-25.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Finish the third servant’s sentence for yourself: “Master, I knew that You are…” **Don’t write what you ought to think. Write what you actually live by.** Then ask where you got that picture and whether you have ever tested it against Jesus.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of one thing you are not doing only because you are afraid it will turn out badly. Tell God about it plainly and ask: **what do I expect from You if I fail?**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you carry a conviction that you have wasted years, don’t count them. Stay with the words “Enter into the joy of your master!” and ask whether you believe this Master wants you at His table, not at the cash register.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“That’s me. I’ve wasted my life.”** Don’t rush to contradict them, and don’t comfort them with a cliché. Thank them for their honesty. Then point out two things in the text. The servant is not condemned for a poor result, but for doing nothing out of fear of his master and then blaming the master for it. And someone grieving over lost years is not standing where the third servant stood, because he regretted nothing. Don’t take stock of anyone’s life in front of the group. If you hear despair and not just regret, stay with that person after the meeting. If there are thoughts of suicide, don’t carry it alone: contact a crisis line in your country or call your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I only have one talent; others have five.”** Go back to verses 21 and 23 and ask someone to read them one after the other. The praise is identical. You can add that one talent was twenty years of work, so no one in this story received little.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So God blesses those who multiply what they have. Success is a sign of His grace.”** The text praises faithfulness, not turnover. The master doesn’t ask about the rate of return and doesn’t compare results. If the conversation drifts toward money and prosperity, ask: “In verse 21, what does the master call a few things, and what does he call many?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone uses the parable to herd others into church work.** Interrupt calmly. This parable is not a tool for handing out assignments, and no one at the table has the right to judge what someone else has buried. Go back to the question in the first person.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The God I knew at home was exactly like the one in verse 24.”** This is an important statement, and it must not be brushed aside. Don’t correct, don’t lecture. You can say: “In this parable only one person talks about the master like that, and he is the one who avoided him.” Suggest that for a while this person simply look at Jesus in the Gospels and ask whether He is hard. The rest is a private conversation, if they want one.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Lazy” is aimed at someone who is exhausted or ill.** Exhaustion, depression, and illness are not the laziness of verse 26. The servant had the strength to dig a hole. If someone in that condition applies this word to themselves, say so plainly, and don’t let the group give advice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Outer darkness, weeping and gnashing of teeth. So we should be afraid after all.”** Don’t soften the text and don’t use it to frighten. Point out that in this parable fear is the cause of the downfall, not the cure: the only servant who was afraid ended up worst of all. Set aside questions about the nature of punishment for a separate meeting; there is material on that called “Will God Punish Me? Judgment and Hell”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Shorten blocks 2 and 3. Block 4 carries the whole meeting and must have time.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“That’s me. I’ve wasted my life.”",
+     "odpowiedz": "Don’t rush to contradict them, and don’t comfort them with a cliché. Thank them for their honesty. Then point out two things in the text. The servant is not condemned for a poor result, but for doing nothing out of fear of his master and then blaming the master for it. And someone grieving over lost years is not standing where the third servant stood, because he regretted nothing. Don’t take stock of anyone’s life in front of the group. If you hear despair and not just regret, stay with that person after the meeting. If there are thoughts of suicide, don’t carry it alone: contact a crisis line in your country or call your local emergency number."
+    },
+    {
+     "sytuacja": "“I only have one talent; others have five.”",
+     "odpowiedz": "Go back to verses 21 and 23 and ask someone to read them one after the other. The praise is identical. You can add that one talent was twenty years of work, so no one in this story received little."
+    },
+    {
+     "sytuacja": "“So God blesses those who multiply what they have. Success is a sign of His grace.”",
+     "odpowiedz": "The text praises faithfulness, not turnover. The master doesn’t ask about the rate of return and doesn’t compare results. If the conversation drifts toward money and prosperity, ask: “In verse 21, what does the master call a few things, and what does he call many?”"
+    },
+    {
+     "sytuacja": "Someone uses the parable to herd others into church work.",
+     "odpowiedz": "Interrupt calmly. This parable is not a tool for handing out assignments, and no one at the table has the right to judge what someone else has buried. Go back to the question in the first person."
+    },
+    {
+     "sytuacja": "“The God I knew at home was exactly like the one in verse 24.”",
+     "odpowiedz": "This is an important statement, and it must not be brushed aside. Don’t correct, don’t lecture. You can say: “In this parable only one person talks about the master like that, and he is the one who avoided him.” Suggest that for a while this person simply look at Jesus in the Gospels and ask whether He is hard. The rest is a private conversation, if they want one."
+    },
+    {
+     "sytuacja": "“Lazy” is aimed at someone who is exhausted or ill.",
+     "odpowiedz": "Exhaustion, depression, and illness are not the laziness of verse 26. The servant had the strength to dig a hole. If someone in that condition applies this word to themselves, say so plainly, and don’t let the group give advice."
+    },
+    {
+     "sytuacja": "“Outer darkness, weeping and gnashing of teeth. So we should be afraid after all.”",
+     "odpowiedz": "Don’t soften the text and don’t use it to frighten. Point out that in this parable fear is the cause of the downfall, not the cure: the only servant who was afraid ended up worst of all. Set aside questions about the nature of punishment for a separate meeting; there is material on that called “Will God Punish Me? Judgment and Hell”"
+    },
+    {
+     "sytuacja": "The group is silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Shorten blocks 2 and 3. Block 4 carries the whole meeting and must have time."
+    }
+   ]
+  }
+ ]
+}

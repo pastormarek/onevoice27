@@ -1,0 +1,849 @@
+{
+ "tytul": "Is Jesus the Only Way?",
+ "id": "P-09",
+ "seria": "Questions People Ask",
+ "opis": "There is no other Savior, and this one Savior works more widely than our knowledge reaches.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "John 14:1-7; Acts 4:5-12; Acts 10:1-6, 34-36; Romans 2:14-16; Acts 17:22-31; Luke 13:22-30",
+  "p2": "Acts 10:42-43; 11:13-14; John 1:9; John 10:14-16; Acts 14:15-17; Matthew 8:10-11; Revelation 7:9-10",
+  "p3": "Acts 4:9, 12; Acts 17:22; Hebrews 11:6; Romans 10:12-15"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "Jesus",
+  "salvation",
+  "other religions",
+  "mission",
+  "tolerance",
+  "humility"
+ ],
+ "wersja": 1,
+ "zdanie": "There is one way, and that way is Jesus. How far His hand reaches, none of us knows, and thank God for that.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This question has sharp edges today. To some people, the statement “Jesus is the only way” sounds arrogant. To others, any softening of it sounds like betrayal. The New Testament holds both things at once, and this meeting should show both. First: there is no other Savior. Second: this one Savior works further and more widely than our knowledge reaches, and God is sometimes on the scene before the missionary. The exclusiveness belongs to Jesus, not to our group. The text doesn’t give us a list of the saved, and it doesn’t let us draw one up.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Almost everyone at the table loves someone who believes differently or doesn’t believe at all. For them, this conversation is about a particular face, not about the religions of the world.",
+      "Someone may have been rejected by their family after changing churches or faiths. For them, the words “the only way” have already been used as a weapon, and from both sides.",
+      "There may be someone of another faith or no faith at the table. They should feel like a guest, not like the topic.",
+      "This question easily turns into a comparison of churches. Today’s texts don’t talk about Christian denominations. They talk about Jesus."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t pronounce on the fate of any person or any group. Don’t soften Jesus’ words, and don’t sharpen them. Don’t let the conversation become an argument about which church is right.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone close to you who believes differently than you do, or doesn’t believe at all. Don’t say who it is. Name one thing you value in that person.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. These people will then be sitting quietly at the table with you. That’s the point.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Way That Is a Person",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The last evening before the crucifixion. Jesus has just told His disciples that He is leaving.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 14:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Do not let your hearts be troubled. You believe in God; believe in Me as well. In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am. You know the way to the place where I am going.” “Lord,” said Thomas, “we do not know where You are going, so how can we know the way?” Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me. If you had known Me, you would know My Father as well. From now on you do know Him and have seen Him.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**To whom and at what moment does Jesus say this?** What changes when we hear it as words spoken to frightened friends, rather than as a thesis in a debate with other religions?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Thomas asks about the way as if it were a matter of a map. Jesus answers, “I am.” **How is a way that is a person different from a way that is a set of views or membership in a group?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The sentence in verse 6 says through whom people come to the Father. **What doesn’t it say?** List the things we usually add to it.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus’ most exclusive statement comes right after one of His most welcoming: in the Father’s house are many rooms. Jesus doesn’t say “I know the way” or “I will show you the way.” He says He is the way Himself. If that is true, then no one reaches the Father by a better religion, greater knowledge, or the right membership. We reach Him through Jesus. The statement is exclusive with regard to other saviors. About whom Jesus leads along this way, and how, it says far less than we would like.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "No Other Name",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "At the temple gate, Peter and John have healed a man who was lame from birth. They have spent the night under arrest. In the morning they stand before the highest religious authority in the land.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 4:5-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "The next day the rulers, elders, and scribes assembled in Jerusalem, along with Annas the high priest, Caiaphas, John, Alexander, and many others from the high priest’s family. They had Peter and John brought in and began to question them: “By what power or what name did you do this?” Then Peter, filled with the Holy Spirit, said to them, “Rulers and elders of the people! If we are being examined today about a kind service to a man who was lame, to determine how he was healed, then let this be known to all of you and to all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed. This Jesus is ‘the stone you builders rejected, which has become the cornerstone.’ Salvation exists in no one else, for there is no other name under heaven given to men by which we must be saved.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Who says the words about the only name, to whom, and in what situation?** Does this sound like the language of people who feel superior to others?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter doesn’t say there is no salvation in another community. He says it exists “in no one else.” **What is the difference between the two? What happens when we start confusing them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The court asked about a healing, and Peter ends with salvation. **How is the one connected to the other?** What does the healed man, standing right there, say just by being present?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Peter doesn’t say these words to pagans. He says them to the most religious people of his nation, to experts in Scripture and guardians of the temple. So the statement about the only name is first of all a warning to the devout: even the best religion doesn’t save. The One who saves is the One the expert builders rejected. Whoever uses this verse to lift their own group above others puts themselves on the side of the room where Peter was not standing.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 4:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "If we are being examined today about a kind service to a man who was lame, to determine how he was healed,"
+       ]
+      },
+      {
+       "odnosnik": "Acts 4:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Salvation exists in no one else, for there is no other name under heaven given to men by which we must be saved.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "“Healed” in verse 9 and “saved” in verse 12 are the same Greek verb, `sōzō`. It means to rescue, to save, to make whole again. Peter plays on the word: what happened to this man’s legs is a small picture of what Jesus does with the whole person.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does verse 12 sound if “salvation” means putting a person back on their feet, not just an admission ticket?** And in that case, who wants as many people as possible to receive it?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "God Was There First",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 10:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment. He and all his household were devout and God-fearing. He gave generously to the people and prayed to God regularly. One day at about the ninth hour, he had a clear vision of an angel of God who came to him and said, “Cornelius!” Cornelius stared at him in fear and asked, “What is it, Lord?” The angel answered, “Your prayers and gifts to the poor have ascended as a memorial offering before God. Now send men to Joppa to call for a man named Simon who is called Peter. He is staying with Simon the tanner, whose house is by the sea.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Peter comes, even though entering a Gentile’s house breaks everything he has been taught. He begins like this:",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 10:34-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Peter began to speak: “I now truly understand that God does not show favoritism, but welcomes those from every nation who fear Him and do what is right. He has sent this message to the people of Israel, proclaiming the gospel of peace through Jesus Christ, who is Lord of all."
+       ]
+      },
+      {
+       "odnosnik": "Romans 2:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Indeed, when Gentiles, who do not have the law, do by nature what the law requires, they are a law to themselves, even though they do not have the law. So they show that the work of the law is written on their hearts, their consciences also bearing witness, and their thoughts either accusing or defending them on the day when God will judge men’s secrets through Christ Jesus, as proclaimed by my gospel."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What do we know about Cornelius from the time before he heard about Jesus? What did God do with his prayers?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cornelius’s prayers have reached God, and yet the angel tells him to send for Peter. **What did the angel not say himself? What follows from that: that Peter was unnecessary, or that Cornelius still lacked something?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "According to Paul, people who didn’t know the law have its work written on their hearts, and God will judge them “through Christ Jesus.” **Why is it good news for someone who has never heard the gospel that the judge is Jesus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“I now truly understand.” The apostle who spoke about the only name in Jerusalem learns something new in Caesarea and admits it out loud. God was in the Roman officer’s house before Peter, listening to his prayers and accepting his gifts. And yet He didn’t leave him where he was. The breadth of God’s work doesn’t make Jesus unnecessary. It leads to Him. Peter immediately adds that Jesus is “Lord of all.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Message by Which You Will Be Saved",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 10:42-43",
+       "przeklad": "BSB",
+       "akapity": [
+        "And He commanded us to preach to the people and to testify that He is the One appointed by God to judge the living and the dead. All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”"
+       ]
+      },
+      {
+       "odnosnik": "Acts 11:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "He told us how he had seen an angel standing in his house and saying, ‘Send to Joppa for Simon who is called Peter. He will convey to you a message by which you and all your household will be saved.’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Cornelius was devout, generous, and heard by God, and yet the angel speaks of a message by which he “will be saved.” **How do these two things fit into one story?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What did Peter give Cornelius that years of prayer and giving to the poor had not?** Look for the answer in Acts 10:43.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Other Sheep",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 1:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "The true Light who gives light to every man was coming into the world."
+       ]
+      },
+      {
+       "odnosnik": "John 10:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "I am the good shepherd. I know My sheep and My sheep know Me, just as the Father knows Me and I know the Father. And I lay down My life for the sheep. I have other sheep that are not of this fold. I must bring them in as well, and they will listen to My voice. Then there will be one flock and one shepherd."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say “I will have other sheep.” He says “I have.” **What does it mean that someone is His before they have come into any fold?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "There are many sheep from outside this fold, and there is one shepherd. **How does this sentence hold breadth and exclusiveness together?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Unknown God",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 17:22-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Paul stood up in the meeting of the Areopagus and said, “Men of Athens, I see that in every way you are very religious. For as I walked around and examined your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Therefore what you worship as something unknown, I now proclaim to you. The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands. Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else. From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands. God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us. ‘For in Him we live and move and have our being.’ As some of your own poets have said, ‘We are His offspring.’ Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination. Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent. For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A few verses earlier, Luke writes that Paul was “deeply disturbed in his spirit” at the sight of a city full of idols. **Even so, how does he begin his speech? List everything good he says about the Athenians and their seeking.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God “is not far from each one of us,” and at the same time He “now commands all people everywhere.” **How does Paul connect a God who is near every person with one Man raised from the dead?** What does he refuse to give up on either side?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul quotes pagan poets as witnesses to the truth about God. **What does this tell us about where fragments of truth can be found, and what to do with them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Athenian philosophers could have nodded along to almost the whole speech: the Creator, the giver of life, a God greater than temples and statues. The break came in two places. The first was the call to repent, because it assumes a personal God whom we can wrong. The second was the resurrection. At that point some began to sneer, others put the conversation off, and a few believed. The common ground is real, and Paul stands on it without pretending. But it has an edge, and that edge is Jesus.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "He Has Not Left Himself Without Testimony",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A few years earlier in Lystra, a crowd wanted to offer sacrifices to Paul and Barnabas as if they were gods.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 14:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them. In past generations, He let all nations go their own way. Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**According to Paul, through what did God speak to people who had no Bible and no prophets?** What “testimony” of this kind has each of us received in life?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul calls the old cults “worthless things,” and at the same time he says God was good to these people for generations. **How can you tell the truth about someone’s religion without despising the person?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word the BSB renders in Acts 17:22 as “very religious” is the Greek `deisidaimonesteroi`. It is ambiguous. It could mean “very religious,” and it could mean “very superstitious.” Paul chose a word the listener could take as a courtesy, but it wasn’t flattery. He didn’t tell the Athenians their religion was good. He told them he could see how hard they were searching.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where is the line between respecting someone’s search and agreeing with everything they have found?** How does Paul stay on that line?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "How Many?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 13:22-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus traveled throughout the towns and villages, teaching as He made His way toward Jerusalem. “Lord,” someone asked Him, “will only a few people be saved?” Jesus answered, “Make every effort to enter through the narrow door. For many, I tell you, will try to enter and will not be able. After the master of the house gets up and shuts the door, you will stand outside knocking and saying, ‘Lord, open the door for us.’ But he will reply, ‘I do not know where you are from.’ Then you will say, ‘We ate and drank with you, and you taught in our streets.’ And he will answer, ‘I tell you, I do not know where you are from. Depart from me, all you evildoers.’ There will be weeping and gnashing of teeth when you see Abraham, Isaac, Jacob, and all the prophets in the kingdom of God, but you yourselves are thrown out. People will come from east and west and north and south, and will recline at the table in the kingdom of God. And indeed, some who are last will be first, and some who are first will be last.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Someone asks about numbers and about other people. **What question does Jesus answer instead, and to whom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Who in this scene stands outside, taken by surprise, and what do they appeal to? Who is sitting inside, and where did they come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“We ate and drank with you, and you taught in our streets.” **How would this sentence sound on the lips of someone who has been in church since birth?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "From East and West",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A Roman centurion asks Jesus to heal his servant and says that one word is enough.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 8:10-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus heard this, He marveled and said to those following Him, “Truly I tell you, I have not found anyone in Israel with such great faith. I say to you that many will come from the east and the west to share the banquet with Abraham, Isaac, and Jacob in the kingdom of heaven."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 7:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "After this I looked and saw a multitude too large to count, from every nation and tribe and people and tongue, standing before the throne and before the Lamb. They were wearing white robes and holding palm branches in their hands. And they cried out in a loud voice: “Salvation to our God, who sits on the throne, and to the Lamb!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "To the question “only a few?” in Luke 13, Jesus doesn’t answer with a number. **What answer do these two texts give?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The crowd is beyond counting and comes from everywhere. **Even so, to whom do they credit their salvation?** What does this say about the exclusiveness that remains even in the Bible’s widest picture?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus “marveled” at the faith of an officer in a foreign army. **When were you last surprised by someone’s faith or goodness where you didn’t expect it?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which mistake are you closer to: narrowing the way so that only your group fits on it, or widening it so that Jesus is no longer needed?** Where does that come from in you?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Go back to the person you thought of at the beginning. **After today’s texts, what do you know about how God sees them?** And what do you still not know, and not need to know?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **has anyone ever used the words “the only way” against you like a weapon, or have you used them that way yourself?** What would you do differently today?",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Those Who Have Never Heard",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "And without faith it is impossible to please God, because anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him."
+       ]
+      },
+      {
+       "odnosnik": "Romans 10:12-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him, for, “Everyone who calls on the name of the Lord will be saved.” How then can they call on the One in whom they have not believed? And how can they believe in the One of whom they have not heard? And how can they hear without someone to preach? And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Among Christians who take the Bible seriously, there are two positions on this. The first says: salvation requires conscious faith in Jesus. The chain in Romans 10 has no spare link, and Cornelius, for all his devotion, had to hear the message by which he “will be saved.” The second says: no one will be saved except through Christ, but Christ can save a person who never learned His name and yet responded to the light they had. That was the case with Abraham, Job, and every believer in the Old Testament. They were saved by Christ, whose name they did not know. Pointing to this reading are Acts 10:35, Romans 2:14-16, John 1:9, and the threshold of faith in Hebrews 11:6, which is surprisingly low. In our church, the second position is the more common one.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides share what matters most. There is one Savior. No one is saved by their religion, sincerity, or deeds. None of us pronounces judgment on particular people. Both sides also see mission as urgent, though for different reasons.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these two positions is closer to you, and which text troubles you most in it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hebrews 11:6 names only two things a person must believe. **What does it say about God that He set the threshold exactly there?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If God can reach a person who has never heard of Jesus, **why does He send us? What does a person lose who follows the light they have but never learns whom they owe it to?** And what do we lose when we don’t go?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this with a formula. It helps if someone notices that after Peter’s visit Cornelius didn’t just receive information. He received the assurance of forgiveness, the Spirit, a community, and the name of the One he had been praying to while feeling his way in the dark. The gospel is more than an insurance policy for the judgment.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "There is one way, and that way is Jesus. How far His hand reaches, none of us knows, and thank God for that.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** John 14:6 or Acts 10:34-35.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of the person you talked about at the beginning. Ask God: **where were You in their life before I started caring about them?** Stay with that question for a few days, and look at them through those eyes.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself honestly: **do I care more about being right about the way, or about walking it?** The people outside the closed door in Luke 13 were also right about who had taught in their streets.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you have ever hurt someone while defending the one truth, admit it before God. If the way to that person is open, consider telling them “I’m sorry” with no “but.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“All religions lead to the same God.”** Don’t attack. Agree with what is good in the statement: respect for people and a dislike of arrogance. Then point out that the religions themselves don’t say this about themselves, and that John 14:6 is not Christians’ opinion about others but Jesus’ claim about Himself. The question isn’t whether the statement is polite but whether it is true. Go back to the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So my grandmother, my Buddhist friend, my father who doesn’t believe, are they lost?”** None of today’s texts says that, and neither do we. We know who the Judge is, and we know He was in these people’s lives before we ever thought of them. Read Acts 10:4 and Luke 13:29 again. If the question is about someone who has died, don’t theorize. This is grief, not a debate.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Do Adventists believe only they will be saved?”** No. Acts 4:12 speaks of a name, not a church. Today’s meeting isn’t about Christian denominations at all. A Catholic, a Lutheran, a Pentecostal, and an Adventist confess the same name. The scene in Luke 13 is a warning precisely to those who are sure they are sitting inside.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**There is someone of another faith or no faith at the table, and the conversation starts to be about them.** Stop it right away. Speak to them as a participant, not as an example. You can ask how these texts sound from where they stand, and accept the answer without correcting it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone shares that their family rejected them after they changed churches, or that they themselves broke with their family “for the truth.”** Listen. Don’t judge either side. This is a wound, not an argument in a discussion. If they want, come back to it after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone uses John 14:6 like a club: “Scripture is clear, there’s nothing to discuss.”** Agree that Scripture is clear, and ask to whom Jesus said these words and why. He said them to frightened friends, so that their hearts would not be troubled. Then read Acts 10:34: even Peter had to say, “I now truly understand.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If God will reach everyone anyway, why bother with mission?”** This is a level 3 question, and it’s worth leaving it there. Briefly: Cornelius’s prayers were heard, and God still decided he needed to hear about Jesus. Clearly the gospel gives something that searching in the dark alone does not.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You run out of time.** Drop block 4. Blocks 1 and 2 show the exclusiveness, block 3 the breadth, and block 5 turns the argument about others into a question to me. Without block 5, the meeting ends in theory.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“All religions lead to the same God.”",
+     "odpowiedz": "Don’t attack. Agree with what is good in the statement: respect for people and a dislike of arrogance. Then point out that the religions themselves don’t say this about themselves, and that John 14:6 is not Christians’ opinion about others but Jesus’ claim about Himself. The question isn’t whether the statement is polite but whether it is true. Go back to the text."
+    },
+    {
+     "sytuacja": "“So my grandmother, my Buddhist friend, my father who doesn’t believe, are they lost?”",
+     "odpowiedz": "None of today’s texts says that, and neither do we. We know who the Judge is, and we know He was in these people’s lives before we ever thought of them. Read Acts 10:4 and Luke 13:29 again. If the question is about someone who has died, don’t theorize. This is grief, not a debate."
+    },
+    {
+     "sytuacja": "“Do Adventists believe only they will be saved?”",
+     "odpowiedz": "No. Acts 4:12 speaks of a name, not a church. Today’s meeting isn’t about Christian denominations at all. A Catholic, a Lutheran, a Pentecostal, and an Adventist confess the same name. The scene in Luke 13 is a warning precisely to those who are sure they are sitting inside."
+    },
+    {
+     "sytuacja": "There is someone of another faith or no faith at the table, and the conversation starts to be about them.",
+     "odpowiedz": "Stop it right away. Speak to them as a participant, not as an example. You can ask how these texts sound from where they stand, and accept the answer without correcting it."
+    },
+    {
+     "sytuacja": "Someone shares that their family rejected them after they changed churches, or that they themselves broke with their family “for the truth.”",
+     "odpowiedz": "Listen. Don’t judge either side. This is a wound, not an argument in a discussion. If they want, come back to it after the meeting."
+    },
+    {
+     "sytuacja": "Someone uses John 14:6 like a club: “Scripture is clear, there’s nothing to discuss.”",
+     "odpowiedz": "Agree that Scripture is clear, and ask to whom Jesus said these words and why. He said them to frightened friends, so that their hearts would not be troubled. Then read Acts 10:34: even Peter had to say, “I now truly understand.”"
+    },
+    {
+     "sytuacja": "“If God will reach everyone anyway, why bother with mission?”",
+     "odpowiedz": "This is a level 3 question, and it’s worth leaving it there. Briefly: Cornelius’s prayers were heard, and God still decided he needed to hear about Jesus. Clearly the gospel gives something that searching in the dark alone does not."
+    },
+    {
+     "sytuacja": "You run out of time.",
+     "odpowiedz": "Drop block 4. Blocks 1 and 2 show the exclusiveness, block 3 the breadth, and block 5 turns the argument about others into a question to me. Without block 5, the meeting ends in theory."
+    }
+   ]
+  }
+ ]
+}

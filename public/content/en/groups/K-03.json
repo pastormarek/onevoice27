@@ -1,0 +1,734 @@
+{
+ "tytul": "Losing Your Job and Your Money",
+ "id": "K-03",
+ "seria": "Crises and Turning Points",
+ "opis": "Losing a job takes more than money. The God who gives for today: ravens, a handful of flour, manna.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Kings 17:1-9; 1 Kings 17:10-16; Matthew 6:25-34; Philippians 4:10-13; Luke 12:15; Habakkuk 3:17-19",
+  "p2": "Genesis 2:15; Genesis 3:17-19; Exodus 16:16-20; Proverbs 30:7-9; Philippians 4:14-19",
+  "p3": "2 Corinthians 11:27; Hebrews 11:37-38; Luke 4:25-26"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 27,
+  "p3": 30
+ },
+ "tagi": [
+  "crisis",
+  "work",
+  "money",
+  "worry",
+  "trust",
+  "identity"
+ ],
+ "wersja": 1,
+ "zdanie": "God rarely fills the pantry. More often, He makes sure that in the morning there’s a handful of flour in the jar again.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Losing a job or money takes more than money. It takes the rhythm of the day, your place in the family, and your answer to the question “What do you do?” At a time like that, the Bible doesn’t promise a full pantry. It shows a God who gives for today: ravens morning and evening, a handful of flour that doesn’t run out, manna for one day. This meeting doesn’t teach resourcefulness, and it isn’t about managing a budget. It’s about what a person stands on when the brook dries up.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Money is harder to talk about than sin. Someone at the table may be out of work, in debt, or about to be laid off, and no one in the group knows.",
+      "Shame is stronger than fear here. Especially people who have supported their families all their lives experience losing a job as losing face.",
+      "Well-off people and people counting every penny may be sitting side by side in the group. One careless sentence about vacations or about “just an ordinary salary” can hurt.",
+      "The topic pulls toward advice, and toward complaining about the economy and the people in power. Both kill the conversation about the text."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t ask anyone about their financial situation. Don’t say that “God surely has something better for you,” because you don’t know that. Don’t link someone’s poverty to their faithfulness or lack of it. Don’t let the group give advice about loans, investments, and debts.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "What was your first job, or the first money you ever earned? One sentence.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short. This question is meant to be light, and it should stay that way. Don’t comment on the answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Brook That Dried Up",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 17:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Elijah the Tishbite, who was among the settlers of Gilead, said to Ahab, “As surely as the LORD lives—the God of Israel before whom I stand—there will be neither dew nor rain in these years except at my word!” Then a revelation from the LORD came to Elijah: “Leave here, turn eastward, and hide yourself by the Brook of Cherith, east of the Jordan. And you are to drink from the brook, and I have commanded the ravens to feed you there.” So Elijah did what the LORD had told him, and he went and lived by the Brook of Cherith, east of the Jordan. The ravens would bring him bread and meat in the morning and evening, and he would drink from the brook. Some time later, however, the brook dried up because there had been no rain in the land. Then the word of the LORD came to Elijah: “Get up and go to Zarephath of Sidon, and stay there. Behold, I have commanded a widow there to provide for you.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Elijah is sitting by that brook because God told him to, and still the brook dries up. **What does this scene do to the thought: since I’ve lost my livelihood, either I did something wrong or God has abandoned me?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Check the order in verses 7 and 8. **When does the next word from God come: before the brook dried up, or after? What does that mean for someone watching the water go down week after week?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The prophet’s new source of support is to be a widow from a foreign country who has nothing herself. **What does a person learn when help comes from someone they’d never expect it from, and from whom it’s awkward to accept it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Work Before the Thorns",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 3:17-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "And to Adam He said: “Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you not to eat, cursed is the ground because of you; through toil you will eat of it all the days of your life. Both thorns and thistles it will yield for you, and you will eat the plants of the field. By the sweat of your brow you will eat your bread, until you return to the ground—because out of it were you taken. For dust you are, and to dust you shall return.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Human beings were given work before anything went wrong. **What changed after the fall: work itself, or something around it? What exactly was cursed?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If work belongs to the way God designed us, then losing it hurts more deeply than an empty wallet. **What does a person lose along with their work? And the other way around: what happens when work becomes the whole answer to the question of who I am?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Handful of Flour",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 17:10-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Elijah got up and went to Zarephath. When he arrived at the city gate, there was a widow gathering sticks. Elijah called to her and said, “Please bring me a little water in a cup, so that I may drink.” And as she was going to get it, he called to her and said, “Please bring me a piece of bread.” But she replied, “As surely as the LORD your God lives, I have no bread—only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks to take home and prepare a meal for myself and my son, so that we may eat it and die.” “Do not be afraid,” Elijah said to her. “Go and do as you have said. But first make me a small cake of bread from what you have, and bring it out to me. Afterward, make some for yourself and your son, for this is what the LORD, the God of Israel, says: ‘The jar of flour will not be exhausted and the jug of oil will not run dry until the day the LORD sends rain upon the face of the earth.’” So she went and did according to the word of Elijah, and there was food every day for Elijah and the woman and her household. The jar of flour was not exhausted and the jug of oil did not run dry, according to the word that the LORD had spoken through Elijah."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The widow has a plan for the rest of her life: bake, eat, and die. **What has scarcity done to the way she looks at the future? What does the same narrowing look like in someone whose savings are running out?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God didn’t fill her pantry. **How much flour was in the jar each morning throughout the drought? What is the difference between “having a supply” and “having enough for today,” and what does each of them teach?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“But first make me a small cake of bread.” That’s a hard request to make of someone who is down to her last handful. **What changes in a person who, in the middle of their own need, still has something to give?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Zarephath lay in the region of Sidon, where Queen Jezebel came from, and where the worship of Baal, the god of storm and fertility, had come to Israel from. So the drought struck directly at what Baal was supposed to provide. Right there, on his own territory, the God of Israel feeds a poor foreign woman, day after day. The scale of the miracle is also worth noticing. There are no wagons of grain and no sudden wealth. There is a jar that, in the morning, is once again not empty.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Omer for Each Person",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 16:16-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’” So the Israelites did this. Some gathered more, and some less. When they measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat. Then Moses said to them, “No one may keep any of it until morning.” But they did not listen to Moses; some people left part of it until morning, and it became infested with maggots and began to smell. So Moses was angry with them."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Manna couldn’t be saved for tomorrow. **What did God want to teach people who had been slaves for generations and had never had anything of their own? Why is that lesson so hard for us too?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“He who gathered little had no shortfall.” **How does that sentence sound in a group where some gather more and others less?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Tomorrow",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 6:25-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air: They do not sow or reap or gather into barns—and yet your heavenly Father feeds them. Are you not much more valuable than they? Who of you by worrying can add a single hour to his life? And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin. Yet I tell you that not even Solomon in all his glory was adorned like one of these. If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you, O you of little faith? Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ For the Gentiles strive after all these things, and your heavenly Father knows that you need them. But seek first the kingdom of God and His righteousness, and all these things will be added unto you. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Imagine these words being read by someone a week after getting a layoff notice. **What do they stir up in that person? What in them might hurt, and what might hold them up?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t say that food and clothing are unimportant. **What exactly does He say about our needs in verse 32? How is the worry He forbids different from ordinary prudence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Birds don’t sow or reap, but they don’t sit in the nest with their beaks open either. **What does this picture not say? How can you recognize the moment when looking for work and counting money stops being responsibility and starts being what Jesus warns against?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The last sentence is surprisingly sober: “Today has enough trouble of its own.” **What does Jesus promise about tomorrow, and what doesn’t He promise?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Most of Jesus’ listeners lived on a day’s wages. The law of Moses required that a hired worker be paid before sunset, because otherwise his family wouldn’t eat that day. So the request “Give us this day our daily bread” wasn’t a figure of speech, and Jesus isn’t talking about worry to people with full stomachs. He is speaking to people for whom the question of tomorrow’s bread really was settled every evening.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Neither Poverty nor Riches",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 30:7-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Two things I ask of You—do not refuse me before I die: Keep falsehood and deceitful words far from me. Give me neither poverty nor riches; feed me with the bread that is my portion. Otherwise, I may have too much and deny You, saying, ‘Who is the LORD?’ Or I may become poor and steal, profaning the name of my God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The one praying sees danger on both sides. **In his view, what does too much do to a person, and what does too little do? Which of these two temptations do you know better?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How much is “the bread that is my portion”? Who and what sets that measure in our heads today?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “all these things will be added unto you”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jesus says that to the one who seeks the Kingdom, the rest will be added. And yet the same New Testament knows believers who went without.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 11:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "in labor and toil and often without sleep, in hunger and thirst and often without food, in cold and exposure."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 11:37-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated. The world was not worthy of them. They wandered in deserts and mountains, and hid in caves and holes in the ground."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul sought the Kingdom like few others, and he often went hungry. **So what is the sentence in Matthew 6:33: a guarantee, a principle that usually works, or something else?** Some read it as a promise you can stand on literally. Others see in it a description of a Father who knows our needs but doesn’t sign a contract. **What do both readings have in common?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "I Have Learned",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul writes this letter from prison and thanks the church in Philippi for the help they sent.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 4:10-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now I rejoice greatly in the Lord that at last you have revived your concern for me. You were indeed concerned, but you had no opportunity to show it. I am not saying this out of need, for I have learned to be content regardless of my circumstances. I know how to live humbly, and I know how to abound. I am accustomed to any and every situation—to being filled and being hungry, to having plenty and having need. I can do all things through Christ who gives me strength."
+       ]
+      },
+      {
+       "odnosnik": "Luke 12:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "And He said to them, “Watch out! Guard yourselves against every form of greed, for one’s life does not consist in the abundance of his possessions.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul uses the language of learning and practice: “I have learned,” “I am accustomed.” **What does that tell us about where peace in the face of want comes from? In what school do you acquire that kind of skill?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The sentence “I can do all things through Christ who gives me strength” is sometimes quoted as a slogan for successful people. **What “all things” is Paul talking about, if you read this sentence together with the one before it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus says that a person’s life doesn’t consist in the abundance of possessions. **In practice, what does the way we judge our own lives and other people’s depend on? What happens to that judgment when someone loses their job?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Giving and Receiving",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philippians 4:14-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Nevertheless, you have done well to share in my affliction. And as you Philippians know, in the early days of the gospel, when I left Macedonia, no church but you partnered with me in the matter of giving and receiving. For even while I was in Thessalonica, you provided for my needs again and again. Not that I am seeking a gift, but I am looking for the fruit that may be credited to your account. I have all I need and more, now that I have received your gifts from Epaphroditus. They are a fragrant offering, an acceptable sacrifice, well-pleasing to God. And my God will supply all your needs according to His glorious riches in Christ Jesus."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A man who knows “how to live humbly” accepts financial help without embarrassment and gives thanks for it. **Why is receiving help sometimes harder than giving it? What does Paul know about receiving that we don’t?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The promise in verse 19 comes in a letter to a church that has just shared what it had. **By what route does God most often meet someone’s needs? Who are the Philippians to Paul in this story, if you compare it with the story of Elijah?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Though the Fig Tree Does Not Bud",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Habakkuk 3:17-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Though the fig tree does not bud and no fruit is on the vines, though the olive crop fails and the fields produce no food, though the sheep are cut off from the fold and no cattle are in the stalls, yet I will exult in the LORD; I will rejoice in the God of my salvation! GOD the Lord is my strength; He makes my feet like those of a deer; He makes me walk upon the heights! For the choirmaster. With stringed instruments."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count how many sources of livelihood the prophet lists and how many of them have failed. **What would that list sound like written today, in your own words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After the words “yet I will exult,” nothing on the farm changes. **What does this joy rest on, if not on things getting better? How is it different from putting a brave face on a bad situation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The last sentence is a note for the choir director. This passage was sung by the whole congregation. **What does that say about the place of experiences like this in shared worship? Is there room in our services for the song of someone whose harvest has failed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The book of Habakkuk begins with a complaint, not a confession of faith. The prophet asks God why He is silent, and how much longer. In the last chapter, God doesn’t say another word, and the situation doesn’t improve. Yet Habakkuk’s trust isn’t a leap into the dark. Earlier in the same prayer, he recalls what God did for His people at the exodus from Egypt. His “yet I” rests on memory, not on mood.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Losing a job or money takes more than money. **What else does it take? Which of today’s passages touches that very loss?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in your life is the line between sensible planning and the worry Jesus talks about? How do you know when you’ve crossed it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there something about money you carry and don’t tell anyone?** You don’t have to give any details.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 4:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "But I tell you truthfully that there were many widows in Israel in the time of Elijah, when the sky was shut for three and a half years and great famine swept over all the land. Yet Elijah was not sent to any of them, but to the widow of Zarephath in Sidon."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus Himself points out that there were many hungry widows, and the jar was refilled for only one of them. **What do we do with that sentence? What does it say to those the prophet didn’t come to?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Does the widow’s story also say something to those who have plenty of flour?** Through whom might God be filling other people’s jars today?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the material doesn’t give an answer to the first question, and you don’t have to either. The second question doesn’t cancel out the first, but it keeps the group from getting stuck in helplessness.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God rarely fills the pantry. More often, He makes sure that in the morning there’s a handful of flour in the jar again.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Matthew 6:34 or Habakkuk 3:17-18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself: **if I lost my job or my income tomorrow, what would I lose besides money? Who would I be then in my own eyes?** Stay with that question longer than is comfortable. The answer shows what you’re really standing on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Take a close look at your fear about money. **Which day are you worried about: today, or a day five years from now?** Name before God exactly what you’re afraid of. Not “the future” in general, but that one thing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you have financial troubles you’re hiding, tell one person you trust about them. And if you lack nothing, ask God for whom you could be a raven or a Philippian, and do it in a way that doesn’t make that person feel ashamed.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table has just lost their job or is drowning in debt.** If you know about it, talk with that person before the meeting, tell them what the topic will be, and leave them free: they can stay silent or not come. During the meeting, don’t direct questions to them and don’t make them an example. If they start talking on their own, listen without advice and without forced comfort. In this crisis, shame is usually greater than fear, so the most important thing the group can give is to treat them normally.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Anyone who wants to work will find a job,” and other sentences about being resourceful.** Stop it calmly. Elijah sat by the brook on God’s orders, and the brook dried up. People lose their jobs because of illness, age, a plant closing, or other people’s decisions. No one at this table knows the whole story of anyone else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Pay your tithe faithfully and God will bless you,” or the reverse: “Apparently something is wrong with your faithfulness.”** Faithfulness in giving is good, but it isn’t an insurance policy. Go back to the passages: Paul often went hungry, Habakkuk’s harvest failed, and the Bible doesn’t accuse either of them of unfaithfulness. Don’t let anyone leave the meeting convinced that their troubles are God’s punishment, or that God can be talked into a payout.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts giving advice: loans, investments, “my brother-in-law is hiring.”** A kind tip about an open position is fine, but after the meeting and one-on-one. The group doesn’t give financial or legal advice. Serious debt calls for professional help: look for free legal aid, nonprofit debt or credit counseling, and local social services where you live. Encourage the person to use them, and offer that someone can go along.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Real poverty in the group.** If someone can’t afford food or rent, prayer isn’t enough. Talk with that person privately, ask whether they’ll agree to your raising the matter with the pastor or the deacons, and make sure it stays confidential. Help should be given in a way that doesn’t humiliate.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Debt, gambling, thoughts that “my family would be better off without me.”** Debt with no way out in sight can drive a person to suicidal thoughts. If you hear a sentence like that, even said half-jokingly, take it seriously. Stay with that person after the meeting, ask them directly whether they’re thinking of taking their own life, and don’t carry this alone. Point them to a crisis line in your country; in immediate danger, call your local emergency number. Gambling and other addictions call for treatment, not just willpower.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to politicians, prices, and comparing salaries.** Interrupt politely and go back to the passage in front of you. Complaining brings relief for five minutes and changes nothing, and comparing salaries leaves someone at the table humiliated.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone at the table has just lost their job or is drowning in debt.",
+     "odpowiedz": "If you know about it, talk with that person before the meeting, tell them what the topic will be, and leave them free: they can stay silent or not come. During the meeting, don’t direct questions to them and don’t make them an example. If they start talking on their own, listen without advice and without forced comfort. In this crisis, shame is usually greater than fear, so the most important thing the group can give is to treat them normally."
+    },
+    {
+     "sytuacja": "“Anyone who wants to work will find a job,” and other sentences about being resourceful.",
+     "odpowiedz": "Stop it calmly. Elijah sat by the brook on God’s orders, and the brook dried up. People lose their jobs because of illness, age, a plant closing, or other people’s decisions. No one at this table knows the whole story of anyone else."
+    },
+    {
+     "sytuacja": "“Pay your tithe faithfully and God will bless you,” or the reverse: “Apparently something is wrong with your faithfulness.”",
+     "odpowiedz": "Faithfulness in giving is good, but it isn’t an insurance policy. Go back to the passages: Paul often went hungry, Habakkuk’s harvest failed, and the Bible doesn’t accuse either of them of unfaithfulness. Don’t let anyone leave the meeting convinced that their troubles are God’s punishment, or that God can be talked into a payout."
+    },
+    {
+     "sytuacja": "The group starts giving advice: loans, investments, “my brother-in-law is hiring.”",
+     "odpowiedz": "A kind tip about an open position is fine, but after the meeting and one-on-one. The group doesn’t give financial or legal advice. Serious debt calls for professional help: look for free legal aid, nonprofit debt or credit counseling, and local social services where you live. Encourage the person to use them, and offer that someone can go along."
+    },
+    {
+     "sytuacja": "Real poverty in the group.",
+     "odpowiedz": "If someone can’t afford food or rent, prayer isn’t enough. Talk with that person privately, ask whether they’ll agree to your raising the matter with the pastor or the deacons, and make sure it stays confidential. Help should be given in a way that doesn’t humiliate."
+    },
+    {
+     "sytuacja": "Debt, gambling, thoughts that “my family would be better off without me.”",
+     "odpowiedz": "Debt with no way out in sight can drive a person to suicidal thoughts. If you hear a sentence like that, even said half-jokingly, take it seriously. Stay with that person after the meeting, ask them directly whether they’re thinking of taking their own life, and don’t carry this alone. Point them to a crisis line in your country; in immediate danger, call your local emergency number. Gambling and other addictions call for treatment, not just willpower."
+    },
+    {
+     "sytuacja": "The conversation drifts to politicians, prices, and comparing salaries.",
+     "odpowiedz": "Interrupt politely and go back to the passage in front of you. Complaining brings relief for five minutes and changes nothing, and comparing salaries leaves someone at the table humiliated."
+    }
+   ]
+  }
+ ]
+}

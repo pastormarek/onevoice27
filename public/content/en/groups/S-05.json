@@ -1,0 +1,803 @@
+{
+ "tytul": "A Delight, Not a Burden",
+ "id": "S-05",
+ "seria": "The Sabbath as a Gift",
+ "opis": "How to live the day of rest so that it doesn’t turn into a list of prohibitions.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Isaiah 58:13-14; Psalm 92:1-5, 12-15; Luke 23:54-56; 24:1; Matthew 23:1-4; Colossians 2:20-23; Hebrews 4:1-4, 9-11",
+  "p2": "Isaiah 56:1-7; Mark 1:21-22, 29-35; Nehemiah 13:15-19",
+  "p3": "Colossians 2:16-17; Romans 14:1, 4-6; Hebrews 4:9-10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "Sabbath",
+  "rest",
+  "grace",
+  "legalism",
+  "practice"
+ ],
+ "wersja": 1,
+ "zdanie": "You can’t work off the Sabbath like a chore. You can only receive it.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is practical. It asks how to live the day of rest so that it doesn’t turn into a list of prohibitions. Isaiah doesn’t say “endure this day,” but “call the Sabbath a delight.” There are two ways to lose that delight. The first is to wall the day in with rules so tightly that you can no longer see God or people. The second is to strip away all its boundaries until it’s no different from the other six.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone raised in a strict home may remember the Sabbath as boredom, prohibitions, and guilt. That grief is real, and it needs room, not correction.",
+      "At the table there may be people who work Saturdays because they’re nurses or drivers or afraid of losing their jobs, and also people whose spouse doesn’t believe. Every sentence that starts with “you should” lands on them.",
+      "Level 3 presents the passages that Christians who keep Sunday, or who regard all days as equal, appeal to. If someone like that is with you, they should hear their position presented fairly.",
+      "The group may start working out what is allowed on the Sabbath. That is exactly the mechanism block 4 is about."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t hand down verdicts on “is it allowed” questions. Don’t hold up your own home as the model. Don’t let anyone at the table feel they have to justify their Saturdays.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a day off after which you felt truly rested. Say in one sentence what was in it, or what wasn’t.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first and keep it short, to set the length. Don’t comment on other people’s answers and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Call It a Delight",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 58:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "If you turn your foot from breaking the Sabbath, from doing as you please on My holy day, if you call the Sabbath a delight, and the LORD’s holy day honorable, if you honor it by not going your own way or seeking your own pleasure or speaking idle words, then you will delight yourself in the LORD, and I will make you ride on the heights of the land and feed you with the heritage of your father Jacob.” For the mouth of the LORD has spoken."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Isaiah doesn’t say “endure this day.” He says “call the Sabbath a delight.” **Can you order someone to delight in something? So what does the word “if” mean here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List everything this passage says to hold back from. **What do those things have in common? What do they make room for when they disappear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The promise isn’t “you will enjoy your day off,” but “you will delight yourself in the LORD.” **What does that difference change in the way we think about rest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The whole of chapter 58 is about a kind of piety that doesn’t please God. A few verses earlier, the prophet charges the people with doing as they please on their fast day and oppressing their workers. So “doing as you please” means, above all, pursuing your own business. The Sabbath stands at the end of a chapter about justice: the day I stop chasing after my own interests is the day someone around me can finally catch their breath.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A House of Prayer for All",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 56:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is what the LORD says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed. Blessed is the man who does this, and the son of man who holds it fast, who keeps the Sabbath without profaning it and keeps his hand from doing any evil.” Let no foreigner who has joined himself to the LORD say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.” For this is what the LORD says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant— I will give them, in My house and within My walls, a memorial and a name better than that of sons and daughters. I will give them an everlasting name that will not be cut off. And the foreigners who join themselves to the LORD to minister to Him, to love the name of the LORD, and to be His servants—all who keep the Sabbath without profaning it and who hold fast to My covenant— I will bring them to My holy mountain and make them joyful in My house of prayer. Their burnt offerings and sacrifices will be accepted on My altar, for My house will be called a house of prayer for all the nations.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The foreigner and the eunuch are people who are sure there’s no place for them. **What does God promise each of them, and what does the Sabbath have to do with it?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“And make them joyful in My house of prayer.” **For whom in our community is the holy day the loneliest day of the week?** What does this passage say about people like that?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew noun `oneg`, translated “delight,” appears only one other time in the whole Old Testament, in Isaiah 13:22, where it describes royal palaces. The related verb used in verse 14 doesn’t simply mean “to enjoy.” It means taking pleasure in something exquisite, delicate, royal. So God doesn’t tell us to put up with the seventh day, or even just to like it. He describes it with a word the rest of the Bible uses for a palace.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does the meaning of the commandment change if the day of rest is a palace you enter, and not a shift you have to sit through?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Song for the Sabbath Day",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 92:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is good to praise the LORD, and to sing praises to Your name, O Most High, to proclaim Your loving devotion in the morning and Your faithfulness at night with the ten-stringed harp and the melody of the lyre. For You, O LORD, have made me glad by Your deeds; I sing for joy at the works of Your hands. How great are Your works, O LORD, how deep are Your thoughts!"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 92:12-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "The righteous will flourish like a palm tree, and grow like a cedar in Lebanon. Planted in the house of the LORD, they will flourish in the courts of our God. In old age they will still bear fruit; healthy and green they will remain, to proclaim, “The LORD is upright; He is my Rock, and in Him there is no unrighteousness.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This is the only psalm with the heading “A song for the Sabbath day.” **What does this psalm fill the day with? What is completely missing from it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“For You, O LORD, have made me glad by Your deeds.” **Whose works stand at the center of this day: mine or God’s? What happens to the Sabbath when what stands at its center is something I don’t do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The psalm ends with the picture of trees that “in old age… will still bear fruit.” **What does rest have to do with bearing fruit?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Sabbath in Capernaum",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 1:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus and His companions went to Capernaum, and right away Jesus entered the synagogue on the Sabbath and began to teach. The people were astonished at His teaching, because He taught as one who had authority, and not as the scribes."
+       ]
+      },
+      {
+       "odnosnik": "Mark 1:29-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "As soon as Jesus and His companions had left the synagogue, they went with James and John to the home of Simon and Andrew. Simon’s mother-in-law was sick in bed with a fever, and they promptly told Jesus about her. So He went to her, took her by the hand, and helped her up. The fever left her, and she began to serve them. That evening, after sunset, people brought to Jesus all who were sick and demon-possessed, and the whole town gathered at the door. And He healed many who were ill with various diseases and drove out many demons. But He would not allow the demons to speak, because they knew who He was. Early in the morning, while it was still dark, Jesus got up and slipped out to a solitary place to pray."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Trace this day step by step: the synagogue, a friends’ home, a sick woman in bed, a shared table. **What from this day’s schedule could carry over into our Sabbaths?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The people of Capernaum bring their sick only after sunset. **What does that say about their Sabbath, and what about the Sabbath of Jesus, who had already healed two people that same day?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Preparation Day",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:54-56",
+       "przeklad": "BSB",
+       "akapity": [
+        "It was Preparation Day, and the Sabbath was beginning. The women who had come with Jesus from Galilee followed, and they saw the tomb and how His body was placed. Then they returned to prepare spices and perfumes. And they rested on the Sabbath, according to the commandment."
+       ]
+      },
+      {
+       "odnosnik": "Luke 24:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This is the worst Friday of these women’s lives. They have an unfinished duty toward Someone they loved, and still they rest. **What does that say about what the Sabbath was for them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The day before the Sabbath had its own name: Preparation Day. **What happens to a holy day that no one has prepared for? Who at home usually pays the price?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Resting when the work isn’t finished. **Why is that so hard? What does that kind of rest require of a person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Luke was writing for readers from a Gentile background, several decades after these events. He is the only New Testament writer who adds the words “according to the commandment” at this point, and he does it without any embarrassment. The verb he uses means more than a break from work, because it also includes an inner quieting. On that same day Jesus lay at rest in the tomb after the words “It is finished,” just as God rested after finishing creation.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Do Not Handle, Do Not Taste",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 23:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus spoke to the crowds and to His disciples: “The scribes and Pharisees sit in Moses’ seat. So practice and observe everything they tell you. But do not do what they do, for they do not practice what they preach. They tie up heavy, burdensome loads and lay them on men’s shoulders, but they themselves are not willing to lift a finger to move them."
+       ]
+      },
+      {
+       "odnosnik": "Colossians 2:20-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "If you have died with Christ to the spiritual forces of the world, why, as though you still belonged to the world, do you submit to its regulations: “Do not handle, do not taste, do not touch!”? These will all perish with use, because they are based on human commands and teachings. Such restrictions indeed have an appearance of wisdom, with their self-prescribed worship, their false humility, and their harsh treatment of the body; but they are of no value against the indulgence of the flesh."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks of heavy loads laid on other people’s shoulders. **How does a good commandment turn into a burden?** List the steps.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes that such restrictions “have an appearance of wisdom.” **Why is a list of prohibitions so attractive? What does it give the one who draws it up, and the one who keeps it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What is the difference between a boundary that protects the day and a fence that hides it?** Give one example of each, without pointing at anyone here.",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Jesus’ time, the Sabbath of ordinary people was simpler than the scholars’ debates: you didn’t do your usual work, you didn’t light a fire, you didn’t set out on a journey. The strict fencing-in of the commandments didn’t grow out of pride, but out of fear for the survival of the faith in a foreign environment. It’s often the same today: whoever multiplies prohibitions is usually afraid of something. Instead of asking “is this allowed,” you can ask whether a given activity focuses your attention on God and people, or scatters it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Gates of Jerusalem",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 13:15-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days I saw people in Judah treading winepresses on the Sabbath and bringing in grain and loading it on donkeys, along with wine, grapes, and figs. All kinds of goods were being brought into Jerusalem on the Sabbath day. So I warned them against selling food on that day. Additionally, men of Tyre who lived there were importing fish and all kinds of merchandise and selling them on the Sabbath to the people of Judah in Jerusalem. Then I rebuked the nobles of Judah and asked, “What is this evil you are doing—profaning the Sabbath day? Did not your forefathers do the same things, so that our God brought all this disaster on us and on this city? And now you are rekindling His wrath against Israel by profaning the Sabbath!” When the evening shadows began to fall on the gates of Jerusalem, just before the Sabbath, I ordered that the gates be shut and not opened until after the Sabbath. I posted some of my servants at the gates so that no load could enter on the Sabbath day."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Nehemiah shuts the city gates. **What exactly is he protecting the day from? Whom does he rebuke: the porters or the nobles?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who benefits when the gates are shut?** How is Nehemiah’s boundary different from the burdens Jesus spoke about?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Shadow and Reality",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 2:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore let no one judge you by what you eat or drink, or with regard to a feast, a New Moon, or a Sabbath. These are a shadow of the things to come, but the body that casts it belongs to Christ."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Many Christians read this passage like this: the Sabbath belonged to the shadows that pointed forward to Christ. Since the reality has come, the shadow no longer binds, and no one has the right to judge another by whether and when they keep a day. This reading has a long tradition and serious commentators behind it.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Others point to three things. The set “feast, New Moon, Sabbath” is a fixed formula in the Old Testament, and there it refers to the offerings and rites performed on those days, and it was these that pointed forward to Christ. Paul isn’t arguing with Moses, but with the teachers of asceticism in verses 18-23, who were judging how believers ate and celebrated. Finally, the Sabbath instituted at creation, before sin appeared, could not have been a foreshadowing of redemption, because it was a memorial of something already accomplished.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In fairness, it has to be added that this is one of the hardest passages in Paul, and nearly every word in it is disputed. Both sides share what is certain in the text: the reality is Christ, and no one has the right to make a day the measure by which they judge another person.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in verses 16-23 supports the first reading, and what supports the second?** Whom does Paul strip of the right to judge in this passage?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Every Day Alike",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 14:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Accept him whose faith is weak, without passing judgment on his opinions."
+       ]
+      },
+      {
+       "odnosnik": "Romans 14:4-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Who are you to judge someone else’s servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand. One person regards a certain day above the others, while someone else considers every day alike. Each one should be fully convinced in his own mind. He who observes a special day does so to the Lord; he who eats does so to the Lord, for he gives thanks to God; and he who abstains does so to the Lord and gives thanks to God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading: Paul leaves the question of days to each believer’s conscience, and the Sabbath is one of those days. The second reading: the word “Sabbath” doesn’t appear anywhere in the whole letter. The chapter is about food and about scruples that go further than any commandment requires, so it most likely concerns fast days. Paul counts himself among the “strong,” and according to Acts he himself was in the synagogue every Sabbath. Setting aside one of the Ten Commandments would also take more than a verse and a half on the margins of a dispute about vegetables.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Caution applies in both directions. Whoever keeps the Sabbath can’t claim that this chapter supports them, because the text simply doesn’t speak about the Sabbath. Both sides share the most important thing in the whole chapter: Paul doesn’t tell the people in conflict to bring their views into line. He forbids them to look down on one another and to judge.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul has his own view, and yet he doesn’t settle the dispute; instead he changes the attitude of those who are disputing. **How can we talk about the day of rest with a Christian who keeps a different day, so that neither side looks down on the other or judges?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Rest You Enter",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 4:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, while the promise of entering His rest still stands, let us be careful that none of you be deemed to have fallen short of it. For we also received the good news just as they did; but the message they heard was of no value to them, since they did not share the faith of those who comprehended it. Now we who have believed enter that rest. As for the others, it is just as God has said: “So I swore on oath in My anger, ‘They shall never enter My rest.’” And yet His works have been finished since the foundation of the world. For somewhere He has spoken about the seventh day in this manner: “And on the seventh day God rested from all His works.”"
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 4:9-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "There remains, then, a Sabbath rest for the people of God. For whoever enters God’s rest also rests from his own work, just as God did from His. Let us, therefore, make every effort to enter that rest, so that no one will fall by following the same pattern of disobedience."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Now we who have believed enter that rest.” **What does rest have to do with faith? Why is it so hard for someone who doesn’t trust to rest?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Rests from his own work, just as God did from His.” **What might resting from “his own work” mean, if it’s about more than earning a living?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Let us, therefore, make every effort to enter that rest.” Effort in order to rest. **How do you understand this paradox?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Here the author links a psalm about the generation that didn’t enter the promised land with a sentence about God resting on the seventh day. According to Genesis, the first full day of human life was a day of rest, before people had managed to do anything. Every week the Sabbath repeats that order: first the gift, then the work. Whoever rests confesses without words that neither the world nor their own salvation hangs on them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Rest in Christ, or a Day?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 9 the author changes words. Throughout the argument, “rest” in Greek is `katapausis`. Only here does `sabbatismos` appear, a noun formed from the verb “to keep the Sabbath,” the way “baptism” comes from “baptize.”",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading: the rest is salvation in Christ. The day pointed forward to it, and whoever trusts Christ keeps the Sabbath every day. Many Christians already thought this way in the second century.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second reading: everywhere outside this letter, `sabbatismos` means the literal keeping of the Sabbath, which even scholars who defend Sunday acknowledge, though they draw a different conclusion from it. The letter that says the sacrifices and the Levitical priesthood have been set aside says of the Sabbath rest that it “remains.” So rest in Christ deepens the day rather than taking its place.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides share the heart of the passage: true rest is trust in Christ. A day lived without that trust is empty, no matter which day of the week it is.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Do rest “in Christ” and rest on the seventh day have to exclude each other?** What would the first look like without the second, and the second without the first?",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If someone watched your days of rest for a month, what word would they use to describe them? **How far would that word be from the word “delight,” and what lies in between?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hebrews speaks of resting from “his own work.” **What is hardest for you to rest from: work, your phone, worrying, proving something to yourself or to others?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what childhood memory of the holy day do you carry with you, and what did it do to your picture of God?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A nurse is scheduled for a Saturday shift. A father knows that refusing to work Saturdays could cost him his job. A wife whose husband doesn’t believe hears that he has planned a family trip for Saturday. **How do you keep the day when not everything depends on you? What does faithfulness mean in a situation like that, and what does grace mean?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle other people’s cases, and don’t let the group settle them. It is worth, though, letting two things from the passages come up. Jesus showed that saving life and showing mercy belong to the Sabbath. And Paul asks, “Who are you to judge someone else’s servant?”",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "You can’t work off the Sabbath like a chore. You can only receive it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Isaiah 58:13-14 or Hebrews 4:9-10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Before your next day of rest comes, ask yourself: **what am I looking forward to on this day?** If the answer is “nothing,” don’t correct it. Tell it to God just as it is.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Name before God one thing you can’t put down even for a single day. Then ask: **what am I afraid will happen if I let go of it?** Stay with that question longer than feels comfortable.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you carry grief over childhood Sabbaths full of prohibitions, or shame over how you yourself arranged this day for others, don’t talk it away. Admit it before God, and if need be, also before the person it concerns.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Okay, but is it allowed on the Sabbath to…?”** Don’t hand down a verdict, even if you have an opinion. Any answer you give will become one more item on someone’s list. Give the question back: “Does this give you rest? Does it bring you closer to God and to people? Does it serve someone?” If someone presses, say that the material deliberately doesn’t give a list, because the Bible doesn’t give one either.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“In our home, the Sabbath was torture.”** Listen all the way to the end. Don’t defend the parents or the church, and don’t correct other people’s memories. You can say, “Isaiah uses the word delight. If it was different for you, something went wrong with the day, not with you.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So everyone can do whatever they want.”** No. Isaiah and Nehemiah show that the day has boundaries, and without them it disappears. Ask about the difference: a boundary protects people and time with God; a fence protects the feeling that I’m better than others.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who works Saturdays starts justifying themselves, or someone starts judging them.** Step in right away and calmly. Read Romans 14:4. Matters like this are talked through one-on-one, with someone you trust, not at the table.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A guest who keeps Sunday feels attacked, or someone in the group starts trying to persuade them.** Say plainly that today no one is persuading anyone. Level 3 presents their passages fairly. Remind everyone what unites all of you at the table: our rest is Christ, and a day without Him is empty.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**At level 3, someone wants to “win” Colossians or Romans.** Point out that the material deliberately presents two positions each time and says what they share. These are hard passages. If the group wants to go deeper, make it a separate meeting, with time to read the whole chapters calmly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes silent after a question.** That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in exactly the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation takes off, and you won’t get through the material.** Skip block 2 and move on to blocks 3 and 5. Block 5 is the one without which the meeting loses its point: rest begins with trust, not with a rulebook.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Okay, but is it allowed on the Sabbath to…?”",
+     "odpowiedz": "Don’t hand down a verdict, even if you have an opinion. Any answer you give will become one more item on someone’s list. Give the question back: “Does this give you rest? Does it bring you closer to God and to people? Does it serve someone?” If someone presses, say that the material deliberately doesn’t give a list, because the Bible doesn’t give one either."
+    },
+    {
+     "sytuacja": "“In our home, the Sabbath was torture.”",
+     "odpowiedz": "Listen all the way to the end. Don’t defend the parents or the church, and don’t correct other people’s memories. You can say, “Isaiah uses the word delight. If it was different for you, something went wrong with the day, not with you.”"
+    },
+    {
+     "sytuacja": "“So everyone can do whatever they want.”",
+     "odpowiedz": "No. Isaiah and Nehemiah show that the day has boundaries, and without them it disappears. Ask about the difference: a boundary protects people and time with God; a fence protects the feeling that I’m better than others."
+    },
+    {
+     "sytuacja": "Someone who works Saturdays starts justifying themselves, or someone starts judging them.",
+     "odpowiedz": "Step in right away and calmly. Read Romans 14:4. Matters like this are talked through one-on-one, with someone you trust, not at the table."
+    },
+    {
+     "sytuacja": "A guest who keeps Sunday feels attacked, or someone in the group starts trying to persuade them.",
+     "odpowiedz": "Say plainly that today no one is persuading anyone. Level 3 presents their passages fairly. Remind everyone what unites all of you at the table: our rest is Christ, and a day without Him is empty."
+    },
+    {
+     "sytuacja": "At level 3, someone wants to “win” Colossians or Romans.",
+     "odpowiedz": "Point out that the material deliberately presents two positions each time and says what they share. These are hard passages. If the group wants to go deeper, make it a separate meeting, with time to read the whole chapters calmly."
+    },
+    {
+     "sytuacja": "The group goes silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head before you add anything. If the silence drags on, repeat the question in exactly the same words."
+    },
+    {
+     "sytuacja": "The conversation takes off, and you won’t get through the material.",
+     "odpowiedz": "Skip block 2 and move on to blocks 3 and 5. Block 5 is the one without which the meeting loses its point: rest begins with trust, not with a rulebook."
+    }
+   ]
+  }
+ ]
+}

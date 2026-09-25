@@ -165,7 +165,7 @@ export function Settings() {
         </div>
       </ExpandablePanel>}
       <ExpandablePanel icon="download" title={t('settings.offlineTitle', 'Download content for offline use')}>
-        <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">{t('settings.offlineDesc', 'Downloads the Bible, Bible studies, the “40 Days of Prayer” readings, memory verses, and verses for every occasion to this device. Once finished, they will be available without internet.')}</p>
+        <p className="text-sm leading-relaxed text-slate-600 dark:text-slate-300">{t('settings.offlineDesc', 'Downloads the Bible, Bible studies, the “40 Days of Prayer” readings, BeHopeful, Hope Groups, memory verses, and verses for every occasion to this device. Once finished, they will be available without internet.')}</p>
         <button type="button" onClick={downloadOffline} disabled={offlineState === 'busy' || offlineState === 'done'} className="mt-3 rounded-lg bg-brand px-3 py-1.5 text-sm font-semibold text-white shadow-sm transition hover:bg-brand-light disabled:cursor-default disabled:opacity-70 dark:bg-sky-300 dark:text-slate-950">
           {offlineState === 'busy' ? `${t('settings.offlineBusy', 'Downloading…')}${offlineProgress ? ` ${offlineProgress.done}/${offlineProgress.total}` : ''}` : offlineState === 'done' ? t('settings.offlineDone', 'Content is available offline') : t('settings.offlineButton', 'Download content')}
         </button>

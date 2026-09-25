@@ -1,0 +1,815 @@
+{
+ "tytul": "Does God Hear My Prayers?",
+ "id": "P-02",
+ "seria": "Questions People Ask",
+ "opis": "David, Paul, and Jesus in Gethsemane: unanswered requests told from the inside.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 11:5-13; Psalm 13:1-6; Matthew 26:36-44; 2 Corinthians 12:7-10",
+  "p2": "Luke 18:1-8; Psalm 88:1-3, 13-14, 18; Hebrews 5:7-8; Daniel 10:2-3, 12-14; Romans 8:26-27",
+  "p3": "Luke 11:8; Mark 11:22-24; John 15:7; 1 John 5:14-15; James 4:2-3; Matthew 6:7-8"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 34
+ },
+ "tagi": [
+  "prayer",
+  "God’s silence",
+  "trust",
+  "Gethsemane",
+  "lament"
+ ],
+ "wersja": 1,
+ "zdanie": "God hears. His “I hear you” doesn’t always mean “I’ll do what you ask,” but it never means “I don’t care about you.”",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "There is almost never mere curiosity behind this question. Behind it is a specific prayer for which someone didn’t get what they asked for. This meeting isn’t meant to fix that or explain it. It’s meant to show that the Bible knows unanswered requests from the inside: David asks “How long?”, Paul hears something other than what he wanted three times, and Jesus in Gethsemane asks for something He doesn’t receive. Alongside this stands a parable in which Jesus speaks better of the Father than we think of Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table prayed for a child’s health, for a marriage, for the life of someone they loved, and what they asked for didn’t happen. They may not say so, but they will hear every sentence through that story.",
+      "The most dangerous sentence of the evening is “You should have had more faith.” The second most dangerous is “God always answers: yes, no, or wait.” The first wounds; the second shuts the conversation down before it has begun.",
+      "Testimonies of answered prayer are good, but told next to someone else’s unanswered prayer they can hurt."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t explain to anyone why their prayer wasn’t granted. You don’t know. Don’t turn the meeting into a course on effective prayer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "What did you ask God for when you were a child? One thing is enough, and it can be completely trivial.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. The question is deliberately light. The heavier ones will come later.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Friend at Midnight",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 11:5-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus said to them, “Suppose one of you goes to his friend at midnight and says, ‘Friend, lend me three loaves of bread, because a friend of mine has come to me on a journey, and I have nothing to set before him.’ And suppose the one inside answers, ‘Do not bother me. My door is already shut, and my children and I are in bed. I cannot get up to give you anything.’ I tell you, even though he will not get up to provide for him because of his friendship, yet because of the man’s persistence, he will get up and give him as much as he needs. So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you. For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened. What father among you, if his son asks for a fish, will give him a snake instead? Or if he asks for an egg, will give him a scorpion? So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask Him!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the parable there is a sleepy neighbor, and at the end there is a father. **Which of them is God? How can we tell from Jesus’ words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice Jesus builds His argument on the pattern “if even you…, how much more.” **What does that pattern say about God? What picture of God is Jesus correcting here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The son asks for a fish and an egg. **According to the last sentence, what does the Father give? Why does Jesus end this way, and not with a promise of bread?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**When did you last pray as if you were waking up someone who didn’t feel like getting out of bed?** Where does that picture of God come from in us?",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "It’s easy to read this parable backward: God is asleep, and we have to keep pounding on the door until He gives in. Jesus says the opposite. If even a reluctant neighbor finally gets up, how much more will the Father, who is not asleep and not reluctant. Prayer isn’t for breaking down God’s resistance. Notice too that the promise at the end is about the Holy Spirit, that is, the presence of God Himself, not about our list of requests.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Widow and the Judge",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 18:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus told them a parable about their need to pray at all times and not lose heart: “In a certain town there was a judge who neither feared God nor respected men. And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’ For a while he refused, but later he said to himself, ‘Though I neither fear God nor respect men, yet because this widow keeps pestering me, I will give her justice. Then she will stop wearing me out with her perpetual requests.’” And the Lord said, “Listen to the words of the unjust judge. Will not God bring about justice for His elect who cry out to Him day and night? Will He continue to defer their help? I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Once again Jesus chooses as His main character someone who is the opposite of God. **Why? What does He gain by the contrast?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The words “defer” and “promptly” stand right next to each other. **How do you reconcile them? Whose clock measures the one, and whose the other?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The parable ends with a question about faith, not about answered prayer. **According to Jesus, what is at risk when an answer is a long time coming?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word the BSB renders “persistence” in Luke 11:8 is the Greek `anaideia`. Literally it means shamelessness, a lack of inhibition. In the New Testament it occurs only here. So it doesn’t describe the length of a prayer or the number of repetitions. It describes someone who has no qualms about standing at another person’s door at midnight, because the need is real and a friend is a friend. Jesus is encouraging us to pray without holding back, not to pray for endurance.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "How Long?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 13:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "How long, O LORD? Will You forget me forever? How long will You hide Your face from me? How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me? Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death, lest my enemy say, “I have overcome him,” and my foes rejoice when I fall. But I have trusted in Your loving devotion; my heart will rejoice in Your salvation. I will sing to the LORD, for He has been good to me."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“How long” comes four times. **What is David accusing God of? Would you say something like that out loud in church?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Between the complaint and the last lines of the psalm, David’s situation doesn’t change. The enemy is still there; there is still no answer. **So what has changed? What does David base the word “trusted” on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "This complaint isn’t a private journal entry. The heading addresses it to the choirmaster, that is, for everyone to sing. **What does that say about which prayers God considers fitting?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Psalm That Ends in Darkness",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 88:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "O LORD, the God of my salvation, day and night I cry out before You. May my prayer come before You; incline Your ear to my cry. For my soul is full of troubles, and my life draws near to Sheol."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 88:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But to You, O LORD, I cry for help; in the morning my prayer comes before You. Why, O LORD, do You reject me? Why do You hide Your face from me?"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 88:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "You have removed my beloved and my friend; darkness is my closest companion."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Psalm 13 ends in song. Psalm 88 ends in darkness and breaks off there. **Why did someone decide that a prayer like this belonged in the Bible?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Throughout the whole psalm the writer gets no answer, and yet every morning he comes back with the same prayer. **Whom does he address in the first sentence? What does that say about his faith?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Three Times in the Garden",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 26:36-44",
+       "przeklad": "BSB",
+       "akapity": [
+        "At that time Jesus went with His disciples to a place called Gethsemane, and He told them, “Sit here while I go over there and pray.” He took with Him Peter and the two sons of Zebedee and began to be sorrowful and deeply distressed. Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.” Going a little farther, He fell facedown and prayed, “My Father, if it is possible, let this cup pass from Me. Yet not as I will, but as You will.” Then Jesus returned to the disciples and found them sleeping. “Were you not able to keep watch with Me for one hour?” He asked Peter. “Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.” A second time He went away and prayed, “My Father, if this cup cannot pass unless I drink it, may Your will be done.” And again Jesus returned and found them sleeping—for their eyes were heavy. So He left them and went away once more and prayed a third time, saying the same thing."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What exactly does Jesus ask for? Does He get what He asks for?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "If an unanswered prayer always meant too little faith or hidden sin, **what would we have to say about this prayer?** What does this scene do to that kind of explanation?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Compare the words of the first and the second prayer. **What has shifted between them?** Has the cup gone away, or has something else changed?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus tells the Father plainly what He wants, and only then adds, “Yet not as I will.” **Why does that order matter? What do we lose when we jump straight to the second half?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jesus doesn’t hide from the Father what He longs for. He doesn’t begin with a pious surrender. He says, “Let this cup pass from Me,” and comes back with that request three times. The words “not as I will” don’t replace the request; they stand beside it. The only fully righteous person in the Bible heard a “no” in the most important hour of His life. Since that night, no one has the right to tell a suffering person that their prayer was too weak.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "“He Was Heard”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 5:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "During the days of Jesus’ earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence. Although He was a Son, He learned obedience from what He suffered."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The writer says that Jesus prayed to the One who could save Him from death, and that He was heard. And yet He died. **In what sense was He heard? What does that say about how God understands the word “heard”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Do you know from your own life a prayer that was answered differently and later than you asked?** How long did it take before you saw it?",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The cup is not a random image in this prayer. In the prophets, the cup in God’s hand stands for judgment that someone has to drink to the dregs. Isaiah, Jeremiah, and Lamentations speak this way, and there the cup passes from nation to nation. In Gethsemane the same cup comes into the hands of the One who did not deserve it. So Jesus isn’t asking to avoid pain as such. He is asking not to have to drink what others deserved, and in the end He drinks it.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "My Grace Is Sufficient",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 12:7-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "or because of these surpassingly great revelations. So to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me. That is why, for the sake of Christ, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul pleaded three times, just as Jesus did in the garden. **Did his prayer go unanswered? What exactly did he hear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul calls the thorn “a messenger of Satan,” not a gift from God. Still, he says the thorn served a purpose. **How do those two things fit into one sentence? What is the difference between “God sent this” and “God used this”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Through Paul, God healed other people. Paul himself He did not heal. **What does that mean for the statement “If you had more faith, you would be well”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What is harder to accept: no answer at all, or the answer “My grace is sufficient for you”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "We don’t know what the thorn was. Most likely it was a physical ailment, known to the letter’s recipients and troublesome enough that Paul asked three times for it to be taken away. What matters is what isn’t in the text. There is no charge that Paul lacked faith. Nor is there silence. There is an answer that doesn’t change the circumstances but promises presence: grace is enough, and power will rest on weakness.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Heard on the First Day",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Daniel prays and fasts for three weeks. Nothing happens. Then a messenger from heaven arrives.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 10:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days I, Daniel, was mourning for three full weeks. I ate no rich food, no meat or wine entered my mouth, and I did not anoint myself with oil until the three weeks were completed."
+       ]
+      },
+      {
+       "odnosnik": "Daniel 10:12-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Do not be afraid, Daniel,” he said, “for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them. However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia. Now I have come to explain to you what will happen to your people in the latter days, for the vision concerns those days.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**When was Daniel’s prayer heard, and when did he find out?** What were those three weeks like from his side?",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The messenger speaks of resistance he met along the way. The text lifts the curtain for a moment and lets it fall again. **What does that mean for the statement “Since nothing is happening, God isn’t listening”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Spirit Who Interprets",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 8:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the same way, the Spirit helps us in our weakness. For we do not know how we ought to pray, but the Spirit Himself intercedes for us with groans too deep for words. And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul admits that “we do not know how we ought to pray.” **Does that sentence unsettle you, or bring relief? According to Paul, what happens to our clumsy prayer along the way?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does your prayer look like when there has been no answer for a long time?** More like Psalm 13, like polite formulas, or like silence?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which picture of God from today’s texts comes closest to how you imagine Him when you pray:** a sleepy neighbor, a reluctant judge, or a father?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **is there a prayer you stopped praying because nothing was happening?** You don’t have to say what it was about.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “Whatever You Ask”",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 11:22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Have faith in God,” Jesus said to them. “Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him. Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours."
+       ]
+      },
+      {
+       "odnosnik": "John 15:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "If you remain in Me and My words remain in you, ask whatever you wish, and it will be done for you."
+       ]
+      },
+      {
+       "odnosnik": "1 John 5:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "And this is the confidence that we have before Him: If we ask anything according to His will, He hears us. And if we know that He hears us in whatever we ask, we know that we already possess what we have asked of Him."
+       ]
+      },
+      {
+       "odnosnik": "James 4:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "You crave what you do not have; you kill and covet, but are unable to obtain it. You quarrel and fight. You do not have, because you do not ask. And when you do ask, you do not receive, because you ask with wrong motives, that you may squander it on your pleasures."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same Jesus who says “whatever you ask for in prayer” prays in Gethsemane a few days later, and the cup does not pass Him by. **Did Jesus lack faith? If not, how should we read Mark 11 in light of Matthew 26?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John, James, and Jesus Himself in John 15 attach conditions to the promise: “If you remain in Me,” “according to His will,” “you ask with wrong motives.” **Do these conditions rescue the promise or water it down?** How can we read them without turning them into a checklist to hold up against someone who is suffering?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the church you meet two ways of reading these texts. One emphasizes boldness: ask specifically and expect an answer. The other emphasizes surrender: ask, and leave the outcome to God. **What does each one protect? What unites them, if you look at Gethsemane, where both are present at once?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 6:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when you pray, do not babble on like pagans, for they think that by their many words they will be heard. Do not be like them, for your Father knows what you need before you ask Him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If the Father knows what we need before we ask, **why ask?** One answer says that asking doesn’t inform God or persuade Him; it opens the door to Him from our side. **Does that convince you? So what does prayer change: God, the circumstances, or the one who prays?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Two families pray for a sick child. One child recovers, the other dies. **What may we say about that difference on the basis of the texts we read today? What must we not say?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Is a prayer that ends like Psalm 88 a prayer of faith?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "question q33 has no answer, and you must not manufacture one. It’s enough for the group to name honestly what the texts don’t say: they don’t say there wasn’t enough faith, and they don’t say God loved one child less.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God hears. His “I hear you” doesn’t always mean “I’ll do what you ask,” but it never means “I don’t care about you.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Luke 11:13 or 2 Corinthians 12:9a.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Go back to one prayer you gave up on because nothing was happening. Tell God plainly what you felt when He was silent. Don’t soften it. Psalm 13 gives you permission.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself whom you are praying to: a neighbor who has to be woken up, a judge who has to be worn down, or a Father. Notice where that picture came from, and whether it came from Jesus.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** pray about that one thing using the words from Gethsemane, in the same order. First, with complete honesty, what you want. Only then, “Yet not as I will, but as You will.” See which half comes harder for you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is in fresh pain after a prayer that wasn’t granted: a death, an illness, a family falling apart.** Don’t ask them directly, and don’t use their story as an example. If they start talking, the group listens. Nobody explains, nobody comforts with a Bible verse, nobody responds by telling about their own answered prayer. “Thank you for sharing that” and a moment of silence are enough. Stay with the person after the meeting. The group walks alongside; it doesn’t heal. If you hear about suicidal thoughts, don’t carry it alone. Make sure they know about a crisis line in your country and your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“You should have had more faith,” or “There must have been some sin in it.”** Stop it right away, calmly. Go back to blocks 3 and 4: Jesus and Paul didn’t lack faith, and they didn’t get what they asked for. You can say, “Let’s check whether the text lets us say that about Jesus in Gethsemane.” It doesn’t.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Pious clichés: “God always answers: yes, no, or wait,” “God knows best,” “What doesn’t kill you makes you stronger.”** Some of them can be true, but said to someone in pain they work like a door being shut. Move the conversation to the text: “David tells God that He has forgotten him. What did God do with a prayer like that? He put it in the hymnbook.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A testimony of a miraculously answered prayer.** Say thank you sincerely. Don’t build a rule on it, and don’t let the group build one. If someone for whom things didn’t work out is sitting nearby, add one sentence: “In the Bible, both stand side by side, and no one gets an explanation for the difference.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t pray anymore.”** That is a confession, not a provocation. Don’t try to convert them. You can ask, “When did you stop?” and listen. The writer of Psalm 88 was one step away from the same thing, and his words are in the Bible.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to techniques: how long, what time, what posture, what words.** Go back to the question from block 1: to whom are we praying? In this parable Jesus isn’t teaching a method; He is correcting our picture of the Father.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** Count to ten in your head. With this topic, people are weighing how much they can say. Repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Skip block 2. Blocks 1, 3, and 4 carry the whole: what the Father is like, what the Son heard, what Paul heard.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone is in fresh pain after a prayer that wasn’t granted: a death, an illness, a family falling apart.",
+     "odpowiedz": "Don’t ask them directly, and don’t use their story as an example. If they start talking, the group listens. Nobody explains, nobody comforts with a Bible verse, nobody responds by telling about their own answered prayer. “Thank you for sharing that” and a moment of silence are enough. Stay with the person after the meeting. The group walks alongside; it doesn’t heal. If you hear about suicidal thoughts, don’t carry it alone. Make sure they know about a crisis line in your country and your local emergency number."
+    },
+    {
+     "sytuacja": "“You should have had more faith,” or “There must have been some sin in it.”",
+     "odpowiedz": "Stop it right away, calmly. Go back to blocks 3 and 4: Jesus and Paul didn’t lack faith, and they didn’t get what they asked for. You can say, “Let’s check whether the text lets us say that about Jesus in Gethsemane.” It doesn’t."
+    },
+    {
+     "sytuacja": "Pious clichés: “God always answers: yes, no, or wait,” “God knows best,” “What doesn’t kill you makes you stronger.”",
+     "odpowiedz": "Some of them can be true, but said to someone in pain they work like a door being shut. Move the conversation to the text: “David tells God that He has forgotten him. What did God do with a prayer like that? He put it in the hymnbook.”"
+    },
+    {
+     "sytuacja": "A testimony of a miraculously answered prayer.",
+     "odpowiedz": "Say thank you sincerely. Don’t build a rule on it, and don’t let the group build one. If someone for whom things didn’t work out is sitting nearby, add one sentence: “In the Bible, both stand side by side, and no one gets an explanation for the difference.”"
+    },
+    {
+     "sytuacja": "“I don’t pray anymore.”",
+     "odpowiedz": "That is a confession, not a provocation. Don’t try to convert them. You can ask, “When did you stop?” and listen. The writer of Psalm 88 was one step away from the same thing, and his words are in the Bible."
+    },
+    {
+     "sytuacja": "The conversation drifts to techniques: how long, what time, what posture, what words.",
+     "odpowiedz": "Go back to the question from block 1: to whom are we praying? In this parable Jesus isn’t teaching a method; He is correcting our picture of the Father."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "Count to ten in your head. With this topic, people are weighing how much they can say. Repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Skip block 2. Blocks 1, 3, and 4 carry the whole: what the Father is like, what the Son heard, what Paul heard."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,939 @@
+{
+ "tytul": "The Workers in the Vineyard",
+ "id": "PJ-05",
+ "seria": "Parables of Jesus",
+ "opis": "Everyone gets the same pay, and the first ones feel cheated: why does grace shown to someone else hurt so much?",
+ "tryb": "ksiegi-hybrydowy",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Matthew 19:27-30; Matthew 20:1-16; Matthew 20:20-28",
+  "p2": "Matthew 19:16-22; Leviticus 19:13; Deuteronomy 24:14-15; Luke 23:39-43; Luke 17:7-10; Matthew 20:17-19; Matthew 27:37-38",
+  "p3": "Romans 4:4-5; 1 Corinthians 3:8; Deuteronomy 15:9; Matthew 6:22-23; Matthew 22:12; Matthew 26:50; Romans 6:23"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 34
+ },
+ "tagi": [
+  "parables",
+  "grace",
+  "envy",
+  "reward",
+  "justice",
+  "service"
+ ],
+ "wersja": 1,
+ "zdanie": "God never gives anyone less than He promised. What offends us is that He gives others just as much.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This parable is meant to provoke, and it’s a good thing if it does. The landowner pays the same for one hour as for twelve, and no one gets less than they were promised. This meeting aims to lead the group to the question: then where does the sense of being wronged come from? It matters whom Jesus tells this to: not His opponents, but disciples who really had left everything. Peter set off the parable with his question “What then will there be for us?” and it is framed on both sides by the same saying about the first and the last.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The false picture of God this parable corrects: God as an employer who pays by seniority and merit, and a relationship with Him as a contract. With that picture, His generosity toward others looks like injustice toward me. Jesus shows a landowner who goes out five times himself to find people, and at the end says only one thing about himself: I am good.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The “Envy” meeting in the Emotions series reads verses 9-15 from the side of the feeling. Here you read the whole passage from the side of what the landowner is like.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be people at the table who have believed since childhood, tired and quietly disappointed that their faithfulness got them nothing. Peter’s question is their question, and Jesus doesn’t scold him for it.",
+      "There may also be someone who came to faith late and is ashamed of the wasted years. For them this parable is good news, and it must not be spoiled for them.",
+      "Someone who is out of work, or has recently lost a job, may take the marketplace scene very personally.",
+      "The conversation easily veers into wages, employers, and social policy. The parable is not an economic model."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t map the hours onto eras of history or onto nations. Don’t ask anyone from which hour they’ve been in the vineyard. Don’t conclude that effort doesn’t matter, because the text doesn’t say that.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when someone got the same as you even though they did less: at school, at work, among your siblings. Tell us in one word what you felt.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, briefly and without telling a story. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Peter’s Question",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A moment earlier a wealthy young man walked away from Jesus, sad, because he couldn’t part with his possessions. Peter watches him go and speaks up for all of them.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 19:27-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Look,” Peter replied, “we have left everything to follow You. What then will there be for us?” Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on His glorious throne, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel. And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life. But many who are first will be last, and the last will be first."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter is telling the truth: they really did leave everything. **What in his question is honest, and what in it grates? How does Peter understand, at this moment, what binds him to Jesus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus doesn’t scold Peter. He answers with a promise bigger than Peter could have hoped for, and then immediately adds the saying about the first and the last. **Why does a generous promise need a footnote like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The same saying comes back at the end of the parable, in verse 16. **What do these bookends tell us about whom Jesus is telling this story to, and why?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Jesus has left Galilee and is traveling through the region beyond the Jordan toward Jerusalem. Matthew lines up the scenes here one after another: a conversation about marriage, the children the disciples want to send away, the rich young man, Peter’s question, the parable. Right after it Jesus will announce His death for the third time, and the mother of James and John will ask for the two top places for her sons. Only Matthew records this parable. It is heard by the disciples, not by the crowd and not by opponents.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** The workday ran from dawn to dusk. Hours were counted from sunrise: the third hour is our nine in the morning, the sixth is noon, the eleventh is five in the afternoon, an hour before quitting time. A denarius was an ordinary day’s wage. A laborer’s family ate on it that same day, and not much was left over. People with no land of their own stood in the marketplace in the morning and waited for someone to hire them. At grape harvest every pair of hands counted, because picked grapes couldn’t be kept waiting.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The One Who Walked Away",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 19:16-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Just then a man came up to Jesus and inquired, “Teacher, what good thing must I do to obtain eternal life?” “Why do you ask Me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.” “Which ones?” the man asked. Jesus answered, “‘Do not murder, do not commit adultery, do not steal, do not bear false witness, honor your father and mother, and love your neighbor as yourself.’” “All these I have kept,” said the young man. “What do I still lack?” Jesus told him, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow Me.” When the young man heard this, he went away in sorrow, because he had great wealth."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The young man asks, “What good thing must I do to obtain eternal life?” Peter asks, “What then will there be for us?” **What do these two questions have in common, even though one man walked away and the other stayed?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“There is only One who is good.” Remember that sentence. **Where does the word “good” come back in the parable, and in whose mouth?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Marketplace",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 20:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. He agreed to pay them a denarius for the day and sent them into his vineyard. About the third hour he went out and saw others standing in the marketplace doing nothing. ‘You also go into my vineyard,’ he said, ‘and I will pay you whatever is right.’ So they went. He went out again about the sixth hour and the ninth hour and did the same thing. About the eleventh hour he went out and found still others standing around. ‘Why have you been standing here all day long doing nothing?’ he asked. ‘Because no one has hired us,’ they answered. So he told them, ‘You also go into my vineyard.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Count how many times the landowner goes out to the marketplace. In verse 8 it turns out he has a foreman, and yet he goes himself. **What does it say about him that he goes back there even an hour before the day ends? What does he care about?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "With the first group the landowner agrees on a denarius. To the next he promises “whatever is right.” To the last he promises nothing. **What is each of these groups relying on when they go into the vineyard?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Because no one has hired us.” **What was the day like for a man still standing in the marketplace at five in the afternoon? What will he bring home if no one comes for him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Corners like that still exist in the Middle East today. In the morning people sit and chat, because the day is long. By afternoon they are standing, ready to move at the first nod. Whoever is waiting at the eleventh hour isn’t counting on a day’s wage. He is counting on how he will feed his children tonight. Hiring someone for one hour is not good business. Besides, a wealthy man would have sent his foreman to the marketplace. This one goes himself, five times in one day, as if people without work mattered more to him than grapes.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Paid Before Sunset",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 19:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "You must not defraud your neighbor or rob him. You must not withhold until morning the wages due a hired hand."
+       ]
+      },
+      {
+       "odnosnik": "Deuteronomy 24:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not oppress a hired hand who is poor and needy, whether he is a brother or a foreigner residing in one of your towns. You are to pay his wages each day before sunset, because he is poor and depends on them. Otherwise he may cry out to the LORD against you, and you will be guilty of sin."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Law of Moses requires a hired hand to be paid the same day, and it gives a reason. **What is it? What does that tell us about whose side God is on in the labor market?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The landowner in the parable knows this law and pays in the evening. **How does our view of his decision change when we think about what a denarius is worth to a family, and what one twelfth of a denarius is worth?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Payday",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 20:8-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, starting with the last ones hired and moving on to the first.’ The workers who were hired about the eleventh hour came and each received a denarius. So when the original workers came, they assumed they would receive more. But each of them also received a denarius. On receiving their pay, they began to grumble against the landowner. ‘These men who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden and the scorching heat of the day.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The landowner has the pay handed out starting with the last. If he had started with the first, they would have taken their denarius and gone home content. **Why does he want the first ones to watch?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read the complaint in verse 12 carefully. **What is it about: how much they got, or something else? Which word hurts them the most?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The first ones “assumed they would receive more.” **Where did that expectation come from? Who promised them anything beyond a denarius?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At the Eleventh Hour",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:39-43",
+       "przeklad": "BSB",
+       "akapity": [
+        "One of the criminals who hung there heaped abuse on Him. “Are You not the Christ?” he said. “Save Yourself and us!” But the other one rebuked him, saying, “Do you not even fear God, since you are under the same judgment? We are punished justly, for we are receiving what our actions deserve. But this man has done nothing wrong.” Then he said, “Jesus, remember me when You come into Your kingdom!” And Jesus said to him, “Truly I tell you, today you will be with Me in Paradise.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This man didn’t work a single hour in the vineyard. **What does he have in his hands when he asks? What does he base his request on?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Imagine Peter standing at the foot of the cross and hearing the promise given to the criminal. **What feelings are possible in that moment? Which of them does the parable describe, and which would be its opposite?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Does Work in the Vineyard Mean Nothing?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This parable is read in two ways. Some see in it a picture of pure grace: before God no one is paid according to hours worked, and to ask Him for nothing but justice is to ask for a sentence.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 4:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the wages of the worker are not credited as a gift, but as an obligation. However, to the one who does not work, but believes in Him who justifies the wicked, his faith is credited as righteousness."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Others point out that Jesus tells it to disciples, not to people asking about salvation, and that in the same conversation He Himself promises a reward. In their view the parable doesn’t cancel out faithfulness. It teaches that God doesn’t count the way we do, and it heals the disciples of jealousy over who comes first. After all, the New Testament also has this sentence:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 3:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "He who plants and he who waters are one in purpose, and each will be rewarded according to his own labor."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in Matthew’s text itself supports the first reading, and what supports the second?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both readings agree on one thing: no one got less than they were promised, and getting into the vineyard was an invitation for everyone, not something they earned. **Why, then, is it so hard for us to accept a God who is unequally generous?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Landowner’s Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 20:13-16",
+       "przeklad": "WEB",
+       "akapity": [
+        "“But he answered one of them, ‘Friend, I am doing you no wrong. Didn’t you agree with me for a denarius? Take that which is yours, and go your way. It is my desire to give to this last just as much as to you. Isn’t it lawful for me to do what I want to with what I own? Or is your eye evil, because I am good?’ So the last will be first, and the first last. For many are called, but few are chosen.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The landowner answers with three questions. **To which of them could the grumbler honestly answer “no”? Who in this story was actually wronged?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The landowner’s goodness has become an accusation in the worker’s mouth. **What picture of God do you have to carry in your head for His generosity toward someone else to hurt like your own loss?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The parable breaks off. We don’t know what the worker did with the denarius in his clenched fist. **Why doesn’t Jesus tell us how it ends?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The landowner doesn’t defend himself with accounting. He reminds the worker of the agreement he kept, and says one sentence about himself: I am good. Later rabbinic writings preserve similar stories about workers who received equal pay. They end with the explanation that the one who worked less time did more, or was more skilled, so merit returns to its place. With Jesus it doesn’t. The last ones didn’t do more. They got a full day’s wage only because that is what the landowner is like.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Servants After a Long Day",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 17:7-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Which of you whose servant comes in from plowing or shepherding in the field will say to him, ‘Come at once and sit down to eat’? Instead, won’t he tell him, ‘Prepare my meal and dress yourself to serve me while I eat and drink; and afterward you may eat and drink’? Does he thank the servant because he did what he was told? So you also, when you have done everything commanded of you, should say, ‘We are unworthy servants; we have only done our duty.’”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "A servant who plowed all day and then served dinner in the evening is hardly a worthless servant. **So what does the sentence Jesus puts in the disciples’ mouths mean? What bill can this servant not present to his master?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the vineyard grace offends because it gives those others too much. Here it chafes because it doesn’t add a bonus for me. **How do these two parables together describe what lies between us and God? What is left when the bill disappears?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: An Evil Eye",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Where the BSB reads “are you envious because I am generous?” the Greek says literally what the WEB keeps in block 4: “is your eye evil, because I am good?” In that language an evil eye was a fixed expression for stinginess and envy, a way of looking that counts someone else’s good as your own loss. The Law of Moses already speaks this way, where the BSB renders the phrase “look upon… begrudgingly” (the KJV: “thine eye be evil”):",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 15:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Be careful not to harbor this wicked thought in your heart: “The seventh year, the year of release, is near,” so that you look upon your poor brother begrudgingly and give him nothing. He will cry out to the LORD against you, and you will be guilty of sin."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Jesus uses the same Greek word in the Sermon on the Mount, where the BSB translates it “bad”:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 6:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "The eye is the lamp of the body. If your eyes are good, your whole body will be full of light. But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the landowner’s last question two words stand face to face: the worker’s evil eye and the good landowner. **What does an evil eye do to a whole day spent in the vineyard? What grows dark in a person who looks at things that way?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: Friend",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word the landowner uses to address the grumbler is not the ordinary word for a friend. In the whole New Testament it appears only in Matthew, three times, always as a form of address to someone:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 22:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 26:50",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The guest without wedding clothes, the worker in the vineyard, Judas in the garden. **What do these three men have in common? How does this form of address sound: like a verdict, or like a last outstretched hand?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Two Top Places",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Right after the parable Jesus takes the Twelve aside and tells them for the third time that in Jerusalem He will be handed over and killed. Matthew places the next scene immediately after those words.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 20:20-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the mother of Zebedee’s sons came to Jesus with her sons and knelt down to make a request of Him. “What do you want?” He inquired. She answered, “Declare that in Your kingdom one of these two sons of mine may sit at Your right hand, and the other at Your left.” “You do not know what you are asking,” Jesus replied. “Can you drink the cup I am going to drink?” “We can,” the brothers answered. “You will indeed drink My cup,” Jesus said. “But to sit at My right or left is not Mine to grant. These seats belong to those for whom My Father has prepared them.” When the ten heard about this, they were indignant with the two brothers. But Jesus called them aside and said, “You know that the rulers of the Gentiles lord it over them, and their superiors exercise authority over them. It shall not be this way among you. Instead, whoever wants to become great among you must be your servant, and whoever wants to be first among you must be your slave— just as the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Two ask for the top places, and ten are indignant. **Who in this scene is still keeping count? How much of the parable is left in the disciples a few verses after it was told?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus ends with a sentence about Himself: He “did not come to be served, but to serve, and to give His life.” **What does that sentence tell us about the landowner in the parable? How does the question “What then will there be for us?” sound after it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“It shall not be this way among you.” **What would a community look like where no one keeps track of seniority or merit? What would disappear from it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "On the Right and on the Left",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 20:17-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "As Jesus was going up to Jerusalem, He took the twelve disciples aside and said, “Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death and will deliver Him over to the Gentiles to be mocked and flogged and crucified. And on the third day He will be raised to life.”"
+       ]
+      },
+      {
+       "odnosnik": "Matthew 27:37-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "Above His head they posted the written charge against Him: THIS IS JESUS, THE KING OF THE JEWS. Two robbers were crucified with Him, one on His right hand and the other on His left."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks about the cross, and in the very next sentence the disciples speak about places by the throne. The words “right hand” and “left” come back in Matthew once more, at Golgotha. **What does putting these side by side say about what the first place is in Jesus’ Kingdom?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: What Is the Denarius?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The parable doesn’t say what the denarius stands for, and no separate doctrine should be built on that detail. Still, readers have long gone down two paths. Some say: the denarius is eternal life, the same for the one who served seventy years and for the one who believed at the last hour.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 6:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Others go a step further: the gift is the Giver Himself. God can’t give the first more than the last, because He can give neither more nor less than Himself, and He can’t be split into installments or handed out by degrees.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Both readings share one thing: what the landowner gives can’t be had “more.” **What changes in the complaint “you have made them equal to us” if the wage is not a thing but Someone? What does the whole day in the vineyard become then: a cost, or a privilege?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter added up what he had left behind. **What do you have written on your side of the ledger with God: years of service, faithfulness, sacrifices others didn’t make?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In your own eyes, which group of workers are you standing with today: those from dawn, from noon, or from the eleventh hour? From where you stand, how does the sentence “you have made them equal to us” sound?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **has there been grace in your life shown to someone else that you couldn’t bring yourself to be glad about? What did that tell you about yourself?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q33",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The eleventh-hour workers didn’t choose their hour. They say, “No one has hired us.” **What about someone who heard the invitation in the morning and deliberately put it off until evening, counting on the same denarius? Does the parable even talk about a person like that, and what do they lose, even if the denarius doesn’t pass them by?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q34",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Can you teach yourself to rejoice over someone else’s denarius by sheer resolve? Where would that joy come from, since an evil eye doesn’t take orders?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle it. It would be good for two observations from the text to come up. The people in the marketplace lived through the whole day unsure of how the evening would end, while those hired at dawn had certainty and the landowner beside them; they just couldn’t count that as gain. And the cure for an evil eye in this parable is not a command but a sight: the landowner makes the first ones watch his goodness.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God never gives anyone less than He promised. What offends us is that He gives others just as much.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Memory verse:** Matthew 20:15 or Matthew 20:16.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "This Week",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The next time you feel a sting at the sight of someone else’s good fortune, stop at one question: **what was just taken from me?** If the answer is “nothing,” stay with the question of where the pain comes from, then.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself honestly **what you think God owes you for.** Tell Him so directly, the way Peter did. He doesn’t scold that kind of question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone who, in your opinion, got something from God or from people too easily. In prayer, try to be glad about their denarius. Notice what in you resists, and name it before God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“That’s just unfair. I’d grumble too.”** Agree, because that’s how it’s meant to work. Jesus told this story so that the listener would take the side of the first workers. Then ask calmly, “Who in this story was actually wronged? Who got less than they were promised?” Don’t rush to answer for the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Then why bother trying? I’ll convert when I’m old and it’ll come out the same.”** Go back to verse 7. The eleventh-hour workers didn’t plan anything; they say, “No one has hired us.” They stood all day afraid of the evening. The parable doesn’t describe cleverness; it describes the landowner. You can add that getting into the vineyard is free, but life in it takes everything, and that those hired at dawn had something the last ones didn’t: a whole day with the landowner.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who has believed since childhood says bitterly, “My whole life in church, and what have I got to show for it?”** Don’t correct them and don’t shame them. That is exactly Peter’s question, and Jesus answered it with a promise, not a rebuke. Thank them for their honesty. After the meeting, ask what has worn this person out so much.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who came to faith late says they wasted their best years.** Let it be heard, and read verse 9 again. The denarius for the last ones is not smaller or of lesser value. Don’t force comfort on them, and don’t let others say, “Better late than never.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation veers into wages, employers, welfare, or current politics.** Interrupt calmly. The parable is not an economic model, and no side of the debate can claim it. If someone asks what the Bible says about fair pay, point to the texts at level 2 and go back to the question about the landowner.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone maps the hours onto eras of history, or says the first are the Jews and the last are the Gentiles.** The text doesn’t say that. All the workers come from the same marketplace, and Jesus tells this story to His own disciples, in answer to Peter’s question. The first are those who have been with Him the longest, which means us too.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone who is out of work says they know that marketplace from the inside.** Listen and thank them. Don’t turn their situation into an illustration of the parable, and don’t let the group hand out advice. After the meeting, ask whether there is something concrete the group can help with.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group falls silent after a question.** That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Cut block 1 down to the reading and the first question. Blocks 3 and 4 must stay together, because the complaint without the landowner’s answer leaves the group with nothing but indignation, and the answer without the complaint has nothing to heal. From block 5, read at least the last verse.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“That’s just unfair. I’d grumble too.”",
+     "odpowiedz": "Agree, because that’s how it’s meant to work. Jesus told this story so that the listener would take the side of the first workers. Then ask calmly, “Who in this story was actually wronged? Who got less than they were promised?” Don’t rush to answer for the group."
+    },
+    {
+     "sytuacja": "“Then why bother trying? I’ll convert when I’m old and it’ll come out the same.”",
+     "odpowiedz": "Go back to verse 7. The eleventh-hour workers didn’t plan anything; they say, “No one has hired us.” They stood all day afraid of the evening. The parable doesn’t describe cleverness; it describes the landowner. You can add that getting into the vineyard is free, but life in it takes everything, and that those hired at dawn had something the last ones didn’t: a whole day with the landowner."
+    },
+    {
+     "sytuacja": "Someone who has believed since childhood says bitterly, “My whole life in church, and what have I got to show for it?”",
+     "odpowiedz": "Don’t correct them and don’t shame them. That is exactly Peter’s question, and Jesus answered it with a promise, not a rebuke. Thank them for their honesty. After the meeting, ask what has worn this person out so much."
+    },
+    {
+     "sytuacja": "Someone who came to faith late says they wasted their best years.",
+     "odpowiedz": "Let it be heard, and read verse 9 again. The denarius for the last ones is not smaller or of lesser value. Don’t force comfort on them, and don’t let others say, “Better late than never.”"
+    },
+    {
+     "sytuacja": "The conversation veers into wages, employers, welfare, or current politics.",
+     "odpowiedz": "Interrupt calmly. The parable is not an economic model, and no side of the debate can claim it. If someone asks what the Bible says about fair pay, point to the texts at level 2 and go back to the question about the landowner."
+    },
+    {
+     "sytuacja": "Someone maps the hours onto eras of history, or says the first are the Jews and the last are the Gentiles.",
+     "odpowiedz": "The text doesn’t say that. All the workers come from the same marketplace, and Jesus tells this story to His own disciples, in answer to Peter’s question. The first are those who have been with Him the longest, which means us too."
+    },
+    {
+     "sytuacja": "Someone who is out of work says they know that marketplace from the inside.",
+     "odpowiedz": "Listen and thank them. Don’t turn their situation into an illustration of the parable, and don’t let the group hand out advice. After the meeting, ask whether there is something concrete the group can help with."
+    },
+    {
+     "sytuacja": "The group falls silent after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Cut block 1 down to the reading and the first question. Blocks 3 and 4 must stay together, because the complaint without the landowner’s answer leaves the group with nothing but indignation, and the answer without the complaint has nothing to heal. From block 5, read at least the last verse."
+    }
+   ]
+  }
+ ]
+}

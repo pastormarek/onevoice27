@@ -1,0 +1,810 @@
+{
+ "tytul": "Daniel 7. The Beasts and the Son of Man",
+ "id": "D-07",
+ "seria": "The Book of Daniel",
+ "opis": "Four beasts, a courtroom, and someone with a human face: a judgment that takes the side of the wronged.",
+ "tryb": "ksiegi-ciagly",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Daniel 7:1-8; 7:9-12; 7:13-14; 7:15-18; 7:19-28",
+  "p2": "Daniel 2:39-40, 44; Mark 14:61-64; Luke 12:32; Matthew 4:8-10",
+  "p3": "Psalm 104:1-3; Psalm 8:4-8; John 18:36"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 25,
+  "p3": 30
+ },
+ "tagi": [
+  "Daniel",
+  "prophecy",
+  "judgment",
+  "Son of Man",
+  "kingdom of God",
+  "hope",
+  "power"
+ ],
+ "wersja": 1,
+ "zdanie": "The beasts make their noise down below, but up above the thrones are already set in place, and the kingdom has been given to someone with a human face.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "From this chapter on, the book speaks in images. It’s easy to turn it into a puzzle: which animal is which nation, and who is the little horn. This meeting follows the proportions of the text itself. When a frightened Daniel asks for an explanation, the angel sums up the whole vision in two sentences: there will be four kingdoms, and then the saints will receive the kingdom. The center of the chapter is not the beasts but the courtroom, and someone like a man who is given dominion forever. The judgment in this chapter is decided in favor of the wronged. That is the sentence the group should leave with.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The text doesn’t name any kingdom or the little horn. Level 1 sticks to what is in the text. The names of the kingdoms that the book itself gives are at level 2. Interpretations of the little horn are at level 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Current politics. Someone will want to point to the beast in a present-day nation, leader, or organization. This material doesn’t do that, and the group shouldn’t either.",
+      "Dates and calculations. Someone knows them by heart and will want to present them. This material deliberately gives no dates.",
+      "Catholics or people from Catholic families may be sitting at the table. The Adventist reading of the little horn is about a system of power, not about people who believe. No jokes, no contempt, no statements about present-day individuals or communities.",
+      "For many people the word “judgment” is associated only with fear. This chapter turns that around, but not everyone will believe it right away."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t draw a chart before the group has described the vision for themselves. Don’t add names that aren’t in the text. Don’t let prophecy become an excuse to speak badly of anyone.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a situation in which someone was treated unjustly and no one took their side. Don’t tell the details. In one sentence, say what was missing most at the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short. Don’t comment on other people’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Out of the Sea",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account. Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea. Then four great beasts came up out of the sea, each one different from the others: The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man, and given the mind of a man. Suddenly another beast appeared, which looked like a bear. It was raised up on one of its sides, and it had three ribs in its mouth between its teeth. So it was told, ‘Get up and gorge yourself on flesh!’ Next, as I watched, another beast appeared. It was like a leopard, and on its back it had four wings like those of a bird. The beast also had four heads, and it was given authority to rule. After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns. While I was contemplating the horns, suddenly another horn, a little one, came up among them, and three of the first horns were uprooted before it. This horn had eyes like those of a man and a mouth that spoke words of arrogance."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**Describe the four animals in order, using only the text.** What do they have in common? What changes from the first to the fourth?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Look for the passive forms: “its wings were torn off,” “given the mind of a man,” “it was told,” “it was given authority to rule.” **Who is the unseen actor in these sentences? What does that say about powers that look all-powerful?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The little horn has no fangs or claws. It has human eyes and a mouth that talks a lot. **Why is it the one that captures all of Daniel’s attention? What is unsettling about a power that looks human?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Daniel has this dream in the first year of Belshazzar, that is, before the feast of chapter 5 and before the lions’ den. The book goes back in time because it changes subject: until now it told of people at court; now it shows history seen from above. In the Bible the churning sea is an image of restless nations. Empires don’t fall from the sky. They rise out of turmoil, one after another, and each is more predatory than the last.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context: Where We Are in the Book",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Where we are.** Right at the hinge of the book. This is Daniel’s own first vision and also the last chapter written in Aramaic, the language of the nations. Chapters 2 and 7 hold this section together like bookends: at the beginning a king sees four kingdoms as a gleaming statue; at the end a prophet sees the same kingdoms as predators. Chapters 8 through 12 will develop what is shown here.",
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Background.** Nebuchadnezzar is dead. Belshazzar sits on the throne in Babylon, and the empire that looked eternal is weakening. Daniel is an older man and, as chapter 5 shows, hardly anyone at court remembers him. The city has little more than a decade left before it falls.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Dream a Second Time",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 2:39-40, 44",
+       "przeklad": "BSB",
+       "akapity": [
+        "But after you, there will arise another kingdom, inferior to yours. Next, a third kingdom, one of bronze, will rule the whole earth. Finally, there will be a fourth kingdom as strong as iron; for iron shatters and crushes all things, and like iron that crushes all things, it will shatter and crush all the others. … In the days of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will shatter all these kingdoms and bring them to an end, but will itself stand forever."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Four metals and four animals, iron and iron teeth, and at the end a kingdom that lasts. **The same history is seen once by a pagan king and once by a prophet in exile. How is an empire seen from the throne different from an empire seen from below?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does chapter 7 add to the dream of the statue?** List everything that wasn’t in chapter 2.",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The book itself names three of the kingdoms: Babylon in 2:38, the Medes and Persians in 5:28, Greece in 8:20-21. The lion with wings, the bear raised up on one side, and the four-headed leopard fall into the same order. Daniel doesn’t name the fourth kingdom. In history, Rome came after Greece, and after Rome no fifth empire arose, only many smaller nations. This is how the historicist school, to which Adventists belong, reads this chapter. Other schools count the kingdoms differently, and that is discussed at level 3.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Thrones",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "As I continued to watch, thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head was like pure wool. His throne was flaming with fire, and its wheels were all ablaze. A river of fire was flowing, coming out from His presence. Thousands upon thousands attended Him, and myriads upon myriads stood before Him. The court was convened, and the books were opened. Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire. As for the rest of the beasts, their dominion was removed, but they were granted an extension of life for a season and a time."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Daniel’s gaze moves from the sea to the courtroom. **What changes in the mood of the scene? Describe this courtroom: who is sitting, who is standing, what lies on the table.**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The horn is still speaking its arrogant words, and the court is already in session. **What does it mean for people living under the beasts’ rule that the trial is under way before the noise dies down?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“The books were opened.” Nothing has been lost; everything is written down. **For whom is that good news, and for whom is it bad news?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "For many of us, God’s judgment is a courtroom in which we are the defendants. In this scene, the beasts are the ones in the dock. The Bible often speaks of judgment the way a person who has been wronged speaks of it: as the moment when someone will finally call the wrong by its name and set it right. That is why the psalms ask for judgment instead of fearing it. Daniel’s first readers lived under foreign rule, and for them the words “The court was convened” were a promise.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "One Like a Son of Man",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence. And He was given dominion, glory, and kingship, that the people of every nation and language should serve Him. His dominion is an everlasting dominion that will not pass away, and His kingdom is one that will never be destroyed."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After four predators, someone with a human face appears. **Set him side by side with the beasts: where do they come from, and where does he come from? How do they gain power, and how does he receive it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**From verse 14, list everything he is given, and for how long.** Compare that with verse 12, where the beasts are granted “an extension of life for a season and a time.”",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In this vision, history ends with the rule of someone who is like a man, not like an animal. **What does that say about how God pictures power?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“The Son of Man” is the title Jesus used for Himself most often. In the Gospels it appears dozens of times, almost always from His own lips. He didn’t invent it. He reached for a vision His listeners knew. When He said that “the Son of Man has authority,” those who read Daniel heard this scene in the background: the courtroom, the Ancient of Days on the throne, and the kingdom given to someone with a human face.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Before Another Court",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Mark 14:61-64",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Jesus remained silent and made no reply. Again the high priest questioned Him, “Are You the Christ, the Son of the Blessed One?” “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven.” At this, the high priest tore his clothes and declared, “Why do we need any more witnesses? You have heard the blasphemy. What is your verdict?” And they all condemned Him as deserving of death."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus stands bound before a tribunal and quotes Daniel 7. **In His words, who is the judge and who is being judged? Why was this one sentence enough for a death sentence?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Throughout Mark’s Gospel, Jesus avoids titles. He speaks plainly only when it costs Him His life. **What does this moment say about the kingdom He is to receive? By what road does He go to it?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: Clouds and Direction",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Aramaic expression literally means “someone like a son of man,” that is, someone with a human appearance. In Daniel it is still a comparison, not a title. What is remarkable is something else: this human figure comes with the clouds, and in the Old Testament the clouds are God’s vehicle.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 104:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Bless the LORD, O my soul! O LORD my God, You are very great; You are clothed with splendor and majesty. He wraps Himself in light as with a garment; He stretches out the heavens like a tent, laying the beams of His chambers in the waters above, making the clouds His chariot, walking on the wings of the wind."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "It is also worth noticing the direction. In the New Testament the clouds are associated with Jesus’ return to earth. Here the Son of Man does not come down to earth; He approaches the Ancient of Days, who is seated in heaven. This is a scene of taking up dominion before God’s throne, not a scene of coming to people.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Someone looks like a man, moves like God, and is brought before God. **What questions must this figure have raised for Daniel’s readers during the several centuries before Jesus began to speak of Himself this way?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: The Order of Creation",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 8:4-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "what is man that You are mindful of him, or the son of man that You care for him? You made him a little lower than the angels; You crowned him with glory and honor. You made him ruler of the works of Your hands; You have placed everything under his feet: all sheep and oxen, and even the beasts of the field, the birds of the air and the fish of the sea, all that swim the paths of the seas."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the beginning, humanity was given rule over the animals. In Daniel’s vision the animals rule over people, until dominion is given to “One like the Son of Man.” **What does this vision say about history if you read it as a story of the order of creation turned upside down and then restored?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Angel’s Two Sentences",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:15-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me. I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things: ‘These four great beasts are four kings who will arise from the earth. But the saints of the Most High will receive the kingdom and possess it forever—yes, forever and ever.’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The angel sums up the whole vision in two sentences. **What did he consider most important? How much space does he give the beasts, and how much the ending?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The saints “will receive the kingdom.” They won’t conquer it or fight their way to it. **What does that change about the way they are to live under the beasts’ rule?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The man who interpreted dreams for kings doesn’t understand his own dream; he is afraid and asks for help. **What does that teach us about how to approach prophecy?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Little Flock and the Shortcut",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 12:32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Do not be afraid, little flock, for your Father is pleased to give you the kingdom."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 4:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Again, the devil took Him to a very high mountain and showed Him all the kingdoms of the world and their glory. “All this I will give You,” he said, “if You will fall down and worship me.” “Away from Me, Satan!” Jesus declared. “For it is written: ‘Worship the Lord your God and serve Him only.’”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks to a handful of disciples in the words of Daniel’s angel: the kingdom will be given to you. **How does that sentence sound when you are a little flock among beasts?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "All the kingdoms of the world had already been promised to the Son of Man. The devil offers them to Him right away, without the cross. **What was the temptation? Where has the church been tempted in the same way: to take power by a shortcut?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Horn, the Court, and the Saints",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Daniel 7:19-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I wanted to know the true meaning of the fourth beast, which was different from all the others—extremely terrifying—devouring and crushing with iron teeth and bronze claws, then trampling underfoot whatever was left. I also wanted to know about the ten horns on its head and the other horn that came up, before which three of them fell—the horn whose appearance was more imposing than the others, with eyes and with a mouth that spoke words of arrogance. As I watched, this horn was waging war against the saints and prevailing against them, until the Ancient of Days arrived and pronounced judgment in favor of the saints of the Most High, and the time came for them to possess the kingdom. This is what he said: ‘The fourth beast is a fourth kingdom that will appear on the earth, different from all the other kingdoms, and it will devour the whole earth, trample it down, and crush it. And the ten horns are ten kings who will rise from this kingdom. After them another king, different from the earlier ones, will rise and subdue three kings. He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time. But the court will convene, and his dominion will be taken away and completely destroyed forever. Then the sovereignty, dominion, and greatness of the kingdoms under all of heaven will be given to the people, the saints of the Most High. His kingdom will be an everlasting kingdom, and all rulers will serve and obey Him.’ Thus ends the matter. As for me, Daniel, my thoughts troubled me greatly, and my face turned pale. But I kept the matter to myself.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**From verse 25, list four things the horn does.** Against whom or what is each one directed? Is this a power indifferent to religion, or one very busy with it?",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The horn was “prevailing against them, until the Ancient of Days arrived,” and the saints are given into his hand only “for a time, and times, and half a time.” **What do the words “until” and “for a time” mean for people who are losing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Ancient of Days “pronounced judgment in favor of the saints of the Most High.” **Whose side does this court take? How does that fit with the picture of God’s judgment you brought with you to this meeting?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The vision ends in the best possible way, and yet Daniel is pale and troubled. **What does it say about this book that it doesn’t hide its own author’s fear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "the text doesn’t give the horn’s name. If the group starts supplying names, ask: “Which features from verses 24-25 have we already checked?” The interpretations are at level 3.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is the Little Horn?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The text doesn’t give the horn’s name, but it gives its description. It grows out of the fourth kingdom, after that kingdom has been divided. It is different from the other horns. It has human eyes and a mouth. It speaks against the Most High, oppresses the saints, intends to change times and law, operates for a long appointed period, and only God’s judgment brings it to an end. An honest interpretation has to fit the whole description, not just one feature.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The preterist reading sees the horn as Antiochus IV, the Syrian king who in the second century before Christ desecrated the temple and persecuted the Jews. To make Greece the fourth kingdom, it counts the Medes and the Persians separately. Its strength is how closely Antiochus’s deeds resemble the description. Its weakness is that the book itself treats the Medes and Persians as one kingdom, in 5:28 and 8:20, and that the kingdom of the saints did not come after Antiochus fell.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The futurist reading sees the horn as a single individual, the antichrist, who will appear just before the end. It keeps the order of the kingdoms but leaves well over a thousand years of history without a word.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The historicist reading is a Protestant heritage: many Reformers and their successors read Daniel this way, and Adventists read it this way. It sees in the horn a religious and political power that grew up on the ruins of the Roman Empire: the medieval alliance of altar and throne, with the papacy at its center, which in matters of conscience reached for the sword of the state. This reading speaks about a system, not about people. It makes no statement about anyone’s faith or salvation, past or present, and in every century and in every church there have been sincere disciples of Jesus. The conclusion applies to every community, including ours. God does not need political power to lead and protect His people, and a church that reaches for coercion puts itself on the wrong side of this vision.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "All three readings agree on what matters most. Violence in the name of religion is blasphemy, it has an appointed end, and the last word belongs to a judgment that takes the side of the wronged.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 18:36",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus answered, “My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which features of the horn can be established from the text alone, before you open a history book?** Why is it worth starting from the description rather than from a ready-made name?",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The little horn is very religious: it is busy with God, the saints, and the law. Jesus tells Pilate that His servants do not fight. **Where do Christians, in the past and today, in every denomination, give in to the temptation to defend God’s cause by force?** Where do we give in to it?",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "you don’t have to defend any interpretation. It is enough to show that the historicist reading follows the order of kingdoms that the book itself gives. Watch the tone. This prophecy gives no one the right to contempt.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Daniel saw history twice: from the level of the sea and from the level of the throne. **Which do you look at more often when you think about the world and your own life: the beasts or the courtroom? What would change if you lifted your eyes more often?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In this vision the judgment takes the side of the wronged. **What wrong, done to you or to someone else, would you like to be able to leave with this court instead of carrying it yourself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you want to share: **where in your life does something loud and threatening look like the winner right now, while you wait for your “until”?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“This horn was waging war against the saints and prevailing against them.” In this vision God sees everything, He has the books and the thrones, and yet His people are losing, and for a long time. **Why doesn’t the court convene sooner? What does it mean to trust a God who wins in the end but doesn’t spare His own from defeat along the way?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t close this question. It helps if one observation from the text gets made: the horn’s time is measured out in advance, down to the half. The beast doesn’t decide how long it lasts.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The beasts make their noise down below, but up above the thrones are already set in place, and the kingdom has been given to someone with a human face.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Daniel 7:14 or Daniel 7:18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Over the next few days, notice what grows in you when you read or watch the news: fear, anger, helplessness. Ask yourself: **am I looking only at the sea right now?** Then say one sentence out loud: “The court was convened, and the books were opened.” See what it does to what you are feeling.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a wrong that no one has set right. Tell God about it as you would a judge who is handling your case: what happened, who was at fault, what can no longer be undone. Don’t soften it, and don’t force yourself to excuse anyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** the little horn wanted good things by bad means. Ask God where you yourself are trying to force something right: at home, at church, in conversations about faith. Stay with that question, even if the answer is uncomfortable.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“That beast is obviously…” followed by the name of a present-day nation, leader, organization, or war.** Interrupt calmly and right away. The vision closes the list of empires at four and doesn’t describe current events. Every generation that matched it to its own headlines got it wrong. Say, “Let’s stay with what the angel considered most important,” and go back to verses 17-18.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts calculating dates and years.** Thank them and say that this material deliberately gives no dates, because the angel gave none either, and Daniel understood from the vision what he needed to: who sits on the throne and how it ends. If the group wants to learn the historicist reading of the prophetic time periods, suggest a separate meeting with someone who is prepared. Don’t do it in passing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Remarks are made against Catholics, the pope, or any church, even as a joke.** Stop it immediately, even if there are only Adventists at the table. Say plainly: “This prophecy is about a system that combines faith with coercion, not about people. It gives no one the right to contempt.” If someone pushes, remind them that the little horn’s temptation applies to every community that is right and would like to have power too.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A Catholic at the table asks directly, “Do you think the pope is the antichrist?”** Don’t dodge and don’t attack. You can say: “Adventists, like many Protestants before them, read the little horn as a picture of a system that in the Middle Ages joined church authority with state coercion. That is an assessment of a certain history, not of people, their faith, or their salvation. The same text warns my church just as much as any other.” Thank them for the question. Offer to talk after the meeting if they want to know more.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is afraid of the judgment: “I don’t stand a chance.”** Go back to the text and ask together who is on trial in this scene and in whose favor the verdict is given. The judgment of Daniel 7 is good news for those who belong to the Son of Man. If the fear is deep and long-standing, don’t try to defuse it in front of everyone. Stay with this person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“But this book was written after the fact.”** Don’t get defensive. Say that this view exists and that it is discussed in the material for chapter 2, at level 3. Point out one thing: even with the latest dating, the fourth kingdom, the little horn, and the kingdom of the saints reach far beyond the author’s own time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation gets bogged down in details: which three horns, what the ribs in the bear’s mouth mean.** Say honestly that the text doesn’t explain this, and that the angel left these details out of his interpretation. Move on to Block 4.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** Count to ten in your head. If the silence continues, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through all the material.** Shorten Block 1 to the first question. Don’t shorten Blocks 2 and 3, because they are the center of the chapter. From Block 5, keep the question about whose side the court takes.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“That beast is obviously…” followed by the name of a present-day nation, leader, organization, or war.",
+     "odpowiedz": "Interrupt calmly and right away. The vision closes the list of empires at four and doesn’t describe current events. Every generation that matched it to its own headlines got it wrong. Say, “Let’s stay with what the angel considered most important,” and go back to verses 17-18."
+    },
+    {
+     "sytuacja": "Someone starts calculating dates and years.",
+     "odpowiedz": "Thank them and say that this material deliberately gives no dates, because the angel gave none either, and Daniel understood from the vision what he needed to: who sits on the throne and how it ends. If the group wants to learn the historicist reading of the prophetic time periods, suggest a separate meeting with someone who is prepared. Don’t do it in passing."
+    },
+    {
+     "sytuacja": "Remarks are made against Catholics, the pope, or any church, even as a joke.",
+     "odpowiedz": "Stop it immediately, even if there are only Adventists at the table. Say plainly: “This prophecy is about a system that combines faith with coercion, not about people. It gives no one the right to contempt.” If someone pushes, remind them that the little horn’s temptation applies to every community that is right and would like to have power too."
+    },
+    {
+     "sytuacja": "A Catholic at the table asks directly, “Do you think the pope is the antichrist?”",
+     "odpowiedz": "Don’t dodge and don’t attack. You can say: “Adventists, like many Protestants before them, read the little horn as a picture of a system that in the Middle Ages joined church authority with state coercion. That is an assessment of a certain history, not of people, their faith, or their salvation. The same text warns my church just as much as any other.” Thank them for the question. Offer to talk after the meeting if they want to know more."
+    },
+    {
+     "sytuacja": "Someone is afraid of the judgment: “I don’t stand a chance.”",
+     "odpowiedz": "Go back to the text and ask together who is on trial in this scene and in whose favor the verdict is given. The judgment of Daniel 7 is good news for those who belong to the Son of Man. If the fear is deep and long-standing, don’t try to defuse it in front of everyone. Stay with this person after the meeting."
+    },
+    {
+     "sytuacja": "“But this book was written after the fact.”",
+     "odpowiedz": "Don’t get defensive. Say that this view exists and that it is discussed in the material for chapter 2, at level 3. Point out one thing: even with the latest dating, the fourth kingdom, the little horn, and the kingdom of the saints reach far beyond the author’s own time."
+    },
+    {
+     "sytuacja": "The conversation gets bogged down in details: which three horns, what the ribs in the bear’s mouth mean.",
+     "odpowiedz": "Say honestly that the text doesn’t explain this, and that the angel left these details out of his interpretation. Move on to Block 4."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "Count to ten in your head. If the silence continues, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through all the material.",
+     "odpowiedz": "Shorten Block 1 to the first question. Don’t shorten Blocks 2 and 3, because they are the center of the chapter. From Block 5, keep the question about whose side the court takes."
+    }
+   ]
+  }
+ ]
+}
