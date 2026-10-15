@@ -78,7 +78,14 @@ for part in "$TMP"/part_*; do
   while IFS= read -r f; do
     args+=(-T "dist/$f" "ftp://$FTP_HOST/$FTP_DIR/$f")
   done < "$part"
-  curl -sS --ssl-reqd --ftp-create-dirs --retry 3 -K "$TMP/curl.cfg" "${args[@]}"
+  # TLS 1.2: przy TLS 1.3 serwer go3.pl urywa czesc plikow po 16 KB (451 albo timeout) - sprawdzone
+  # 2026-10-15. curl zwraca kod tylko ostatniego transferu, wiec kazdy sprawdzamy osobno (226 = OK).
+  codes=$(curl -sS --ssl-reqd --tls-max 1.2 --ftp-create-dirs --retry 3 -K "$TMP/curl.cfg" -w '%{response_code}\n' "${args[@]}" || true)
+  bad=$(printf '%s\n' "$codes" | grep -vc '^226$' || true)
+  if [ "$bad" != 0 ] || [ "$(printf '%s\n' "$codes" | grep -c '^226$')" != "$(wc -l < "$part")" ]; then
+    echo "BLAD: czesc plikow nie doszla (kody: $(printf '%s ' $codes)). Stan wysylki nie zapisany - uruchom ponownie." >&2
+    exit 1
+  fi
   n=$((n + $(wc -l < "$part")))
   echo "   wyslano $n / $TOTAL"
 done
