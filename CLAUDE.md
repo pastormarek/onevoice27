@@ -25,7 +25,7 @@ zmiany w polskiej aplikacji **nie przechodzą tu same** – trzeba je przenieś�
 - **Strona główna (od 2026-10-15): „Current reading” = dzisiejszy materiał BeHopeful** (jak Człowiek
   Nadziei w PL; `components/EduTodayActions.tsx`). Daty materiałów wg kalendarza PL:
   `python tools/sync_edu_dates_en.py && python tools/build_indexes_en.py`. Daty niczego nie blokują.
-  40 Days of Prayer zostaje na stronie One Voice 27 (`/en/hope`) i w menu.
+  40 Days of Prayer zostaje na stronie One Voice 27 (`/en/one-voice-27`) i w menu.
 
 ## Komendy
 
