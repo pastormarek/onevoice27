@@ -60,7 +60,18 @@ WEB używa imienia „Yahweh", dlatego nie jest domyślny. KJV z bolls.life ma n
 - Prywatność: bez analityki (`trackPageView` jest pusty), notatki i dziennik w `localStorage`.
 - Teologia ADS jak w `../Materiały/_BRIEF_dla_autorow.md`.
 
+## Ostatnia synchronizacja z PL
+
+**2026-10-15**, stan `../Apka_Marka` = commit `bd1e69e`: 40 dni (wszystkie dni po korekcie autora)
+i BeHopeful (Człowiek Nadziei BDv5, z polami `challenge` i `sources`). Następnym razem
+porównuj PL od tego commitu: `git -C ../Apka_Marka diff bd1e69e HEAD -- public/content/pl/pray40 public/content/pl/edu`.
+Nagrań, polskich grafik i dat otwierania materiałów tu nie przenosimy.
+
 ## Znane sprawy otwarte
+
+- **Hope Groups: brak 3 nowych serii z PL** – L „Ludzie drugiej szansy” (10), W „Decyzje i wola
+  Boża” (8), SW „Świątynia” (8). Przez nie `tools/build_indexes_en.py` pada na `KeyError` w `SERIES`
+  (spis edu buduje wtedy samo `edu()`).
 
 - Komentarze w angielskich studiach cytują Pismo luźno (tłumaczone z polskiego): na ~650
   cytatów w cudzysłowie ok. 220 jest dosłownie w BSB. Do przejrzenia, jeśli studia mają iść szeroko.
