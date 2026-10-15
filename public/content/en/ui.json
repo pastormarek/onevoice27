@@ -424,7 +424,13 @@
     "sources": "Sources",
     "prev": "Previous talk",
     "next": "Next talk",
-    "tile": "Ten short talks where science and Scripture meet: memory, language, decisions, habits, hope."
+    "tile": "Ten short talks where science and Scripture meet: memory, language, decisions, habits, hope.",
+    "graphics": "Share a graphic",
+    "graphicsHint": "Send a graphic with a thought from this talk, together with a link to it.",
+    "shareGraphic": "Share",
+    "downloadGraphic": "Download",
+    "graphicSaved": "Graphic saved to your downloads",
+    "graphicAlt": "Graphic to share"
   },
   "groups": {
     "title": "Hope Groups",

@@ -113,5 +113,19 @@
     "**In action.** Go for a fifteen-minute walk with one task: find something you cannot fully explain. It might be a bud on a branch, the pattern of the clouds, or the way an elderly person moves. You don’t need to go far: a park, a backyard, a bus stop, or the view from a bus window is enough. Take out your phone only once, to take a single photo. In the evening, show it to someone and tell them what caught your attention or what surprised you. For awe has a special quality: when we share it, it does not shrink but grows. And if you have no one to show the photo to today, send it to someone you haven’t talked to in a long time."
    ]
   }
- }
+ },
+ "graphics": [
+  {
+   "src": "media/edu/001a.jpg?v=6abb5cb9",
+   "width": 1080,
+   "height": 1350,
+   "text": "Awe begins where hurry ends."
+  },
+  {
+   "src": "media/edu/001b.jpg?v=572bedcc",
+   "width": 1080,
+   "height": 1350,
+   "text": "Awe is one of the few things that grows when you share it."
+  }
+ ]
 }

@@ -1,0 +1,67 @@
+# Konfiguracja hostingu onevoice27.adventist.pl (kopia ustawien jestnadzieja.adwent.pl) (LiteSpeed czyta .htaccess jak Apache).
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # W razie omylkowego wgrania katalogu Git nie udostepniamy jego historii.
+  RewriteRule (^|/)\.git(?:/|$) - [F,L,NC]
+
+  # PWA i service worker wymagaja bezpiecznego polaczenia.
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+  # Strona glowna od razu w wersji angielskiej.
+  RewriteRule ^$ /en/ [R=302,L]
+
+  # Brakujacy plik tresci pozostaje bledem 404, a nie strona HTML.
+  RewriteRule ^content/ - [L]
+
+  # Trasy aplikacji React, np. /pl/biblia/Gen/1.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
+
+AddType application/manifest+json .webmanifest
+AddType application/json .json
+AddType image/webp .webp
+AddType image/svg+xml .svg
+
+# LiteSpeed na tym hostingu ignoruje AddType dla rozszerzenia .webmanifest.
+# Wydanie korzysta z manifest.json, ale ta reguła chroni również stary adres.
+<Files "manifest.webmanifest">
+  ForceType application/manifest+json
+</Files>
+
+# Samsung Internet przy instalowaniu PWA wymaga oficjalnego typu MIME manifestu.
+<Files "manifest.json">
+  ForceType application/manifest+json
+</Files>
+
+<IfModule mod_headers.c>
+  # Naglowki bezpieczenstwa (test z 2026-10-02). CSP swiadomie brak - wymaga osobnego
+  # sprawdzenia z logowaniem Google i YouTube.
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Strict-Transport-Security "max-age=31536000"
+
+  # Pliki wskazujace aktualna wersje aplikacji zawsze sprawdzamy ponownie.
+  <FilesMatch "(sw\.js|index\.html|manifest\.(webmanifest|json)|registerSW\.js)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+  # Nagrania lektorskie tylko strumieniowo (decyzja autora 2026-10-09): telefon nie trzyma
+  # ich w pamieci podrecznej, wiec setki odcinkow nie zapchaja mu miejsca. Przewijanie
+  # dziala dalej - przegladarka pobiera fragmenty (Range), service worker ich nie dotyka.
+  <FilesMatch "\.mp3$">
+    Header set Cache-Control "no-store"
+  </FilesMatch>
+  # Bundle z hashem moze pozostac w cache, bo nowy build dostaje nowa nazwe.
+  <FilesMatch "^(?!sw\.js$|registerSW\.js$).*\.(js|css|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml
+</IfModule>

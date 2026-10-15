@@ -12,6 +12,7 @@ import {
 import { ReadingFooter } from '../components/ReadingFooter'
 import { BackLink } from '../components/BackLink'
 import { AudioPlayer } from '../components/AudioPlayer'
+import { EduGraphics } from '../components/EduGraphics'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
@@ -224,6 +225,14 @@ export function EduItemPage() {
             <p className="text-slate-200">{questions[0]}</p>
           )}
         </section>
+      )}
+
+      {entry.graphics && entry.graphics.length > 0 && (
+        <EduGraphics
+          items={entry.graphics}
+          nr={entry.nr}
+          pageUrl={`${window.location.origin}${import.meta.env.BASE_URL}${lang}/behopeful/${entry.nr}`}
+        />
       )}
 
       {entry.sources && entry.sources.length > 0 && (

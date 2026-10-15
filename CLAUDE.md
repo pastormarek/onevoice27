@@ -14,6 +14,14 @@ zmiany w polskiej aplikacji **nie przechodzą tu same** – trzeba je przenieś�
 - Repozytorium: **`pastormarek/onevoice27`**, publikacja: GitHub Actions
   (`.github/workflows/deploy-pages.yml`, każdy push na `main`) →
   **https://pastormarek.github.io/onevoice27/**. `VITE_BASE=/onevoice27/`.
+- **Adres główny od 2026-10-15: https://onevoice27.adventist.pl/** (hosting go3.pl, LiteSpeed,
+  `public/.htaccess`). Wydanie: `bash deploy-ftp.sh` (build pod korzeń + FTPS, tylko zmienione
+  pliki; `--all` wysyła wszystko). Dane logowania **poza repo** w `~/.onevoice27-ftp` – repo jest
+  publiczne, nigdy nie trzymaj haseł w tym katalogu. GitHub Pages zostaje kopią zapasową;
+  `canonical` i `og:url` wskazują na onevoice27.adventist.pl (tak jak w PL).
+- Grafiki do udostępniania BeHopeful: `python tools/build_edu_graphics_en.py NR` (źródło
+  `one27/SzkoleniaGrafiki/NNN_ENa.png` + `NNN_ENa.txt`), pliki w repo w `public/media/edu/`.
+  Nagrania BeHopeful leżą na serwerze PL (`src/lib/media.ts`, `tools/add_edu_audio_en.py`).
 
 ## Komendy
 
