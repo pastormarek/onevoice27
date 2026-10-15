@@ -1,0 +1,818 @@
+{
+ "tytul": "The Pattern Shown on the Mountain",
+ "id": "SW-02",
+ "seria": "The Sanctuary",
+ "opis": "Why God gave an exact plan for a tent in the wilderness, and what its building teaches about the way a person comes to God.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 24:15-18; Exodus 25:9, 40; 26:30; Exodus 31:1-6; Exodus 35:21-22, 29; 36:3-7; Exodus 40:18-33; Exodus 39:43; Hebrews 8:1-5",
+  "p2": "1 Chronicles 28:11-12, 19; Exodus 32:2-4; Psalm 15:1-2; John 10:9; John 14:6; Hebrews 9:8",
+  "p3": "2 Kings 16:10; Psalm 77:13"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "sanctuary",
+  "tabernacle",
+  "Sinai",
+  "gifts",
+  "work",
+  "Christ",
+  "Hebrews"
+ ],
+ "wersja": 1,
+ "zdanie": "The plan of the way to God comes from Him. We bring our hearts and our hands, and God leads us from the gate all the way to the center.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about the fact that the tabernacle was not a human idea. Moses spends forty days on the mountain and receives from God an exact pattern for the tent and all its furnishings. The pattern comes from God, but people build it. Some bring gold from a willing heart, others give their hands and their skill. The finished tabernacle lays out a path from the courtyard gate to the ark in the innermost room. Hebrews says that this tent was a copy and a shadow. It showed in space what Christ does for people.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “The God Who Wants to Live with Us.” That one asks why God wanted to live in the middle of the camp at all. This one looks at the plan itself and at the people who carried it out.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The texts about gifts are easy to turn into an appeal for giving to the church or to a building project. Don’t do that. The text describes people who give freely. Nobody is pressing them.",
+      "The conversation may slide into detailed questions about what the sanctuary in heaven looks like and whether everything there is the same. Don’t settle that at the table. Level 3 shows that the church has two emphases here.",
+      "Write down questions about the judgment in the heavenly sanctuary and about prophetic dates for a separate meeting.",
+      "Someone at the table may think they have no talents at all. The passage about Bezalel may hurt them if people start listing each other’s gifts. Don’t make a ranking."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t draw a plan of the tabernacle with measurements. Don’t assign a meaning to every board and every color. Don’t compare how generous the people at the table are.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something you made by following someone else’s instructions or plan: a piece of furniture, a recipe, a model, a garden. Say in one sentence how you felt when it was finished.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Forty Days in the Cloud",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Israel has come out of Egypt and is camped at the foot of Mount Sinai. God has made a covenant with the people, and now He calls Moses up to the top.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 24:15-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Moses went up on the mountain, the cloud covered it, and the glory of the LORD settled on Mount Sinai. For six days the cloud covered it, and on the seventh day the LORD called to Moses from within the cloud. And the sight of the glory of the LORD was like a consuming fire on the mountaintop in the eyes of the Israelites. Moses entered the cloud as he went up on the mountain, and he remained on the mountain forty days and forty nights."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 25:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "You must make the tabernacle and design all its furnishings according to the pattern I show you."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 25:40",
+       "przeklad": "BSB",
+       "akapity": [
+        "See to it that you make everything according to the pattern shown you on the mountain."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 26:30",
+       "przeklad": "BSB",
+       "akapity": [
+        "So you are to set up the tabernacle according to the pattern shown you on the mountain."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The people see a consuming fire on the mountaintop, and Moses walks right into the middle of the cloud. **What does this scene say about the distance between people and God before the tabernacle existed?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Three times God says “according to the pattern.” **Why does God care so much that people don’t arrange this place their own way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The account of these forty days takes up seven chapters of the book, and almost all of it is about the tent, its furnishings, and the garments. **What does that say about how important this one place was to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Hebrew word translated “pattern” is `tabnit`. Elsewhere in the Bible it means a model or a building plan, something concrete that can be copied. On the same mountain Moses received two things. One was the stone tablets with the commandments. The other was the plan of the tent where God meets with people and forgives. The law and the place of forgiveness came from one hand, at the same time.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Plan for Solomon",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Several hundred years later King David prepares to build the temple in Jerusalem, which his son is to put up.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Chronicles 28:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then David gave his son Solomon the plans for the portico of the temple, its buildings, storehouses, upper rooms, inner rooms, and the room for the mercy seat. The plans contained everything David had in mind for the courts of the house of the LORD, for all the surrounding rooms, for the treasuries of the house of God and of the dedicated things,"
+       ]
+      },
+      {
+       "odnosnik": "1 Chronicles 28:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "“All this,” said David, “all the details of this plan, the LORD has made clear to me in writing by His hand upon me.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David was king and could have designed the temple however he liked. **What does it say that he hands his son a plan the LORD made clear to him “by His hand upon me”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes for a builder who knows he received the plan from God and is to carry it out faithfully?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Hebrew, `tabnit` is a model or a plan. The same word is used for the copy of a pagan altar that King Ahaz had sent from Damascus.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Kings 16:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria. On seeing the altar in Damascus, King Ahaz sent Uriah the priest a model of the altar and complete plans for its construction."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "When Hebrews quotes Exodus 25:40, it renders this word with the Greek `typos`, an imprint, a pattern. It calls the tabernacle itself a “copy” and a “shadow,” in Greek `hypodeigma` and `skia`. Psalm 77 adds one more sentence.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 77:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Your way, O God, is holy. What god is so great as our God?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `baqqodesh` can be read as “in holiness” or “in the sanctuary.” Most modern translations, like the BSB, choose “Your way, O God, is holy.” The KJV reads “Thy way, O God, is in the sanctuary.” The second reading ties God’s way to His sanctuary.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ahaz takes his plan from Damascus, and Moses takes his from the mountain. **What does that contrast say about where a person gets the pattern for their faith?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Hands God Filled",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 31:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Moses, “See, I have called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah. And I have filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship, to design artistic works in gold, silver, and bronze, to cut gemstones for settings, and to carve wood, so that he may be a master of every craft. Moreover, I have selected Oholiab son of Ahisamach, of the tribe of Dan, as his assistant. I have also given skill to all the craftsmen, that they may fashion all that I have commanded you:"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God says of Bezalel, “I have called by name,” and “I have filled him with the Spirit of God.” **What did you expect after words like that, and what surprises you about what Bezalel is called to do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The pattern comes from God, but it is carried out by human hands, with their skill and inventiveness. **How does this text bring God’s plan and human work together?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Bezalel comes from the tribe of Judah, and Oholiab from the tribe of Dan. **What might it mean that God brings people from different tribes together for one job?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The words “I have called by name” and “I have filled him with the Spirit” sound like the description of a great calling, and God says them about a craftsman. He lists his skills the way you would list spiritual gifts. The books of Chronicles later speak of a similar wisdom in King Solomon, who built the temple. So in this text, working with gold, stone, and wood is not a lesser kind of service. To build the place of His presence, God gives the Spirit to the one holding the chisel too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "More Than Enough",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 35:21-22, 29",
+       "przeklad": "BSB",
+       "akapity": [
+        "And everyone whose heart stirred him and whose spirit prompted him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its services, and for the holy garments. So all who had willing hearts, both men and women, came and brought brooches and earrings, rings and necklaces, and all kinds of gold jewelry. And they all presented their gold as a wave offering to the LORD. … So all the men and women of the Israelites whose hearts prompted them brought a freewill offering to the LORD for all the work that the LORD through Moses had commanded them to do."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 36:3-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "They received from Moses all the contributions that the Israelites had brought to carry out the service of constructing the sanctuary. Meanwhile, the people continued to bring freewill offerings morning after morning, so that all the skilled craftsmen who were doing all the work on the sanctuary left their work and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.” After Moses had given an order, they sent a proclamation throughout the camp: “No man or woman should make anything else as an offering for the sanctuary.” So the people were restrained from bringing more, since what they already had was more than enough to perform all the work."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text speaks several times of “willing hearts” and of everyone “whose heart stirred him.” **What made people who had recently been slaves bring so much, and so gladly?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The craftsmen stop working to tell Moses there are too many gifts. **What does this scene say about what giving looks like when no one forces it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "People bring brooches, earrings, rings, and necklaces, things they wore on their own bodies. **What does it mean to give something so personal for God’s house?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The gold the Israelites had in the wilderness came from Egypt. In Exodus 12:35-36 we read that the Egyptians gave them articles of silver and gold when they left. A few chapters before this scene, the people’s gold earrings went to Aaron and became the golden calf. The same people and gold from the same Egypt were used once to make an idol, and once to build the place of meeting with the living God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Gold Earrings",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 32:2-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Aaron told them, “Take off the gold earrings that are on your wives and sons and daughters, and bring them to me.” Then all the people took off their gold earrings and brought them to Aaron. He took the gold from their hands, and with an engraving tool he fashioned it into a molten calf. And they said, “These, O Israel, are your gods, who brought you up out of the land of Egypt!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "At the calf, Aaron tells people to take off their earrings. At the tabernacle nobody tells anyone anything, people bring their gifts on their own. **How do these two scenes differ, though in both people give up gold?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The calf was made from people’s own idea, the tabernacle from the pattern given on the mountain. **What happens to faith when a person designs a God they can see for themselves?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "From the Ark to the Gate",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After many months of work all the parts are ready. Moses inspects them and blesses the people who made them. Then he sets up the tabernacle himself.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 39:43",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Moses inspected all the work and saw that they had accomplished it just as the LORD had commanded. So Moses blessed them."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 40:18-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Moses set up the tabernacle, he laid its bases, positioned its frames, inserted its crossbars, and set up its posts. Then he spread the tent over the tabernacle and put the covering over the tent, just as the LORD had commanded him. Moses took the Testimony and placed it in the ark, attaching the poles to the ark; and he set the mercy seat atop the ark. Then he brought the ark into the tabernacle, put up the veil for the screen, and shielded off the ark of the Testimony, just as the LORD had commanded him. Moses placed the table in the Tent of Meeting on the north side of the tabernacle, outside the veil. He arranged the bread on it before the LORD, just as the LORD had commanded him. He also placed the lampstand in the Tent of Meeting opposite the table on the south side of the tabernacle and set up the lamps before the LORD, just as the LORD had commanded him. Moses placed the gold altar in the Tent of Meeting, in front of the veil, and he burned fragrant incense on it, just as the LORD had commanded him. Then he put up the curtain at the entrance to the tabernacle. He placed the altar of burnt offering near the entrance to the tabernacle, the Tent of Meeting, and offered on it the burnt offering and the grain offering, just as the LORD had commanded him. He placed the basin between the Tent of Meeting and the altar and put water in it for washing; and from it Moses, Aaron, and his sons washed their hands and feet. They washed whenever they entered the Tent of Meeting or approached the altar, just as the LORD had commanded Moses. And Moses set up the courtyard around the tabernacle and the altar, and he hung the curtain for the entrance to the courtyard. So Moses finished the work."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List in order what Moses puts in place. **What does he begin with, and what does he end with?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Now walk that path in the opposite direction, as someone coming from the camp and entering through the courtyard gate. **What do they meet first, what next, and what is at the very end? What does that order say about the way a person comes to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The phrase “just as the LORD had commanded” comes seven times in this passage. **Why does the text repeat it so often?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Moses furnishes the tabernacle from the inside out. Once the tent is standing, the first thing to go in is the ark with the tablets of the covenant, the sign of God’s presence, and the curtain at the courtyard gate comes last. A person walks the opposite way. First they meet the altar of burnt offering, then the water for washing, and only further in the light, the bread, and the incense. The last sentence, “So Moses finished the work,” sounds almost the same in Hebrew as the sentence about God finishing the work of creation in Genesis 2:2. Moses, too, looks over the finished work and blesses, like God, who blessed the seventh day once creation was complete.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who May Abide in Your Tent?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 15:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "O LORD, who may abide in Your tent? Who may dwell on Your holy mountain? He who walks with integrity and practices righteousness, who speaks the truth from his heart,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist asks about God’s tent, but answers with a description of everyday life. **What connects the path from the gate to the ark with the way a person lives outside the tabernacle?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of us could answer the psalm’s question with a clear conscience, “That’s me”? So what does the altar standing just inside the gate do for us?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Copy and Shadow",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 8:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven, and who ministers in the sanctuary and true tabernacle set up by the Lord, not by man. And since every high priest is appointed to offer both gifts and sacrifices, it was necessary for this One also to have something to offer. Now if He were on earth, He would not be a priest, since there are already priests who offer gifts according to the law. The place where they serve is a copy and shadow of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The author calls the tabernacle a “copy and shadow.” **What does a shadow tell you about the one who casts it, and what doesn’t it tell you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The point of what we are saying” is a high priest who sat down at the right hand of God. **According to these verses, where is Christ now and what is He doing there?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The true tabernacle was “set up by the Lord, not by man.” Moses put up the tent with human hands, though according to God’s pattern. **What changes when the most important sanctuary is not human work at all?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In this letter a shadow is not something bad or false. God commanded the tabernacle to be built, and its service was a real way to meet Him. The author is speaking about time instead. A shadow arrives before the one who casts it, the way the silhouette of someone walking appears around the corner first. For the author, the One the tabernacle pointed to has already come. That is why the earthly tent teaches, and Christ saves.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Gate and the Way",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 9:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "By this arrangement the Holy Spirit was showing that the way into the Most Holy Place had not yet been disclosed as long as the first tabernacle was still standing."
+       ]
+      },
+      {
+       "odnosnik": "John 10:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "I am the gate. If anyone enters through Me, he will be saved. He will come in and go out and find pasture."
+       ]
+      },
+      {
+       "odnosnik": "John 14:6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The tabernacle courtyard had only one gate, and further on, into the tent, only priests went in. **What do you hear in Jesus’ words “I am the gate” and “I am the way” when you keep that plan in mind?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the tabernacle you went in through the gate to come near to God. Jesus says that whoever enters through Him “will come in and go out.” **What does that add to the picture?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: How Literally to Read the Pattern",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrews says that there is a “true tabernacle” in heaven. The church reads this in two ways. Some understand the pattern very literally. The earthly tent copies the heavenly sanctuary piece by piece, though on a different scale. Others point out that the pattern also included boards, goats’ hair, and the ash pots by the altar. They see it first of all as God’s plan of action, shown in space. They also point out that the altar of burnt offering was fulfilled at Golgotha in a completely different form, on a wooden cross and not on a bronze altar. Both sides agree on what matters most. Christ really ministers in heaven, and the tabernacle really teaches who He is and what He does.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do we lose when we read the pattern too literally, and what do we lose when we read it too loosely?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why might God have chosen, for a lesson about salvation, a building you walk through step by step?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The tabernacle came from God’s pattern, from human gifts, and from human hands. **What of your time, your things, or your skills do you give God most gladly, and what is hardest to give?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The path from the gate to the ark leads past the altar and through the washing. **Where on that path do you see yourself at this stage of your life?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **in what area are you building to your own plan, though you sense God has shown you something else?** You don’t have to give details.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God gives Moses the pattern of the tent down to the cubit and the color of the thread. In many areas of our lives He gives no such plan. **Why is He so precise about some things and leaves people free in others? What would happen to us if He gave a pattern for everything?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t produce a single answer here. It helps if someone notices that the pattern concerned the way to God and forgiveness. Those are things people could not have invented themselves. In many other areas God gives wisdom and trust instead of a plan.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The plan of the way to God comes from Him. We bring our hearts and our hands, and God leads us from the gate all the way to the center.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Exodus 25:9 or Hebrews 8:1-2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "People brought gold they had recently been wearing. Ask yourself **what your own personal gold is**, something you would find hard to place at God’s disposal. You don’t have to decide anything. It’s enough to name it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "God filled a craftsman with the Spirit too. Think about your ordinary work. **Tell God honestly whether you see it as something connected to Him**, or as something off to the side.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** walk in your mind along the path from the gate to the ark. Stop at the place where you feel the most resistance, and tell God why.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So this means we should give more to the church.”** Stop it gently. The text describes people who give from a willing heart, and Moses, who tells them to stop when there is enough. There is no pressure and no fundraising here. Don’t move on to tithing or to the church’s current needs.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Are there really the same furnishings in heaven?”** Don’t settle it at the table. Say that the church has two emphases here, and that both agree on what matters most. Christ really ministers in heaven, and the tabernacle teaches who He is. If the group wants, come back to it at level 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about the judgment in the heavenly sanctuary and the dates in the book of Daniel?”** That’s an important topic, but not for today. Write the question down. Today we’re looking at the pattern and at the path from the gate to the center.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t have any talents. I’m no Bezalel.”** Don’t contradict them, and don’t list someone’s good qualities in front of the group. Read Exodus 31:6 again. “I have also given skill to all the craftsmen,” God says there. Point out, too, that in Exodus 35 the tabernacle is also built by people who made nothing with their hands but only brought a gift.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone criticizes the wealth of today’s churches and cathedrals.** Don’t get into an argument about buildings or about the practice of other churches. The tabernacle was a tent that was taken down and carried. Go back to the question of why God gave the pattern and where the path through the courtyard led.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts drawing a plan of the tabernacle and counting cubits.** Appreciate the curiosity. But make sure the measurements don’t eat up the meeting. Go back to the question in block 4 about the path from the gate to the ark.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 1, 4, and 5 carry the meeting: the pattern from the mountain, the path through the tabernacle, and Christ, to whom this tent pointed.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So this means we should give more to the church.”",
+     "odpowiedz": "Stop it gently. The text describes people who give from a willing heart, and Moses, who tells them to stop when there is enough. There is no pressure and no fundraising here. Don’t move on to tithing or to the church’s current needs."
+    },
+    {
+     "sytuacja": "“Are there really the same furnishings in heaven?”",
+     "odpowiedz": "Don’t settle it at the table. Say that the church has two emphases here, and that both agree on what matters most. Christ really ministers in heaven, and the tabernacle teaches who He is. If the group wants, come back to it at level 3."
+    },
+    {
+     "sytuacja": "“What about the judgment in the heavenly sanctuary and the dates in the book of Daniel?”",
+     "odpowiedz": "That’s an important topic, but not for today. Write the question down. Today we’re looking at the pattern and at the path from the gate to the center."
+    },
+    {
+     "sytuacja": "“I don’t have any talents. I’m no Bezalel.”",
+     "odpowiedz": "Don’t contradict them, and don’t list someone’s good qualities in front of the group. Read Exodus 31:6 again. “I have also given skill to all the craftsmen,” God says there. Point out, too, that in Exodus 35 the tabernacle is also built by people who made nothing with their hands but only brought a gift."
+    },
+    {
+     "sytuacja": "Someone criticizes the wealth of today’s churches and cathedrals.",
+     "odpowiedz": "Don’t get into an argument about buildings or about the practice of other churches. The tabernacle was a tent that was taken down and carried. Go back to the question of why God gave the pattern and where the path through the courtyard led."
+    },
+    {
+     "sytuacja": "The group starts drawing a plan of the tabernacle and counting cubits.",
+     "odpowiedz": "Appreciate the curiosity. But make sure the measurements don’t eat up the meeting. Go back to the question in block 4 about the path from the gate to the ark."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 1, 4, and 5 carry the meeting: the pattern from the mountain, the path through the tabernacle, and Christ, to whom this tent pointed."
+    }
+   ]
+  }
+ ]
+}

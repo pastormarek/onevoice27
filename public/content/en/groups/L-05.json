@@ -1,0 +1,676 @@
+{
+ "tytul": "A Cord in the Window",
+ "id": "L-05",
+ "seria": "Second-Chance People",
+ "opis": "The woman with the worst reputation in town believed from hearing alone and ended up in the genealogy of Jesus.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Joshua 2:1-7; Joshua 2:8-14; Joshua 2:15-21; Joshua 6:22-25; Hebrews 11:31; Matthew 1:5",
+  "p2": "Exodus 12:22-23; James 2:24-26; Matthew 21:31-32",
+  "p3": "Exodus 1:17-21; Joshua 2:18"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "second chance",
+  "faith",
+  "labels",
+  "hope",
+  "Rahab",
+  "Joshua"
+ ],
+ "wersja": 1,
+ "zdanie": "Rahab had the worst reputation in town, and her name stands on the first page of the Gospel, in the genealogy of Jesus.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about a woman the whole town knew at her worst. Rahab of Jericho was a prostitute and a foreigner, someone no one in Israel would have taken as an example. She heard about the God of Israel only from stories, and she believed before she had seen anything. She hid two spies, hung a scarlet cord in her window, and was saved together with her whole family. The New Testament names her among the people of faith and in the genealogy of Jesus. God doesn’t start with her label. He starts with her hope.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rahab appears in the Book of Joshua and again in three places in the New Testament: Matthew, Hebrews, and James. It is the same woman.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be someone at the table with a past of sexual exploitation, prostitution, or a heavy reputation in their community. No jokes about Rahab’s trade, and no glances in anyone’s direction.",
+      "The story takes place during the capture of Jericho, when the people of the city died. That is a real difficulty. This meeting reads the story from the side of the house that was saved, and the question about the destruction has its own red flag.",
+      "Rahab’s lie to the king’s men is easily turned into a lesson in morals. Don’t do that at the basic level.",
+      "Some in the group know this story from Sabbath School as children; some will hear it for the first time. Tell it as if no one knew it."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t soften the word “prostitute,” and don’t dwell on it for effect. Don’t turn Rahab into the heroine of a romance. Don’t launch into a lecture on the wars of the Old Testament.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a label someone once stuck on you, even as a joke, at school, at work, or in your family. You don’t have to reveal it. Say in one sentence how long it was hard to shake it off afterward.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A House in the Wall",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After years of wandering through the desert, the people of Israel stood at the Jordan. On the other side of the river lay Jericho, the first city in their path.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 2:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there. And it was reported to the king of Jericho: “Behold, some men of Israel have come here tonight to spy out the land.” So the king of Jericho sent to Rahab and said, “Bring out the men who came to you and entered your house, for they have come to spy out the whole land.” But the woman had taken the two men and hidden them. So she said, “Yes, the men did come to me, but I did not know where they had come from. At dusk, when the gate was about to close, the men went out, and I do not know which way they went. Pursue them quickly, and you may catch them!” (But Rahab had taken them up to the roof and hidden them among the stalks of flax that she had laid out there.) So the king’s men set out in pursuit of the spies along the road to the fords of the Jordan, and as soon as they had gone out, the gate was shut."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The narrator introduces Rahab with one word before saying anything else about her. **What does that word do to the way we see her, before we even get to know her?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rahab risks her life for two strangers she has only just seen for the first time. **What could have been driving her, since the text doesn’t tell us yet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Flax is drying on the roof, and she hides the spies under it. **What do these ordinary household details say about her, details that are easy to forget next to the word “prostitute”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Rahab’s house was built into the wall, at the very edge of the city. A house like that was often an inn as well, so two strangers could spend the night there without raising much suspicion. The text calls Rahab a prostitute and doesn’t soften the word. The New Testament calls her the same, and does so every time it praises her. The flax drying on the roof, on the other hand, is an ordinary detail of household work.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Rahab’s Lie",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Rahab saves the spies with a lie. The Bible knows a similar scene from Egypt, where the midwives did not carry out Pharaoh’s order.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 1:17-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "The midwives, however, feared God and did not do as the king of Egypt had instructed; they let the boys live. So the king of Egypt summoned the midwives and asked them, “Why have you done this? Why have you let the boys live?” The midwives answered Pharaoh, “The Hebrew women are not like the Egyptian women, for they are vigorous and give birth before a midwife arrives.” So God was good to the midwives, and the people multiplied and became even more numerous. And because the midwives feared God, He gave them families of their own."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the church these scenes are read in two ways. Some say that a lie remains a sin even in a good cause. God honored Rahab’s faith in spite of her lie, and the New Testament praises her faith and her welcome of the spies, while it says nothing about the lie. Others hold that hiding the truth from someone who wants to kill the innocent is not bearing false witness against your neighbor. Both sides agree on one thing. Rahab is only just coming to know God, and He starts from the place where she really stands.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What says more about a person in a moment like that: what they don’t yet know how to do, or whom they have already trusted? And can the one be separated from the other?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "We Have Heard",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 2:8-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Before the spies lay down for the night, Rahab went up on the roof and said to them, “I know that the LORD has given you this land and that the fear of you has fallen on us, so that all who dwell in the land are melting in fear of you. For we have heard how the LORD dried up the waters of the Red Sea before you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites across the Jordan, whom you devoted to destruction. When we heard this, our hearts melted and everyone’s courage failed because of you, for the LORD your God is God in the heavens above and on the earth below. Now therefore, please swear to me by the LORD that you will indeed show kindness to my family, because I showed kindness to you. Give me a sure sign that you will spare the lives of my father and mother, my brothers and sisters, and all who belong to them, and that you will deliver us from death.” “Our lives for your lives!” the men agreed. “If you do not report our mission, we will show you kindness and faithfulness when the LORD gives us the land.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rahab says “I know” about things she has never seen. **Where does her certainty come from, and how is it different from the certainty of someone who saw the miracles with their own eyes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The whole city heard the same stories, and “everyone’s courage failed.” **What did Rahab do with the same fear that the others didn’t?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rahab doesn’t ask only for herself. She lists her father, mother, brothers, sisters, and all who belong to them. **What does this list say about her?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Rahab had only heard stories. About the sea that parted forty years earlier, and about two kings defeated not long ago. Her words about God “in the heavens above and on the earth below” sound almost like Moses’ sentence in Deuteronomy 4:39. So a Canaanite woman speaks about the God of Israel in Israel’s own language. The word “kindness” in her request is the Hebrew `chesed`, the faithful love with which you keep your word.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Cord in the Window",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 2:15-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Rahab let them down by a rope through the window, since the house where she lived was built into the wall of the city. “Go to the hill country,” she said, “so that your pursuers will not find you. Hide yourselves there for three days until they have returned; then go on your way.” The men said to her, “We will not be bound by this oath you made us swear unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down, and unless you have brought your father and mother and brothers and all your family into your house. If anyone goes out the door of your house into the street, his blood will be on his own head, and we will be innocent. But if a hand is laid on anyone with you in the house, his blood will be on our heads. And if you report our mission, we will be released from the oath you made us swear.” “Let it be as you say,” she replied, and she sent them away. And when they had gone, she tied the scarlet cord in the window."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rahab ties the cord as soon as the spies leave, though the army won’t come for some time. **What does this haste say about her faith?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rescue depends on a simple sign and on whether the people stay in the house. **Why does God tie rescue to something so visible and so ordinary?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The scarlet cord hangs in the window of a house in the wall, a place the whole city can see. **What might Rahab have felt, waiting with that sign in full view of her neighbors?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Sign on the Door",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Forty years earlier, on their last night in Egypt, the Israelites received a similar command.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 12:22-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Take a cluster of hyssop, dip it into the blood in the basin, and brush the blood on the top and sides of the doorframe. None of you shall go out the door of his house until morning. When the LORD passes through to strike down the Egyptians, He will see the blood on the top and sides of the doorframe and will pass over that doorway; so He will not allow the destroyer to enter your houses and strike you down."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Compare the two commands: a sign at the entrance, the family inside, no going out. **What does it mean that a Canaanite woman in Jericho goes through the same thing Israel went through on the night they left Egypt?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do both signs say about who really saves the house, and what is left for a person to do?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word for “cord” in verse 18 is the Hebrew `tikvah`. Everywhere else in the Hebrew Bible it almost always means “hope.” That is the case, for example, in Jeremiah 29:11, where God wants to give His people a future and a hope. So Rahab hangs in her window a word that also means hope. She does it right away, when nothing has been decided yet. From the earliest times many Christians have seen the scarlet cord as a picture of the blood of Christ. The story itself brings to mind rather the blood on the doors on the night of the Passover.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does a hope look like that you have to hang in the window, that is, put on display for others, before anything has happened?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "From the Edge to the Center",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A few days later the walls of Jericho fell, and Israel captured the city and destroyed it. The story ends at one house.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 6:22-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, Joshua told the two men who had spied out the land, “Go into the house of the prostitute and bring out the woman and all who are with her, just as you promised her.” So the young spies went in and brought out Rahab, her father and mother and brothers, and all who belonged to her. They brought out her whole family and settled them outside the camp of Israel. Then the Israelites burned up the city and everything in it. However, they put the silver and gold and articles of bronze and iron into the treasury of the LORD’s house. And Joshua spared Rahab the prostitute, with her father’s household and all who belonged to her, because she hid the men Joshua had sent to spy out Jericho. So she has lived among the Israelites to this day."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "First Rahab’s family is settled “outside the camp of Israel,” and at the end we read that “she has lived among the Israelites to this day.” **What does this journey from the edge to the center say about a second chance?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The spies’ oath is kept to the letter. **What might it have meant to someone with Rahab’s past that someone finally kept their word to her?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Even in the last sentence the narrator calls her “the prostitute.” **Why doesn’t the Bible erase her past, even as it tells of her rescue?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Name in the Genealogy",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Many centuries later, two New Testament writers remember Rahab. One in a letter that lists the people of faith, the other on the first page of the Gospel, in the genealogy of Jesus.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:31",
+       "przeklad": "BSB",
+       "akapity": [
+        "By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 1:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Letter to the Hebrews puts Rahab in the same line as Abraham, Moses, and David. **What does her faith have in common with the faith of these great figures?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A genealogy was a source of pride and showed what family someone came from. **Why does Matthew, writing about Jesus, put a woman with such a past into the genealogy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Rahab’s son Boaz will marry Ruth, a foreigner from Moab. **What might he have carried with him from a home where his mother had once been a despised outsider?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the genealogy of Jesus, Matthew names only four women besides Mary: Tamar, Rahab, Ruth, and the wife of Uriah. Each of them was a foreigner or had a story behind her that people would rather keep quiet about. Matthew doesn’t put Sarah, Rebekah, or Rachel into the genealogy. Before Jesus says His first word, His genealogy already says that God writes His story with names, too, that no one would have chosen.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Faith You Can See",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 2:24-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "As you can see, a man is justified by his deeds and not by faith alone. In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route? As the body without the spirit is dead, so faith without deeds is dead."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James wants to show what living faith looks like, and of all the figures in the Old Testament he picks Rahab, alongside Abraham. **What in her story shows that faith and action can’t be pulled apart?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 21:31-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Which of the two did the will of his father?” “The first,” they answered. Jesus said to them, “Truly I tell you, the tax collectors and prostitutes are entering the kingdom of God before you. For John came to you in a righteous way and you did not believe him, but the tax collectors and prostitutes did. And even after you saw this, you did not repent and believe him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says this to very religious people. **Why are people with the worst reputation sometimes quicker to believe than those who have known Scripture since childhood?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rahab wore a label the whole city knew. **What labels do we stick on others so firmly that it becomes hard for us to believe God could want them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Rahab hung the cord when nothing was certain yet. **What is your hope hanging on right now in your life, though nothing has been decided yet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what label from the past still weighs on you, though God long ago began writing your name somewhere else?** You don’t have to name it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Everyone in Jericho heard the same stories about the God of Israel, and everyone was afraid. Only one woman turned that fear into a step toward God. Why does the same news close some people off and open others up? And what in this depends on us, and what doesn’t?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this question. It helps if someone notices that Rahab didn’t know more than her neighbors. She did something with what she knew.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Rahab had the worst reputation in town, and her name stands on the first page of the Gospel, in the genealogy of Jesus.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Joshua 2:11 or Hebrews 11:31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone around you whom you label in your head. Ask yourself **how the way you see them would change if you saw in them someone whose name God may still write into His story**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Rahab started from what she had heard. Admit before God **what you already know about Him, though you haven’t done anything with it yet**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Rahab asked that her father, mother, brothers, and sisters be saved. Think about which of the people closest to you you would like to plead for as she did. Stay with that name before God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“How could a good God allow a whole city to be destroyed?”** It’s a real question, and it mustn’t be brushed aside. Don’t settle it today, and don’t defend the text by force. You can point out that right in the middle of this story stands a house that was saved, and that a woman from a city under the ban lived in Israel for good. If the group wants to come back to the question, point them to the meeting “Where Does Evil Come From If God Is Good?” or suggest a separate meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“She was an innkeeper, not a prostitute.”** That reading is sometimes suggested, but the Hebrew text and both New Testament letters say plainly “prostitute.” Don’t soften the word. Without it the story loses its force, because here grace meets someone no one would have chosen.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone at the table has a past of prostitution, exploitation, or a heavy reputation.** Don’t direct questions or glances at that person. If they start to talk themselves, listen with respect and don’t press for details. Stay with them after the meeting if they need it. Where there is violence or exploitation, don’t carry it alone, and help them find professional help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So lying is fine if it’s for a good cause.”** The text doesn’t say that, and neither does the New Testament. It praises Rahab’s faith and the fact that she welcomed the spies. Refer the question to level 3, or leave it open and go back to whom Rahab trusted.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts a lecture on what the scarlet cord symbolizes.** It’s an old and beautiful reading, but don’t make a doctrine of it. The story itself brings to mind rather the sign on the doors on the night of the Passover. Go back to what the cord meant to the woman at the window.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after the question about labels.** That’s good. Labels hurt, and it takes a moment. Repeat the question in the same words and wait. Don’t answer for the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 4. Blocks 2, 3, and 5 carry the meeting: faith from hearing alone, hope hung in the window, and the name of a woman from Jericho in the genealogy of Jesus.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“How could a good God allow a whole city to be destroyed?”",
+     "odpowiedz": "It’s a real question, and it mustn’t be brushed aside. Don’t settle it today, and don’t defend the text by force. You can point out that right in the middle of this story stands a house that was saved, and that a woman from a city under the ban lived in Israel for good. If the group wants to come back to the question, point them to the meeting “Where Does Evil Come From If God Is Good?” or suggest a separate meeting."
+    },
+    {
+     "sytuacja": "“She was an innkeeper, not a prostitute.”",
+     "odpowiedz": "That reading is sometimes suggested, but the Hebrew text and both New Testament letters say plainly “prostitute.” Don’t soften the word. Without it the story loses its force, because here grace meets someone no one would have chosen."
+    },
+    {
+     "sytuacja": "Someone at the table has a past of prostitution, exploitation, or a heavy reputation.",
+     "odpowiedz": "Don’t direct questions or glances at that person. If they start to talk themselves, listen with respect and don’t press for details. Stay with them after the meeting if they need it. Where there is violence or exploitation, don’t carry it alone, and help them find professional help."
+    },
+    {
+     "sytuacja": "“So lying is fine if it’s for a good cause.”",
+     "odpowiedz": "The text doesn’t say that, and neither does the New Testament. It praises Rahab’s faith and the fact that she welcomed the spies. Refer the question to level 3, or leave it open and go back to whom Rahab trusted."
+    },
+    {
+     "sytuacja": "The group starts a lecture on what the scarlet cord symbolizes.",
+     "odpowiedz": "It’s an old and beautiful reading, but don’t make a doctrine of it. The story itself brings to mind rather the sign on the doors on the night of the Passover. Go back to what the cord meant to the woman at the window."
+    },
+    {
+     "sytuacja": "The group goes quiet after the question about labels.",
+     "odpowiedz": "That’s good. Labels hurt, and it takes a moment. Repeat the question in the same words and wait. Don’t answer for the group."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 4. Blocks 2, 3, and 5 carry the meeting: faith from hearing alone, hope hung in the window, and the name of a woman from Jericho in the genealogy of Jesus."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,790 @@
+{
+ "tytul": "Love God and Do What You Will",
+ "id": "W-08",
+ "seria": "Decisions and the Will of God",
+ "opis": "Freedom of choice as a gift, ordinary work as service, and a God who doesn’t walk away after our bad decisions.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Deuteronomy 30:15-20; Joshua 24:14-15; Galatians 5:1, 13-14; 1 Corinthians 10:23-24; Colossians 3:23-24; 1 Corinthians 10:31; Deuteronomy 2:7; Romans 8:28-29",
+  "p2": "Deuteronomy 30:11-14; Joshua 24:19-24; 1 John 4:16, 18-19; 5:3; Deuteronomy 8:2-5",
+  "p3": "Galatians 5:13"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 30
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "freedom",
+  "love",
+  "calling",
+  "work",
+  "legalism",
+  "wrong decisions",
+  "grace"
+ ],
+ "wersja": 1,
+ "zdanie": "The weight of this sentence lies in its first word. Whoever loves God learns to want what God wants, and can then choose without fear.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The title echoes a sentence that has been circulating in the church for sixteen centuries: “Love, and do what you will.” It was spoken in a sermon on the First Letter of John by a bishop from North Africa. The original says only “love.” The word “God” was added by later tradition, which rightly captures what kind of love is meant. The sentence sounds like permission for anything, but its author meant the opposite. He explained that the same actions can grow from different roots. A father disciplines his child out of love, while a stranger may caress a child with evil intent. What counts is the root. Whoever truly loves wants what love wants, and can then choose freely. So the whole weight of the sentence lies in its first word.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The meeting has three steps. God leaves us a real choice. Freedom serves love, in ordinary work too. And when we choose badly, God doesn’t walk away.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “The Heart at the Decision Table.” That one is about what in us can tilt a choice. This one is about the freedom that grows out of love.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The title is easy to hear as “do whatever you feel like.” Don’t avoid that. Paul himself anticipated this misunderstanding in Galatians 5:13.",
+      "Someone at the table may be living under the weight of a rulebook and be afraid of every decision. Someone else may be using the word “freedom” as an excuse. Both need the same text.",
+      "Someone may be carrying a decision that can’t be undone: a marriage, a divorce, a move abroad, a choice of studies. Block 5 is for them, but don’t make it a public topic.",
+      "There are two views in the church on God’s will in everyday choices. The material presents both. Don’t settle the debate for the group."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give a recipe for discerning God’s will. Don’t judge other people’s life choices. Don’t use Romans 8:28 as a quick answer to someone’s pain. Don’t press for commitments.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a decision from recent years where no one told you what to do and no one forbade you anything. Say in one word how you felt at the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Life Set Before You",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Moses is finishing his last great speech by the Jordan. In a moment the people will enter the promised land, without him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 30:15-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "See, I have set before you today life and goodness, as well as death and disaster. For I am commanding you today to love the LORD your God, to walk in His ways, and to keep His commandments, statutes, and ordinances, so that you may live and increase, and the LORD your God may bless you in the land that you are entering to possess. But if your heart turns away and you do not listen, but are drawn away to bow down to other gods and worship them, I declare to you today that you will surely perish; you shall not prolong your days in the land that you are crossing the Jordan to possess. I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live, and that you may love the LORD your God, obey Him, and hold fast to Him. For He is your life, and He will prolong your life in the land that the LORD swore to give to your fathers, to Abraham, Isaac, and Jacob.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God sets two ways before the people and says, “Choose.” **What in this text shows that the choice really is theirs to make?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 20 describes choosing life with three verbs: love, obey, hold fast. **What does it say about this choice that all three come from the language of relationship?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Moses doesn’t give a list here of cities where one may live or occupations one may take up. **So what is this decision about, and why do all the others depend on it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A few verses earlier Moses announces that God “will circumcise your hearts,” so that the people can love Him with all their heart (Deuteronomy 30:6). So the call to choose comes only after the promise. First God gives, then we respond. God’s first words to the man in Eden follow a similar order. They begin with permission: “You may eat freely from every tree of the garden” (Genesis 2:16). The prohibition comes only afterward.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 2,
+   "tytul": "The Word Near You",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 30:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this commandment I give you today is not too difficult for you or beyond your reach. It is not in heaven, that you should need to ask, ‘Who will ascend into heaven to get it for us and proclaim it, that we may obey it?’ And it is not beyond the sea, that you should need to ask, ‘Who will cross the sea to get it for us and proclaim it, that we may obey it?’ But the word is very near you; it is in your mouth and in your heart, so that you may obey it."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "People sometimes talk about God’s will as if it were hidden in heaven or beyond the sea. **What does Moses say to someone who thinks that way?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The word is “in your mouth and in your heart.” **What does that change about looking for God’s will in ordinary decisions?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Whom You Will Serve",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Joshua is old now. He gathers the tribes of Israel at Shechem, reminds them of everything God has done for them, and puts a question to them.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 24:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now, therefore, fear the LORD and serve Him in sincerity and truth; cast aside the gods your fathers served beyond the Euphrates and in Egypt, and serve the LORD. But if it is unpleasing in your sight to serve the LORD, then choose for yourselves this day whom you will serve, whether the gods your fathers served beyond the Euphrates, or the gods of the Amorites in whose land you are living. As for me and my house, we will serve the LORD!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Joshua tells them to choose, but he doesn’t ask about land, a trade, or marriage. **What does he ask about, and why does the answer put all the smaller choices in order?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Joshua says, “As for me and my house,” before he hears the people’s answer. **What does someone’s decision, spoken calmly and without pressure, give to others?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Choose for yourselves this day.” **What happens to a decision we keep putting off until someday?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The weightiest choice in life rarely concerns two job offers or two cities. It concerns direction, that is, whom I serve. God is very firm about one thing. Nothing may stand before Him. In many other matters He is surprisingly generous. A person who seeks His kingdom first can become an accountant or a carpenter, and live here or somewhere else. Then the world becomes full of good possibilities.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "You Are Not Able to Serve the LORD",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 24:19-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Joshua said to the people, “You are not able to serve the LORD, for He is a holy God; He is a jealous God; He will not forgive your rebellion or your sins. If you forsake the LORD and serve foreign gods, He will turn and bring disaster on you and consume you, even after He has been good to you.” “No!” replied the people. “We will serve the LORD!” Then Joshua told them, “You are witnesses against yourselves that you have chosen to serve the LORD.” “We are witnesses!” they said. “Now, therefore,” he said, “get rid of the foreign gods among you and incline your hearts to the LORD, the God of Israel.” So the people said to Joshua, “We will serve the LORD our God and obey His voice.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joshua tells the people plainly that they won’t manage it. **Why would someone who wants them to choose God say something like that?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In verse 23 Joshua tells them to get rid of the foreign gods and incline their hearts. **What has to happen in the heart so that the choice in verse 15 doesn’t end with words?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Freedom That Serves",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 5:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "It is for freedom that Christ has set us free. Stand firm, then, and do not be encumbered once more by a yoke of slavery."
+       ]
+      },
+      {
+       "odnosnik": "Galatians 5:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you, brothers, were called to freedom; but do not use your freedom as an opportunity for the flesh. Rather, serve one another in love. The entire law is fulfilled in a single decree: “Love your neighbor as yourself.”"
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 10:23-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Everything is permissible,” but not everything is beneficial. “Everything is permissible,” but not everything is edifying. No one should seek his own good, but the good of others."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul says in one breath: you are free, so serve one another. **How is it possible that these two things don’t exclude each other?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul quotes the slogan “Everything is permissible” and answers that “not everything is edifying.” **What question does he offer in place of the question “Am I allowed to?”**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In Galatians 5:1 freedom is already given before any instruction comes. **What does it change in everyday choices that I already have freedom and can use it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The bishop the title’s sentence comes from did not abolish the commandments. He said that whoever truly loves begins to want what love wants. Paul says the same thing more briefly. The whole law is summed up in love. The commandments describe what love looks like in practice. Legalism and “do whatever you feel like” look like opposites, yet they lack the same thing. In neither of them is there a Person who is loved.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Opportunity” in Galatians 5:13 is the Greek `aphormē`. In military language it meant a base of operations, a bridgehead from which an attack is launched. Freedom can become a bridgehead for what Paul calls the flesh, that is, a life centered on oneself. And “serve” is the verb `douleuō`, related to the word for “slave.” People who are free become servants of one another of their own accord. That is the kind of slavery, chosen out of love, that Paul urges.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in your lives most easily becomes a bridgehead like that when you tell yourselves, “But I’m allowed”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Love That Is Not a Burden",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The sentence in the title was spoken in a sermon on this letter.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 4:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "And we have come to know and believe the love that God has for us. God is love; whoever abides in love abides in God, and God in him."
+       ]
+      },
+      {
+       "odnosnik": "1 John 4:18-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "There is no fear in love, but perfect love drives out fear, because fear involves punishment. The one who fears has not been perfected in love. We love because He first loved us."
+       ]
+      },
+      {
+       "odnosnik": "1 John 5:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this is the love of God, that we keep His commandments. And His commandments are not burdensome,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John writes that the commandments “are not burdensome.” **When does a commandment stop being a burden?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Love can’t be produced in yourself just by being ordered to love. **What does John say about where our love for God comes from?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "Anyone who has tried to love God by force knows that gritting your teeth doesn’t work. John shows another way. Love grows from looking at the love someone has already shown us. That is why the order never changes. He comes first, then we follow. Fear of punishment spoils decisions, because it makes us choose only so as not to get into trouble.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Whatever You Do",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Here Paul is addressing servants, that is, the slaves in the households of Colossae, who had not chosen their work.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 3:23-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Whatever you do, work at it with your whole being, for the Lord and not for men, because you know that you will receive an inheritance from the Lord as your reward. It is the Lord Christ you are serving."
+       ]
+      },
+      {
+       "odnosnik": "1 Corinthians 10:31",
+       "przeklad": "BSB",
+       "akapity": [
+        "So whether you eat or drink or whatever you do, do it all to the glory of God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes these words to people who had no choice of occupation. **What does it mean that even work no one chose can be done “for the Lord”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Whether you eat or drink.” **Why does Paul take his example from such ordinary activities?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**How does this shift the center of gravity from the question “What should I choose?” to the question “How should I do it?”**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "For centuries it was easy to divide life into the spiritual and the ordinary. The monastery and the altar seemed holy, the workshop and the kitchen less so. The Reformers spoke up strongly for ordinary work. A milkmaid serves God just as much as a monk chanting psalms, and a shoemaker serves Him by making good shoes. Whoever bakes bread is sometimes answering someone’s request from the Lord’s Prayer. A calling isn’t only a church profession. It is every place where God has put you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: One Way or Many Good Ways",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "There are two views in the church on God’s will in everyday choices. Some say that God has a specific path for every person in important matters and leads them to it through prayer, Scripture, circumstances, and the advice of others. We have to learn to listen for it, because guidance is the fruit of closeness to God. Others hold that Scripture reveals God’s moral will. Within its bounds a believer chooses among many good possibilities, guided by wisdom, and each of those choices can please God. The two views have more in common than what divides them. The first place belongs to God, and whatever He has said clearly in Scripture settles the matter. Both warn against the fear that a single mistake can make you fall out of His plan forever.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these views is closer to you, and what does it change in the decision you are facing?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "When I Chose Badly",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Israel was afraid to enter the promised land and turned back. That decision cost them thirty-eight years of wandering in the wilderness. At the end of that road Moses says:",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 2:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Indeed, the LORD your God has blessed you in all the work of your hands. He has watched over your journey through this vast wilderness. The LORD your God has been with you these forty years, and you have lacked nothing."
+       ]
+      },
+      {
+       "odnosnik": "Romans 8:28-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "And we know that God works all things together for the good of those who love Him, who are called according to His purpose. For those God foreknew, He also predestined to be conformed to the image of His Son, so that He would be the firstborn among many brothers."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Those years in the wilderness were the result of a bad decision. **What can Moses still say about them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t write that everything is good. He writes that “God works all things together for the good.” **What good does verse 29 point to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The promise is for “those who love Him.” **What does it mean that it isn’t reserved for those who always choose correctly?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The verb behind “works all things together” describes a God who works alongside us. The world doesn’t straighten itself out. Paul doesn’t claim that the bad decision was good. He claims that God doesn’t stop working once we have made it. This verse is sometimes spoken too quickly at a hospital bed or over a coffin. But Paul writes it to people who are themselves suffering, weak, and groaning together with the whole creation (Romans 8:18-26). It is a promise for those who persevere, not a ready-made answer to someone else’s pain.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "School in the Wilderness",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 8:2-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Remember that these forty years the LORD your God led you all the way in the wilderness, so that He might humble you and test you in order to know what was in your heart, whether or not you would keep His commandments. He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD. Your clothing did not wear out and your feet did not swell during these forty years. So know in your heart that just as a man disciplines his son, so the LORD your God disciplines you."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses says that the wilderness was meant to reveal “what was in your heart.” **What could years that looked wasted from the outside have taught?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“Just as a man disciplines his son.” **How does your view of an old bad decision change when you look at it through the eyes of a father who is training his son?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In which area do you live more like someone under a rulebook, and in which more like someone who simply does whatever they feel like?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think about a decision you are facing. **What changes in it when you start by asking whom you serve, and only then ask what to choose?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **which old decision still chafes, and what from today’s texts would you like to bring to it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can I tell that my “I want” has really been changed by love for God, when the heart can dress up any desire in pious words?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t manufacture an answer here. It helps if someone observes that love is known by its fruit, and fruit grows over time. It also helps to have someone who knows us well and will tell us the truth.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would change in your choices if you really believed that God isn’t waiting for your mistake so that He can pull out?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The weight of this sentence lies in its first word. Whoever loves God learns to want what God wants, and can then choose without fear.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Deuteronomy 30:19 or Galatians 5:13.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think about a decision you are facing. Ask yourself **what root it grows from**: love, fear of making a mistake, or the wish to impress someone. Name it before God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If you carry an old choice that turned out badly, think back to the sentence in Deuteronomy 2:7. Ask God **where He was with you in those years**. Stay with that question, even if the answer doesn’t come right away.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** admit before God in which matter the word “freedom” serves you as an excuse. You don’t have to make promises right away. Start by no longer hiding it from yourself and from Him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“If I’m allowed to do what I want, why have commandments?”** Don’t defend the commandments, and don’t use fear. Go back to the first word of the title sentence and to Galatians 5:13. Paul himself anticipated this misunderstanding. Freedom is for serving, and the commandments describe what love looks like in practice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“That’s a dangerous slogan. People will misunderstand it.”** Agree that the risk is real. The bishop the sentence comes from knew that too, which is why he explained it through the root of love. Still, fear that freedom will be abused shouldn’t take it away from those to whom God has given it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a decision they can’t undo, and you hear regret or despair in them.** Don’t say “everything happens for a reason” or “it must have been meant to be.” Listen. You can recall Deuteronomy 2:7, the God who was present even in the years that followed a bad decision. If the matter is fresh and painful, talk with this person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Romans 8:28 comes up as a quick answer to someone’s suffering.** Gently stop it. The verse is true, but spoken too quickly it wounds. Paul doesn’t say that evil is good. He says that God is at work in it, and that usually becomes visible only with time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts arguing about whether God has one ideal path for everyone.** Point to the two views in the Tension block and to what unites them. Don’t settle it. Ask what in today’s texts is clear regardless of that debate.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks who wrote the sentence in the title.** Say briefly that he is one of the best-known writers of the ancient church, read by Catholics and Protestants alike. Don’t expand on it. What the sentence means matters more.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 4. Blocks 1, 3, and 5 carry the meeting: a real choice, freedom that serves, and a God who stays with us after a bad decision.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“If I’m allowed to do what I want, why have commandments?”",
+     "odpowiedz": "Don’t defend the commandments, and don’t use fear. Go back to the first word of the title sentence and to Galatians 5:13. Paul himself anticipated this misunderstanding. Freedom is for serving, and the commandments describe what love looks like in practice."
+    },
+    {
+     "sytuacja": "“That’s a dangerous slogan. People will misunderstand it.”",
+     "odpowiedz": "Agree that the risk is real. The bishop the sentence comes from knew that too, which is why he explained it through the root of love. Still, fear that freedom will be abused shouldn’t take it away from those to whom God has given it."
+    },
+    {
+     "sytuacja": "Someone talks about a decision they can’t undo, and you hear regret or despair in them.",
+     "odpowiedz": "Don’t say “everything happens for a reason” or “it must have been meant to be.” Listen. You can recall Deuteronomy 2:7, the God who was present even in the years that followed a bad decision. If the matter is fresh and painful, talk with this person after the meeting."
+    },
+    {
+     "sytuacja": "Romans 8:28 comes up as a quick answer to someone’s suffering.",
+     "odpowiedz": "Gently stop it. The verse is true, but spoken too quickly it wounds. Paul doesn’t say that evil is good. He says that God is at work in it, and that usually becomes visible only with time."
+    },
+    {
+     "sytuacja": "The group starts arguing about whether God has one ideal path for everyone.",
+     "odpowiedz": "Point to the two views in the Tension block and to what unites them. Don’t settle it. Ask what in today’s texts is clear regardless of that debate."
+    },
+    {
+     "sytuacja": "Someone asks who wrote the sentence in the title.",
+     "odpowiedz": "Say briefly that he is one of the best-known writers of the ancient church, read by Catholics and Protestants alike. Don’t expand on it. What the sentence means matters more."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 4. Blocks 1, 3, and 5 carry the meeting: a real choice, freedom that serves, and a God who stays with us after a bad decision."
+    }
+   ]
+  }
+ ]
+}

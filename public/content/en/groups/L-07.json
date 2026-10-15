@@ -1,0 +1,859 @@
+{
+ "tytul": "The Word Came a Second Time",
+ "id": "L-07",
+ "seria": "Second-Chance People",
+ "opis": "A prophet ran from God and got a second chance. It was harder for him to accept that others got one too.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Jonah 1:1-6; Jonah 1:17-2:10; Jonah 3:1-10; Jonah 4:1-4; Jonah 4:5-11",
+  "p2": "2 Kings 14:25; Jonah 1:9-10, 14-16; Psalm 139:7-10; Exodus 32:14; Jeremiah 18:7-8; Joel 2:12-13; Matthew 12:39-41",
+  "p3": "Genesis 4:16; Numbers 23:19"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 32
+ },
+ "tagi": [
+  "second chance",
+  "grace",
+  "running from God",
+  "mercy",
+  "enemies",
+  "Jonah"
+ ],
+ "wersja": 1,
+ "zdanie": "God didn’t write off the prophet who ran away, or the city that deserved judgment. He only asks us whether we will accept the same grace for others.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Book of Jonah tells of two second chances. The first goes to a prophet who ran away from God. God comes to him a second time with the same word and doesn’t reproach him. The second goes to Nineveh, the great city of Assyria, a hostile empire. The most interesting part comes at the end. Jonah accepted grace for himself. He can’t bring himself to accept grace for his enemies. The book ends with a question from God that Jonah doesn’t answer. That question is left for the group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “Anger.” That one reads the fourth chapter of Jonah from the angle of anger. This one reads the whole book from the angle of the second chance.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The conversation can easily slide toward the fish and whether anyone could survive three days inside one. Don’t make that the topic. The fish appears in the book in three verses.",
+      "Someone at the table may have their own Nineveh, a person who really hurt them. God’s mercy toward someone like that doesn’t mean the one who was hurt has to trust that person or go back to them.",
+      "Someone may recognize themselves in Jonah, as someone who has been running from God for years. For them this is personal. Don’t push for declarations.",
+      "The question of who Nineveh is today tempts people toward politics and talk about nations. Don’t go there."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t mock Jonah. Don’t tell anyone who their Nineveh is. Don’t close the book with your own answer on Jonah’s behalf.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Remember a time when someone gave you a second chance, even though they didn’t have to. Say in one sentence how you felt then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "He Got Up to Run",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jonah is a prophet in Israel. Nineveh is the great city of Assyria, a power that invaded its neighbors, Israel among them.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 1:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the word of the LORD came to Jonah son of Amittai, saying, “Get up! Go to the great city of Nineveh and preach against it, because its wickedness has come up before Me.” Jonah, however, got up to flee to Tarshish, away from the presence of the LORD. He went down to Joppa and found a ship bound for Tarshish. So he paid the fare and went aboard to sail for Tarshish, away from the presence of the LORD. Then the LORD hurled a great wind upon the sea, and such a violent storm arose that the ship was in danger of breaking apart. The sailors were afraid, and each cried out to his own god. And they threw the ship’s cargo into the sea to lighten the load. But Jonah had gone down to the lowest part of the vessel, where he lay down and fell into a deep sleep. The captain approached him and said, “How can you sleep? Get up and call upon your God. Perhaps this God will consider us, so that we may not perish.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God says to Jonah, “Get up! Go.” **What does Jonah do with each of these two words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice we read the phrase “away from the presence of the LORD.” **What exactly is Jonah running from? From a city, from a task, or from Someone?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The pagans in the storm pray, and the prophet sleeps. The captain speaks to him in almost the same words as God. **What does it mean that God’s call comes back to Jonah through the mouth of a stranger?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Tarshish was a port far across the sea. Nineveh lay inland, to the east. So Jonah doesn’t just refuse the journey. He chooses a route in the opposite direction, and pays for it too. For a long time the book doesn’t say why he does it. Jonah himself gives the reason only in the last chapter.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jonah was not a prophet out of nowhere. Second Kings mentions him in connection with King Jeroboam II, under whom Israel recovered its former territory.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Kings 14:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "This Jeroboam restored the boundary of Israel from Lebo-hamath to the Sea of the Arabah, according to the word that the LORD, the God of Israel, had spoken through His servant Jonah son of Amittai, the prophet from Gath-hepher."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "So Jonah had been announcing good times to his own nation. To Nineveh he was to speak of judgment. And Assyria was a dangerous neighbor for Israel, one that would conquer it a few decades later.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How might this call have sounded to a prophet who until then had been announcing his own country’s success?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Sailors",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 1:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "“I am a Hebrew,” replied Jonah. “I worship the LORD, the God of the heavens, who made the sea and the dry land.” Then the men were even more afraid and said to him, “What have you done?” The men knew that he was fleeing from the presence of the LORD, because he had told them."
+       ]
+      },
+      {
+       "odnosnik": "Jonah 1:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "So they cried out to the LORD: “Please, O LORD, do not let us perish on account of this man’s life! Do not charge us with innocent blood! For You, O LORD, have done as You pleased.” At this, they picked up Jonah and cast him into the sea, and the raging sea grew calm. Then the men feared the LORD greatly, and they offered a sacrifice to the LORD and made vows to Him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonah professes faith in the God who made the sea and the dry land, and he flees from Him by sea. **How is it possible for someone to profess the right faith and go in the opposite direction?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "At the beginning of the chapter the sailors each cry out to their own god. At the end they offer a sacrifice to the LORD. **Who in this chapter came closer to God, and who was moving away from Him?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The book repeats two verbs that are easy to miss in translation. The first is `qum`, “get up.” God tells Jonah, “Get up!” and Jonah gets up, but to run away. The captain wakes him with the same word. In chapter three Jonah gets up a second time, this time toward Nineveh. With the same word the king of Nineveh gets up from his throne.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second verb is `yarad`, “to go down.” In the Hebrew, Jonah goes down to Joppa, goes down into the ship, goes down into the lowest part of the vessel, and in his prayer he says he descended to the roots of the mountains. In this book, running from God is a road downward. In the whole Old Testament, only one other person besides Jonah is said to have gone “from the presence of the LORD.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 4:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say about Jonah’s flight that it is described like Cain’s departure? And what turned out differently in Jonah’s story?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "From the Depths",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The lot pointed to Jonah as the one to blame for the storm. He himself told them to throw him into the sea, and when the sailors did it, the sea grew calm.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 1:17-2:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three days and three nights in the belly of the fish. From inside the fish, Jonah prayed to the LORD his God, saying: “In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice. For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me. At this, I said, ‘I have been banished from Your sight; yet I will look once more toward Your holy temple.’ The waters engulfed me to take my life; the watery depths closed around me; the seaweed wrapped around my head. To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God! As my life was fading away, I remembered the LORD. My prayer went up to You, to Your holy temple. Those who cling to worthless idols forsake His loving devotion. But I, with the voice of thanksgiving, will sacrifice to You. I will fulfill what I have vowed. Salvation is from the LORD!” And the LORD commanded the fish, and it vomited Jonah onto dry land."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonah prays from a place he can’t get out of on his own. **What does he talk about in this prayer, and what doesn’t he mention at all?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“As my life was fading away, I remembered the LORD.” **Why do we so often remember God only when we hit bottom? And what does it say about God that He answers even then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonah speaks of those who “forsake His loving devotion.” **How does that sentence sound from a man who was running away himself just a moment ago?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jonah’s prayer has the shape of a psalm of thanksgiving. With psalms like this, Israel gave thanks for rescue from death. Jonah gives thanks while still inside the fish, before he stands on dry land. So he sees the fish as his rescue. God “appointed” it, with the same word He later uses to appoint the vine and the worm. In this story the fish is only the means by which God stopped a man on the run.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Nowhere to Run",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 139:7-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Where can I go to escape Your Spirit? Where can I flee from Your presence? If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there. If I rise on the wings of the dawn, if I settle by the farthest sea, even there Your hand will guide me; Your right hand will hold me fast."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist asks about the very thing Jonah experienced in the depths of the sea. **For one person this thought is threatening, for another it brings peace. What does that depend on?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `mana` means “to appoint, to prepare.” In the Book of Jonah it stands next to the fish, the vine, the worm, and the east wind. The BSB renders it “appointed” every time. Each of these creatures does at once what it was appointed to do. The fish swallows and spits out, the vine grows, the worm attacks. The only character in the book who doesn’t obey at once is the prophet.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say about God’s patience that instead of replacing Jonah with someone obedient, He sets all of creation in motion to win him back?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Second Time",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 3:1-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the word of the LORD came to Jonah a second time: “Get up! Go to the great city of Nineveh and proclaim to it the message that I give you.” This time Jonah got up and went to Nineveh, in accordance with the word of the LORD. Now Nineveh was an exceedingly great city, requiring a three-day journey. On the first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!” And the Ninevites believed God. They proclaimed a fast and dressed in sackcloth, from the greatest of them to the least. When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes. Then he issued a proclamation in Nineveh: “By the decree of the king and his nobles: Let no man or beast, herd or flock, taste anything at all. They must not eat or drink. Furthermore, let both man and beast be covered with sackcloth, and have everyone call out earnestly to God. Let each one turn from his evil ways and from the violence in his hands. Who knows? God may turn and relent; He may turn from His fierce anger, so that we will not perish.” When God saw their actions—that they had turned from their evil ways—He relented from the disaster He had threatened to bring upon them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Compare the first sentences of this chapter with the first sentences of the book. **What has changed, and what has stayed the same? What does God not say to Jonah this time?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonah’s sermon is only a few words long. It contains no call to repentance and no promise. **Where, then, did the king and the city get the hope that something could still change?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonah got a second chance without asking for it. Nineveh had no certainty at all; all it says is, “Who knows?” **What do these two second chances have in common, and how are they different?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God doesn’t call Jonah to account for running away. There is no conversation about guilt, no conditions, no probation period. There is the same word and the same task, repeated a second time. The Bible uses the word “relent” of God, who turns back from a threatened punishment when people turn around. It describes a God who really responds to what people do.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "As Before with Israel",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 32:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "So the LORD relented from the calamity He had threatened to bring on His people."
+       ]
+      },
+      {
+       "odnosnik": "Jeremiah 18:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "At any time I might announce that a nation or kingdom will be uprooted, torn down, and destroyed. But if that nation I warned turns from its evil, then I will relent of the disaster I had planned to bring."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first sentence comes after the golden calf, when God spared His own people. The sentence about Nineveh sounds almost the same. **What does this say about how God treats outsiders compared with His own?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiah states the rule that the king of Nineveh knew only as “Who knows?” **Why does God announce punishment at all, if He wants it never to have to come?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jonah announces that Nineveh will be “overturned.” The Hebrew verb `hafakh` describes the destruction of Sodom this way. But the same verb also means “to turn around, to turn into something else.” In Jeremiah, God uses it to promise that He will turn mourning into joy. So Jonah’s words were fulfilled to the letter, only not the way he wanted. The city was not overthrown. It was turned around.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean to you that the same sentence could be fulfilled as destruction or as transformation, and that people’s turning back decided which?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Does God Change His Mind?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 23:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "God is not a man, that He should lie, or a son of man, that He should change His mind. Does He speak and not act? Does He promise and not fulfill?"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The same Bible says that God “relented” concerning Nineveh, and that He is not a man, “that He should change His mind.” Christians read this in two ways. Some stress that God does not change. The announcement of punishment always carried a hidden condition, which Jeremiah names outright, and it was people who changed, not God. Others stress that the relationship with God is real. He truly hears and responds, and the language of relenting is not just a figure of speech. Both sides share one thing. God’s character is constant, and part of that character is precisely that He responds to repentance. Jonah knew this himself, and that is exactly why he ran.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What would happen to prayer and repentance if God did not respond at all to what people do? And what would happen to trust if His character changed?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "I Knew That You Are Gracious",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 4:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jonah, however, was greatly displeased, and he became angry. So he prayed to the LORD, saying, “O LORD, is this not what I said while I was still in my own country? This is why I was so quick to flee toward Tarshish. I knew that You are a gracious and compassionate God, slow to anger, abounding in loving devotion—One who relents from sending disaster. And now, O LORD, please take my life from me, for it is better for me to die than to live.” But the LORD replied, “Have you any right to be angry?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonah finally says why he ran. **What was he afraid of? What exactly made him angry?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonah lists God’s beautiful qualities, but in his mouth they sound like an accusation. **When can God’s goodness to others hurt a person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jonah himself had just been pulled out of the depths. **Why is it so easy to be glad about grace for ourselves, and so hard to be glad about it when someone else receives it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jonah repeats the words with which God introduced Himself to Moses on Sinai. Elsewhere in the Bible people quote them to praise God. Jonah quotes them to complain about Him. He didn’t lack knowledge about God. He knew Him well enough to predict what God would do. And that is exactly why he didn’t want to go.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Same Sentence in Joel",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joel 2:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Yet even now,” declares the LORD, “return to Me with all your heart, with fasting, weeping, and mourning.” So rend your hearts and not your garments, and return to the LORD your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joel says almost the same thing to his own people as Jonah does, only as an encouragement to return. **What makes the same truth about God draw one person in and outrage another?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Vine and the City",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 4:5-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jonah left the city and sat down east of it, where he made himself a shelter and sat in its shade to see what would happen to the city. So the LORD God appointed a vine, and it grew up to provide shade over Jonah’s head to ease his discomfort, and Jonah was greatly pleased with the plant. When dawn came the next day, God appointed a worm that attacked the plant so that it withered. As the sun was rising, God appointed a scorching east wind, and the sun beat down on Jonah’s head so that he grew faint and wished to die, saying, “It is better for me to die than to live.” Then God asked Jonah, “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!” But the LORD said, “You cared about the plant, which you neither tended nor made grow. It sprang up in a night and perished in a night. So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jonah sits down outside the city “to see what would happen to the city.” **What is he actually waiting for? What would make him glad?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God speaks of more than 120,000 people who cannot tell their right hand from their left, and of the cattle. **How does God see the city Jonah didn’t want to save?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The book ends with God’s question. Jonah’s answer isn’t there. **What would you answer in his place? What is hardest about that answer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Two people sit down in this book. In the city, the king sits in ashes and hopes to be spared. Outside the city, the prophet sits in the shade and waits for destruction. The open ending is not a flaw. God’s question is addressed to the reader. The God who gave Jonah a second chance now asks him whether he will accept a second chance for others.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Greater Than Jonah",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 12:39-41",
+       "przeklad": "BSB",
+       "akapity": [
+        "Jesus replied, “A wicked and adulterous generation demands a sign, but none will be given it except the sign of the prophet Jonah. For as Jonah was three days and three nights in the belly of the great fish, so the Son of Man will be three days and three nights in the heart of the earth. The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonah ended up in the depths because he ran away, and he was rescued. Jesus would go down into death for a different reason. **In what way is He “greater than Jonah”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus holds up the people of Nineveh as an example to religious people. **What does this say about people who are easy to write off as lost?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonah ran even though he knew God well. **What about God is sometimes uncomfortable for you, even though you know it’s true?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who would you find it hardest to wish a second chance from God?** You don’t have to say who it is. It’s enough to say why it’s hard.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **is there a word from God in your life that already came once and may now be coming a second time?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If God showed mercy to someone who hurt you or the people you love, could you be glad about it? And if not, what does that say about how you understand your own second chance?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t look for a single answer here. It helps if one distinction comes up. Accepting that God is good to the person who hurt me doesn’t mean I have to trust them. Nor do I have to go back to them or pretend nothing happened. Nineveh repented, and God didn’t tell Jonah to move there.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God didn’t write off the prophet who ran away, or the city that deserved judgment. He only asks us whether we will accept the same grace for others.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Jonah 3:1 or Jonah 4:2.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself **whether there is something you’re running from right now**, even though you know well where God is sending you. You don’t have to turn around right away. It’s enough to stop pretending you’re sailing in the right direction.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person you don’t wish well. Admit before God **what you’re afraid of if He shows them grace**. Stay with that question, even if the answer is embarrassing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** tell God plainly, as Jonah did, what makes you angry about Him. Then listen for the question He is asking you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“But nobody could survive three days inside a fish.”** Don’t get into an argument about biology. You can say that Jesus took this story seriously and called it a sign. Add that today we’re asking about something else. We’re asking what God did with a man who ran away from Him. If someone wants to come back to that question, suggest talking after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about the person who hurt them, for example about violence at home.** Listen, don’t interrupt, and don’t demand forgiveness on the spot. Say clearly that God’s mercy toward the one who did the harm doesn’t oblige the person who was hurt to go back, to trust, or to keep silent. Stay with that person after the meeting. If there is domestic violence, don’t carry this alone, and help them find professional help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So God will forgive everyone anyway, no matter what they do.”** Go back to the text. God saw “that they had turned from their evil ways.” Grace was free, but Nineveh turned around. Jonah, too, got his second chance when he stopped running.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m Jonah. I’ve been running from God for years.”** Thank them for their honesty, and don’t turn it into an altar call in front of the whole group. You can say that in this book God comes a second time without reproach. Leave the rest to that person and God, and if they want, talk with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to politics or to nations that “are Nineveh today.”** Stop it gently. The book doesn’t give a list of enemy nations. It asks one man about his heart. Go back to the question of who my Nineveh is.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after the question about a second chance for enemies.** This is a good silence, because the question is hard. Count to ten in your head. If the silence goes on, read the last verse of the book again and add nothing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 3, 4, and 5 carry the meeting: the word a second time, grace for Nineveh, and the question that stays open.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“But nobody could survive three days inside a fish.”",
+     "odpowiedz": "Don’t get into an argument about biology. You can say that Jesus took this story seriously and called it a sign. Add that today we’re asking about something else. We’re asking what God did with a man who ran away from Him. If someone wants to come back to that question, suggest talking after the meeting."
+    },
+    {
+     "sytuacja": "Someone talks about the person who hurt them, for example about violence at home.",
+     "odpowiedz": "Listen, don’t interrupt, and don’t demand forgiveness on the spot. Say clearly that God’s mercy toward the one who did the harm doesn’t oblige the person who was hurt to go back, to trust, or to keep silent. Stay with that person after the meeting. If there is domestic violence, don’t carry this alone, and help them find professional help."
+    },
+    {
+     "sytuacja": "“So God will forgive everyone anyway, no matter what they do.”",
+     "odpowiedz": "Go back to the text. God saw “that they had turned from their evil ways.” Grace was free, but Nineveh turned around. Jonah, too, got his second chance when he stopped running."
+    },
+    {
+     "sytuacja": "“I’m Jonah. I’ve been running from God for years.”",
+     "odpowiedz": "Thank them for their honesty, and don’t turn it into an altar call in front of the whole group. You can say that in this book God comes a second time without reproach. Leave the rest to that person and God, and if they want, talk with them after the meeting."
+    },
+    {
+     "sytuacja": "The conversation drifts to politics or to nations that “are Nineveh today.”",
+     "odpowiedz": "Stop it gently. The book doesn’t give a list of enemy nations. It asks one man about his heart. Go back to the question of who my Nineveh is."
+    },
+    {
+     "sytuacja": "The group is silent after the question about a second chance for enemies.",
+     "odpowiedz": "This is a good silence, because the question is hard. Count to ten in your head. If the silence goes on, read the last verse of the book again and add nothing."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 3, 4, and 5 carry the meeting: the word a second time, grace for Nineveh, and the question that stays open."
+    }
+   ]
+  }
+ ]
+}

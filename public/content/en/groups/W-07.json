@@ -1,0 +1,851 @@
+{
+ "tytul": "The Heart at the Decision Table",
+ "id": "W-07",
+ "seria": "Decisions and the Will of God",
+ "opis": "What desires, emotions, and haste do to our choices, and why the Bible tells us to ask God along the way.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Joshua 9:3-16; Proverbs 14:12, 15; 21:2; Jeremiah 17:9-10; Psalm 139:23-24; Psalm 37:3-7; Luke 14:28-33",
+  "p2": "Joshua 9:18-21, 27; Genesis 25:29-34; Jeremiah 41:17-18; 42:1-6, 19-21; James 1:14-15; Proverbs 24:27; 21:5",
+  "p3": "Genesis 3:1; Psalm 37:4"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "heart",
+  "emotions",
+  "desires",
+  "thinking traps",
+  "wisdom",
+  "discernment"
+ ],
+ "wersja": 1,
+ "zdanie": "The heart has a voice in every decision. Wisdom means not letting it be the only voice, and asking the One who knows the heart better than we do.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about who is really sitting at the table when we make a decision. Besides reason, there are desires, fears, tiredness, and whatever we quietly decided long ago. The Bible doesn’t tell us to show them the door. Without desires and feelings, a person couldn’t choose anything at all. What it teaches is that none of these voices should speak alone. The leaders of Israel at Gilgal were neither foolish nor wicked. They were sure of themselves, and they didn’t ask God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “Love God and Do What You Will.” That one is about the freedom to choose. This one is about what in ourselves can tilt that choice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There are people at the table facing real decisions: a job, a move, a wedding, a breakup. Someone may be hoping that the group will settle their matter for them. The group asks and listens. It doesn’t decide for anyone.",
+      "The texts about the deceitful heart are easy to turn into suspicion of everything I feel. That leads to paralysis, not to wisdom.",
+      "Someone may be carrying a decision that turned out to be a mistake and hear an accusation in these texts. The story of the Gibeonites ends differently from how it begins. It’s worth showing that.",
+      "The conversation can easily drift into tips from self-help books on decision-making. Keep coming back to the text."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give the group a step-by-step method for finding God’s will. Don’t judge other people’s decisions, and don’t ask what someone “should” choose. Don’t press for commitments.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a decision you made quickly and without hesitation, because everything seemed obvious. Say in one sentence how it turned out.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Moldy Bread",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Israel has entered Canaan and taken Jericho and Ai. The people of nearby Gibeon are looking for a way to survive.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 9:3-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the people of Gibeon, having heard what Joshua had done to Jericho and Ai, acted deceptively and set out as envoys, carrying on their donkeys worn-out sacks and old wineskins, cracked and mended. They put worn, patched sandals on their feet and threadbare clothing on their bodies, and their whole supply of bread was dry and moldy. They went to Joshua in the camp at Gilgal and said to him and the men of Israel, “We have come from a distant land; please make a treaty with us.” But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can we make a treaty with you?” “We are your servants,” they said to Joshua. Then Joshua asked them, “Who are you and where have you come from?” “Your servants have come from a very distant land,” they replied, “because of the fame of the LORD your God. For we have heard the reports about Him: all that He did in Egypt, and all that He did to the two kings of the Amorites beyond the Jordan—Sihon king of Heshbon and Og king of Bashan, who reigned in Ashtaroth. So the elders and inhabitants of our land told us, ‘Take provisions for your journey; go to meet them and say to them: We are your servants. Please make a treaty with us.’ This bread of ours was warm when we packed it at home on the day we left to come to you. But take a look, it is now dry and moldy. These wineskins were new when we filled them, but look, they are cracked. And these clothes and sandals are worn out from our very long journey.” Then the men of Israel sampled their provisions, but did not seek the counsel of the LORD. And Joshua made a treaty of peace with them to let them live, and the leaders of the congregation swore an oath to them. Three days after they had made the treaty with the Gibeonites, the Israelites learned that they were neighbors, living among them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Gibeonites built their whole story out of things you could see and hold in your hand. **Why does evidence you can look at convince us faster than words?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 14 says that the men of Israel sampled their provisions, “but did not seek the counsel of the LORD.” **What might have kept anyone from thinking of it, when everything looked so clear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In verse 7, though, someone does raise a doubt: “Perhaps you dwell near us.” **What happened to that doubt as the conversation went on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The law in Deuteronomy 20 allowed peace treaties only with distant cities. It did not cover the peoples of Canaan. That is why the whole performance is meant to prove distance. The envoys mention Egypt and the kings beyond the Jordan, but say nothing about Jericho and Ai. News of such recent events could hardly have reached a distant country yet. In verse 14 the Hebrew literally says that they did not ask “the mouth of the LORD.” They checked the bread. They didn’t ask the One who knew.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 2,
+   "tytul": "A Word That Binds",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Joshua 9:18-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the Israelites did not attack them, because the leaders of the congregation had sworn an oath to them by the LORD, the God of Israel. And the whole congregation grumbled against the leaders. All the leaders answered, “We have sworn an oath to them by the LORD, the God of Israel, and now we cannot touch them. This is how we will treat them: We will let them live, so that no wrath will fall on us because of the oath we swore to them.” They continued, “Let them live, but let them be woodcutters and water carriers for the whole congregation.” So the leaders kept their promise."
+       ]
+      },
+      {
+       "odnosnik": "Joshua 9:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "On that day he made them woodcutters and water carriers, as they are to this day for the congregation of the LORD and for the altar at the place He would choose."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The leaders could have decided that an agreement obtained by deception didn’t bind them. **Why did they keep their word, and what does that say about decisions that can no longer be undone?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Gibeonites end up working at the altar of the LORD. **What in this ending shows that a hasty human decision didn’t close the way for God?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "This oath carried weight for a long time. Second Samuel tells how, several generations later, Israel paid for King Saul’s breaking it. And Gibeon, the town punished with service at the altar, had the tabernacle and the most important high place in the days of David and Solomon. Out of the leaders’ mistake and the Gibeonites’ deception, God made a place of meeting.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 4 the Gibeonites act “deceptively,” in Hebrew `‘ormah`. The adjective `‘arum` comes from the same root. In Genesis 3:1 the serpent was “more crafty than any beast of the field.” A reader who knows Hebrew immediately hears a familiar scene. Someone approaches with a convincing story, someone lets himself be convinced, and no one puts the question to God. And the treaty they make is called by the same word, `berit`, that the Bible uses for God’s covenant with Israel.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does the echo of the Garden of Eden change the way we read this story?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Way That Seems Right",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 14:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "There is a way that seems right to a man, but its end is the way of death."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 14:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "The simple man believes every word, but the prudent man watches his steps."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 21:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "All a man’s ways seem right to him, but the LORD weighs the heart."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Proverbs 14:12 isn’t talking about someone who knowingly chooses evil. It speaks of a way that “seems right.” **What makes a wrong way look right?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The simple man believes every word.” **What happens when the word we believe without checking is our own voice in our head?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“All a man’s ways seem right to him.” **What changes in how we judge our own decision when we remember that Someone else weighs the heart?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Researchers showed experienced fingerprint experts pairs of prints that those same experts had already assessed earlier. This time they added a detail from the case, for example that the suspect had confessed. In one of the studies, four experts out of five changed their earlier assessment. When we know what we want to see, the eye finds it. Proverbs described this trap long before there were laboratories.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Meal for a Birthright",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Esau is the older of the twins, and the birthright belongs to him, meaning the larger share of the inheritance and first place in the family.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 25:29-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "One day, while Jacob was cooking some stew, Esau came in from the field and was famished. He said to Jacob, “Let me eat some of that red stew, for I am famished.” (That is why he was also called Edom.) “First sell me your birthright,” Jacob replied. “Look,” said Esau, “I am about to die, so what good is a birthright to me?” “Swear to me first,” Jacob said. So Esau swore to Jacob and sold him the birthright. Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then got up and went away. Thus Esau despised his birthright."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Esau says, “I am about to die.” **What did hunger and exhaustion do to his sense of what really matters?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The narrator sums up an ordinary meal with the word “despised.” **What does that verdict say about small decisions made in a bad state?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "There is a simple, well-tested piece of advice: don’t finalize big choices when you are hungry, angry, lonely, or very tired. Each of these states speaks loudly and convincingly, and we mistake its coloring for a feature of the matter itself. Esau is a picture of this. His hunger was real, and his reading of the situation was false. A decision that still looks the same after a night’s sleep and a meal gains weight.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Heart That Doesn’t Know Itself",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 17:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "The heart is deceitful above all things and beyond cure. Who can understand it? I, the LORD, search the heart; I examine the mind to reward a man according to his way, by what his deeds deserve."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 139:23-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Search me, O God, and know my heart; test me and know my concerns. See if there is any offensive way in me; lead me in the way everlasting."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jeremiah asks, “Who can understand it?” and immediately hears an answer. **What difference does it make that the answer isn’t “you yourself”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalmist doesn’t try to see through his own heart by himself. He asks God to do it. **What might a prayer like that look like before a specific decision?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**When does suspicion of your own heart stop helping and start paralyzing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The sentence about the deceitful heart is sometimes quoted without its second half, and then it sounds like contempt for human beings. But Jeremiah is making a diagnosis. A verdict would close the conversation, and here the conversation is only beginning. Right after the question “Who can understand it?” God speaks, the One who knows. Where the BSB says “mind,” the Hebrew literally has the kidneys. In the language of the Bible they were the seat of hidden feelings and motives. So God also sees what we cannot see in ourselves, and He can show it to us.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Praying After Deciding",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After the fall of Jerusalem, a handful of survivors are afraid of the Babylonians’ revenge.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 41:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "And they went and stayed in Geruth Chimham, near Bethlehem, in order to proceed into Egypt to escape the Chaldeans. For they were afraid of the Chaldeans because Ishmael son of Nethaniah had struck down Gedaliah son of Ahikam, whom the king of Babylon had appointed over the land."
+       ]
+      },
+      {
+       "odnosnik": "Jeremiah 42:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then all the commanders of the forces, along with Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people from the least to the greatest, approached Jeremiah the prophet and said, “May our petition come before you; pray to the LORD your God on behalf of this entire remnant. For few of us remain of the many, as you can see with your own eyes. Pray that the LORD your God will tell us the way we should walk and the thing we should do.” “I have heard you,” replied Jeremiah the prophet. “I will surely pray to the LORD your God as you request, and I will tell you everything that the LORD answers; I will not withhold a word from you.” Then they said to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act upon every word that the LORD your God sends you to tell us. Whether it is pleasant or unpleasant, we will obey the voice of the LORD our God to whom we are sending you, so that it may go well with us, for we will obey the voice of the LORD our God!”"
+       ]
+      },
+      {
+       "odnosnik": "Jeremiah 42:19-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD has told you, O remnant of Judah, ‘Do not go to Egypt.’ Know for sure that I have warned you today! For you have deceived yourselves by sending me to the LORD your God, saying, ‘Pray to the LORD our God on our behalf, and as for all that the LORD our God says, tell it to us and we will do it.’ For I have told you today, but you have not obeyed the voice of the LORD your God in all He has sent me to tell you."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Before they came to the prophet, they were already on their way to Egypt. **What does that change about their request that “the LORD your God will tell us the way we should walk”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "They promised to obey “whether it is pleasant or unpleasant.” **Why didn’t such a solemn promise survive an answer they weren’t expecting?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "A pastor who lived more than two hundred years ago observed that all too often we first quietly decide for ourselves, and only then come to God for advice. Then we seize on anything that favors our pet plan. Even freedom in praying about a matter doesn’t prove anything yet. A heart strongly attached to something supplies the words and the fervor by itself. Jeremiah names it plainly: “you have deceived yourselves.”",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Desires You May Have",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 37:3-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Trust in the LORD and do good; dwell in the land and cultivate faithfulness. Delight yourself in the LORD, and He will give you the desires of your heart. Commit your way to the LORD; trust in Him, and He will do it. He will bring forth your righteousness like the dawn, your justice like the noonday sun. Be still before the LORD and wait patiently for Him; do not fret when men prosper in their ways, when they carry out wicked schemes."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The psalm doesn’t tell us to renounce our desires. It tells us first to delight ourselves in the LORD. **What happens to the desires of a person who starts there?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Commit your way to the LORD.” **Which is harder for you: entrusting God with the road, or entrusting Him with the outcome? Why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 3 is very ordinary: trust, do good, dwell, cultivate faithfulness. **Why does the psalm start with everyday life before it speaks of the desires of the heart?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Psalm 37 speaks to someone who is watching other people prosper. Verse 7 shows that he is tempted to anger and envy toward those who succeed while they carry out wicked schemes. So the desires that verse 4 speaks of are born right next to the temptation of a shortcut. The psalm doesn’t extinguish those desires. It puts them in line behind trust, behind doing good, and behind waiting patiently.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Desire That Stops Listening",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 1:14-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "But each one is tempted when by his own evil desires he is lured away and enticed. Then after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "James describes desire as a pregnancy: conception, birth, growing up. **At which stage of that chain do you usually notice what is happening? What helps you notice it earlier?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is the desire of the heart in Psalm 37 different from the evil desire in James’s letter?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "James uses verbs from the language of hunting and fishing: to lure like game, to entice like a fish with bait. A strong desire can switch off thinking. Bait works precisely when we stop asking what is underneath it.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Writes the Desires of the Heart",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 37:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Delight yourself in the LORD, and He will give you the desires of your heart."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Verse 4 is read in two ways in the church. Some see in it a promise that over time God shapes the desires of a person who delights in Him. Then a believer’s own desires become an important pointer when choosing. Others point out that the psalm promises an answer to prayer. It says nothing about God’s desires being transplanted into the heart. So desires still have to be measured by the Word, and those that pass the test may be fulfilled with a quiet mind. Both readings share the same thing. Desire is not an oracle, but it isn’t an enemy either. First comes joy in God, then everything else.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these readings speaks to you more, and what would it mean for your present desires?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Sit Down and Count",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Crowds are following Jesus. He turns to them and tells them what it costs to follow Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 14:28-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "Which of you, wishing to build a tower, does not first sit down and count the cost to see if he has the resources to complete it? Otherwise, if he lays the foundation and is unable to finish the work, everyone who sees it will ridicule him, saying, ‘This man could not finish what he started to build.’ Or what king on his way to war with another king will not first sit down and consider whether he can engage with ten thousand men the one coming against him with twenty thousand? And if he is unable, he will send a delegation while the other king is still far off, to ask for terms of peace. In the same way, any one of you who does not give up everything he has cannot be My disciple."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Both pictures begin with the same words: “first sit down.” **Why does Jesus begin with sitting?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 33 shows what cost Jesus has in mind. **How does that sentence change the way we hear both examples?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The king who sees he can’t win sends a delegation while the enemy is still far off. **When is pulling back from a plan wisdom, and how can you tell it apart from plain fear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "People who study large investment projects advise starting from other people’s experience. Don’t first ask how long it will take you. Ask how long it took others who did the same thing, and start from that number. Our enthusiasm almost always promises faster and cheaper. The builder in the parable didn’t fail for lack of faith. He failed because he didn’t sit down to do the math.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Field First",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 24:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Complete your outdoor work and prepare your field; after that, you may build your house."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 21:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "The plans of the diligent bring plenty, as surely as haste leads to poverty."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Proverbs sets out an order. First the field, then the house. **Where in your plans does that order easily get reversed?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What distinguishes the haste of Proverbs 21:5 from the courage that every decision also needs?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Which of today’s traps is closest to you: the self-confidence of the leaders at Gilgal, a decision made before praying, or a tower started without counting the cost? **How do you recognize that you’re walking into it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think about a decision facing you now. **What does your heart say about it, what does the math say, and where do those two voices part ways?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **whom could you ask for their opinion on this matter, knowing they won’t simply tell you what you want to hear?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The heart can be deceitful, and yet without desires you can’t choose anything. **How can I tell a desire that God is shaping in me from a desire that has only learned to speak in pious language?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t look for a single answer here. It helps if someone observes that the texts don’t leave us alone with this. The psalmist asks God to search his heart, and the parable tells us to sit down and count, often with someone who sees the matter from the outside.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who in your life has the right to tell you that your heart is deceiving you right now?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The heart has a voice in every decision. Wisdom means not letting it be the only voice, and asking the One who knows the heart better than we do.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 139:23 or Joshua 9:14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think about a decision you are facing. Ask yourself honestly **whether you haven’t already made it quietly, before you started praying**. You don’t have to tell anyone the answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Name before God **what you really want in this matter**. Name all your motives, including the ones that don’t sound very pious. A desire that has been named loses some of its power.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** make room for an answer to the prayer of Psalm 139. Think of someone who has reason to see your matter differently than you do, and let yourself hear them out before you decide.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone describes their decision and waits for the group to settle it for them.** Don’t settle it. Thank them for their trust, and suggest that the group ask them two or three questions instead of giving advice. The decision stays with them. If the matter is serious, talk with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“If the heart is deceitful, then I can’t trust anything I feel.”** This is a common reaction to Jeremiah 17. Point to the second half of the verse and to Psalm 139. God doesn’t tell us to live in suspicion of ourselves. He invites us to let Him search our hearts. And Psalm 37 speaks of desires we are allowed to have.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“This is all psychology. Just pray.”** Agree that without prayer nothing here works, and go back to Luke 14. It is Jesus who tells us to sit down and count. The leaders at Gilgal counted without praying. The people in Jeremiah 42 prayed without being ready to listen. Prayer and counting the cost are not enemies.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a decision from years ago that turned out to be a mistake, and hears an accusation in the texts.** Don’t agree with them, and don’t brush it off. Recall how the Gibeonites’ story ends. The hasty decision had consequences, but God turned it into a place of service. The related meeting “Love God and Do What You Will” speaks about this at greater length.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone describes a decision that another person, such as a spouse, a parent, or a boss, is pushing them into, and you hear coercion or abuse in it.** Don’t go into it in front of the group. Stay with this person after the meeting. The group doesn’t give legal or psychological advice. Where there is domestic violence, don’t carry it alone, and help them find specialist help. Point them to a crisis line or a domestic violence helpline in your country, and in an emergency to your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into an exchange of tips about decisions.** Gently stop it with a question back to the text, for example: “What would the leaders at Gilgal have done in this matter if they had asked God?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 1, 3, and 5 carry the meeting: a decision made without asking God, the heart that only He knows, and the reckoning Jesus tells us to sit down to.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone describes their decision and waits for the group to settle it for them.",
+     "odpowiedz": "Don’t settle it. Thank them for their trust, and suggest that the group ask them two or three questions instead of giving advice. The decision stays with them. If the matter is serious, talk with them after the meeting."
+    },
+    {
+     "sytuacja": "“If the heart is deceitful, then I can’t trust anything I feel.”",
+     "odpowiedz": "This is a common reaction to Jeremiah 17. Point to the second half of the verse and to Psalm 139. God doesn’t tell us to live in suspicion of ourselves. He invites us to let Him search our hearts. And Psalm 37 speaks of desires we are allowed to have."
+    },
+    {
+     "sytuacja": "“This is all psychology. Just pray.”",
+     "odpowiedz": "Agree that without prayer nothing here works, and go back to Luke 14. It is Jesus who tells us to sit down and count. The leaders at Gilgal counted without praying. The people in Jeremiah 42 prayed without being ready to listen. Prayer and counting the cost are not enemies."
+    },
+    {
+     "sytuacja": "Someone talks about a decision from years ago that turned out to be a mistake, and hears an accusation in the texts.",
+     "odpowiedz": "Don’t agree with them, and don’t brush it off. Recall how the Gibeonites’ story ends. The hasty decision had consequences, but God turned it into a place of service. The related meeting “Love God and Do What You Will” speaks about this at greater length."
+    },
+    {
+     "sytuacja": "Someone describes a decision that another person, such as a spouse, a parent, or a boss, is pushing them into, and you hear coercion or abuse in it.",
+     "odpowiedz": "Don’t go into it in front of the group. Stay with this person after the meeting. The group doesn’t give legal or psychological advice. Where there is domestic violence, don’t carry it alone, and help them find specialist help. Point them to a crisis line or a domestic violence helpline in your country, and in an emergency to your local emergency number."
+    },
+    {
+     "sytuacja": "The conversation turns into an exchange of tips about decisions.",
+     "odpowiedz": "Gently stop it with a question back to the text, for example: “What would the leaders at Gilgal have done in this matter if they had asked God?”"
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 1, 3, and 5 carry the meeting: a decision made without asking God, the heart that only He knows, and the reckoning Jesus tells us to sit down to."
+    }
+   ]
+  }
+ ]
+}

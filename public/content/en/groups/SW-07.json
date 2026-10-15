@@ -1,0 +1,721 @@
+{
+ "tytul": "The Day of Atonement",
+ "id": "SW-07",
+ "seria": "The Sanctuary",
+ "opis": "Once a year the high priest went in behind the veil, and the people heard that they were clean. What this day says about God’s judgment.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Leviticus 16:2-5; Leviticus 16:7-10, 15-16; Leviticus 16:20-22, 29-31; Hebrews 9:6-14; Hebrews 9:24-28",
+  "p2": "Leviticus 23:27-32; Micah 7:18-19; Psalm 103:12; Zechariah 3:1-5",
+  "p3": "Leviticus 16:8, 10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 28
+ },
+ "tagi": [
+  "sanctuary",
+  "tabernacle",
+  "Day of Atonement",
+  "judgment",
+  "cleansing",
+  "high priest",
+  "hope",
+  "Leviticus",
+  "Hebrews"
+ ],
+ "wersja": 1,
+ "zdanie": "The Day of Atonement was not a day for hunting down the guilty. It was the day on which God declared His people clean.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about the most solemn day of the year in Israel. Once a year the high priest went in behind the second veil, into the Most Holy Place, with the blood of a sacrifice. Then a goat, with all the sins of the people laid on it, was led out into the wilderness. At the end the people heard the words “you will be clean from all your sins before the LORD.” It was a day of seriousness and at the same time a day of relief. The letter to the Hebrews sees in it a picture of what Christ does. He entered heaven “on our behalf,” and He will appear a second time “to bring salvation to those who eagerly await Him.” Adventists read the Day of Atonement as a picture of God’s judgment, which is good news for people who trust God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "For many people the word “judgment” stirs up fear, sometimes carried from home or from church. Don’t frighten anyone, and don’t play it down. Let the texts speak, especially Leviticus 16:30 and Hebrews 9:28.",
+      "Someone may want to talk about dates and prophecies. That’s a topic for another meeting. Today we are reading a picture, not a calendar.",
+      "It’s easy to say that Israel’s sacrifices were primitive and that only Christ brought something meaningful. Hebrews doesn’t say that. It compares something good with something better.",
+      "There may be someone at the table who knows the Jewish Yom Kippur from their own life or family. Speak about that tradition with respect."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t lecture on dates or prophetic charts. At the basic level, don’t try to settle the debate about Azazel (the BSB says “scapegoat”). Don’t use this meeting to check who is “ready for the judgment.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Remember a time when you were waiting for the result of something important: an exam, a medical test, a conversation. Say in one word what you felt when you finally heard the answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Behind the Veil Once a Year",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The chapter begins by recalling that two of Aaron’s sons died when they approached the LORD on their own terms. Right after that, God says how a person may come near to Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 16:2-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD said to Moses: “Tell your brother Aaron not to enter freely into the Most Holy Place behind the veil in front of the mercy seat on the ark, or else he will die, because I appear in the cloud above the mercy seat. This is how Aaron is to enter the Holy Place: with a young bull for a sin offering and a ram for a burnt offering. He is to wear the sacred linen tunic, with linen undergarments. He must tie a linen sash around him and put on the linen turban. These are holy garments, and he must bathe himself with water before he wears them. And he shall take from the congregation of Israel two male goats for a sin offering and one ram for a burnt offering."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verse 2 God says “or else he will die,” and in the same sentence, “I appear in the cloud above the mercy seat.” **What in this sentence is a warning, and what is a gift?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "For his regular service the high priest wore garments with gold and precious stones. For the ritual behind the veil he puts on plain linen. **Why does the most important day of the year begin with clothing humbler than everyday wear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "First a bull for Aaron himself, and only then the goats from the people. **What does this say about a person who stands before God on behalf of others?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Day of Atonement fell on the tenth day of the seventh month, in the autumn. Only on this day did the high priest enter the Most Holy Place, where the ark of the covenant stood, with the law inside and the golden mercy seat on top. All year long people brought sin offerings to the courtyard. This one day brought the whole year to a close. The Hebrew name `yom hakippurim` is plural. Literally it is “the day of atonements,” as if it gathered up everything that had happened before.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Two Goats",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 16:7-10, 15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then he shall take the two goats and present them before the LORD at the entrance to the Tent of Meeting. After Aaron casts lots for the two goats, one for the LORD and the other for the scapegoat, he shall present the goat chosen by lot for the LORD and sacrifice it as a sin offering. But the goat chosen by lot as the scapegoat shall be presented alive before the LORD to make atonement by sending it into the wilderness as the scapegoat. … Aaron shall then slaughter the goat for the sin offering for the people and bring its blood behind the veil, and with its blood he must do as he did with the bull’s blood: He is to sprinkle it against the mercy seat and in front of it. So he shall make atonement for the Most Holy Place because of the impurities and rebellious acts of the Israelites in regard to all their sins. He is to do the same for the Tent of Meeting which abides among them, because it is surrounded by their impurities."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Both goats stand together “before the LORD,” and the lot sends them different ways. **What does the text say about the one, and what about the other?** Collect only what the verses actually say.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 16 says that Aaron is to “make atonement for the Most Holy Place because of the impurities” of the Israelites. **Why does the sanctuary need cleansing, when it was the people who sinned?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The tent “abides among them” and “is surrounded by their impurities.” **What does this say about a God who chose to live right there?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "All year long, with every sin offering, a person’s guilt was brought into the sanctuary. It was as if God took it into His own house. Once a year that house was cleansed, and everything that had piled up in it was removed. So the Day of Atonement didn’t repeat the sacrifices of the whole year. It brought them to completion. God was showing that what He had taken from people, He could also finally remove.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Day for the Whole People",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 23:27-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "“The tenth day of this seventh month is the Day of Atonement. You shall hold a sacred assembly and humble yourselves, and present an offering made by fire to the LORD. On this day you are not to do any work, for it is the Day of Atonement, when atonement is made for you before the LORD your God. If anyone does not humble himself on this day, he must be cut off from his people. I will destroy from among his people anyone who does any work on this day. You are not to do any work at all. This is a permanent statute for the generations to come, wherever you live. It will be a Sabbath of complete rest for you, and you shall humble yourselves. From the evening of the ninth day of the month until the following evening you are to keep your Sabbath.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The high priest works behind the veil, and meanwhile the people are to humble themselves and do no work. **Why doesn’t God let people “add” anything of their own on this day?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The law speaks very sharply about anyone who does not humble himself. **What might happen to people if cleansing came to them without any repentance?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The picture of a goat carrying guilt away could on its own suggest that cleansing is easy and happens by itself. That is why the command to humble yourselves stands right beside it. Only the weekly Sabbath and this one day of the year had a complete ban on work. The Day of Atonement was called “a Sabbath of complete rest,” as if the year’s greatest cleansing were also its deepest rest.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "From All Your Sins",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 16:20-22, 29-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Aaron has finished purifying the Most Holy Place, the Tent of Meeting, and the altar, he is to bring forward the live goat. Then he is to lay both hands on the head of the live goat and confess over it all the iniquities and rebellious acts of the Israelites in regard to all their sins. He is to put them on the goat’s head and send it away into the wilderness by the hand of a man appointed for the task. The goat will carry on itself all their iniquities into a solitary place, and the man will release it into the wilderness. … This is to be a permanent statute for you: On the tenth day of the seventh month, you shall humble yourselves and not do any work—whether the native or the foreigner who resides among you— because on this day atonement will be made for you to cleanse you, and you will be clean from all your sins before the LORD. It is a Sabbath of complete rest for you, that you may humble yourselves; it is a permanent statute."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Aaron lays both hands on the head of the live goat and confesses “all the iniquities.” Then the goat is led away into the wilderness. **What did the people standing in front of the tent see? What might they have felt as the goat disappeared beyond the camp?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 30 says, “you will be clean from all your sins before the LORD.” **Does this day sound more like a sentence or like relief? What in the text points that way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "On this day the law also includes “the foreigner who resides among you.” **What does this say about who God’s cleansing is for?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Everything that happened in the Most Holy Place was hidden from the people. But everyone saw the goat being led out into the wilderness. It was the only part of the day that spoke to the eyes. The Hebrew word translated “carry” here means moving something from one place to another. The sins that had gathered in the sanctuary over the year went outside the camp, into the wilderness, and did not come back.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Into the Depths of the Sea",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Micah 7:18-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance—who does not retain His anger forever, because He delights in loving devotion? He will again have compassion on us; He will vanquish our iniquities. You will cast out all our sins into the depths of the sea."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 103:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "As far as the east is from the west, so far has He removed our transgressions from us."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The prophet and the psalmist speak of sin being carried far away, to the bottom of the sea, to the other end of the world. **What do these pictures have in common with the goat going off into the wilderness?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Micah begins with a question: “Who is a God like You?” **What is it about God’s forgiveness that amazes him so much?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is Azazel?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 16:8, 10",
+       "przeklad": "BSB",
+       "akapity": [
+        "After Aaron casts lots for the two goats, one for the LORD and the other for the scapegoat, … But the goat chosen by lot as the scapegoat shall be presented alive before the LORD to make atonement by sending it into the wilderness as the scapegoat."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Where the BSB says “scapegoat,” the Hebrew has the word `azazel`. Many translations leave it untranslated, as the name Azazel, because no one knows for sure what it means. Interpreters read it in several ways. Some see it as the name of a place in the wilderness, or as a description of the goat itself going away. Christian writers of the second century applied both goats to Christ, and many Christians see the goat that is sent away as a picture of Jesus, who takes sin away.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Adventists read this text differently. In Hebrew the sentence sets the two lots side by side: one for the LORD, and the other for Azazel. That pairing puts two persons next to each other, so Adventists see Azazel as a being opposed to God, that is, Satan. The goat for Azazel is not a sacrifice. It stays alive, its blood is not shed, and nothing of it is brought into the sanctuary. So it is not a second picture of the Savior. It shows that in the end the responsibility for evil goes back to the one who started it, and God is shown to be clean before the whole world.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "All these readings share one thing. Atonement is made with the blood of the goat for the LORD, and sin, once carried away, does not come back. Adventists also connect this picture with the prophecies of Daniel.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What difference does it make to you that God not only forgives sin but also sends the responsibility for evil back to the one who started it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these readings is hard for you, and why? Despite the differences, what do they still have in common?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Once for All",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 9:6-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "When everything had been prepared in this way, the priests entered regularly into the first room to perform their sacred duties. But only the high priest entered the second room, and then only once a year, and never without blood, which he offered for himself and for the sins the people had committed in ignorance. By this arrangement the Holy Spirit was showing that the way into the Most Holy Place had not yet been disclosed as long as the first tabernacle was still standing. It is an illustration for the present time, because the gifts and sacrifices being offered were unable to cleanse the conscience of the worshiper. They consist only in food and drink and special washings—external regulations imposed until the time of reform. But when Christ came as high priest of the good things that have come, He went through the greater and more perfect tabernacle that is not made by hands and is not a part of this creation. He did not enter by the blood of goats and calves, but He entered the Most Holy Place once for all by His own blood, thus securing eternal redemption. For if the blood of goats and bulls and the ashes of a heifer sprinkled on those who are ceremonially unclean sanctify them so that their bodies are clean, how much more will the blood of Christ, who through the eternal Spirit offered Himself unblemished to God, purify our consciences from works of death, so that we may serve the living God!"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Only “the high priest entered the second room, and then only once a year.” **According to verse 8, what was this restriction meant to tell people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Christ entered “once for all by His own blood.” **What does this difference change for someone who comes back to God with the same sin yet again?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 14 speaks of consciences purified “from works of death, so that we may serve the living God.” **What might the service of someone whose conscience has stopped accusing them look like?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In this letter the word “conscience” means more than an inner judge. It is about the constant remembering of sins. Israel lived through them again every year, when the Day of Atonement came around. The author of the letter doesn’t say the old sacrifices were worthless. He speaks of something good and something better. The blood of Christ cleanses that very remembering, so a person can serve God without a burden that comes back every year.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew verb `kipper`, “to make atonement,” is most likely related to the noun `kofer`, “ransom.” In Exodus the two words stand together in a phrase about a ransom for a life. So atonement does not mean pretending that the sin never happened. God gives a ransom for a life that was in danger. From the same root come `kapporet`, the golden mercy seat on the ark, and the name of the whole day, `yom hakippurim`.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes when you think of atonement as a ransom for your life that God Himself provides?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "On Our Behalf, and a Second Time",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 9:24-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "For Christ did not enter a man-made copy of the true sanctuary, but He entered heaven itself, now to appear on our behalf in the presence of God. Nor did He enter heaven to offer Himself again and again, as the high priest enters the Most Holy Place every year with blood that is not his own. Otherwise, Christ would have had to suffer repeatedly since the foundation of the world. But now He has appeared once for all at the end of the ages to do away with sin by the sacrifice of Himself. Just as man is appointed to die once, and after that to face judgment, so also Christ was offered once to bear the sins of many; and He will appear a second time, not to bear sin, but to bring salvation to those who eagerly await Him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 24 says that Christ entered heaven “now to appear on our behalf in the presence of God.” **What does that “now” mean for you this week?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "On the Day of Atonement the people stood in front of the sanctuary and waited for the high priest to come out. Verse 28 says that Christ “will appear a second time, … to bring salvation to those who eagerly await Him.” **What is it like to wait for someone who is coming to rescue you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The word “judgment” in verse 27 stands right next to the sentence about the sacrifice. **What does judgment mean for a person on whose behalf Christ is already appearing before God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "On the Day of Atonement the high priest was inside, out of sight, and the people waited outside. When he came out, they knew the atonement had been accepted. Many interpreters see this scene in the background of verse 28. Adventists read the whole Day of Atonement as a picture of God’s judgment, in which Christ stands on the side of His people. Such a judgment is not looking for a reason to reject anyone. It announces before the whole world that those who trust God are clean.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Filthy Garments Removed",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "In a vision, the prophet sees Joshua the high priest standing before the angel of the LORD, with the accuser beside him.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Zechariah 3:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him. And the LORD said to Satan: “The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?” Now Joshua was dressed in filthy garments as he stood before the angel. So the angel said to those standing before him, “Take off his filthy clothes!” Then he said to Joshua, “See, I have removed your iniquity, and I will clothe you with splendid robes.” Then I said, “Let them put a clean turban on his head.” So a clean turban was placed on his head, and they clothed him, as the angel of the LORD stood by."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "This is a courtroom scene, and yet it is the accuser who is rebuked, not the accused. **What is Joshua’s acquittal based on, when his garments really were filthy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joshua says nothing in this scene. **What does God do for him? What can you take from this into your own prayer?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The vision has many details of the Day of Atonement. The high priest stands before God on behalf of the people, the guilt is taken off him, and he changes his garments. A few verses later God promises to remove the iniquity of the land in a single day. Joshua is not acquitted because he was clean. God has chosen Jerusalem, and He snatches Joshua like a burning stick out of the fire.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What do you feel when you hear the word “judgment”? Where did that come from in you, and did today’s texts stir anything in it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which picture from today’s texts stays with you most: the high priest in linen, the goat going off into the wilderness, or Christ in heaven “on our behalf”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what would you like to hear from God as clearly as the Israelites heard “you will be clean”?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If Christ’s sacrifice was “once for all,” why do we still need the picture of judgment? Does God need the judgment for Himself, for us, or for everyone who is watching?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this one. It helps if someone notices that in the Bible judgment also serves to bring the truth into the open. God has nothing to hide, and He shows that He has dealt with sin fairly toward everyone.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The Day of Atonement was not a day for hunting down the guilty. It was the day on which God declared His people clean.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Leviticus 16:30 or Hebrews 9:28.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a sin that keeps coming back to you in memory, even though you confessed it long ago. Picture the goat going out beyond the camp and not coming back. **Tell God what you want to be gone at last.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself honestly **whether you are more eager for God’s judgment or more afraid of it.** Don’t correct your answer. Stay with it before God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone whose old wrong you keep bringing up. Ask God whether it’s time to stop bringing it up and let it go.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks about dates or calculating prophecies.** Don’t get into dates today. Say that Adventists connect this picture with the prophecies of Daniel and that it’s a topic for a separate meeting, for example “Daniel 8. How Long?” in The Book of Daniel series. Go back to the question of what the Day of Atonement says about God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m afraid of the judgment. I don’t know if I’ll pass.”** Don’t brush it off, and don’t frighten them. Read Leviticus 16:30 and Zechariah 3:4 again. In both texts it is God who cleanses and takes the guilt away. If the fear runs deep, talk with this person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“But the scapegoat is Christ.”** Don’t argue. Say that there are different readings in the church and that this material presents them at level 3. All of them agree that the cleansing comes through the blood of the goat for the LORD, and that sin, once carried away, does not come back.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So Israel’s sacrifices were pointless?”** No, they weren’t. Hebrews compares something good with something better. God truly forgave people who came with a sacrifice. These pictures prepared them for Christ.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks about Aaron’s sons in Leviticus 16:1.** Say briefly that Leviticus 10 describes how they came before the LORD with unauthorized fire, on their own initiative. Don’t develop the topic of punishment. Leviticus 16 answers the question of how a person can safely come near to the holy God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Leave out block 2. Blocks 1, 3, and 5 carry the meeting: going in behind the veil, the announcement “you will be clean,” and Christ, who appears on our behalf now and will come a second time.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone asks about dates or calculating prophecies.",
+     "odpowiedz": "Don’t get into dates today. Say that Adventists connect this picture with the prophecies of Daniel and that it’s a topic for a separate meeting, for example “Daniel 8. How Long?” in The Book of Daniel series. Go back to the question of what the Day of Atonement says about God."
+    },
+    {
+     "sytuacja": "“I’m afraid of the judgment. I don’t know if I’ll pass.”",
+     "odpowiedz": "Don’t brush it off, and don’t frighten them. Read Leviticus 16:30 and Zechariah 3:4 again. In both texts it is God who cleanses and takes the guilt away. If the fear runs deep, talk with this person after the meeting."
+    },
+    {
+     "sytuacja": "“But the scapegoat is Christ.”",
+     "odpowiedz": "Don’t argue. Say that there are different readings in the church and that this material presents them at level 3. All of them agree that the cleansing comes through the blood of the goat for the LORD, and that sin, once carried away, does not come back."
+    },
+    {
+     "sytuacja": "“So Israel’s sacrifices were pointless?”",
+     "odpowiedz": "No, they weren’t. Hebrews compares something good with something better. God truly forgave people who came with a sacrifice. These pictures prepared them for Christ."
+    },
+    {
+     "sytuacja": "Someone asks about Aaron’s sons in Leviticus 16:1.",
+     "odpowiedz": "Say briefly that Leviticus 10 describes how they came before the LORD with unauthorized fire, on their own initiative. Don’t develop the topic of punishment. Leviticus 16 answers the question of how a person can safely come near to the holy God."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Leave out block 2. Blocks 1, 3, and 5 carry the meeting: going in behind the veil, the announcement “you will be clean,” and Christ, who appears on our behalf now and will come a second time."
+    }
+   ]
+  }
+ ]
+}

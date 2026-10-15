@@ -1,0 +1,769 @@
+{
+ "tytul": "Wisdom You May Ask For",
+ "id": "W-02",
+ "seria": "Decisions and the Will of God",
+ "opis": "Solomon asks for a heart that listens, and God promises wisdom to everyone who asks for it.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Kings 3:4-9; 1 Kings 3:10-14; Proverbs 2:1-11; James 1:2-8; Colossians 1:9-12",
+  "p2": "1 Kings 3:16, 22-28; Proverbs 1:20-23; James 3:13, 17-18; Esther 4:13-16",
+  "p3": "1 Kings 3:3; 11:4; Exodus 31:2-3; Hebrews 5:14"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "wisdom",
+  "prayer",
+  "Solomon",
+  "Proverbs"
+ ],
+ "wersja": 1,
+ "zdanie": "God doesn’t always give a ready-made answer. He always gives wisdom to whoever asks for it, and He doesn’t hold it against us that we’re asking again.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Before an important decision many of us ask God for a pointer, that is, for a ready-made answer. The Bible more often encourages a different request. Young Solomon doesn’t ask for one matter to be settled. He asks for a heart that knows how to listen and to discern. James promises that we may always ask for that kind of wisdom, and that God gives it generously. This meeting is about that promise and about how wisdom comes. It comes through prayer, through the Word, through people, and through a life that trains discernment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Reason is a gift, and we should use it to the full. But it has limits, right in the middle of life. Most of what we know we have secondhand, reason readily defends what we already want, and about the future we know almost nothing. Wisdom in the Bible doesn’t switch off thinking. It gives thinking a support greater than itself.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meetings: “Is God Playing Hide-and-Seek with Me?” and “A Voice You Can Recognize.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have prayed for wisdom and still not known what to do afterward. Don’t tell them they asked without faith.",
+      "James’s words about the one who doubts are easy to turn into an accusation. James doesn’t condemn questions. Make sure no one leaves feeling that their doubts cut them off from God.",
+      "Solomon’s story ends badly. Someone may bring that up. Leave it for level 3, or say briefly that wisdom has to be received every day.",
+      "The topic easily slides into tips for making good decisions. Keep coming back to the text and to the God who gives."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t judge whose decision was wise and whose was foolish. Don’t hold anyone up as a model of good sense. Don’t promise that clarity will come right after prayer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone you consider a truly wise person. Don’t say who it is. Say in one sentence how you can tell they are wise.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Ask, and I Will Give It to You",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Solomon is at the start of his reign. He has gone to Gibeon, where the most important altar in the land stood before the temple was built.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 3:4-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the king went to Gibeon to sacrifice there, for it was the great high place. Solomon offered a thousand burnt offerings on the altar there. One night at Gibeon the LORD appeared to Solomon in a dream, and God said, “Ask, and I will give it to you!” Solomon replied, “You have shown much loving devotion to Your servant, my father David, because he walked before You in faithfulness, righteousness, and uprightness of heart. And You have maintained this loving devotion by giving him a son to sit on his throne this very day. And now, O LORD my God, You have made Your servant king in my father David’s place. But I am only a little child, not knowing how to go out or come in. Your servant is here among the people You have chosen, a people too numerous to count or number. Therefore give Your servant an understanding heart to judge Your people and to discern between good and evil. For who is able to govern this great people of Yours?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God gives Solomon a blank check. Before Solomon asks for anything, he talks about what God has already done. **What does that order say about his prayer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I am only a little child, not knowing how to go out or come in.” **Why is admitting that you don’t know the beginning of wisdom here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Solomon doesn’t ask for one hard case to be solved. He asks for a heart. **How do those two requests differ when it comes to the decisions you have ahead of you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "“An understanding heart” is in Hebrew `lev shomea`, literally “a listening heart.” In the Bible the heart meant above all the center of thinking and deciding. So Solomon is asking for a mind that knows how to listen to God and to people. He also asks for the ability to discern between good and evil. He doesn’t want a ready-made answer for every case. He wants to become someone who will recognize the right answer when the time comes.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wisdom at Work",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Two women living in the same house have given birth. One baby died in the night, and each woman claims the living child is hers.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 3:16, 22-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "At that time two prostitutes came to the king and stood before him. … “No,” said the other woman, “the living one is my son and the dead one is your son.” But the first woman insisted, “No, the dead one is yours and the living one is mine.” So they argued before the king. Then the king replied, “This woman says, ‘My son is alive and yours is dead,’ but that woman says, ‘No, your son is dead and mine is alive.’” The king continued, “Bring me a sword.” So they brought him a sword, and the king declared, “Cut the living child in two and give half to one and half to the other.” Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!” Then the king gave his ruling: “Give the living baby to the first woman. By no means should you kill him; she is his mother.” When all Israel heard of the judgment the king had given, they stood in awe of him, for they saw that the wisdom of God was in him to administer justice."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Solomon has no witnesses and no evidence. **What does he look at to settle the case?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The people see that “the wisdom of God was in him,” though Solomon simply thinks and listens. **What in this scene is God’s gift, and what is the work of a king’s mind?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "More Than He Asked For",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 3:10-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now it pleased the Lord that Solomon had made this request. So God said to him, “Since you have asked for this instead of requesting long life or wealth for yourself or death for your enemies—but you have asked for discernment to administer justice— behold, I will do what you have asked. I will give you a wise and discerning heart, so that there has never been nor will ever be another like you. Moreover, I will give you what you did not request—both riches and honor—so that during all your days no man in any kingdom will be your equal. So if you walk in My ways and keep My statutes and commandments, just as your father David did, I will prolong your days.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God lists what Solomon didn’t ask for. **What could those three things have given a young king? What does it say about Solomon that he asked for something else?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Solomon asked for “discernment to administer justice,” and God answers with a call to walk in His ways and keep His commandments. **How is wisdom connected here with obedience?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 14 sets a condition. **What does that condition say about wisdom you have received once?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Wisest Man, Who Turned Away",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 3:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Solomon loved the LORD and walked in the statutes of his father David, except that he sacrificed and burned incense on the high places."
+       ]
+      },
+      {
+       "odnosnik": "1 Kings 11:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "For when Solomon grew old, his wives turned his heart after other gods, and he was not wholeheartedly devoted to the LORD his God, as his father David had been."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The young Solomon loves the LORD. The old Solomon has a heart turned away from Him. The text notes when it happened: in old age, after years of great success. Israel’s wisest king shows that wisdom doesn’t work like a vaccine given once for a lifetime. Some read this as a warning against the pride that comes after success. Others see here above all the small compromises of verse 3, which grew over the years. Both readings lead to the same conclusion. A listening heart has to be kept listening.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is it possible for someone who received wisdom from God to make worse and worse decisions?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in your life is quickest to stop listening when things are going well?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Seek It Like Silver",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 2:1-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "My son, if you accept my words and hide my commandments within you, if you incline your ear to wisdom and direct your heart to understanding, if you truly call out to insight and lift your voice to understanding, if you seek it like silver and search it out like hidden treasure, then you will discern the fear of the LORD and discover the knowledge of God. For the LORD gives wisdom; from His mouth come knowledge and understanding. He stores up sound wisdom for the upright; He is a shield to those who walk with integrity, to guard the paths of justice and protect the way of His saints. Then you will discern righteousness and justice and equity—every good path. For wisdom will enter your heart, and knowledge will delight your soul. Discretion will watch over you, and understanding will guard you,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verses 1-4 are all “if,” that is, the person’s work. Verse 6 says that “the LORD gives wisdom.” **How do these two things fit together?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "**What might seeking wisdom “like silver” look like today, in an ordinary week?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "According to verse 5, seeking wisdom ends in the knowledge of God. **Why not simply in better decisions?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This chapter draws the whole person into the search for wisdom. You can easily read three paths in it. To accept the words and treasure the commandments is to live close to Scripture. To incline your ear to wisdom also means listening to wise people. Calling out for insight and understanding is very close to prayer. Nowhere here is there a request to uncover the future. Instead there is a cry for understanding. Seeking wisdom turns out, at bottom, to be seeking God, because He is its source.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Wisdom in the Square",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 1:20-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Wisdom calls out in the street, she lifts her voice in the square; in the main concourse she cries aloud, at the city gates she makes her speech: “How long, O simple ones, will you love your simple ways? How long will scoffers delight in their scorn and fools hate knowledge? If you had repented at my rebuke, then surely I would have poured out my spirit on you; I would have made my words known to you."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Wisdom calls out on a busy street corner and at the city gates, where ordinary life goes on. **What does this picture say about whether wisdom is hard to reach? Who in this scene is hiding?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Without Finding Fault",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 1:2-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Consider it pure joy, my brothers, when you encounter trials of many kinds, because you know that the testing of your faith develops perseverance. Allow perseverance to finish its work, so that you may be mature and complete, not lacking anything. Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him. But he must ask in faith, without doubting, because he who doubts is like a wave of the sea, blown and tossed by the wind. That man should not expect to receive anything from the Lord. He is a double-minded man, unstable in all his ways."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "James speaks of asking for wisdom right after his words about trials. **What does a person usually lack most in the middle of a trial? Information, or wisdom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God gives “generously to all without finding fault.” **What in us whispers that God will hold it against us that we’re asking again?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "James speaks of a “double-minded man.” **What does a double mind look like when it comes to making decisions?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In many ancient cults, people brought gifts to a deity to secure its favor. The God of James gives with no strings attached, and gives what He Himself asks of us. The words about the one who doubts don’t mean that a believer can’t have any questions. James warns against a double-minded man who calls God’s own honesty into question or tries to walk two roads at once. Whoever comes to God with their questions has already trusted Him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Wisdom from Above",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 3:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Who is wise and understanding among you? Let him show it by his good conduct, by deeds done in the humility that comes from wisdom."
+       ]
+      },
+      {
+       "odnosnik": "James 3:17-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere. Peacemakers who sow in peace reap the fruit of righteousness."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**According to this list, how can you recognize a decision made with the wisdom from above?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these qualities disappears fastest when we decide under pressure or in a hurry?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Knowledge of His Will",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 1:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of His will in all spiritual wisdom and understanding, so that you may walk in a manner worthy of the Lord and may please Him in every way: bearing fruit in every good work, growing in the knowledge of God, being strengthened with all power according to His glorious might so that you may have full endurance and patience, and joyfully giving thanks to the Father, who has qualified you to share in the inheritance of the saints in the light."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul prays that the Colossians will know God’s will. **According to verse 10, what is that knowledge meant to lead to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God’s will, wisdom, and spiritual understanding stand side by side here. **Following this pattern, how could you pray for someone facing an important decision?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Among the fruits of this knowledge are endurance, patience, and joy. **Why these in particular?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Being filled with the knowledge of God’s will doesn’t mean secret messages here about a job or a move. Paul lists fruit, growth, endurance, and thankfulness. Wisdom is like studying under a good master. You could want a brilliant scholar to write your paper for you. Or you could study under him until you learn to write the way he does. God rarely does the first for us. He gladly does the second.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who Knows",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Queen Esther learns that her people are to be wiped out. Going in to the king without being summoned is punishable by death.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Esther 4:13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "He sent back to her this reply: “Do not imagine that because you are in the king’s palace you alone will escape the fate of all the Jews. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s house will perish. And who knows if perhaps you have come to the kingdom for such a time as this?” Then Esther sent this reply to Mordecai: “Go and assemble all the Jews who can be found in Susa, and fast for me. Do not eat or drink for three days, night or day, and I and my maidens will fast as you do. After that, I will go to the king, even though it is against the law. And if I perish, I perish!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the book of Esther, God doesn’t speak even once. **What does Esther base her decision on?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mordecai says, “Who knows.” **What does that phrase say about how much certainty we have when we make important decisions?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew `chokmah`, wisdom, doesn’t mean theory or philosophy in the Bible. It is a practical skill, a knowledge of how life works, sometimes simply mastery of a craft. The same word describes Bezalel, who built the tabernacle. In Exodus 31:3 the BSB renders it as “skill.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 31:2-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "“See, I have called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah. And I have filled him with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship,"
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 5:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But solid food is for the mature, who by constant use have trained their senses to distinguish good from evil."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "So wisdom is a gift of the Spirit and at the same time a skill that is practiced. Hebrews speaks of senses trained “by constant use.” It grows slowly, like a craftsman’s skill, one movement after another and one year after another.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In what area of your life do you already have trained discernment, and in what area are you still learning?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think of a decision that lies ahead of you. **What have you been asking for in prayer so far, an answer or wisdom?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of the paths to wisdom do you use least: the Word, the counsel of people, or prayer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what scares you most about asking for wisdom?** Maybe that the answer won’t be what you want.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If God gives wisdom generously, why do we so often still not know what to do after sincere prayer? Does a lack of clarity mean we asked the wrong way?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t give a ready-made answer here. It helps if someone observes that wisdom rarely comes like a flash of lightning. More often it comes like growth, and sometimes it can only be seen with time.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God doesn’t always give a ready-made answer. He always gives wisdom to whoever asks for it, and He doesn’t hold it against us that we’re asking again.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** James 1:5 or 1 Kings 3:9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a matter in which you have long been waiting for a clear answer. Ask yourself **whether you are ready to hear an answer different from the one you want**. You don’t have to answer right away.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Solomon began by admitting that he didn’t know how to act. **Admit before God in what matter you don’t know how to act.** Call it by name, even if only in your thoughts.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone you consider wise who knows you well. If you can work up the courage, ask what they think about your situation. Listen to the end before you start explaining yourself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“I prayed for wisdom and got nothing.”** Don’t question their prayer. Ask calmly whether, looking back, they now see something in that matter that they didn’t see then. James links wisdom with perseverance, and perseverance takes time. God often gives wisdom through people and circumstances, and less often through a sudden flash of insight.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So if I doubt, God won’t give me anything?”** James isn’t talking about someone who has questions. He’s talking about someone who doesn’t believe God is good and willing, or who wants to walk two roads at once. Remind the group of the words “without finding fault.” Whoever comes to God with a request in spite of their questions is doing exactly what James encourages.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Solomon ended badly anyway, so what good was his wisdom?”** That’s an honest question. Say that wisdom doesn’t exempt anyone from daily faithfulness. That is exactly why verse 14 sets a condition. If the group wants, come back to this at level 3.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they don’t trust their own reasoning at all.** Don’t try to force them to change their mind. Show that Solomon thinks, listens, and asks, and the people see the wisdom of God in it. God doesn’t tell us to switch off our minds. He gives them something to rest on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts deciding what someone should do.** Stop it gently. The group can help someone think and can pray for them. The decision belongs to them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a decision they deeply regret.** Listen, thank them, and don’t judge. God also gives wisdom for what to do next. If the matter is heavy, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 1, 2, and 4 carry the meeting: Solomon’s request, God’s generosity, and James’s promise.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“I prayed for wisdom and got nothing.”",
+     "odpowiedz": "Don’t question their prayer. Ask calmly whether, looking back, they now see something in that matter that they didn’t see then. James links wisdom with perseverance, and perseverance takes time. God often gives wisdom through people and circumstances, and less often through a sudden flash of insight."
+    },
+    {
+     "sytuacja": "“So if I doubt, God won’t give me anything?”",
+     "odpowiedz": "James isn’t talking about someone who has questions. He’s talking about someone who doesn’t believe God is good and willing, or who wants to walk two roads at once. Remind the group of the words “without finding fault.” Whoever comes to God with a request in spite of their questions is doing exactly what James encourages."
+    },
+    {
+     "sytuacja": "“Solomon ended badly anyway, so what good was his wisdom?”",
+     "odpowiedz": "That’s an honest question. Say that wisdom doesn’t exempt anyone from daily faithfulness. That is exactly why verse 14 sets a condition. If the group wants, come back to this at level 3."
+    },
+    {
+     "sytuacja": "Someone says they don’t trust their own reasoning at all.",
+     "odpowiedz": "Don’t try to force them to change their mind. Show that Solomon thinks, listens, and asks, and the people see the wisdom of God in it. God doesn’t tell us to switch off our minds. He gives them something to rest on."
+    },
+    {
+     "sytuacja": "The group starts deciding what someone should do.",
+     "odpowiedz": "Stop it gently. The group can help someone think and can pray for them. The decision belongs to them."
+    },
+    {
+     "sytuacja": "Someone talks about a decision they deeply regret.",
+     "odpowiedz": "Listen, thank them, and don’t judge. God also gives wisdom for what to do next. If the matter is heavy, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 1, 2, and 4 carry the meeting: Solomon’s request, God’s generosity, and James’s promise."
+    }
+   ]
+  }
+ ]
+}

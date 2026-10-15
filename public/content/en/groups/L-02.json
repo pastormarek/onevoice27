@@ -1,0 +1,798 @@
+{
+ "tytul": "The Liar Who Was Given a New Name",
+ "id": "L-02",
+ "seria": "Second-Chance People",
+ "opis": "A cheat runs away from home, and God comes to him before he has changed. Years later He asks him his name.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 27:18-24, 34-36; Genesis 28:10-15; 28:16-22; Genesis 32:22-29; 32:30-32; 2 Corinthians 12:9-10",
+  "p2": "Genesis 25:23, 26-28; John 1:47-51; Hosea 12:3-4; Genesis 35:9-10",
+  "p3": "Genesis 29:25; Jeremiah 9:4"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 19,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "Second-Chance People",
+  "grace",
+  "identity",
+  "deceit",
+  "prayer",
+  "Genesis"
+ ],
+ "wersja": 1,
+ "zdanie": "God came to Jacob before he had changed. Then He kept changing him, all night long and all his life.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about a man whose name sounded like an accusation. Jacob deceived his blind father and his brother, and then ran away from home. On the run, God comes to him with a promise and sets him no conditions. Twenty years later, by a stream, someone wrestles with him until daybreak and asks him his name. Jacob speaks the truth about himself and is given a new name. He walks away blessed and limping. A second chance doesn’t erase the past. It changes who a person is before God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There may be people at the table who don’t know this story. The italic sentences before the passages tell what happened in between.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “Reconciliation.” That one reads Jacob’s meeting with his brother. This one stays with Jacob’s meetings with God, so don’t get into the conversation with Esau today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The parents in this story have favorite sons. Someone at the table may carry a wound from a home like that. Don’t judge anyone’s parents.",
+      "Someone may have been deceived by a person close to them. A story in which the cheat receives the blessing may hurt. Give that room, and don’t force explanations on God’s behalf.",
+      "The sentence about the tenth in Genesis 28:22 is easily turned into a talk about offerings. Don’t do that.",
+      "The question of who the man who wrestled with Jacob was can eat up half the meeting. You’ll find a response in the red flags."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t make Jacob a model of cleverness or an example of lying paying off. But don’t put him on trial for every step either. The Bible does that itself, calmly and without comment.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a nickname or a label someone once stuck on you that you wore longer than you wanted to. You don’t have to reveal it. Say in one sentence how it felt.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Voice of Jacob, the Hands of Esau",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Isaac was old and blind. He wanted to bless the elder of his twin sons, Esau. Urged on by his mother, the younger one, Jacob, disguised himself as his brother and covered his hands with goatskin so that his father wouldn’t recognize him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 27:18-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Jacob went to his father and said, “My father.” “Here I am!” he answered. “Which one are you, my son?” Jacob said to his father, “I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me.” But Isaac asked his son, “How did you ever find it so quickly, my son?” “Because the LORD your God brought it to me,” he replied. Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?” So Jacob came close to his father Isaac, who touched him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.” Isaac did not recognize him, because his hands were hairy like those of his brother Esau; so he blessed him. Again he asked, “Are you really my son Esau?” And he replied, “I am.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "A little later, Esau comes back from hunting.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 27:34-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Esau heard his father’s words, he let out a loud and bitter cry and said to his father, “Bless me too, O my father!” But Isaac replied, “Your brother came deceitfully and took your blessing.” So Esau declared, “Is he not rightly named Jacob? For he has cheated me twice. He took my birthright, and now he has taken my blessing.” Then he asked, “Haven’t you saved a blessing for me?”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "His father asks Jacob twice who he is. Jacob even weaves God into his lie, but he says “the LORD your God.” **What do these answers say about Jacob himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Hebrew the name Jacob sounds like “he grasps the heel” and “he trips up.” Esau says, “Is he not rightly named Jacob?” **What is it like to live with a name that tells the worst truth about you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**Who loses the most in this scene? Try to look at it through the eyes of each person.**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Jacob didn’t act alone. His mother came up with the plan. His father quietly wanted to bless only one son, though custom called for all the sons to be summoned to the deathbed. The whole household was playing against itself. Even before the twins were born, God had announced that the older would serve the younger. The blessing they were fighting over was going to Jacob anyway. The scheme was dishonest, and it was unnecessary too. Its price, though, turned out to be enormous.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Nations in One Womb",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "This is how the twins’ birth is described, and the home they grew up in.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 25:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "And He declared to her: “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.”"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 25:26-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born. When the boys grew up, Esau became a skillful hunter, a man of the field, while Jacob was a quiet man who stayed at home. Because Isaac had a taste for wild game, he loved Esau; but Rebekah loved Jacob."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Each parent has their own son here. **How might that have set up everything that happened later?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God announced the future before the boys had done anything. **Why couldn’t Jacob and his mother simply wait for that promise?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Ladder over a Runaway",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Esau swore to kill his brother. Jacob fled from home to his mother’s relatives, far to the north.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 28:10-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile Jacob left Beersheba and set out for Haran. On reaching a certain place, he spent the night there because the sun had set. And taking one of the stones from that place, he put it under his head and lay down to sleep. And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder. And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie. Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring. Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God comes to Jacob while he is on the run, right after the deception. **What is missing from what God says, even though we might have expected it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read verse 15 again and count what God promises to do. **Which of these promises mattered most to someone sleeping alone on a stone?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The ladder rests on the earth, and the LORD stands at the top and speaks. **Who makes the first move toward the other in this dream?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "People in Jacob’s world built tall stepped temples that were meant to connect the earth with the dwelling of the gods. In the Bible, such a building is the tower of Babel, whose builders wanted to reach the heavens. Jacob’s dream turns that idea upside down. No human built this stairway, and God doesn’t wait at the top for someone to make it up to Him. He Himself speaks to the sleeping runaway. Abraham once heard these same promises as he was coming into this land. Jacob hears them as he is running away from it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Heaven Open",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Many centuries later, Jesus meets Nathanael, who at first doubted whether anything good could come from Nazareth.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 1:47-51",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jesus saw Nathanael approaching, He said of him, “Here is a true Israelite, in whom there is no deceit.” “How do You know me?” Nathanael asked. Jesus replied, “Before Philip called you, I saw you under the fig tree.” “Rabbi,” Nathanael answered, “You are the Son of God! You are the King of Israel!” Jesus said to him, “Do you believe just because I told you I saw you under the fig tree? You will see greater things than these.” Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus calls Nathanael an Israelite “in whom there is no deceit,” and a moment later He recalls Jacob’s dream. **What does this pairing say about the man from whom all Israel took its name?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Jacob’s dream the angels go up and down the ladder. In Jesus’ words they are “ascending and descending on the Son of Man.” **What does this say about where heaven meets earth today?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The LORD Is in This Place",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 28:16-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Jacob woke up, he thought, “Surely the LORD is in this place, and I was unaware of it.” And he was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven!” Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it, and he called that place Bethel, though previously the city had been named Luz. Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear, so that I may return safely to my father’s house, then the LORD will be my God. And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Surely the LORD is in this place, and I was unaware of it.” **What does Jacob discover about a place that, the evening before, was just an ordinary stop for him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God made His promise without any conditions. Jacob answers with a vow that begins with the word “If.” **What does this vow say about where Jacob is in his faith?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The name Bethel means “house of God.” **What changes when the stone under a runaway’s head becomes a pillar?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Did the Lie Pay Off?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Jacob got the blessing by trickery, and God confirmed His promises to him. It looks as if deceit won. Two emphases can be heard in the church here. Some stress that God chose Jacob before he had done anything. So the lie gained him nothing, but it cost him a great deal. He lost his home and twenty years, and Genesis never mentions that he saw his mother again. Others stress that God works with people as they are, and doesn’t hold back His grace until they improve.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides share one sentence. God doesn’t approve of the lie, and He doesn’t take back the promise. The bill for the trickery comes anyway, and it is life that presents it. Years later, his father-in-law will deceive Jacob at his wedding.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 29:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "When morning came, there was Leah! “What have you done to me?” Jacob said to Laban. “Wasn’t it for Rachel that I served you? Why have you deceived me?”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can we say at the same time that Jacob received the blessing by grace and that he paid for his lie?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Night by the Jabbok",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Twenty years go by. Jacob is coming back with his wives, his children, and his flocks. By the Jabbok stream he waits to meet the brother he once deceived.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 32:22-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "During the night Jacob got up and took his two wives, his two maidservants, and his eleven sons, and crossed the ford of the Jabbok. He took them and sent them across the stream, along with all his possessions. So Jacob was left all alone, and there a man wrestled with him until daybreak. When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled. Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not let you go unless you bless me.” “What is your name?” the man asked. “Jacob,” he replied. Then the man said, “Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed.” And Jacob requested, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed Jacob there."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jacob is left alone, and someone wrestles with him until daybreak. **What in his life so far had already looked like a struggle like this?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The last time someone asked Jacob who he was, he answered, “I am Esau.” Now the question comes: “What is your name?” **What does it mean that this time he says “Jacob”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“I will not let you go unless you bless me.” The same stubbornness once served his trickery. **What has changed in what Jacob is fighting for?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jacob asks his opponent’s name and gets no answer. He gets a blessing instead. **Why is that enough for him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God doesn’t ask Jacob what he has done. He asks him what his name is. For Jacob that is one and the same thing, because his name was a summary of his life. To say it out loud meant admitting everything, with no disguise and no borrowed voice. Only then does the new name come. In the world of the Bible a name said who a person was, so a new name meant a new beginning. That is how it was with Abram, who became Abraham.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Prophet Remembers That Night",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Several hundred years later, the prophet Hosea reminds Jacob’s descendants of their forefather.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hosea 12:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the womb he grasped his brother’s heel, and in his vigor he wrestled with God. Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hosea adds a detail that isn’t in Genesis: Jacob “wept and sought His favor.” **What do these tears change in the picture of this struggle?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why does the prophet pick out, from all of Jacob’s life, the struggle by the river and the meeting at Bethel?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The name Jacob in Hebrew is `Ya'akov`. It sounds like the word `'akev`, “heel,” because at birth he was holding his brother by the heel. The same root also means “to trip someone up, to deceive,” and that is how Esau understands it. The prophet Jeremiah will later write that “every brother deals craftily” (Jeremiah 9:4), and in Hebrew the verb in that phrase has the very same form as the name Jacob, as if it were a nickname.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Genesis explains the name `Yisra'el` with the words “you have struggled with God.” Grammatically, though, God is more likely the subject in the name, so it can also be read as “God fights” or “God strives.” Both readings have their supporters, and both say something. The first tells of a man who wouldn’t let go of God. The second says that from that night on it is God who will fight for Jacob.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does a name meaning “God fights” tell Jacob about the rest of his life?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Limping and Blessed",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 32:30-32",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face, and yet my life was spared.” The sun rose above him as he passed by Penuel, and he was limping because of his hip. Therefore to this day the Israelites do not eat the tendon which is at the socket of the hip, because the socket of Jacob’s hip was struck near that tendon."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The apostle Paul writes about a weakness he had asked God to free him from. He heard a different answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 12:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me. That is why, for the sake of Christ, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The sun rises over Jacob, and he goes on his way, limping. **Why is it a wound that marks this night?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“I have seen God face to face, and yet my life was spared.” **What is Jacob saying with this sentence about God, and what about himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul writes that God’s power is made perfect in weakness. **How does that sentence help you understand the limping Jacob?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Name Repeated at Bethel",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Years later, Jacob returns to Bethel, the place of his first dream.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 35:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "After Jacob had returned from Paddan-aram, God appeared to him again and blessed him. And God said to him, “Though your name is Jacob, you will no longer be called Jacob. Instead, your name will be Israel.” So God named him Israel."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God repeats the new name in the place Jacob once passed through as a runaway. **Why does a person sometimes need to hear the same word from God a second time?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God came to Jacob before he had changed. **What does that change about how you think of your chances with God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in your life could a stubbornness that has so far served you be turned toward God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what name would you like to hear from God instead of the one you call yourself?** You don’t have to reveal the old one.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jacob was given a new name, and yet to the end of his life the Bible calls him by turns Jacob and Israel. **After meeting God, is a person already someone new, or only becoming someone new? What do you do when the old name comes back?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle the question. It helps if someone notices that God never once took the new name away from Jacob, even though Jacob didn’t always live up to it.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God came to Jacob before he had changed. Then He kept changing him, all night long and all his life.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Genesis 28:15 or Genesis 32:28.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Surely the LORD is in this place, and I was unaware of it.” Think of one place from the last few days that seemed completely ordinary to you. Ask yourself **whether God wasn’t closer there than you noticed**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "God asked Jacob his name. Answer Him in silence with **the truth about yourself**, with no disguise and no borrowed voice.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** If you have long been wrestling with God over something, don’t let go of Him. Tell Him plainly what blessing you are asking for. Accept that you may come out of this struggle limping.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So lying pays off?”** No. Jacob lost his home, his mother, and twenty years, and then he was deceived himself. God didn’t reward the trickery. He kept a promise made before Jacob was born. If the group is working at level 3, you have a separate block on this.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Who was the man who wrestled with Jacob?** Jacob says that he saw God face to face. Hosea calls the opponent an angel. Many Christians see in this figure the Son of God Himself, before He became a man. Say this briefly, and don’t spend more than a minute settling it. What matters more is what God asks Jacob.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about favoritism in their family, or about being deceived by a brother or sister.** Listen, say thank you, and don’t judge people who aren’t there. You can point out that the Bible calls this wound by its name and whitewashes no one in that household.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to the meeting with Esau.** It’s a good story, but you aren’t reading it today. Point to the meeting “Reconciliation” and come back to the night by the Jabbok.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I don’t wrestle with God; that would be a lack of faith.”** Hosea describes this struggle as weeping and pleading for favor. The Bible doesn’t see rebellion in it, but a prayer that won’t let go. Don’t push anyone toward wrestling or toward calm. Everyone comes to God the way they can.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after the question about the name.** That’s a good sign. Wait in silence. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 2 and 4 carry the meeting: God comes to a runaway with no conditions, and years later asks him his name and gives him a new one.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So lying pays off?”",
+     "odpowiedz": "No. Jacob lost his home, his mother, and twenty years, and then he was deceived himself. God didn’t reward the trickery. He kept a promise made before Jacob was born. If the group is working at level 3, you have a separate block on this."
+    },
+    {
+     "sytuacja": "Who was the man who wrestled with Jacob?",
+     "odpowiedz": "Jacob says that he saw God face to face. Hosea calls the opponent an angel. Many Christians see in this figure the Son of God Himself, before He became a man. Say this briefly, and don’t spend more than a minute settling it. What matters more is what God asks Jacob."
+    },
+    {
+     "sytuacja": "Someone talks about favoritism in their family, or about being deceived by a brother or sister.",
+     "odpowiedz": "Listen, say thank you, and don’t judge people who aren’t there. You can point out that the Bible calls this wound by its name and whitewashes no one in that household."
+    },
+    {
+     "sytuacja": "The conversation drifts to the meeting with Esau.",
+     "odpowiedz": "It’s a good story, but you aren’t reading it today. Point to the meeting “Reconciliation” and come back to the night by the Jabbok."
+    },
+    {
+     "sytuacja": "“I don’t wrestle with God; that would be a lack of faith.”",
+     "odpowiedz": "Hosea describes this struggle as weeping and pleading for favor. The Bible doesn’t see rebellion in it, but a prayer that won’t let go. Don’t push anyone toward wrestling or toward calm. Everyone comes to God the way they can."
+    },
+    {
+     "sytuacja": "The group goes quiet after the question about the name.",
+     "odpowiedz": "That’s a good sign. Wait in silence. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 2 and 4 carry the meeting: God comes to a runaway with no conditions, and years later asks him his name and gives him a new one."
+    }
+   ]
+  }
+ ]
+}

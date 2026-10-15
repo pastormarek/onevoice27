@@ -1,0 +1,727 @@
+{
+ "tytul": "Praying Before a Choice",
+ "id": "W-05",
+ "seria": "Decisions and the Will of God",
+ "opis": "How to talk with God before an important choice, and what to do when the answer doesn’t come right away.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "2 Chronicles 20:1-6, 12-13; Nehemiah 1:1-4, 11; 2:1-5; Luke 5:15-16; 6:12-13; Acts 13:1-3; Habakkuk 2:1-3; Isaiah 40:27-31",
+  "p2": "Isaiah 37:14-17; Matthew 6:7-8; Acts 14:23; Jeremiah 42:1-7; 43:4",
+  "p3": "Isaiah 40:31"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 26
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "prayer",
+  "fasting",
+  "waiting",
+  "God’s silence"
+ ],
+ "wersja": 1,
+ "zdanie": "Prayer before a choice doesn’t always bring an answer right away. It almost always changes the one who prays.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about talking with God before an important choice. You can ask Him to sign off on a plan that has already been made. Or you can lay the whole matter before Him, together with your fear, your motives, and everything you don’t know. The texts show people who do the second, and Jesus, who spends a night in prayer before choosing the Twelve. They also show waiting, because the answer rarely comes at the moment we ask for it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two ways of understanding this waiting in the church. Some believe that God guides people personally in matters of work, place, and marriage too, and that the answer will come, even if it takes time. Others stress that in many matters God gives wisdom and leaves the choice to us. Both positions share the conviction that prayer is not a formality and that God’s silence does not mean indifference. A related meeting is “Signs, Doors, and Advice.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be people at the table who have prayed for years for something that never came. Don’t promise that every prayer before a choice ends in clarity.",
+      "The topic of fasting may touch someone who is ill or someone who has struggled with an eating disorder. Don’t encourage anyone to fast, and don’t present fasting as a condition for getting an answer.",
+      "Someone may be facing a decision with a hard deadline right now and be very afraid. The group doesn’t make the decision for them.",
+      "The question of Judas among the Twelve easily leads into an argument about predestination. Don’t settle it today."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t offer a method of prayer that “works.” Don’t tell stories of your own answered prayers as proof for others. Don’t judge whose prayer was sincere enough.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of an important decision in your life. Say in one sentence whether you prayed before it and what that prayer looked like.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "We Do Not Know What to Do",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 20:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat. Then some men came and told Jehoshaphat, “A vast army is coming against you from Edom, from beyond the Sea; they are already in Hazazon-tamar” (that is, En-gedi). Jehoshaphat was alarmed and set his face to seek the LORD. And he proclaimed a fast throughout Judah. So the people of Judah gathered to seek the LORD, and indeed, they came from all the cities of Judah to seek Him. Then Jehoshaphat stood in the assembly of Judah and Jerusalem in the house of the LORD in front of the new courtyard and said, “O LORD, God of our fathers, are You not the God who is in heaven, and do You not rule over all the kingdoms of the nations? Power and might are in Your hand, and no one can stand against You."
+       ]
+      },
+      {
+       "odnosnik": "2 Chronicles 20:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Our God, will You not judge them? For we are powerless before this vast army that comes against us. We do not know what to do, but our eyes are upon You.” Meanwhile all the men of Judah, with their wives and children and little ones, were standing before the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Jehoshaphat was alarmed and set his face to seek the LORD.” **What is fear doing in this sentence, and what is the king’s decision doing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The prayer begins with who God is and ends with the words “We do not know what to do.” **What does that order change in the person who prays?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Women and little children are also standing before the LORD. **Why is it worth bringing a decision to God together with the people it affects?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Before an important choice, you can ask God to bless what you have already decided. Or you can lay the whole matter before Him, together with your fear and everything you don’t know. Jehoshaphat does the second. He doesn’t come to the temple with a battle plan. He comes admitting that he has no plan. A prayer like that puts a person in order before anything becomes clear. Things named before God stop spinning.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Letter Spread Out Before the LORD",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The Assyrian king has surrounded Jerusalem, and he sends Hezekiah, king of Judah, a letter full of threats.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 37:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it out before the LORD. And Hezekiah prayed to the LORD: “O LORD of Hosts, God of Israel, enthroned above the cherubim, You alone are God over all the kingdoms of the earth. You made the heavens and the earth. Incline Your ear, O LORD, and hear; open Your eyes, O LORD, and see. Listen to all the words that Sennacherib has sent to defy the living God."
+       ]
+      },
+      {
+       "odnosnik": "Matthew 6:7-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "And when you pray, do not babble on like pagans, for they think that by their many words they will be heard. Do not be like them, for your Father knows what you need before you ask Him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hezekiah spreads the letter out before the LORD, even though God knows what it says. **Why show God something He already knows?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says that the Father knows what we need before we ask. **So what does prayer change, if God knows everything anyway?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Months of Prayer and a Single Sigh",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Nehemiah 1:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa, Hanani, one of my brothers, arrived with men from Judah. So I questioned them about the remnant of the Jews who had survived the exile, and also about Jerusalem. And they told me, “The remnant who survived the exile are there in the province, in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates are burned with fire.” When I heard these words, I sat down and wept. I mourned for days, fasting and praying before the God of heaven."
+       ]
+      },
+      {
+       "odnosnik": "Nehemiah 1:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "O Lord, may Your ear be attentive to my prayer and to the prayers of Your servants who delight to revere Your name. Give Your servant success this day, I pray, and grant him mercy in the sight of this man.” (At that time I was the cupbearer to the king.)"
+       ]
+      },
+      {
+       "odnosnik": "Nehemiah 2:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence, so the king said to me, “Why is your face sad, though you are not ill? This could only be sadness of the heart.” I was overwhelmed with fear and replied to the king, “May the king live forever! Why should I not be sad when the city where my fathers are buried lies in ruins, and its gates have been destroyed by fire?” “What is your request?” replied the king. So I prayed to the God of heaven and answered the king, “If it pleases the king, and if your servant has found favor in your sight, I ask that you send me to Judah, to the city where my fathers are buried, so that I may rebuild it.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Nehemiah heard the bad news in the month of Chislev, and he speaks with the king in the month of Nisan. **What might have changed in him over those months?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The king asks, “What is your request?” Nehemiah prays before he answers. **What might a prayer look like when he had only a few seconds for it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nehemiah had asked for this moment for a long time, and when it came, he “was overwhelmed with fear.” **What does that fear say about a man who had prepared in prayer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Chislev and Nisan are several months apart. All that time Nehemiah carries the matter before God and says nothing about it to the king. When the question comes, there is no time left for a long conversation with God. A sigh is enough, because everything else was said earlier. A long prayer and a split-second prayer don’t compete with each other. The short one grows out of the long one.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Night Before the Choice",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 5:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses. Yet He frequently withdrew to the wilderness to pray."
+       ]
+      },
+      {
+       "odnosnik": "Luke 6:12-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "In those days Jesus went out to the mountain to pray, and He spent the night in prayer to God. When daylight came, He called His disciples to Him and chose twelve of them, whom He also designated as apostles:"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Great crowds are coming to Jesus, and He withdraws to the wilderness to pray. **What does this say about prayer at a time when everyone wants something from us?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus spends the night in prayer, and in the morning He chooses the Twelve. **What does it mean that even He didn’t choose the people closest to Him without a night like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Judas was also among those chosen after that night. **So what does prayer before a choice not promise?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Community That Fasts",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 13:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul. While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for Me Barnabas and Saul for the work to which I have called them.” And after they had fasted and prayed, they laid their hands on them and sent them off."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Spirit’s word concerns two men, but it comes to the whole group of leaders. **What does it give a person when others hear his calling too?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After the Spirit’s word they fast and pray again, and only then do they send the two off. **Why keep praying when the answer has already come?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The list of leaders includes people from different parts of the world and different walks of life. **What could a group like that bring to discerning together?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The five leaders in Antioch have completely different life stories. Barnabas comes from Cyprus. Simeon has the nickname Niger, meaning “black.” Lucius is from Cyrene in North Africa. Manaen grew up together with Herod, the ruler of Galilee. Not long before, Saul had been hunting down Jesus’ disciples. Fasting wasn’t a way of forcing an answer. It was a shared quieting down, so as to hear better.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Elders Chosen with Fasting",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 14:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Paul and Barnabas appointed elders for them in each church, praying and fasting as they entrusted them to the Lord, in whom they had believed."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul and Barnabas leave the young churches in the care of elders and entrust them to the Lord. **What does this say about decisions made in the church today?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "When the Answer Doesn’t Come",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The prophet Habakkuk complains to God that evil goes on while He stays silent: “How long, O LORD, must I call for help but You do not hear, or cry out to You, ‘Violence!’ but You do not save?” (Habakkuk 1:2).",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Habakkuk 2:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "I will stand at my guard post and station myself on the ramparts. I will watch to see what He will say to me, and how I should answer when corrected. Then the LORD answered me: “Write down this vision and clearly inscribe it on tablets, so that a herald may run with it. For the vision awaits an appointed time; it testifies of the end and does not lie. Though it lingers, wait for it, since it will surely come and will not delay."
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 40:27-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Why do you say, O Jacob, and why do you assert, O Israel, “My way is hidden from the LORD, and my claim is ignored by my God”? Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out. He gives power to the faint and increases the strength of the weak. Even youths grow tired and weary, and young men stumble and fall. But those who wait upon the LORD will renew their strength; they will mount up with wings like eagles; they will run and not grow weary, they will walk and not faint."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Habakkuk stands at his guard post and watches. **How is this kind of waiting different from doing nothing, or from putting a decision off?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Israel says, “My way is hidden from the LORD.” **When does a person who prays before a choice begin to think like that? What does God answer here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The promise ends with ordinary walking, after the eagles’ wings and after the running. **Why might that be the hardest part of a time of waiting?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Waiting for an answer doesn’t mean standing still. God’s will for today is usually clear: honest work, care for the people close to you, truth in conversation. What is unknown concerns one matter, for later. When the deadline is hard, it is all right to decide on the basis of everything you have already been given and to leave it to God to correct your path. A lack of clarity before a deadline is not a failure of prayer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Ten Days",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After the destruction of Jerusalem, a handful of people who stayed in the land are afraid of the Babylonians and are thinking of fleeing to Egypt.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 42:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then all the commanders of the forces, along with Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people from the least to the greatest, approached Jeremiah the prophet and said, “May our petition come before you; pray to the LORD your God on behalf of this entire remnant. For few of us remain of the many, as you can see with your own eyes. Pray that the LORD your God will tell us the way we should walk and the thing we should do.” “I have heard you,” replied Jeremiah the prophet. “I will surely pray to the LORD your God as you request, and I will tell you everything that the LORD answers; I will not withhold a word from you.” Then they said to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act upon every word that the LORD your God sends you to tell us. Whether it is pleasant or unpleasant, we will obey the voice of the LORD our God to whom we are sending you, so that it may go well with us, for we will obey the voice of the LORD our God!” After ten days the word of the LORD came to Jeremiah,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "God tells them to stay in the land and promises to protect them. The people accuse the prophet of lying.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 43:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Johanan son of Kareah and all the commanders of the forces disobeyed the command of the LORD to stay in the land of Judah."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The people promise in advance: “Whether it is pleasant or unpleasant, we will obey.” **What makes a promise like that easy to make and hard to keep?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The answer comes after ten days. **What happens to someone who is waiting for a word from God while a decision of their own is already sprouting inside?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew verb in Isaiah 40:31, `qawah`, means to wait with hope, to look out for someone. A translation has to choose one word. The BSB says “wait upon,” while other versions say “hope in” or “trust in.” The prophet doesn’t separate waiting, hope, and trust. Whoever waits for God already trusts Him, and whoever trusts has a future ahead. The theme of waiting for the LORD comes back many times in the book of Isaiah and holds the whole book together.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does waiting before a decision change when we call it trust and hope?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: What God’s Silence Means",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "People who pray before a choice read the silence in different ways. Some believe that God will answer even about work, place, or marriage, even if it takes a long time, and that we have to learn to wait. Others point out that in many matters both paths fit within God’s will. Then the silence may mean, “Choose. I will be with you on either one.” And sometimes God is silent about the matter we’re asking about, while speaking clearly about another one we would rather not hear about. Both positions share one thing. God’s silence doesn’t mean He has stopped watching.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can you tell a silence that says “choose” from a silence that says “not yet”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think about a decision you are facing. **What does your prayer about it sound like: a request for a signature on a finished plan, or a conversation where everything is on the table?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Whom could you tell about this decision, so that they would pray with you about it for a while?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what answer have you been waiting for the longest, and what do you do with that waiting?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**The deadline passes, and there is no clarity. Is a decision made then any less in line with God’s will than one that came after a clear answer?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "you don’t have to settle it. It helps if someone observes that God spends years teaching us how to choose. Sometimes having no answer before a hard deadline is an expression of God’s trust in a person. It is as if God were saying: choose as well as you can, and I will go with you.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Prayer before a choice doesn’t always bring an answer right away. It almost always changes the one who prays.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** 2 Chronicles 20:12 or Isaiah 40:31.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Tell God about the matter in front of you, in detail, the way you would tell a friend. Include what you’re afraid of and what you really want.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself before God **whether I am ready to hear “no.”** You don’t have to answer right away. Stay with this question for a few days.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Think about what God may already have been saying to you in this matter, while you pretend not to hear. Admit it before Him before you ask for anything new.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“I prayed, and nothing happened.”** Don’t rush to explain, and don’t defend God. Habakkuk and Israel in the book of Isaiah said the same thing, and the Bible recorded their complaints. You can ask what this person is doing while they wait, and whether anyone is waiting alongside them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God told me I have to do this.”** Don’t get into an argument in front of the group. You can calmly ask who else has prayed with them about it and whether this path agrees with Scripture. In Antioch the word was heard by the whole group of leaders.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they don’t know how to pray, or that their prayers are “too weak.”** Point to Nehemiah’s prayer before the king. It lasted a few seconds, and not one word of it was written down. God doesn’t grade length or style.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks whether fasting is required and how to fast.** The texts show fasting as a shared quieting down, and no one commands it here. Don’t encourage people who are ill to fast from food, or anyone whose health you don’t know about. Another option is to set aside a screen or some other activity for the time of prayer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone has just suffered a loss or is in a crisis and has to decide something urgently.** Listen, don’t advise, and don’t offer ready-made answers. The group can pray for them. If the matter is serious, stay with them after the meeting or help them find someone who can help professionally.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns to Judas and predestination.** It’s a real question, but not for today. Go back to what the text says plainly: Jesus prayed all night, and in the morning He chose the Twelve, Judas among them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 4. Blocks 1, 2, 3, and 5 carry the meeting: prayer without a plan, carrying a matter before God for a long time, Jesus’ night of prayer, and waiting that isn’t idleness.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“I prayed, and nothing happened.”",
+     "odpowiedz": "Don’t rush to explain, and don’t defend God. Habakkuk and Israel in the book of Isaiah said the same thing, and the Bible recorded their complaints. You can ask what this person is doing while they wait, and whether anyone is waiting alongside them."
+    },
+    {
+     "sytuacja": "“God told me I have to do this.”",
+     "odpowiedz": "Don’t get into an argument in front of the group. You can calmly ask who else has prayed with them about it and whether this path agrees with Scripture. In Antioch the word was heard by the whole group of leaders."
+    },
+    {
+     "sytuacja": "Someone says they don’t know how to pray, or that their prayers are “too weak.”",
+     "odpowiedz": "Point to Nehemiah’s prayer before the king. It lasted a few seconds, and not one word of it was written down. God doesn’t grade length or style."
+    },
+    {
+     "sytuacja": "Someone asks whether fasting is required and how to fast.",
+     "odpowiedz": "The texts show fasting as a shared quieting down, and no one commands it here. Don’t encourage people who are ill to fast from food, or anyone whose health you don’t know about. Another option is to set aside a screen or some other activity for the time of prayer."
+    },
+    {
+     "sytuacja": "Someone has just suffered a loss or is in a crisis and has to decide something urgently.",
+     "odpowiedz": "Listen, don’t advise, and don’t offer ready-made answers. The group can pray for them. If the matter is serious, stay with them after the meeting or help them find someone who can help professionally."
+    },
+    {
+     "sytuacja": "The conversation turns to Judas and predestination.",
+     "odpowiedz": "It’s a real question, but not for today. Go back to what the text says plainly: Jesus prayed all night, and in the morning He chose the Twelve, Judas among them."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 4. Blocks 1, 2, 3, and 5 carry the meeting: prayer without a plan, carrying a matter before God for a long time, Jesus’ night of prayer, and waiting that isn’t idleness."
+    }
+   ]
+  }
+ ]
+}

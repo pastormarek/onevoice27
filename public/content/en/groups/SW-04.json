@@ -1,0 +1,863 @@
+{
+ "tytul": "A Priest with Names on His Heart",
+ "id": "SW-04",
+ "seria": "The Sanctuary",
+ "opis": "Why the priest carried other people’s names on his shoulders and over his heart, and what that says about every believer.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 30:17-21; Exodus 38:8; Exodus 28:1-4; Exodus 28:9-12; Exodus 28:15-21; Exodus 28:29-30; Exodus 28:36-38; Zechariah 3:1-5; Exodus 19:4-6; 1 Peter 2:9-10",
+  "p2": "Psalm 24:3-5; Titus 3:4-5; Leviticus 8:6-9, 12; Isaiah 49:15-16; John 17:9, 11-12; Numbers 6:22-27",
+  "p3": "Zechariah 14:20-21; Revelation 1:5-6"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "sanctuary",
+  "tabernacle",
+  "priesthood",
+  "intercession",
+  "prayer",
+  "grace",
+  "church"
+ ],
+ "wersja": 1,
+ "zdanie": "Before you say your own name before God, someone is already carrying it there, on the shoulders and over the heart.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting begins at the water and ends with us. The priest in the tabernacle didn’t come to God only on his own behalf. On his shoulders and over his heart he carried the names of the whole people, and on his forehead an inscription saying he belonged to the LORD. First the group should see this clothing with their own eyes. Then they should see in it Jesus, who carries us before the Father. At the end, Peter tells ordinary people that they are priests too.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “The God Who Wants to Live with Us.” That one is about God, who lives among His people. This one is about a person who stands between the people and God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Catholics or Orthodox Christians may be sitting at the table, for whom a priest is an ordained minister at the altar. The sentence “we are all priests” may sound to them like a jab. Don’t compare churches. Show what the text says, and leave the differences for the level 3 block.",
+      "The High Priest’s garments tempt people to guess at the meaning of every color and every stone. The text itself says the stones are for the names and for remembrance. Stick to that.",
+      "The words “so that they will not die” may frighten someone. Don’t force an explanation. Point out that it is God Himself who has the water set up so that the priest will live.",
+      "Someone may feel that no one carries them, neither before God nor at this table. If that comes up, don’t rush to comfort. Listen first."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give a lecture on garments and stones. Don’t decide whose priesthood is the true one. Don’t turn the meeting into an appeal for more prayer for others.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone who once carried you in their heart or in their prayers, though they didn’t have to. Don’t tell the story. Just say who this person was to you: a grandmother, a neighbor, a teacher, a stranger.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Water Before the Threshold",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "On Mount Sinai God gives Moses a description of the tabernacle, the tent where He will live among the people. Between the altar in the courtyard and the entrance to the tent a basin of water is to stand.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 30:17-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD said to Moses, “You are to make a bronze basin with a bronze stand for washing. Set it between the Tent of Meeting and the altar, and put water in it, with which Aaron and his sons are to wash their hands and feet. Whenever they enter the Tent of Meeting or approach the altar to minister by presenting an offering made by fire to the LORD, they must wash with water so that they will not die. Thus they are to wash their hands and feet so that they will not die; this shall be a permanent statute for Aaron and his descendants for the generations to come.”"
+       ]
+      },
+      {
+       "odnosnik": "Exodus 38:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Next he made the bronze basin and its stand from the mirrors of the women who served at the entrance to the Tent of Meeting."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The priest is to wash before he enters the tent and before he approaches the altar. **What does it say that even the one who serves God first needs water himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice we hear the words “so that they will not die.” **How do you hear those words when you remember that it is God who orders the basin to be set up and filled with water?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The basin was made from the mirrors of the women who served at the entrance. **What might it have meant to give up the thing in which you look at yourself every day?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The basin, also called the laver, stood between the altar and the tent, right on the priest’s path. There was no way around it. The priest washed his hands and his feet, what he works with and what he walks with. In the ancient world mirrors were made of polished metal, which is why a bronze vessel could be cast from them. The thing in which people had looked at their own faces became the place where they washed off the dirt.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who May Enter",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 24:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Who may ascend the hill of the LORD? Who may stand in His holy place? He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully. He will receive blessing from the LORD and vindication from the God of his salvation."
+       ]
+      },
+      {
+       "odnosnik": "Titus 3:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "But when the kindness of God our Savior and His love for mankind appeared, He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalm asks who may stand in the holy place. **According to the psalm, what must be clean, and why does the heart come up right next to the hands?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes about “the washing of new birth.” **Who washes whom in that sentence? What does that change about the psalm’s question?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Names on His Shoulders",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 28:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Next, have your brother Aaron brought to you from among the Israelites, along with his sons Nadab, Abihu, Eleazar, and Ithamar, to serve Me as priests. Make holy garments for your brother Aaron, to give him glory and splendor. You are to instruct all the skilled craftsmen, whom I have filled with a spirit of wisdom, to make garments for Aaron’s consecration, so that he may serve Me as priest. These are the garments that they shall make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They are to make these holy garments for your brother Aaron and his sons, so that they may serve Me as priests."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 28:9-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Take two onyx stones and engrave on them the names of the sons of Israel: six of their names on one stone and the remaining six on the other, in the order of their birth. Engrave the names of the sons of Israel on the two stones the way a gem cutter engraves a seal. Then mount the stones in gold filigree settings. Fasten both stones on the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to bear their names on his two shoulders as a memorial before the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Aaron is chosen “from among the Israelites,” and his garments are “to give him glory and splendor.” **Whom does this beauty serve, and what does it say about a person who stands before God on behalf of others?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The names of the tribes were engraved in stone and placed on the shoulders. **What do people usually carry on their shoulders? What does it mean that the priest carries people where you carry a load?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The names were arranged “in the order of their birth.” Nobody fought for a place on the stone. **What does that say about whom the priest carries before God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Aaron was not a man without fault. In chapter 32 he is the one who makes the golden calf, and he is anointed as priest only after that story. God wasn’t looking for someone who needed no forgiveness. The stones on the shoulders were called “memorial stones,” because the priest brought the names before the LORD to be remembered. God doesn’t forget His people. But the people were meant to see that someone was carrying them before God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Israel only a man from one family could become a priest: from the line of Aaron, from one tribe, Levi, and from one nation. So the priesthood was closed to the vast majority of people, men included. There was one High Priest, and he held office until his death. The priests offered sacrifices, burned incense, and taught the people God’s commandments. The Levites helped at the tent and guarded it. All the more striking, then, that God’s first words about priesthood concerned the whole people, not one family.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What might an ordinary tribe have felt when it saw its name on the shoulder of someone who goes where it cannot go itself?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Dressed by Someone Else",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 8:6-9, 12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Moses presented Aaron and his sons and washed them with water. He put the tunic on Aaron, tied the sash around him, clothed him with the robe, and put the ephod on him. He tied the woven band of the ephod around him and fastened it to him. Then he put the breastpiece on him and placed the Urim and Thummim in the breastpiece. Moses also put the turban on Aaron’s head and set the gold plate, the holy diadem, on the front of the turban, as the LORD had commanded him. … He also poured some of the anointing oil on Aaron’s head and anointed him to consecrate him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Aaron does nothing himself in this scene. **Who washes him, dresses him, and anoints him? What does that say about where his dignity comes from?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Names over His Heart",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 28:15-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "You are also to make a breastpiece of judgment with the same workmanship as the ephod. Construct it with gold, with blue, purple, and scarlet yarn, and with finely spun linen. It must be square when folded over double, a span long and a span wide. And mount on it a setting of gemstones, four rows of stones: In the first row there shall be a ruby, a topaz, and an emerald; in the second row a turquoise, a sapphire, and a diamond; in the third row a jacinth, an agate, and an amethyst; and in the fourth row a beryl, an onyx, and a jasper. Mount these stones in gold filigree settings. The twelve stones are to correspond to the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 28:29-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "Whenever Aaron enters the Holy Place, he shall bear the names of the sons of Israel over his heart on the breastpiece of judgment, as a continual reminder before the LORD. And place the Urim and Thummim in the breastpiece of judgment, so that they will also be over Aaron’s heart whenever he comes before the LORD. Aaron will continually carry the judgment of the sons of Israel over his heart before the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Aaron carries the same names a second time, this time over his heart. **Why weren’t the shoulders enough? What does the heart add to strength?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The priest carries the names “as a continual reminder before the LORD,” and he does it “continually.” **Who needs reminding here? God, who doesn’t forget, or the people, who easily forget that someone stands behind them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Each tribe has its own stone, and every stone is different. **What does that say about how God looks at the people someone carries before Him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "It is called the breastpiece of judgment because the Urim and Thummim lay in it. We don’t know exactly what they were. Most likely they were used to seek God’s decision in difficult matters. More interesting is what happens to the stones at the end of the Bible. In Revelation 21:19-20 the foundations of the New Jerusalem are adorned with precious stones, and many of the names repeat those on the breastpiece. The stones on which the priest carried the names before God come back in the foundations of the city, and John sees the names of the twelve tribes on its gates.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Inscribed on His Palms",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 49:15-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you! Behold, I have inscribed you on the palms of My hands; your walls are ever before Me."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "On the evening before His arrest Jesus prays to the Father for the disciples who are with Him at that moment.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 17:9, 11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "I ask on their behalf. I do not ask on behalf of the world, but on behalf of those You have given Me; for they are Yours. … I will no longer be in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one. While I was with them, I protected and preserved them by Your name, the name You gave Me. Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah speaks of people inscribed not on a stone but on the palms of God’s hands. **What does that picture add to the priest with names over his heart?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus speaks to the Father about “those You have given Me” and asks, “protect them.” **What in this prayer reminds you of the High Priest entering the LORD’s presence with the names?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The stones on the shoulders were called “memorial stones.” The Hebrew `zikkaron` comes from the verb `zakar`, “to remember.” The Bible uses the same verb when it says that God “remembered” Noah in the ark, or Rachel, who could not have children. In the language of the Bible, remembering is more than thinking about someone. When God remembers, He begins to act.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in praying for another person if “remembering before God” means more than “thinking about someone”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "An Inscription on the Forehead",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 28:36-38",
+       "przeklad": "BSB",
+       "akapity": [
+        "You are to make a plate of pure gold and engrave on it as on a seal: HOLY TO THE LORD. Fasten to it a blue cord to mount it on the turban; it shall be on the front of the turban. And it will be worn on Aaron’s forehead, so that he may bear the iniquity of the holy things that the sons of Israel consecrate with regard to all their holy gifts. It shall always be on his forehead, so that they may be acceptable before the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Several hundred years later, after the return from the Babylonian exile, the prophet Zechariah sees in a vision the High Priest of his day, Joshua.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Zechariah 3:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him. And the LORD said to Satan: “The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?” Now Joshua was dressed in filthy garments as he stood before the angel. So the angel said to those standing before him, “Take off his filthy clothes!” Then he said to Joshua, “See, I have removed your iniquity, and I will clothe you with splendid robes.” Then I said, “Let them put a clean turban on his head.” So a clean turban was placed on his head, and they clothed him, as the angel of the LORD stood by."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The gold plate is inscribed “HOLY TO THE LORD,” and verse 38 says Aaron bears “the iniquity of the holy things.” **How do those two things fit on one forehead?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The High Priest, who is to bear the guilt of others, stands in filthy garments himself. **Who takes them off him? What does Joshua say in his own defense?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "This is about iniquity connected with “their holy gifts,” that is, with what people give to God of their own goodwill. **What does that say about our best prayers and offerings?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The inscription on the plate means literally “holiness to the LORD.” The priest could carry other people’s guilt and not perish, because God’s holiness covered him, and it is stronger than sin. Zechariah’s vision shows the other side. The priest cannot cleanse himself. Help comes from outside, from God. The angel of the LORD doesn’t argue the facts with the accuser. He orders the filthy garments to be taken off.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word: An Inscription on the Bells",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Zechariah 14:20-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "On that day, HOLY TO THE LORD will be inscribed on the bells of the horses, and the cooking pots in the house of the LORD will be like the sprinkling bowls before the altar. Indeed, every pot in Jerusalem and Judah will be holy to the LORD of Hosts, and all who sacrifice will come and take some pots and cook in them. And on that day there will no longer be a Canaanite in the house of the LORD of Hosts."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the laws of the tabernacle, the words on the plate stood in only one place: on the High Priest’s forehead. The Hebrew `qodesh la-YHWH` means “holiness to the LORD.” Zechariah foretells a day when the same inscription will be on the horses’ harness. An ordinary pot in the kitchen will then be as holy as a bowl at the altar.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If your ordinary things, at work and in the kitchen, bore the inscription “HOLY TO THE LORD,” what would change about them, and what would stay the same?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Kingdom of Priests",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "God speaks these words at Mount Sinai, before He says anything about the tabernacle or about Aaron’s family.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 19:4-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "‘You have seen for yourselves what I did to Egypt, and how I carried you on eagles’ wings and brought you to Myself. Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations—for the whole earth is Mine. And unto Me you shall be a kingdom of priests and a holy nation.’ These are the words that you are to speak to the Israelites.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Many centuries later the apostle Peter writes to Christians scattered across Asia Minor. Many of them come from outside Israel.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Peter 2:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light. Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before God chose one family of priests, He called the whole people “a kingdom of priests.” **Who is a priest for others, when God says “the whole earth is Mine”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Peter gives ordinary people the words from Sinai and adds a purpose: “to proclaim the virtues of Him who called you.” **How is service before God connected here with life among people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Right after the great titles Peter reminds them: “Once you were not a people,” “once you had not received mercy.” **Why does he tell these people where they came from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The phrase “holy nation” appears only once in the Old Testament, in Exodus 19:6. Peter applies it to a community that includes people from many nations. This isn’t the idea of one church. Already in the middle of the second century a Christian writer spoke of the whole people of God as a priestly people. Churches express this idea differently in their life today, but they all read the same verse from Peter.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The LORD’s Name on the People",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 6:22-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Moses, “Tell Aaron and his sons: This is how you are to bless the Israelites. Say to them: ‘May the LORD bless you and keep you; may the LORD cause His face to shine upon you and be gracious to you; may the LORD lift up His countenance toward you and give you peace.’ So they shall put My name on the Israelites, and I will bless them.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The priest brought the people’s names before God. Here he places God’s name on the people: “So they shall put My name on the Israelites.” **What happens in this exchange of names?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How might a blessing like this sound today, spoken by an ordinary believer over another person?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Priesthood of All and Ministry in the Church",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 1:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "And from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To Him who loves us and has released us from our sins by His blood, who has made us to be a kingdom, priests to His God and Father—to Him be the glory and power forever and ever! Amen."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The New Testament speaks of the priesthood of the whole people. At the same time it knows people who have special tasks in the church: apostles, elders, teachers. Christians hold these two things together in different ways. The Catholic and Orthodox churches teach a common priesthood of all the baptized. Alongside it they place an ordained priesthood meant to serve that common one. The churches that grew out of the Reformation, Adventists among them, have no separate priestly order. In them a minister is one of the believers, entrusted with a different task. Everyone agrees on two things. Christ alone is High Priest in the full sense. And the whole people of God has access to God and serves others.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What difference does it make in your ordinary day to be convinced that you have direct access to God, and at the same time that you don’t stand before Him alone?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in your community is the priesthood of all alive, and where have you left it to a few people?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The priest carried the names on his shoulders and over his heart. **Whom are you carrying more on your shoulders right now, like a load, and whom over your heart?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s pictures speaks to you most: the water at the entrance, the names on the stones, or the inscription on the forehead? Why that one?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **do you know of someone who carries your name before God? What does that mean to you?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If every believer is a priest, where does carrying someone else’s name before God end, and where does taking on a responsibility God hasn’t given us begin? How can you tell you’ve crossed that line?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "there’s no single answer here, so don’t try to produce one. It helps if someone notices that Aaron carried the names, but it was God who took away the guilt. The priest carries a person. He doesn’t save them.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Before you say your own name before God, someone is already carrying it there, on the shoulders and over the heart.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Exodus 28:29 or 1 Peter 2:9.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The priest couldn’t enter the tent without water. Admit before God **one thing you can’t wash off by yourself**. You don’t have to tell anyone about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person you carry with difficulty. Ask yourself **whether you carry them only on your shoulders, or over your heart as well**. Stay with that answer, even if it’s uncomfortable.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of the person whose name you would most like to leave out of your prayers. Say it before God, even just once and without any kind words.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So priests aren’t needed?”** or some other comparison of churches. Don’t get into an argument. Say that Peter is talking about who the whole people of God is, and that different churches understand ordained ministry differently. Go back to the question of what this text changes in the life of each person at the table. If the group wants, the Tension block at level 3 calmly lays out both views.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts explaining the meaning of every color and every stone.** Thank them and gently stop it. The Bible doesn’t give the meaning of the individual stones. It only says that the names were on them and that they were to be “a memorial.” That is enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What were the Urim and Thummim?”** We don’t know exactly. Most likely they were used to seek God’s decision. Don’t speculate, and don’t present guesses as facts.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“A God who threatens death for unwashed hands is frightening.”** Don’t brush it aside. Point out that the same God provides the water and sets it on the priest’s path. The warning shows how serious it is to come near holiness, and the basin shows that God wants the priest to live.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“And why were only men priests?”** It’s a real question, and the church is having conversations about it. Don’t settle it today. You can point out that Aaron’s priesthood was closed to almost all men as well, and that Peter writes about the royal priesthood of the whole people, women and men.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says no one has ever prayed for them.** Don’t jump straight to comfort, and don’t make promises on behalf of the group. Listen. If you sense it’s right, ask whether they would let someone at the table pray for them by name.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 1 and block 4. Blocks 2, 3, and 5 carry the meeting: the names on the shoulders, the names over the heart, and the priesthood of the whole people.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So priests aren’t needed?”",
+     "odpowiedz": "or some other comparison of churches. Don’t get into an argument. Say that Peter is talking about who the whole people of God is, and that different churches understand ordained ministry differently. Go back to the question of what this text changes in the life of each person at the table. If the group wants, the Tension block at level 3 calmly lays out both views."
+    },
+    {
+     "sytuacja": "Someone starts explaining the meaning of every color and every stone.",
+     "odpowiedz": "Thank them and gently stop it. The Bible doesn’t give the meaning of the individual stones. It only says that the names were on them and that they were to be “a memorial.” That is enough."
+    },
+    {
+     "sytuacja": "“What were the Urim and Thummim?”",
+     "odpowiedz": "We don’t know exactly. Most likely they were used to seek God’s decision. Don’t speculate, and don’t present guesses as facts."
+    },
+    {
+     "sytuacja": "“A God who threatens death for unwashed hands is frightening.”",
+     "odpowiedz": "Don’t brush it aside. Point out that the same God provides the water and sets it on the priest’s path. The warning shows how serious it is to come near holiness, and the basin shows that God wants the priest to live."
+    },
+    {
+     "sytuacja": "“And why were only men priests?”",
+     "odpowiedz": "It’s a real question, and the church is having conversations about it. Don’t settle it today. You can point out that Aaron’s priesthood was closed to almost all men as well, and that Peter writes about the royal priesthood of the whole people, women and men."
+    },
+    {
+     "sytuacja": "Someone says no one has ever prayed for them.",
+     "odpowiedz": "Don’t jump straight to comfort, and don’t make promises on behalf of the group. Listen. If you sense it’s right, ask whether they would let someone at the table pray for them by name."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 1 and block 4. Blocks 2, 3, and 5 carry the meeting: the names on the shoulders, the names over the heart, and the priesthood of the whole people."
+    }
+   ]
+  }
+ ]
+}

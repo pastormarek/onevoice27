@@ -1,0 +1,764 @@
+{
+ "tytul": "The Law Beneath the Mercy Seat",
+ "id": "SW-06",
+ "seria": "The Sanctuary",
+ "opis": "A chest with the commandments inside and a golden cover on top. How God brings justice and forgiveness together.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 25:10-22; Deuteronomy 10:1-5; Psalm 99:1-8; Psalm 85:8-13; Romans 3:21-26; Jeremiah 31:31-34",
+  "p2": "Numbers 7:89; Leviticus 16:2; Exodus 32:15-16, 19; Hebrews 9:3-5; Jeremiah 3:16-17; Revelation 11:19",
+  "p3": "Romans 3:25; Numbers 20:12"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "sanctuary",
+  "tabernacle",
+  "law",
+  "grace",
+  "forgiveness",
+  "righteousness",
+  "Exodus"
+ ],
+ "wersja": 1,
+ "zdanie": "The law says what God is like. The golden mercy seat above it says what God does with people who have broken that law.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about one object in the Most Holy Place: the ark of the covenant, with the two stone tablets of the Ten Commandments inside it. On top lay a golden cover with two cherubim. Above this cover God promised to meet with Moses, and once a year blood was sprinkled on it. In the sanctuary, law and forgiveness lay in one place, one above the other. The group should first see this object with their own eyes, and then ask what it says about God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The BSB calls the golden cover the “mercy seat.” Some other translations call it the “atonement cover” or simply the “cover.” These are the same thing. This material mostly says “mercy seat,” and sometimes simply “the golden cover.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “The God Who Wants to Live with Us” in The Secret of the Early Church series. That one reads the sanctuary from the side of God’s presence. This one stops at a single piece of furniture.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "For many people the word “law” stirs up fear, or sets off an argument about which commandments still apply. Don’t get into that argument today. The topic is what lies above the law and what God does with people who have broken it.",
+      "Someone at the table may picture a God who only keeps count of wrongs. Psalm 99:8 speaks of punishment and could confirm that picture. Don’t soften the text, and don’t sharpen it. Let the psalm and the letter to the Romans speak together.",
+      "The conversation easily drifts into stories about the lost ark and into movies. Acknowledge them briefly and go back to the text."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t lecture on theories of the atonement. Don’t settle the debate over the word in Romans 3:25. Don’t compare denominations, and don’t judge how anyone treats the commandments.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone who was both demanding and very kind toward you. Say in one sentence who they were and how you could tell.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Ark and the Mercy Seat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 25:10-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "And they are to construct an ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high. Overlay it with pure gold both inside and out, and make a gold molding around it. Cast four gold rings for it and fasten them to its four feet, two rings on one side and two on the other. And make poles of acacia wood and overlay them with gold. Insert the poles into the rings on the sides of the ark, in order to carry it. The poles are to remain in the rings of the ark; they must not be removed. And place inside the ark the Testimony, which I will give you. And you are to construct a mercy seat of pure gold, two and a half cubits long and a cubit and a half wide. Make two cherubim of hammered gold at the ends of the mercy seat, one cherub on one end and one on the other, all made from one piece of gold. And the cherubim are to have wings that spread upward, overshadowing the mercy seat. The cherubim are to face each other, looking toward the mercy seat. Set the mercy seat atop the ark, and put the Testimony that I will give you into the ark. And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verses 16 and 21 say the same thing twice. **What lies inside the ark, and what lies on top of it? What might this order mean?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In verse 22 God says where He will meet with Moses. **What is underneath that place, and what is above it? What does that say about meeting God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The poles were to stay in the rings for good. **What does an ark that is always ready to travel with the people say about God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A cubit is about half a meter, so the ark wasn’t large. The cover had its own name. The Hebrew `kapporet` comes from the same root as the verb “to make atonement.” That is why some translations call it the “atonement cover.” The law lay inside, shut away. On top was the place above which God promised His presence, and where blood was sprinkled once a year. The cherubim don’t look at the people or up to heaven. They look down, toward the mercy seat.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Voice from Above the Mercy Seat",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 7:89",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from between the two cherubim above the mercy seat on the ark of the Testimony. Thus the LORD spoke to him."
+       ]
+      },
+      {
+       "odnosnik": "Leviticus 16:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD said to Moses: “Tell your brother Aaron not to enter freely into the Most Holy Place behind the veil in front of the mercy seat on the ark, or else he will die, because I appear in the cloud above the mercy seat."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses hears the voice from “above the mercy seat.” **What does this detail say about where God speaks from to people who break His law?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "One text speaks of a conversation, the other of caution: the priest must not come in freely, “or else he will die.” **How do these two sentences fit in one place? What do they say about God together?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Same Words a Second Time",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Moses smashed the first tablets at the foot of the mountain when he saw the people worshiping the golden calf.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 10:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "At that time the LORD said to me, “Chisel out two stone tablets like the originals, come up to Me on the mountain, and make an ark of wood. And I will write on the tablets the words that were on the first tablets, which you broke; and you are to place them in the ark.” So I made an ark of acacia wood, chiseled out two stone tablets like the originals, and went up the mountain with the two tablets in my hands. And the LORD wrote on the tablets what had been written previously, the Ten Commandments that He had spoken to you on the mountain out of the fire on the day of the assembly. The LORD gave them to me, and I went back down the mountain and placed the tablets in the ark I had made, as the LORD had commanded me; and there they have remained."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After the covenant has been broken, God writes the same words on new tablets, “what had been written previously.” **What does it say about God that He gives the same words a second time?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "This time the tablets go straight into the ark. **Why should a law the people have already broken lie precisely there, under the golden cover?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 4 speaks of the Ten Commandments, in Hebrew literally “the ten words,” which God spoke out of the fire. **What changes when you think of the commandments as words someone has spoken to you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "God doesn’t prepare a milder version of the commandments. Something else changes. The first tablets ended up on the ground at the foot of the mountain. The second ones are laid in the ark and covered with the mercy seat. Exodus calls them “the Testimony.” The law testifies to what God is like and what He wants for His people. Yet it lies in the place above which this same God meets with the people who have broken it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Shattered at the Foot of the Mountain",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 32:15-16, 19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Moses turned and went down the mountain with the two tablets of the Testimony in his hands. They were inscribed on both sides, front and back. The tablets were the work of God, and the writing was the writing of God, engraved on the tablets. … As Moses approached the camp and saw the calf and the dancing, he burned with anger and threw the tablets out of his hands, shattering them at the base of the mountain."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses breaks the tablets at the moment when the people have already broken the covenant. **What does this gesture show better than words?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The tablets were “the work of God,” and the writing was “the writing of God.” **Why, after a scene like this, does God come back to the tablets at all?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The God Who Forgives and Doesn’t Look Away",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 99:1-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD reigns; let the nations tremble! He is enthroned above the cherubim; let the earth quake! Great is the LORD in Zion; He is exalted above all the peoples. Let them praise Your great and awesome name—He is holy! The mighty King loves justice. You have established equity; You have exercised justice and righteousness in Jacob. Exalt the LORD our God, and worship at His footstool; He is holy! Moses and Aaron were among His priests; Samuel was among those who called on His name. They called to the LORD and He answered. He spoke to them from the pillar of cloud; they kept His decrees and the statutes He gave them. O LORD our God, You answered them. You were a forgiving God to them, yet an avenger of their misdeeds."
+       ]
+      },
+      {
+       "odnosnik": "Psalm 85:8-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "I will listen to what God the LORD will say; for He will surely speak peace to His people and His saints; He will not let them return to folly. Surely His salvation is near to those who fear Him, that His glory may dwell in our land. Loving devotion and faithfulness have joined together; righteousness and peace have kissed. Faithfulness sprouts from the earth, and righteousness looks down from heaven. The LORD will indeed provide what is good, and our land will yield its increase. Righteousness will go before Him to prepare the way for His steps."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Psalm 99 speaks of a King who “loves justice,” and at the end of a God who was “forgiving” yet “an avenger of their misdeeds.” **How do these two things fit in one God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Psalm 85, loving devotion and faithfulness “have joined together,” and righteousness and peace “have kissed.” **Which of these words usually pass each other by in our lives? Where in today’s texts do you see a place where they meet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Faithfulness sprouts from the earth, and righteousness looks down from heaven.” **What in this picture comes from God, and what grows among people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The cherubim and the footstool are pictures of the ark. First Chronicles records that David spoke of the ark of the covenant as “a footstool for our God.” So an Israelite singing this psalm saw God seated on a throne, with His feet touching the earth above the golden mercy seat. The throne of the King who “loves justice” was at the same time the place of forgiveness. Psalm 85 takes the words loving devotion and faithfulness from Exodus 34:6, where God introduced Himself to Moses.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Forgiven, Yet with Consequences",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Psalm 99 speaks of Moses and Aaron. God answered them and forgave them. And yet both of them once heard a sentence that could not be taken back.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Numbers 20:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the LORD said to Moses and Aaron, “Because you did not trust Me to show My holiness in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Two emphases can be heard in the church here. Some say that forgiveness removes the guilt but doesn’t always remove the consequences, and that God treats us as adults. Others stress that God did not reject Moses. He didn’t bring him into the land, but the New Testament later shows him on the Mount of Transfiguration, next to Jesus. Both sides agree on one thing. The punishment in Psalm 99:8 does not cancel the forgiveness.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does forgiveness look like when it doesn’t erase the consequences? Do you know this from your own life, or from the life of someone close to you?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Just, and the One Who Justifies",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 3:21-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets. And this righteousness from God comes through faith in Jesus Christ to all who believe. There is no distinction, for all have sinned and fall short of the glory of God, and are justified freely by His grace through the redemption that is in Christ Jesus. God presented Him as the atoning sacrifice through faith in His blood, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand. He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 23 says “all have sinned,” and verse 24 says “justified freely.” **What stands between these two sentences? Who pays for that “freely”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice Paul writes that God did this “to demonstrate His righteousness.” **Why could forgiving sins have made it look as if God were not just? What in this passage answers that charge?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 26 ends with a pair: God is “to be just and to justify.” **What would a God be like who was only one of the two?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In everyday English, “to justify” can sound like making excuses, the way we justify ourselves. In Paul it means something else. There is no excuse for sin, and yet God declares the believer acquitted. He does it “through the redemption that is in Christ Jesus” and through faith “in His blood.” So He isn’t looking away at all. The same God who gave the words on the tablets bears the cost of their being broken. A few verses later Paul adds that faith doesn’t nullify the law but upholds it (Romans 3:31).",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 25 the BSB has “atoning sacrifice.” The Greek word here is `hilastērion`. In the New Testament it appears only once more, in Hebrews 9:5, and there it means the golden mercy seat on the ark. The Greek translation of the Old Testament uses the same word for the mercy seat in Exodus 25.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 3:25",
+       "przeklad": "BSB",
+       "akapity": [
+        "God presented Him as the atoning sacrifice through faith in His blood, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Interpreters read this verse in two ways. Some see a picture from the sanctuary here and say that Christ is the new mercy seat, the place where God meets the sinner above the broken law. Others prefer a more general meaning, a sacrifice or a means of atonement, because Paul doesn’t develop the picture of the ark here. Both readings say one thing. It is God who “presented” the atonement. In Greek religion, sacrifice was often an attempt to calm an angry deity. In the Bible, God Himself provides the way to take sin away.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it change in your picture of God that He is the one who takes the first step?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Law in the Heart",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 31:31-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and with the house of Judah. It will not be like the covenant I made with their fathers when I took them by the hand to lead them out of the land of Egypt—a covenant they broke, though I was a husband to them,” declares the LORD. “But this is the covenant I will make with the house of Israel after those days, declares the LORD. I will put My law in their minds and inscribe it on their hearts. And I will be their God, and they will be My people. No longer will each man teach his neighbor or his brother, saying, ‘Know the LORD,’ because they will all know Me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquities and will remember their sins no more.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the sanctuary the law lay in the ark, behind the veil. **Where does God promise to put it in the new covenant? What changes in a person then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The promise ends with the words “and will remember their sins no more.” **Why do the law written on the heart and forgiveness stand in one promise?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“They will all know Me.” **How is knowing God different from knowing His commandments?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What Was in the Ark",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 9:3-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Behind the second curtain was a room called the Most Holy Place, containing the golden altar of incense and the gold-covered ark of the covenant. Inside the ark were the gold jar of manna, Aaron’s staff that had budded, and the stone tablets of the covenant. Above the ark were the cherubim of glory, overshadowing the mercy seat. But we cannot discuss these things in detail now."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Three things lay in the ark: bread from the wilderness, a dry staff that had budded, and the tablets. **What do all three say about God together?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The author of the letter writes, “we cannot discuss these things in detail now.” **What mattered more to him than the furniture itself?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Ark No One Will Miss",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 3:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "“In those days, when you multiply and increase in the land,” declares the LORD, “they will no longer discuss the ark of the covenant of the LORD. It will never come to mind, and no one will remember it or miss it, nor will another one be made. At that time Jerusalem will be called The Throne of the LORD, and all the nations will be gathered in Jerusalem to honor the name of the LORD. They will no longer follow the stubbornness of their evil hearts."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 11:19",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the temple of God in heaven was opened, and the ark of His covenant appeared in His temple. And there were flashes of lightning, and rumblings, and peals of thunder, and an earthquake, and a great hailstorm."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jeremiah foretells a time when no one will miss the ark, because the whole city will be called “The Throne of the LORD.” **What does this say about what the ark was before it was lost?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "John sees the ark of the covenant in the temple in heaven. **What does this picture give someone who lives in a world where law and mercy often go separate ways?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "When you think of God’s commandments, what do you see first: the stone tablets, or the golden mercy seat above them? **Where does that come from for you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s texts most changed your picture of God? What shifted in it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **is there a “broken tablet” in your life that makes it hard to believe God still wants to meet with you?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If God forgives freely, why is the law lying in the ark? And if the law still says what God wants, how can forgiveness keep from turning into permission?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this one. It helps if someone notices that Paul himself raises this question in Romans and answers it with the picture of new life in Christ. The ark holds both together. The mercy seat doesn’t remove the tablets, and the tablets don’t push the mercy seat aside.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The law says what God is like. The golden mercy seat above it says what God does with people who have broken that law.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Psalm 85:10 or Romans 3:26.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of the commandment that accuses you most often. In your imagination, lay it where it lay in the sanctuary, under the mercy seat. Ask God **what He sees when He looks at you from that place.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Notice toward whom you are only just, and toward whom you are only lenient. **Admit to yourself what is missing in your attitude toward those people.**",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** tell God plainly which of His words you fear most. Don’t explain yourself. Listen to what stays with you afterward.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So the commandments don’t apply anymore?”** The tablets lie in the ark under the mercy seat. The mercy seat doesn’t remove them. Jeremiah 31 speaks of the law written on the heart, and in Romans 3:31 Paul writes that faith upholds the law. Leave it at that and go back to the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts an argument about the Sabbath or another commandment.** Stop it gently. Say that this is an important conversation for another evening, and point to the meetings in The Sabbath as a Gift series. Today’s topic is what lies above the tablets.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“The God of the Old Testament is harsh, and Jesus is gentle.”** Don’t argue. Show that Psalms 85 and 99 speak of grace and justice in one God, and that Romans 3 speaks of God’s justice in the New Testament. The ark stood in the sanctuary long before Bethlehem.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks where the ark is today.** The Bible doesn’t say. Jeremiah foretells a time when no one will miss it. Don’t get into legends and movies. Go back to the question of what this object said about God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says the law makes them feel nothing but accused.** Don’t try to talk them into believing there’s nothing to worry about. Read Romans 3:24 again, with the word “freely.” If the conversation becomes very personal, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Leave out block 3. Blocks 1, 2, and 4 carry the meeting: the ark with its mercy seat, the same words given a second time, and the God who is just and who justifies.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So the commandments don’t apply anymore?”",
+     "odpowiedz": "The tablets lie in the ark under the mercy seat. The mercy seat doesn’t remove them. Jeremiah 31 speaks of the law written on the heart, and in Romans 3:31 Paul writes that faith upholds the law. Leave it at that and go back to the text."
+    },
+    {
+     "sytuacja": "Someone starts an argument about the Sabbath or another commandment.",
+     "odpowiedz": "Stop it gently. Say that this is an important conversation for another evening, and point to the meetings in The Sabbath as a Gift series. Today’s topic is what lies above the tablets."
+    },
+    {
+     "sytuacja": "“The God of the Old Testament is harsh, and Jesus is gentle.”",
+     "odpowiedz": "Don’t argue. Show that Psalms 85 and 99 speak of grace and justice in one God, and that Romans 3 speaks of God’s justice in the New Testament. The ark stood in the sanctuary long before Bethlehem."
+    },
+    {
+     "sytuacja": "Someone asks where the ark is today.",
+     "odpowiedz": "The Bible doesn’t say. Jeremiah foretells a time when no one will miss it. Don’t get into legends and movies. Go back to the question of what this object said about God."
+    },
+    {
+     "sytuacja": "Someone says the law makes them feel nothing but accused.",
+     "odpowiedz": "Don’t try to talk them into believing there’s nothing to worry about. Read Romans 3:24 again, with the word “freely.” If the conversation becomes very personal, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Leave out block 3. Blocks 1, 2, and 4 carry the meeting: the ark with its mercy seat, the same words given a second time, and the God who is just and who justifies."
+    }
+   ]
+  }
+ ]
+}

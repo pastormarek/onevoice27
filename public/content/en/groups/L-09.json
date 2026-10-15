@@ -1,0 +1,829 @@
+{
+ "tytul": "The Worst of Sinners",
+ "id": "L-09",
+ "seria": "Second-Chance People",
+ "opis": "A persecutor becomes an apostle, and the people who help him get there had every reason to be afraid of him.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Acts 9:1-9; Acts 9:10-18; Acts 9:19-25; Acts 9:26-31; 1 Timothy 1:12-16",
+  "p2": "Acts 7:58-60; Acts 8:1, 3; Acts 22:12-16; Galatians 1:13-17, 22-24; Acts 11:22-26; 1 Corinthians 15:9-10",
+  "p3": "1 Corinthians 15:8; Luke 23:34"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 28,
+  "p3": 32
+ },
+ "tagi": [
+  "second chance",
+  "grace",
+  "conversion",
+  "community",
+  "trust",
+  "Paul",
+  "Acts of the Apostles"
+ ],
+ "wersja": 1,
+ "zdanie": "God began with a persecutor, so that no one would think they are too far away. And for that He needed people who were afraid and went anyway.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about a man who hunted Christians and became the best known of them. But his second chance was not just a matter between him and God. God wove into it people who were afraid of him and had good reason to be. Ananias had to go to the house where the persecutor was waiting. Barnabas had to vouch for him. That is why the questions are about us too. To whom do we give a second chance, and to whom do we refuse one?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Saul is this man’s Jewish name, and Paul is his Roman name. Luke starts calling him Paul only several chapters later, so he did not change his name at his conversion. In this material we say Saul when speaking of the scenes in Acts, and Paul when speaking of his letters.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have been hurt by a person who later “found God” and now demands to be trusted. This topic can easily sound like pressure toward that kind of trust. A second chance from God doesn’t oblige the victim to go back into a dangerous relationship.",
+      "It’s easy to turn the Damascus road conversion into a required pattern. Someone who came to faith slowly, or who is still searching, may feel second-rate. Talk about what God did with Saul. Don’t make it a recipe for every conversion.",
+      "The conversation may drift toward visions and the question of why God doesn’t reveal Himself like that today. Don’t settle it. Point out that even Saul heard the rest from an ordinary man."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t cast anyone at the table in the role of Saul or of Ananias. Don’t judge a church that once failed to accept someone. Don’t tell other people’s conversion stories without their consent.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone who gave you credit and trusted you before you had earned it. Don’t give their name. Say in one sentence what that person did.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Road to Damascus",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A few years after Jesus’ crucifixion, Saul, a young and zealous expert in the Jewish law, regards the disciples of Jesus as a dangerous sect.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 9:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, Saul was still breathing out murderous threats against the disciples of the Lord. He approached the high priest and requested letters to the synagogues in Damascus, so that if he found any men or women belonging to the Way, he could bring them as prisoners to Jerusalem. As Saul drew near to Damascus on his journey, suddenly a light from heaven flashed around him. He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute Me?” “Who are You, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” He replied. “Now get up and go into the city, and you will be told what you must do.” The men traveling with Saul stood there speechless. They heard the voice but did not see anyone. Saul got up from the ground, but when he opened his eyes he could not see a thing. So they led him by the hand into Damascus. For three days he was without sight, and he did not eat or drink anything."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul is hunting the disciples, and he hears the question, “Why do you persecute Me?” **What does this question say about how Jesus joins Himself to His people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul sets out with letters and a plan, and he enters Damascus led by the hand. **What changes in him between verse 2 and verse 8?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus doesn’t tell Saul everything. He says only, “You will be told what you must do.” **Why is he to hear the rest from people in the city?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Saul wasn’t acting on his own. He needed letters from the high priest to arrest people in another city and bring them to Jerusalem for trial. Women are mentioned separately, because the persecution spared no one. At that time the disciples were called people of “the Way.” Notice that God doesn’t wait for Saul to change. He comes to him on the road, right in the middle of his plan.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "At the Stoning",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Stephen, one of the first leaders of the church in Jerusalem, was stoned after his speech before the Council.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 7:58-60",
+       "przeklad": "BSB",
+       "akapity": [
+        "They dragged him out of the city and began to stone him. Meanwhile the witnesses laid their garments at the feet of a young man named Saul. While they were stoning him, Stephen appealed, “Lord Jesus, receive my spirit.” Falling on his knees, he cried out in a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep."
+       ]
+      },
+      {
+       "odnosnik": "Acts 8:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria."
+       ]
+      },
+      {
+       "odnosnik": "Acts 8:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul stands by the garments and hears the dying man pray, “Lord, do not hold this sin against them.” **How might this prayer have come back to him later, on the Damascus road and after it?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Luke writes that Saul went from house to house. **What did those people remember about him, and what would they have to overcome to accept him one day?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Ananias Goes to Straight Street",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 9:10-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "In Damascus there was a disciple named Ananias. The Lord spoke to him in a vision, “Ananias!” “Here I am, Lord,” he answered. “Get up!” the Lord told him. “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying. In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.” But Ananias answered, “Lord, many people have told me about this man and all the harm he has done to Your saints in Jerusalem. And now he is here with authority from the chief priests to arrest all who call on Your name.” “Go!” said the Lord. “This man is My chosen instrument to carry My name before the Gentiles and their kings, and before the people of Israel. I will show him how much he must suffer for My name.” So Ananias went to the house, and when he arrived, he placed his hands on Saul. “Brother Saul,” he said, “the Lord Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit.” At that instant, something like scales fell from Saul’s eyes, and his sight was restored. He got up and was baptized,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ananias tells God plainly what he is afraid of. **How does God answer his fears, and what is missing from that answer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Ananias’s first words to Saul are “Brother Saul.” **What must have happened in Ananias between verse 13 and verse 17?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Ananias knows Saul’s past, and God tells him about Saul’s future. **How could seeing him that way have helped Ananias get up and go?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ananias was not an apostle. Luke simply calls him a disciple. Elsewhere Paul remembers him as a devout man who was highly regarded by all the Jews in Damascus. So he was risking his freedom, and his good name in a church that might think him naive. The first believer to lay hands on Saul was an ordinary man from the neighborhood.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "How Paul Remembered It",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Many years later Paul tells this scene to an angry crowd in Jerusalem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 22:12-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "There a man named Ananias, a devout observer of the law who was highly regarded by all the Jews living there, came and stood beside me. ‘Brother Saul,’ he said, ‘receive your sight.’ And at that moment I could see him. Then he said, ‘The God of our fathers has appointed you to know His will, and to see the Righteous One, and to hear His voice. You will be His witness to everyone of what you have seen and heard. And now what are you waiting for? Get up, be baptized, and wash your sins away, calling on His name.’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The first thing Saul saw after three days of darkness was Ananias’s face. **What might it have meant to a persecutor that the first person he saw was a man he had come to arrest?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ananias, who was afraid not long ago, now asks, “And now what are you waiting for?” **Where does this urgency in him come from?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Isn’t This the Man?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 9:19-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "And after taking some food, he regained his strength. And he spent several days with the disciples in Damascus. Saul promptly began to proclaim Jesus in the synagogues, declaring, “He is the Son of God.” All who heard him were astounded and asked, “Isn’t this the man who wreaked havoc in Jerusalem on those who call on this name? And hasn’t he come here to take them as prisoners to the chief priests?” But Saul was empowered all the more, and he confounded the Jews living in Damascus by proving that Jesus is the Christ. After many days had passed, the Jews conspired to kill him, but Saul learned of their plot. Day and night they watched the city gates in order to kill him. One night, however, his disciples took him and lowered him in a basket through a window in the wall."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The listeners ask, “Isn’t this the man who wreaked havoc in Jerusalem on those who call on this name?” **What in this question is amazement, and what is suspicion?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Saul came to take the disciples away in chains. Some time later it is they who save his life. **What does this scene say about him, and what does it say about them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "His new life did not free Saul from his old reputation. **Why do people remember for so long who someone used to be?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "From Paul’s letter to the Galatians we know that three years passed between his conversion and his first visit to Jerusalem. He spent part of that time in Arabia. He mentions the escape in the basket himself in another letter, in a passage where he lists his weaknesses. The man who had arrived with authority from the high priest left the city at night like a fugitive, at the mercy of the people he had come to arrest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "They Glorified God Because of Me",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul writes to the churches in Galatia, in what is now Turkey, and tells how his journey began.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 1:13-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you have heard of my former way of life in Judaism, how severely I persecuted the church of God and tried to destroy it. I was advancing in Judaism beyond many of my contemporaries and was extremely zealous for the traditions of my fathers. But when God, who set me apart from my mother’s womb and called me by His grace, was pleased to reveal His Son in me so that I might preach Him among the Gentiles, I did not rush to consult with flesh and blood, nor did I go up to Jerusalem to the apostles who came before me, but I went into Arabia and later returned to Damascus."
+       ]
+      },
+      {
+       "odnosnik": "Galatians 1:22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "I was personally unknown, however, to the churches of Judea that are in Christ. They only heard the account: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.” And they glorified God because of me."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t hide who he was, even though his readers had heard about it anyway. **Why does he remind them of his past?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The churches in Judea knew him only by hearsay, and yet they glorified God because of him. **What makes another person’s transformation stir up gratitude in people?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "They Were All Afraid of Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 9:26-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "When Saul arrived in Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he was a disciple. Then Barnabas brought him to the apostles and described how Saul had seen the Lord, who spoke to him on the road to Damascus, and how Saul had spoken boldly in that city in the name of Jesus. So Saul stayed with them, moving about freely in Jerusalem and speaking boldly in the name of the Lord. He talked and debated with the Grecian Jews, but they tried to kill him. When the brothers learned of this, they took him down to Caesarea and sent him off to Tarsus. Then the church throughout Judea, Galilee, and Samaria experienced a time of peace. It grew in strength and numbers, living in the fear of the Lord and the encouragement of the Holy Spirit."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The disciples in Jerusalem were afraid of Saul and didn’t believe him. **What reasons did they have, and what would they have lost if they had stopped at those reasons?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Barnabas “brought him to the apostles” and “described” what had happened. **What was Barnabas risking by standing next to Saul before the apostles?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Barnabas doesn’t invent anything new; he only tells what happened. **Why does a third person’s word sometimes carry more weight than the assurances of the person concerned?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Barnabas is a nickname. The apostles gave it to a man named Joseph, and Luke explains that it means “Son of Encouragement.” He was a Levite, which means he came from the family of temple servants, and he was born in Cyprus. So he belonged to two worlds at once and knew how to stand between people who didn’t trust each other. A few years later he will travel to Tarsus himself to find Saul and bring him into the work.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Good Man",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 11:22-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "When news of this reached the ears of the church in Jerusalem, they sent Barnabas to Antioch. When he arrived and saw the grace of God, he rejoiced and encouraged them all to abide in the Lord with all their hearts. Barnabas was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord. Then Barnabas went to Tarsus to look for Saul, and when he found him, he brought him back to Antioch. So for a full year they met together with the church and taught large numbers of people. The disciples were first called Christians at Antioch."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Luke says it briefly: “Barnabas was a good man.” **What in what we have read today makes up that goodness?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Barnabas goes to look for Saul himself, though no one asks him to. **What does this say about a second chance that you give someone once and then have to keep supporting?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Worst of Sinners",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Many years later Paul, by now an old apostle, writes to Timothy, a younger co-worker who is leading a church.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Timothy 1:12-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "I thank Christ Jesus our Lord, who has strengthened me, that He considered me faithful and appointed me to service. I was formerly a blasphemer, a persecutor, and a violent man; yet because I had acted in ignorance and unbelief, I was shown mercy. And the grace of our Lord overflowed to me, along with the faith and love that are in Christ Jesus. This is a trustworthy saying, worthy of full acceptance: Christ Jesus came into the world to save sinners, of whom I am the worst. But for this very reason I was shown mercy, so that in me, the worst of sinners, Christ Jesus might display His perfect patience as an example to those who would believe in Him for eternal life."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul gives thanks that Jesus “considered me faithful.” **What does it mean that God trusted the persecutor first, before people trusted him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 16 gives the reason for the mercy: “as an example.” **Who is meant to look at this example, and what are they to understand from it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul writes “of whom I am the worst,” in the present tense. **What changes when someone speaks of their sin in the present tense, even though they were forgiven long ago?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Paul doesn’t call himself the worst of sinners to put himself down. The Greek word literally means “first.” He puts himself first in line so that no one else would consider themselves a hopeless case. The word translated “example” means a pattern or a sketch from which later things are made. If God received a man who imprisoned His people, the boundary of grace isn’t where we usually put it.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "By the Grace of God I Am What I Am",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 15:9-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul says both “unworthy to be called an apostle” and “I worked harder than all of them.” **How do these two sentences fit in one person?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is a life lived from grace different from a life in which a person tries to work off their past?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "A few sentences earlier Paul describes himself with a word that is much blunter in Greek than most English translations let on.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 15:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "And last of all He appeared to me also, as to one of untimely birth."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Greek `ektrōma` means a miscarriage, or a child born at the wrong time, prematurely. In the New Testament the word appears only here. It carries the shame of the persecutor, and something more: the sense that he came to Jesus by a different road and later than the others. Paul doesn’t smooth over his story, and yet he puts himself on the list of witnesses to the resurrection.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say about God that He chose as a witness someone who describes himself with the word for a miscarried child?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “I Had Acted in Ignorance”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Paul writes that he was shown mercy “because I had acted in ignorance and unbelief.” Does this mean that ignorance was a condition for forgiveness? Then a sin committed knowingly would remain beyond the reach of grace.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up His garments by casting lots."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Christians read this sentence in two ways. Some see in it a circumstance that explains why Saul was so blinded, and they recall Jesus’ prayer on the cross. Others stress that Paul is speaking about himself with humility and is not setting any condition, because two verses later he calls himself the worst of sinners. Both readings share one thing. God’s generosity does not narrow forgiveness. If anything narrows it, it is a person’s readiness to receive it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If ignorance were a condition for mercy, which of us could count on it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What is the difference between an excuse and honestly naming why I did what I did?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Saul didn’t walk this road alone. **Who in your life trusted you before you had earned it, and what did that change in you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ananias and the disciples in Jerusalem were afraid for good reasons. **Who do you find it hard to believe has changed, and what are you afraid of then?** You don’t have to say who it is.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **is there a chapter in your past that you think God could never use?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q32",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**When is caution toward someone who has hurt others wisdom, and when does it become a refusal of a second chance? What should we do when someone says they have changed, but the people they hurt are still afraid of them?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this question. It helps if someone draws the distinction between forgiveness and trust. Forgiveness can be given right away. Trust grows over time and often needs witnesses like Barnabas.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God began with a persecutor, so that no one would think they are too far away. And for that He needed people who were afraid and went anyway.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** 1 Timothy 1:15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Recall a part of your past you would rather not think about. Ask God **whether you really believe that He sees more in you than that chapter**. Stay with that answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person you are refusing a second chance. You don’t have to change your mind right away. Just admit to yourself **what you are afraid of if you were to give them one**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** ask God whether there is someone for whom you could be a Barnabas. Someone who is coming back, while people are still afraid of them. If a particular face comes to mind, don’t push it away.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says that the person who hurt them “has found God too” and now expects to be trusted.** Don’t push for forgiveness or reconciliation. Say clearly that a second chance from God doesn’t oblige the victim to go back into a dangerous relationship. The disciples in Jerusalem didn’t take Saul at his word. They needed a witness and time. If domestic violence is involved, don’t carry this alone, and after the meeting help the person reach professional help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’m not as bad as Paul.”** Don’t argue. You can ask why Paul tells about his past at all, when everyone knew it anyway. Go back to verse 16 and the word “example.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Why hasn’t God revealed Himself to me that clearly?”** It’s an honest question. Don’t promise a light from heaven, and don’t brush the person off. Point out that even Saul heard the rest from Ananias, an ordinary man who came and laid his hands on him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone from outside the church asks whether they have to go through a conversion like that.** No. Say calmly that the Bible describes many people who came to faith slowly. Saul’s story is about what God can do with someone who was going in the opposite direction. It isn’t a pattern to be repeated.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns into resentment toward a church that once failed to accept someone.** Listen, but don’t look for someone to blame. The disciples in Jerusalem were afraid too, and Luke doesn’t condemn them for it. Ask instead who in this story took the first step, and what it cost them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after the application questions.** That’s fine. These questions touch personal things. Count to ten in your head. If the silence goes on, read 1 Timothy 1:15 again and move on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 1, 2, 4, and 5 carry the meeting: the encounter on the Damascus road, Ananias’s courage, Barnabas vouching for Saul, and Paul’s words about himself years later.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone says that the person who hurt them “has found God too” and now expects to be trusted.",
+     "odpowiedz": "Don’t push for forgiveness or reconciliation. Say clearly that a second chance from God doesn’t oblige the victim to go back into a dangerous relationship. The disciples in Jerusalem didn’t take Saul at his word. They needed a witness and time. If domestic violence is involved, don’t carry this alone, and after the meeting help the person reach professional help."
+    },
+    {
+     "sytuacja": "“I’m not as bad as Paul.”",
+     "odpowiedz": "Don’t argue. You can ask why Paul tells about his past at all, when everyone knew it anyway. Go back to verse 16 and the word “example.”"
+    },
+    {
+     "sytuacja": "“Why hasn’t God revealed Himself to me that clearly?”",
+     "odpowiedz": "It’s an honest question. Don’t promise a light from heaven, and don’t brush the person off. Point out that even Saul heard the rest from Ananias, an ordinary man who came and laid his hands on him."
+    },
+    {
+     "sytuacja": "Someone from outside the church asks whether they have to go through a conversion like that.",
+     "odpowiedz": "No. Say calmly that the Bible describes many people who came to faith slowly. Saul’s story is about what God can do with someone who was going in the opposite direction. It isn’t a pattern to be repeated."
+    },
+    {
+     "sytuacja": "The conversation turns into resentment toward a church that once failed to accept someone.",
+     "odpowiedz": "Listen, but don’t look for someone to blame. The disciples in Jerusalem were afraid too, and Luke doesn’t condemn them for it. Ask instead who in this story took the first step, and what it cost them."
+    },
+    {
+     "sytuacja": "The group is silent after the application questions.",
+     "odpowiedz": "That’s fine. These questions touch personal things. Count to ten in your head. If the silence goes on, read 1 Timothy 1:15 again and move on."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 1, 2, 4, and 5 carry the meeting: the encounter on the Damascus road, Ananias’s courage, Barnabas vouching for Saul, and Paul’s words about himself years later."
+    }
+   ]
+  }
+ ]
+}

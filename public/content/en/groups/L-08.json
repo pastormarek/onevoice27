@@ -1,0 +1,848 @@
+{
+ "tytul": "This Very Day",
+ "id": "L-08",
+ "seria": "Second-Chance People",
+ "opis": "A man who had no time left to put anything right hears the full promise in the last hour of his life.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Luke 23:32-34; Isaiah 53:12; Luke 23:35-39; Matthew 27:44; Luke 23:40-42; Luke 23:43-49; Romans 10:8-13",
+  "p2": "Genesis 40:14, 23; Luke 2:11; Luke 4:21; Ephesians 2:8-9",
+  "p3": "Genesis 8:1; Genesis 30:22; Revelation 2:7; John 20:17; 2 Corinthians 6:2"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "second chance",
+  "grace",
+  "cross",
+  "salvation",
+  "the last hour",
+  "the criminal on the cross"
+ ],
+ "wersja": 1,
+ "zdanie": "The criminal had no time to put anything right. He only had time to ask, and that was enough, because the promise rested on Jesus, not on him.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about a man who had no time left for anything. He couldn’t repair the harm he had done, give back what he had taken, or start a new life. He was hanging on a cross for what he had done, and he himself admitted that the punishment was just. He had only one sentence, a request to the dying Man beside him. In reply he heard the full promise. Christian tradition often calls this man the penitent thief, or the good thief. The BSB calls him one of the “criminals.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “What Happens After Death?” It reads the words “today you will be with Me in Paradise” from the angle of the state of the dead. This scene also appears in the meeting “The Workers in the Vineyard,” next to the parable about pay for a single hour.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have recently lost a loved one who died without faith or without being reconciled. This story may give them hope, or it may reopen a wound.",
+      "Someone may hear a convenient loophole in this scene: I’ll live my own way, and at the end I’ll repent.",
+      "The question of where a person is right after death will almost certainly come up. Don’t settle it at the basic level. It has its place at Level 3 and in a separate meeting.",
+      "Someone may have been in prison, or have someone close to them behind bars. For them the word “criminal” is not an abstraction."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t tell anyone where their loved one who has died is now. Don’t judge whether anyone’s conversion was genuine. Don’t turn the meeting into an argument about the state of the dead.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone in your life who said something good about you when everyone else was speaking badly of you. Say in one word how you felt then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Two Others",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jesus has been sentenced to death by the Roman governor. The soldiers lead Him outside the city to the place of execution.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:32-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Two others, who were criminals, were also led away to be executed with Jesus. When they came to the place called The Skull, they crucified Him there, along with the criminals, one on His right and the other on His left. Then Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up His garments by casting lots."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Several centuries earlier the prophet Isaiah wrote about the suffering Servant of the LORD. On the night before His death, Jesus applied these words to Himself.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 53:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore I will allot Him a portion with the great, and He will divide the spoils with the strong, because He has poured out His life unto death, and He was numbered with the transgressors. Yet He bore the sin of many and made intercession for the transgressors."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Luke writes that Jesus was crucified “along with the criminals, one on His right and the other on His left.” **What might people watching from a distance have thought about these three crosses?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Both criminals hang right beside Him and hear Jesus’ first words from the cross. **What could a sentence like that have meant to a man who knows very well what he himself has done?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Isaiah says that the Servant “was numbered with the transgressors” and “made intercession for the transgressors.” **How are both halves of that sentence fulfilled in this one scene?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Crucifixion was a Roman punishment for slaves, rebels, and bandits. It was meant to be a spectacle and a warning, so it took place by the road, in full view of passersby. A placard stating the condemned man’s crime was hung above his head. Death came slowly, sometimes after many hours. The Gospels don’t say what the two criminals had done. Matthew and Mark call them by a word that means an armed robber, and it was also used of rebels.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean that Jesus dies in the place meant for the worst, and right in the middle, between them?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Save Yourself",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:35-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "The people stood watching, and the rulers sneered at Him, saying, “He saved others; let Him save Himself if He is the Christ of God, the Chosen One.” The soldiers also mocked Him and came up to offer Him sour wine. “If You are the King of the Jews,” they said, “save Yourself!” Above Him was posted an inscription: THIS IS THE KING OF THE JEWS. One of the criminals who hung there heaped abuse on Him. “Are You not the Christ?” he said. “Save Yourself and us!”"
+       ]
+      },
+      {
+       "odnosnik": "Matthew 27:44",
+       "przeklad": "BSB",
+       "akapity": [
+        "In the same way, even the robbers who were crucified with Him berated Him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The rulers, the soldiers, and the criminal say almost the same sentence. **What do their words have in common? What do they all expect from a real Messiah?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“He saved others; let Him save Himself.” **What truth about Jesus do the mockers speak without having any idea of it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The people “stood watching.” **How is someone watching from the side different from someone who mocks, and from someone who is about to speak up?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Matthew and Mark write that at first both criminals insulted Jesus. Luke tells what happened later with one of them. Read together, the accounts show that the change took place on the cross, within a few hours. This man did not come to Golgotha as a believer. He started out just like the other one.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Remember Me",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:40-42",
+       "przeklad": "BSB",
+       "akapity": [
+        "But the other one rebuked him, saying, “Do you not even fear God, since you are under the same judgment? We are punished justly, for we are receiving what our actions deserve. But this man has done nothing wrong.” Then he said, “Jesus, remember me when You come into Your kingdom!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In a few sentences the second criminal says several different things. **List them in order. Which of them seems to you the hardest to say in his situation?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "He sees a dying, beaten man, and he speaks of His kingdom. **What must he have seen or heard during those hours to speak like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Everyone around speaks to Jesus with mockery. He alone addresses Him by name: “Jesus.” **What changes when someone calls another person by name?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This man doesn’t bargain with God about anything. He doesn’t promise to improve, doesn’t point to his good deeds, doesn’t justify himself. He admits that the punishment is just and asks only to be remembered. In Luke’s Gospel, before Jesus dies, no one else at the cross speaks of Jesus as a King who has a kingdom. Jesus’ own acquaintances stand at a distance.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Please Remember Me",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Joseph, sold by his brothers, is sitting in an Egyptian prison. He has interpreted a dream for Pharaoh’s cupbearer, who is about to be released.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 40:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But when it goes well for you, please remember me and show me kindness by mentioning me to Pharaoh, that he might bring me out of this prison."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 40:23",
+       "przeklad": "BSB",
+       "akapity": [
+        "The chief cupbearer, however, did not remember Joseph; he forgot all about him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joseph and the criminal ask in almost the same words. **How is the one Joseph asked different from the One the criminal asks? Who in your life is it hardest to trust not to forget you?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "When the Bible says that God “remembered” someone, it means more than recalling something forgotten. The Hebrew `zakhar` means a memory that acts.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 8:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "But God remembered Noah and all the animals and livestock that were with him in the ark. And God sent a wind over the earth, and the waters began to subside."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 30:22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then God remembered Rachel. He listened to her and opened her womb,"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The plea “remember me” belongs to the language of the psalms. So the criminal asks Jesus the way Israel asked God.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say about who the criminal took Jesus to be, that he addresses Him with words people used in prayer to God?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Today with Me",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 23:43-49",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Jesus said to him, “Truly I tell you, today you will be with Me in Paradise.” It was now about the sixth hour, and darkness came over all the land until the ninth hour. The sun was darkened, and the veil of the temple was torn down the middle. Then Jesus called out in a loud voice, “Father, into Your hands I commit My Spirit.” And when He had said this, He breathed His last. When the centurion saw what had happened, he gave glory to God, saying, “Surely this was a righteous man.” And when all the people who had gathered for this spectacle saw what had happened, they returned home beating their breasts. But all those who knew Jesus, including the women who had followed Him from Galilee, stood at a distance watching these things."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The criminal asked Jesus to remember him someday. **Compare his request with the answer. What does he receive beyond what he asked for?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jesus asks him nothing and requires nothing of him. **What, then, does this promise stand on?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus dies first, while the criminal is still alive. **What could it have meant to this man that Someone who had just said to him “with Me” was now dead?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “Paradise” comes from Persian and meant a walled garden. In the Greek translation of the Old Testament this word was used for the Garden of Eden. So a man thrown out beyond the city walls, to the place of execution, hears the promise of the garden from which humanity was once driven out. But the strongest words of this promise are “with Me.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Today",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Luke 2:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Today in the city of David a Savior has been born to you. He is Christ the Lord!"
+       ]
+      },
+      {
+       "odnosnik": "Luke 4:21",
+       "przeklad": "BSB",
+       "akapity": [
+        "And He began by saying, “Today this Scripture is fulfilled in your hearing.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The word “today” stands at key points in Luke. The angels speak the first sentence to the shepherds. Jesus speaks the second in the synagogue in Nazareth, as He begins His ministry. **What links these scenes with the promise given on the cross?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean for a man with only a few hours left to live that God’s grace is called “today,” and not “someday, once you’ve improved”?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The word “Paradise” appears twice more in the New Testament. In Second Corinthians, Paul writes that a certain man “was caught up to Paradise.” The last time the word appears is in Revelation.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 2:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant the right to eat from the tree of life in the Paradise of God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Bible begins with a garden with the tree of life and ends with the promise of a return to it. The criminal receives the same promise as the overcomers in Revelation.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say that a man who had wasted his whole life is included in the same promise as those who endured to the end?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: “Today You Will Be with Me in Paradise”",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This verse is most often cited as proof that a person is with Christ immediately after death. Christians read it in two ways. The oldest Greek manuscripts were usually written without commas, so the translator decides where the comma goes.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The first reading is: “Truly I tell you, today you will be with Me in Paradise.” Jesus promises a meeting that very day. The natural word order supports this reading. Most translations read the verse this way, including the BSB.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The second reading is: “Truly I tell you today, you will be with Me in Paradise.” Seventh-day Adventists and some other Christians, who understand death as a sleep until the resurrection, read it this way. The criminal’s own request supports it, since he asks to be remembered “when You come into Your kingdom.” So do Jesus’ words on Sunday morning.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 20:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides share what matters most in this scene. The promise is certain. It is given to a man who had nothing to offer. Its content is “with Me.” The meeting “What Happens After Death?” discusses this question more fully.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What exactly did the criminal ask for, and for when? Does the word “today” answer the question “When?” or rather the question “Is it certain?”**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Everyone Who Calls",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A few decades later the apostle Paul writes to the Christians in Rome about how a person is saved.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 10:8-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "But what does it say? “The word is near you; it is in your mouth and in your heart,” that is, the word of faith we are proclaiming: that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved. For with your heart you believe and are justified, and with your mouth you confess and are saved. It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.” For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him, for, “Everyone who calls on the name of the Lord will be saved.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul speaks of a word that is “near you,” in the mouth and in the heart. **Which of the things he writes about did the criminal on the cross do? What did he not have time to do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul says “anyone” and then “everyone.” **Whom do these words include? Whom would we sometimes quietly like to leave out of them, ourselves included?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Justified” is a courtroom word. It means that God declares a person righteous, even though that person hasn’t earned it. **How does that word sound next to a criminal who himself admitted that his sentence was just?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not by Works",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ephesians 2:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The criminal had nothing to boast about. **What do we most often try to boast about before God, even though we know it doesn’t work?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which is harder: to accept a gift you didn’t deserve, or to watch someone else receive a gift like that?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Can You Wait Until the Last Moment?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Corinthians 6:2",
+       "przeklad": "BSB",
+       "akapity": [
+        "For He says: “In the time of favor I heard you, and in the day of salvation I helped you.” Behold, now is the time of favor; now is the day of salvation!"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "For centuries this story has given hope to the dying and those close to them. It has also been read as a convenient loophole: live your own way and repent at the end. The text promises nothing of the kind. Next to him hung the other criminal, who had the same hour and the same Jesus within arm’s reach. He didn’t take it. The one who spoke up hadn’t planned anything. Grace took him by surprise. Paul says “now,” because no one knows their last hour. Both truths stand side by side. It is never too late for grace, and yet it isn’t wise to put it off.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why did one of two men in the same situation, beside the same Jesus, speak up with faith and the other with mockery? What does this say about whether the “last moment” is really any easier?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The criminal had only a few hours and one sentence. **What in your thinking about God tells you that grace has to be earned first?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who around you do you think it is already “too late” for, or who is “too far gone”?** You don’t have to say who. Say what makes you think that about them.",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what one sentence would you say to Jesus today, as this man did?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Is it fair that a man who hurt others receives, in his last hour, the same promise as someone who served God faithfully all their life? And what about the people this criminal hurt?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this question. It helps if one observation comes up. The criminal wasn’t spared his punishment; he died on the cross just like the other one. He received something else, something no one but Jesus could give him. The related meeting “The Workers in the Vineyard” deals with exactly this: how we take God’s generosity toward others.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The criminal had no time to put anything right. He only had time to ask, and that was enough, because the promise rested on Jesus, not on him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Luke 23:42-43 or Romans 10:13.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think about **what you still want to achieve before you decide you can come to God**. Admit before Him that you drew up that list, not He.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think again of the person you have written off in your heart. Ask God **whether He has written them off too**. Stay with that question, even if the answer surprises you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** in silence, say to Jesus what the criminal said, in your own words. Don’t add promises to improve or explanations. Notice what it is like to ask only that He remember you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So I can live however I want and repent at the end.”** Don’t get indignant, and don’t try to frighten anyone. Point to the other cross. That man had the same hour and the same Jesus beside him, and he spoke up with mockery. The criminal who asked hadn’t planned anything. Paul says “now,” because no one knows their last hour.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a loved one who died without faith or without being reconciled.** Don’t say where that person is or what has happened to them. We don’t know what went on in the last moments of anyone’s life. This story shows that Jesus stayed close to a human being right to the very end. You can entrust your loved one to the God who was just as present with that criminal. If the grief is fresh, stay with the person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**An argument about “today” and about where a person is after death.** Don’t settle it at the basic level. Say that Christians read this verse in two ways, and that both sides share the certainty of the promise and the words “with Me.” Point those who are interested to the meeting “What Happens After Death?” People from different traditions may be sitting at the table, so speak about it calmly and without polemics.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“He wasn’t even baptized.”** The text doesn’t say, and there is no need to settle it. Jesus gave the promise to a man who could no longer do anything but ask. The Bible takes baptism seriously, and at the same time this scene shows that it is Jesus who saves, not what a person managed to do.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about their own time in prison, or about someone close to them behind bars.** Listen without judging. Note out loud that the only person who heard Jesus say “you will be with Me in Paradise” was a convicted criminal. Don’t ask for details of the crime.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is accompanying a dying person, or is seriously ill themselves.** This story may be very close to home for them. Let them talk, don’t force comfort on them, and don’t give medical advice. The group listens and stays alongside. If someone is in emotional crisis, point them to a crisis line in your country, and in an emergency to your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 3 and 4 carry the meeting, because they hold the criminal’s request and Jesus’ answer.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So I can live however I want and repent at the end.”",
+     "odpowiedz": "Don’t get indignant, and don’t try to frighten anyone. Point to the other cross. That man had the same hour and the same Jesus beside him, and he spoke up with mockery. The criminal who asked hadn’t planned anything. Paul says “now,” because no one knows their last hour."
+    },
+    {
+     "sytuacja": "Someone talks about a loved one who died without faith or without being reconciled.",
+     "odpowiedz": "Don’t say where that person is or what has happened to them. We don’t know what went on in the last moments of anyone’s life. This story shows that Jesus stayed close to a human being right to the very end. You can entrust your loved one to the God who was just as present with that criminal. If the grief is fresh, stay with the person after the meeting."
+    },
+    {
+     "sytuacja": "An argument about “today” and about where a person is after death.",
+     "odpowiedz": "Don’t settle it at the basic level. Say that Christians read this verse in two ways, and that both sides share the certainty of the promise and the words “with Me.” Point those who are interested to the meeting “What Happens After Death?” People from different traditions may be sitting at the table, so speak about it calmly and without polemics."
+    },
+    {
+     "sytuacja": "“He wasn’t even baptized.”",
+     "odpowiedz": "The text doesn’t say, and there is no need to settle it. Jesus gave the promise to a man who could no longer do anything but ask. The Bible takes baptism seriously, and at the same time this scene shows that it is Jesus who saves, not what a person managed to do."
+    },
+    {
+     "sytuacja": "Someone talks about their own time in prison, or about someone close to them behind bars.",
+     "odpowiedz": "Listen without judging. Note out loud that the only person who heard Jesus say “you will be with Me in Paradise” was a convicted criminal. Don’t ask for details of the crime."
+    },
+    {
+     "sytuacja": "Someone is accompanying a dying person, or is seriously ill themselves.",
+     "odpowiedz": "This story may be very close to home for them. Let them talk, don’t force comfort on them, and don’t give medical advice. The group listens and stays alongside. If someone is in emotional crisis, point them to a crisis line in your country, and in an emergency to your local emergency number."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 3 and 4 carry the meeting, because they hold the criminal’s request and Jesus’ answer."
+    }
+   ]
+  }
+ ]
+}

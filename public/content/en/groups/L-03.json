@@ -1,0 +1,796 @@
+{
+ "tytul": "The One Who Sold His Brother",
+ "id": "L-03",
+ "seria": "Second-Chance People",
+ "opis": "A man who sold his brother for silver offers himself, years later, in exchange for another brother.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 37:23-28, 31-33; Genesis 38:11, 14, 24-26; Genesis 43:8-9; 44:16; Genesis 44:18-20, 27-34; Genesis 49:8-10; Matthew 1:1-3; Revelation 5:5",
+  "p2": "Genesis 37:34-35; Deuteronomy 25:5-6; Genesis 45:1-2",
+  "p3": "Hebrews 7:14"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 17,
+  "p2": 22,
+  "p3": 25
+ },
+ "tagi": [
+  "Second-Chance People",
+  "transformation",
+  "guilt",
+  "responsibility",
+  "family",
+  "Genesis"
+ ],
+ "wersja": 1,
+ "zdanie": "The one who sold his brother learned to give himself for his brother. God did not leave Judah on his worst day.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about Judah, one of Jacob’s twelve sons. In the well-known story of Joseph he usually stays in the background, yet he goes through the longest transformation in the whole Book of Genesis. He starts with the idea of selling his brother, because there would be no profit in his death. Then his daughter-in-law catches him in his hypocrisy, and Judah admits publicly that she is the more righteous one. In the end he offers himself as a slave so that another brother can go home to their father. A king will come from his line, and in Jesus’ genealogy his name stands together with Tamar’s.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Here the second chance comes slowly, over years, through loss and through shame. God hardly speaks in this story, and yet He is at work the whole time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meetings are “Envy,” which reads Genesis 37 from the side of the brothers’ hatred, and “Forgiveness,” which reads Joseph’s words to his brothers. This meeting looks through Judah’s eyes.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Genesis 38 tells a sexual story and includes two deaths described as punishment. We don’t read those verses aloud. The italic sentences sum up what people need to know. You’ll find answers to questions in the red flags.",
+      "Someone at the table may have experienced exploitation, or may have been through a pregnancy that the people around them didn’t accept. Read calmly, without jokes and without probing.",
+      "Someone may have a brother or sister they have cut off contact with. Don’t turn this story into a command to reconcile.",
+      "It’s easy to make Judah into a villain or a hero. Show the road he traveled."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t moralize about Tamar. Don’t get into the details of the sexual customs of that world. Don’t explain why God allowed Joseph to be sold. That’s a topic for another meeting.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of something you once did or said that you would do completely differently today. Don’t say what it was. Say in one word what has changed in you since then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "What Profit?",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Jacob had twelve sons, and he loved Joseph most, the son of his beloved wife Rachel. The older brothers hated Joseph, and when he came to them in the pastures, they decided to kill him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 37:23-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "So when Joseph came to his brothers, they stripped him of his robe—the robe of many colors he was wearing— and they took him and threw him into the pit. Now the pit was empty, with no water in it. And as they sat down to eat a meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh on their way down to Egypt. Then Judah said to his brothers, “What profit will we gain if we kill our brother and cover up his blood? Come, let us sell him to the Ishmaelites and not lay a hand on him; for he is our brother, our own flesh.” And they agreed. So when the Midianite traders passed by, his brothers pulled Joseph out of the pit and sold him for twenty shekels of silver to the Ishmaelites, who took him to Egypt."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "The brothers go back home.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 37:31-33",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then they took Joseph’s robe, slaughtered a young goat, and dipped the robe in its blood. They sent the robe of many colors to their father and said, “We found this. Examine it to see whether it is your son’s robe or not.” His father recognized it and said, “It is my son’s robe! A vicious animal has devoured him. Joseph has surely been torn to pieces!”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Judah saves his brother from death with a question: “What profit will we gain…?” **What argument does he use to persuade his brothers, and what is missing from that argument?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "They threw their brother into an empty pit and “sat down to eat a meal.” **What does this one detail say about what had happened to them?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Examine it to see whether it is your son’s robe or not.” **What are the brothers doing to their father with this one sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Twenty shekels of silver is exactly the value the later law of Moses puts on a boy. There is one more echo in this scene. Long ago their father Jacob deceived his blind father with the help of a young goat and someone else’s clothes. Now his sons deceive him with the same props, a young goat and a robe. The narrator doesn’t comment on it. He simply tells the story.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Comforters",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 37:34-35",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days. All his sons and daughters tried to comfort him, but he refused to be comforted. “No,” he said. “I will go down to Sheol mourning for my son.” So his father wept for him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sons comfort their father over a loss they themselves caused. **What is it like to live with a secret like that for years?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What might have made Jacob “refuse to be comforted,” even though everyone tried?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "She Is More Righteous Than I",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Soon afterward Judah left his brothers and started a family among the Canaanites. His oldest son married Tamar and died. According to the custom of the time, the next brother was to marry the widow, but he died too.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 38:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Judah said to his daughter-in-law Tamar, “Live as a widow in your father’s house until my son Shelah grows up.” For he thought, “He may die too, like his brothers.” So Tamar went to live in her father’s house."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Years went by. Tamar learned that her father-in-law was on his way to Timnah.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 38:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "She removed her widow’s garments, covered her face with a veil to disguise herself, and sat at the entrance to Enaim, which is on the way to Timnah. For she saw that although Shelah had grown up, she had not been given to him as a wife."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Judah took the veiled woman for a prostitute and didn’t recognize his daughter-in-law. As a pledge for the payment he promised, he left her his seal, his cord, and his staff, the things by which he could be recognized.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 38:24-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "About three months later, Judah was told, “Your daughter-in-law Tamar has prostituted herself, and now she is pregnant.” “Bring her out!” Judah replied. “Let her be burned to death!” As she was being brought out, Tamar sent a message to her father-in-law: “I am pregnant by the man to whom these items belong.” And she added, “Please examine them. Whose seal and cord and staff are these?” Judah recognized the items and said, “She is more righteous than I, since I did not give her to my son Shelah.” And he did not have relations with her again."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Judah passes sentence without asking a single question. **What does this sentence say about him, since he himself has a part in this story?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Tamar doesn’t accuse him in front of people. She sends him his own belongings and says, “Please examine them.” The brothers once used the same word with their father over the bloodstained robe. **What might that word have stirred in Judah?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“She is more righteous than I.” **What does a sentence like that cost a person when it is said where everyone can hear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Judah doesn’t say that Tamar did the right thing. He says that he failed more, because he didn’t give her what was due to her. In the Bible, righteousness often means faithfulness toward another person. Tamar was faithful to her husband’s family. Judah was faithful only to his own fear. This is the first sentence in this family in which someone publicly takes the blame on himself. It is spoken by the man who once sold his brother.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The custom this story speaks of was known to many peoples of the East, and the law of Moses later regulated it. The dead man’s brother married the widow, and the first son of that union carried the dead man’s name and inherited from him. For the widow it was the only secure home and the only future. Tamar was promised to Shelah, so she couldn’t marry anyone else. Judah didn’t refuse her outright. He left her hanging, in her father’s house, in widow’s clothes, with no end date.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 25:5-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "When brothers dwell together and one of them dies without a son, the widow must not marry outside the family. Her husband’s brother is to take her as his wife and fulfill the duty of a brother-in-law for her. The first son she bears will carry on the name of the dead brother, so that his name will not be blotted out from Israel."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What was left for Tamar when Judah didn’t keep his word and no one could stand up for her?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The brothers say to their father `haker-na`, “examine, please.” Tamar sends Judah the same two Hebrew words. In both scenes someone hands over an object and says “examine,” and in both the truth comes out through a thing someone holds in their hand. In this way the narrator links two chapters that look like separate stories. The sentence with which Judah and his brothers deceived their father comes back to him from the hands of his daughter-in-law.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judah hears from Tamar exactly what he and his brothers had told their father. **Why does God sometimes teach a person with their own words?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "I Will Guarantee His Safety",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "More than two decades pass. There is famine in Canaan. Joseph, the brother they sold, has become governor of Egypt, but his brothers don’t recognize him. Joseph demands that on their next trip for grain they bring their youngest brother, Benjamin, Rachel’s second son. Jacob doesn’t want to let him go.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 43:8-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Judah said to his father Israel, “Send the boy with me, and we will go at once, so that we may live and not die—neither we, nor you, nor our children. I will guarantee his safety. You may hold me personally responsible. If I do not bring him back and set him before you, then may I bear the guilt before you all my life."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Joseph puts his brothers to the test. He has a silver cup hidden in Benjamin’s sack, and then announces that the boy will stay in Egypt as a slave.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 44:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "“What can we say to my lord?” Judah replied. “How can we plead? How can we justify ourselves? God has exposed the iniquity of your servants. We are now my lord’s slaves—both we and the one who was found with the cup.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Judah tells his father, “I will guarantee his safety.” **What does that sentence mean coming from a man who once sold his brother?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The brothers are innocent of stealing the cup, yet Judah says, “God has exposed the iniquity of your servants.” **What guilt might he be thinking of?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "In Place of the Boy",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 44:18-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Judah approached Joseph and said, “Sir, please let your servant speak personally to my lord. Do not be angry with your servant, for you are equal to Pharaoh himself. My lord asked his servants, ‘Do you have a father or a brother?’ And we answered, ‘We have an elderly father and a younger brother, the child of his old age. The boy’s brother is dead. He is the only one of his mother’s sons left, and his father loves him.’"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 44:27-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "And your servant my father said to us, ‘You know that my wife bore me two sons. When one of them was gone, I said: “Surely he has been torn to pieces.” And I have not seen him since. Now if you also take this one from me and harm comes to him, you will bring my gray hair down to Sheol in sorrow.’ So if the boy is not with us when I return to your servant, and if my father, whose life is wrapped up in the boy’s life, sees that the boy is not with us, he will die. Then your servants will have brought the gray hair of your servant our father down to Sheol in sorrow. Indeed, your servant guaranteed the boy’s safety to my father, saying, ‘If I do not return him to you, I will bear the guilt before you, my father, all my life.’ Now please let your servant stay here as my lord’s slave in place of the boy. Let him return with his brothers. For how can I go back to my father without the boy? I could not bear to see the misery that would overwhelm him.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Judah repeats his father’s words: “my wife bore me two sons.” He himself is the son of another wife. **How might that sentence have sounded to him twenty years ago, and how does it sound now?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Let your servant stay here as my lord’s slave in place of the boy.” **What has changed in Judah since that day at the pit?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In this speech the word “father” comes back again and again. **Who is Judah really fighting for?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is the longest speech in the whole Book of Genesis. Point by point, it reverses the old crime. Back then Judah sold Rachel’s son into slavery; now he offers himself as a slave so that Rachel’s other son can go home free. Back then their father’s favorite stirred up hatred in him. Now the father’s love for his favorite is his reason to plead for mercy. The words “in place of” also appear in this book with the ram offered up in place of Isaac.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Joseph Could No Longer Control Himself",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "This is how the test ends.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 45:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers. But he wept so loudly that the Egyptians heard him, and Pharaoh’s household soon heard of it."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Joseph makes himself known right after Judah’s speech. **What in that speech might have convinced him that his brothers were no longer the same men?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why does Judah’s transformation turn out to matter not only for him, but for the whole family?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "The Lion of the Tribe of Judah",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Near the end of his life, Jacob blesses his twelve sons. This is what he says to Judah.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 49:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Judah, your brothers shall praise you. Your hand shall be on the necks of your enemies; your father’s sons shall bow down to you. Judah is a young lion—my son, you return from the prey. Like a lion he crouches and lies down; like a lioness, who dares to rouse him? The scepter will not depart from Judah, nor the staff from between his feet, until Shiloh comes and the allegiance of the nations is his."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "This is how the New Testament begins.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Matthew 1:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham: Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers. Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 5:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then one of the elders said to me, “Do not weep! Behold, the Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll and its seven seals.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Jacob says to Judah, “your brothers shall praise you.” **What had to happen for this particular son to hear words like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Jesus’ genealogy Matthew writes the sentence, “Judah was the father of Perez and Zerah by Tamar.” **Why doesn’t the Gospel skip over this story?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jacob calls Judah a lion. The last book of the Bible calls Jesus that. **What does it say about God that His Son came into the world through this very family line?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Until Shiloh Comes",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Verse 10 is one of the hardest in Genesis. The BSB simply keeps the Hebrew word: “until Shiloh comes.” The meaning of `Shiloh` is uncertain. Some see in it the name of the town of Shiloh. Others read it as “the one to whom it belongs,” that is, the rightful ruler. Still others link it with a word meaning peace. Jewish tradition and Christians have long read this verse as a promise of a king who would come from Judah.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "All these readings share one thing. From the line of the man who sold his brother will come someone whom the nations will obey. The New Testament says it plainly.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 7:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "For it is clear that our Lord descended from Judah, a tribe as to which Moses said nothing about priests."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean to you that the promise of a king went through the line of Judah, and not of Joseph, who was innocent in this story?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judah traveled the road from “What profit…?” to asking to stay as a slave in place of the boy. **What do you think mattered most on that road?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**When is it easier for you to pass sentence on someone than to recognize the same thing in yourself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **is there a sentence in your life like “She is more righteous than I” that you haven’t said yet?** You don’t have to say who it’s about.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Judah was changed by the years, by the loss of two sons, by shame before his daughter-in-law, and by famine. God hardly speaks in this story. **Does a person change because of God, or because of what happens to them? Where is God in this story?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle the question. It helps if someone notices that Genesis sees God beneath the events. Judah himself names Him at the very moment he speaks of his own guilt.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The one who sold his brother learned to give himself for his brother. God did not leave Judah on his worst day.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Genesis 44:33 or Genesis 38:26.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Examine.” Think of something from your past that keeps coming back to you from time to time, like Judah’s seal. Instead of pushing it away, **admit before God that it is yours**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone weaker whom you could vouch for, that is, stand beside when things are hardest for them. Ask yourself **what is holding you back from that today**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** If you have hurt someone and that person knows it, admit before God what you are afraid of in talking with them. You don’t have to plan anything yet.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone asks about the death of Judah’s sons.** Genesis 38 says briefly that both older sons did evil and the LORD put them to death. Don’t draw conclusions from this about the illnesses and deaths of people we know. The Bible doesn’t give us a key here to other people’s tragedies. If someone at the table has recently lost someone, say so plainly and go back to Judah.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A question about Onan and today’s debates about sexuality.** Don’t get into them. The text is about a trick played on a widow. Onan pretended to fulfill his duty while making sure that no offspring would go to his dead brother. The wrong done to Tamar is the heart of it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So Tamar did the right thing?”** Judah doesn’t praise her method. He says that he himself failed more. The text leaves this in tension, and you don’t have to resolve it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“How could God choose Judah, of all people, for the Messiah’s line, and not innocent Joseph?”** This is one of the best questions of this meeting. Don’t answer too quickly. You can point out that in the Bible, again and again, God doesn’t end a person’s story at their worst chapter.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a brother or sister they have cut off contact with.** Listen, and don’t give advice. Judah’s story is not a command to reconcile at any price. It shows a man who changed himself before he put anything right.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A guest doesn’t know the story of Joseph and gets lost in the names.** Pause for a moment. Three characters are enough: Jacob the father, Joseph his beloved son, and Judah, who sold him. The rest will fall into place.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 1, 2, and 4 carry the meeting: the brother who was sold, the sentence about the more righteous daughter-in-law, and Judah giving himself for his brother.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone asks about the death of Judah’s sons.",
+     "odpowiedz": "Genesis 38 says briefly that both older sons did evil and the LORD put them to death. Don’t draw conclusions from this about the illnesses and deaths of people we know. The Bible doesn’t give us a key here to other people’s tragedies. If someone at the table has recently lost someone, say so plainly and go back to Judah."
+    },
+    {
+     "sytuacja": "A question about Onan and today’s debates about sexuality.",
+     "odpowiedz": "Don’t get into them. The text is about a trick played on a widow. Onan pretended to fulfill his duty while making sure that no offspring would go to his dead brother. The wrong done to Tamar is the heart of it."
+    },
+    {
+     "sytuacja": "“So Tamar did the right thing?”",
+     "odpowiedz": "Judah doesn’t praise her method. He says that he himself failed more. The text leaves this in tension, and you don’t have to resolve it."
+    },
+    {
+     "sytuacja": "“How could God choose Judah, of all people, for the Messiah’s line, and not innocent Joseph?”",
+     "odpowiedz": "This is one of the best questions of this meeting. Don’t answer too quickly. You can point out that in the Bible, again and again, God doesn’t end a person’s story at their worst chapter."
+    },
+    {
+     "sytuacja": "Someone talks about a brother or sister they have cut off contact with.",
+     "odpowiedz": "Listen, and don’t give advice. Judah’s story is not a command to reconcile at any price. It shows a man who changed himself before he put anything right."
+    },
+    {
+     "sytuacja": "A guest doesn’t know the story of Joseph and gets lost in the names.",
+     "odpowiedz": "Pause for a moment. Three characters are enough: Jacob the father, Joseph his beloved son, and Judah, who sold him. The rest will fall into place."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 1, 2, and 4 carry the meeting: the brother who was sold, the sentence about the more righteous daughter-in-law, and Judah giving himself for his brother."
+    }
+   ]
+  }
+ ]
+}

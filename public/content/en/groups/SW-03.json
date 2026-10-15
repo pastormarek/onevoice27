@@ -1,0 +1,782 @@
+{
+ "tytul": "The Altar in the Courtyard",
+ "id": "SW-03",
+ "seria": "The Sanctuary",
+ "opis": "What the sacrifice at the altar said about sin and about God, and why John called Jesus the Lamb.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Leviticus 1:2-9; Leviticus 4:27-31; Genesis 22:6-8, 13-14; 2 Chronicles 3:1; John 1:29, 35-36; Isaiah 53:6-7; Hebrews 10:1-4, 11-14",
+  "p2": "Leviticus 5:7, 11; 1 Peter 1:18-19; Hebrews 13:11-12; Hebrews 10:5-7; Psalm 51:16-17",
+  "p3": "Leviticus 17:11; Jeremiah 7:31"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 28
+ },
+ "tagi": [
+  "sanctuary",
+  "sacrifice",
+  "forgiveness",
+  "sin",
+  "Lamb of God",
+  "cross"
+ ],
+ "wersja": 1,
+ "zdanie": "The altar said that sin costs a life. The Lamb of God says that God gave that life Himself, once for all.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting stands at the first piece of furniture a person saw on entering the tabernacle courtyard: the altar of burnt offering. Sacrifice was a strong, physical language. The worshiper laid a hand on the animal’s head, killed it himself, and watched the blood and the fire. That language said that sin costs a life and that God accepts a substitute. It also said that forgiveness comes from God. The story of Abraham and Isaac raises the question of the lamb. John the Baptist answers it by pointing to Jesus. Hebrews adds that this one sacrifice was enough, once for all.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The descriptions of killing animals may disgust or frighten someone. That’s a normal reaction, and there’s no need to suppress it. The text is deliberately blunt, because sin is not a trifle.",
+      "The story in Genesis 22 is horrifying, because a father sets out to sacrifice his son. Someone may ask what kind of God would command such a thing. Don’t brush that question aside. You don’t have to resolve it completely either. See the red flags.",
+      "Someone at the table may be carrying heavy guilt. Don’t ask anyone about their sins, and don’t encourage confessions in front of the group.",
+      "Don’t speak badly of Israel or of Judaism. The sacrifices were God’s gift and a real way to God, not a primitive religion we have outgrown.",
+      "Write down questions about the Day of Atonement, the goat for Azazel, and the judgment for another meeting. Here we’re standing at the daily altar."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t describe in detail what the slaughter looked like. What the text says is enough. Don’t say “you killed Jesus” or similar sentences that crush people instead of leading them to grace.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a gift or a gesture that really cost someone something, because they gave you something precious or gave up something precious for you. Say in one sentence how you felt then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Hand on the Head",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The tabernacle is standing. God calls Moses and speaks to him from the Tent of Meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 1:2-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Speak to the Israelites and tell them: When any of you brings an offering to the LORD, you may bring as your offering an animal from the herd or the flock. If one’s offering is a burnt offering from the herd, he is to present an unblemished male. He must bring it to the entrance to the Tent of Meeting for its acceptance before the LORD. He is to lay his hand on the head of the burnt offering, so it can be accepted on his behalf to make atonement for him. And he shall slaughter the young bull before the LORD, and Aaron’s sons the priests are to present the blood and sprinkle it on all sides of the altar at the entrance to the Tent of Meeting. Next, he is to skin the burnt offering and cut it into pieces. The sons of Aaron the priest shall put a fire on the altar and arrange wood on the fire. Then Aaron’s sons the priests are to arrange the pieces, including the head and the fat, atop the burning wood on the altar. The entrails and legs must be washed with water, and the priest shall burn all of it on the altar as a burnt offering, an offering made by fire, a pleasing aroma to the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List what the person who brings the animal does, and what the priests do. **What surprises you about this division of work?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The worshiper is to lay a hand on the animal’s head, “so it can be accepted on his behalf to make atonement for him.” **What might that gesture have meant to someone doing it with their own hand?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The chapter opens with someone who chooses to come, “When any of you brings an offering,” and nothing from a burnt offering went back home. **Why would someone come freely with a gift from which they kept nothing for themselves?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Hebrew expression translated “lay his hand” means rather “lean on,” to rest your whole weight on the animal. The worshiper killed the animal himself, and the priest only stepped in at the blood and the fire. You couldn’t bring game hunted in the forest. The offering had to come from your own herd or flock, so it had to cost you. A burnt offering was burned whole. The entire gift went to God, and nothing was left for the worshiper’s table.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The animal must be “unblemished.” The Hebrew `tamim` is the same word the Bible uses when it calls Noah “blameless” in Genesis 6:9. Psalm 15:2 uses it too, for the one who may dwell in God’s tent (the BSB has “walks with integrity”). What is required of the animal is what the worshiper did not have in himself.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Hebrew uses a different verb for burning on the altar than for ordinary burning that destroys. This verb means “to turn into smoke,” and it shares a root with the word for “incense.” The offering doesn’t perish in the fire. It rises to God as “a pleasing aroma.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say about the burnt offering that the Bible describes it in words close to incense?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "One of the Common People",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 4:27-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "And if one of the common people sins unintentionally and does what is prohibited by any of the LORD’s commandments, he incurs guilt. When he becomes aware of the sin he has committed, he must bring an unblemished female goat as his offering for that sin. He is to lay his hand on the head of the sin offering and slaughter it at the place of the burnt offering. Then the priest is to take some of its blood with his finger, put it on the horns of the altar of burnt offering, and pour out the rest of the blood at the base of the altar. Then he is to remove all the fat, just as it is removed from the peace offering, and the priest is to burn it on the altar as a pleasing aroma to the LORD. In this way the priest will make atonement for him, and he will be forgiven."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The text describes the moment when a person “becomes aware of the sin he has committed.” **What goes on inside a person between that moment and the walk to the altar with a goat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The last sentence reads “he will be forgiven.” The text doesn’t say the priest forgives. **Who forgives in this scene, and what does each of the other participants do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "This law is for “one of the common people.” The earlier paragraphs of the chapter speak of the anointed priest, the whole congregation, and a leader. **What does it say that God provides a way to forgiveness for each of them separately?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In the Hebrew Bible the verb `salach`, “to forgive,” never has a human subject. It is always God who forgives. That is why the law ends with a passive form, “he will be forgiven.” The priest performs the rite, but he has no power to forgive. So the sacrifice is not a mechanism that works by itself. It is the way God set out so that a person could come and hear that they are free.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "If He Cannot Afford a Lamb",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 5:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "If, however, he cannot afford a lamb, he may bring to the LORD as restitution for his sin two turtledoves or two young pigeons—one as a sin offering and the other as a burnt offering."
+       ]
+      },
+      {
+       "odnosnik": "Leviticus 5:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "But if he cannot afford two turtledoves or two young pigeons, he may bring a tenth of an ephah of fine flour as a sin offering. He must not put olive oil or frankincense on it, because it is a sin offering."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The law steps down from a lamb to two birds, and then to a little fine flour. **What does that ladder say about whom God wants to see at the altar?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in these offerings is the same for the rich and for the poorest?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "God Himself Will Provide the Lamb",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "God tested Abraham. He told him to go to the land of Moriah and offer his son Isaac there as a burnt offering. After three days on the road they see the mountain in the distance.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 22:6-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together. Then Isaac said to his father Abraham, “My father!” “Here I am, my son,” he replied. “The fire and the wood are here,” said Isaac, “but where is the lamb for the burnt offering?” Abraham answered, “God Himself will provide the lamb for the burnt offering, my son.” And the two walked on together."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "At the top Abraham builds an altar and binds his son. As he raises the knife, the angel of the LORD calls to him from heaven and stops his hand.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 22:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son. And Abraham called that place The LORD Will Provide. So to this day it is said, “On the mountain of the LORD it will be provided.”"
+       ]
+      },
+      {
+       "odnosnik": "2 Chronicles 3:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. This was the place that David had prepared on the threshing floor of Ornan the Jebusite."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Isaac carries the wood, and his father carries the fire and the knife. The son asks where the lamb is. **What do you hear in Abraham’s answer, when you remember where they are going?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The ram is offered “in place of his son.” **What does that one phrase, “in place of,” change in this story?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Many centuries later Solomon builds the temple on Mount Moriah. **What does it mean that the temple with its altar stood on the same mountain where God gave a ram in place of a son?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The name Moriah appears only twice in the Old Testament: in this story and at the building of the temple. Isaac’s question doesn’t get a full answer in this chapter. Abraham finds a grown ram, not a lamb. The prophets of Israel will later say that child sacrifice was never God’s will. This story ends precisely with God stopping the knife. The question “where is the lamb?” stays open for many centuries.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Look, the Lamb of God",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "By the Jordan, John the Baptist is baptizing people who come from all over the region. He saw Jesus walking toward him.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 1:29",
+       "przeklad": "BSB",
+       "akapity": [
+        "The next day John saw Jesus coming toward him and said, “Look, the Lamb of God, who takes away the sin of the world!"
+       ]
+      },
+      {
+       "odnosnik": "John 1:35-36",
+       "przeklad": "BSB",
+       "akapity": [
+        "The next day John was there again with two of his disciples. When he saw Jesus walking by, he said, “Look, the Lamb of God!”"
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 53:6-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all. He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John could have called Jesus a king, a prophet, or the Messiah. He says “the Lamb of God.” **What might people who knew the altar in the courtyard and the story of Abraham have heard in that title?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Leviticus 4, one person brings one goat for one sin of his own. John speaks of “the sin of the world.” **What does that change of scale do?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Isaiah writes about someone who is silent like a lamb led to the slaughter. Isaac, too, finally says nothing and lets himself be bound. **Who in these texts doesn’t defend himself, and why does that matter so much?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Several pictures meet in the title “Lamb of God.” There is the lamb God was to “provide” on Moriah, the Passover lamb from the exodus out of Egypt, and the Servant in Isaiah who is silent like a sheep. The evangelist doesn’t explain the title. He comes back to the picture only at the cross, when the soldiers don’t break Jesus’ bones, as in the law about the Passover lamb (John 19:36). “The sin of the world” is singular. It means the whole sickness of the world, not just a list of offenses.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Price and the Place",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Peter 1:18-19",
+       "przeklad": "BSB",
+       "akapity": [
+        "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers, but with the precious blood of Christ, a lamb without blemish or spot."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 13:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Although the high priest brings the blood of animals into the Holy Place as a sacrifice for sin, the bodies are burned outside the camp. And so Jesus also suffered outside the city gate, to sanctify the people by His own blood."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Peter compares the blood of Christ with silver and gold. **What does that price say about how much these people are worth in God’s eyes?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus dies “outside the city gate,” where the bodies of animals offered for sin were burned and where the unclean were sent. **What does that place say about whom He came to?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Once for All",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 10:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship. If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins. Instead, those sacrifices are an annual reminder of sins, because it is impossible for the blood of bulls and goats to take away sins."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 10:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins. But when this Priest had offered for all time one sacrifice for sins, He sat down at the right hand of God. Since that time, He waits for His enemies to be made a footstool for His feet, because by a single offering He has made perfect for all time those who are being sanctified."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Day after day” the priest stands at the altar and offers “again and again the same sacrifices.” Christ offered one and “sat down.” **What does that picture say about what has been done?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The sacrifices are “an annual reminder of sins.” **How is remembering sin in a way that leads to God different from remembering that gives a person no peace?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“He has made perfect for all time those who are being sanctified.” **How does that sentence sound to someone who still sees a great deal of imperfection in themselves?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Hebrews doesn’t say the sacrifices in the tabernacle were bad or primitive. God Himself gave them, and through them people really came to Him with their sin. The author is talking about something else. The blood of animals pointed beyond itself, and that is why it had to be repeated. Christ’s sacrifice needs no repeating. The priest in the tabernacle never sat down, because the sacrifices never ended. Christ is seated, because He offered His sacrifice once for all. Now He ministers as High Priest.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Sacrifice You Did Not Desire",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 10:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, when Christ came into the world, He said: “Sacrifice and offering You did not desire, but a body You prepared for Me. In burnt offerings and sin offerings You took no delight. Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’”"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 51:16-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings. The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, You will not despise."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God Himself instituted the sacrifices, yet the psalm and the letter say He “did not desire” them. **So what did God want from the beginning when a person came with an offering?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Christ says, “a body You prepared for Me.” **What does it mean that the last sacrifice is Christ Himself, His body and His obedience all the way to death?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: What the Blood Does",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Leviticus 17:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the life of the flesh is in the blood, and I have given it to you to make atonement for your souls upon the altar; for it is the blood that makes atonement for the soul."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The church speaks about sacrifice with two emphases. Some stress substitution. Sin leads to death, and the animal, and later Christ, dies in place of the guilty one. Others point out that in this verse the blood is life, which God Himself gives for the altar. The sacrifice cleanses and restores the relationship. It isn’t a bribe for an angry God. Both sides agree on what the verse says most clearly. It is God who says “I have given it to you.” The initiative is on His side, and the blood is not a magic substance that works by itself.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in our understanding of sacrifice when the blood on the altar is a gift from God Himself?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How do we hold together the truth that sin is deadly serious and the truth that God Himself comes to the rescue?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The worshiper brought the animal himself and leaned his own hand on it. Nobody did it for him. **What helps a person come to God personally with their own sin, and what gets in the way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in your life are you still offering “the same sacrifices,” trying to work something off, though Christ has already sat down?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what moves you most today in the words “Look, the Lamb of God, who takes away the sin of the world”?** You don’t have to say why.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jeremiah 7:31",
+       "przeklad": "BSB",
+       "akapity": [
+        "They have built the high places of Topheth in the Valley of Hinnom so they could burn their sons and daughters in the fire—something I never commanded, nor did it even enter My mind."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God says through Jeremiah that child sacrifice did not even enter His mind. And yet He puts Abraham to such a test, and He Himself gives His own Son. **Why does forgiveness in the Bible cost a life? Couldn’t God simply forgive, without an altar and without a cross?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t produce a single answer here. It helps if someone notices that on Moriah the knife is stopped above a human son. At Golgotha no one stops it, because this time God Himself gives the sacrifice. The sacrifice is not a price people pay God. It is God who pays for people.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The altar said that sin costs a life. The Lamb of God says that God gave that life Himself, once for all.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** John 1:29 or Hebrews 10:14.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The worshiper leaned his whole weight on the animal. Ask yourself **what weight you are carrying alone, though you could lean it on Christ**. You don’t have to tell anyone about it. Name it before God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The priest in the tabernacle never sat down. Think about **where you are still trying to earn God’s forgiveness**, as if Christ’s sacrifice weren’t enough. Admit it before Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** read Genesis 22:7-8 again and stay with Isaac’s question, “where is the lamb?” Stop at that question and answer it to God in your own words.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“This is awful, so much blood and killing.”** Agree that it’s hard to read. Don’t soften the text. Say that this is exactly why the sacrifice spoke so powerfully. No one could think that sin was a trifle. Go back to the question in block 1 about the hand on the animal’s head.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What kind of God tells a father to kill his son?”** It’s an honest question, and it shouldn’t be brushed aside. Point out three things from the text. From the first verse the reader knows this is a test. God stops the knife. The prophet Jeremiah says plainly in Jeremiah 7:31 that child sacrifice never even entered God’s mind. Don’t try to resolve the whole difficulty of this story today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Did God need blood to stop being angry?”** Don’t get into an argument about theories of atonement. Read Leviticus 17:11. It is God who says “I have given it to you.” The initiative is on His side. At the cross God is not someone people have to bribe. He Himself provides the means of atonement.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So the Jews had a second-rate religion?”** No. God Himself gave the sacrifices, and they were a real way to Him. Hebrews calls them a shadow, that is, a foreshadowing, not a falsehood. Speak about Judaism with respect.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says their sin is too great for God to forgive.** Don’t argue, and don’t play it down. Calmly read John 1:29 and Hebrews 10:14. If the conversation gets very personal, offer to talk one-on-one after the meeting. Don’t make it a topic for the whole group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about the Day of Atonement and the goat for Azazel?”** That’s a separate topic. Write the question down. Today we’re standing at the daily altar in the courtyard.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 1, 3, 4, and 5 carry the meeting: the hand on the animal’s head, the question about the lamb, John’s answer, and the one sacrifice once for all.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“This is awful, so much blood and killing.”",
+     "odpowiedz": "Agree that it’s hard to read. Don’t soften the text. Say that this is exactly why the sacrifice spoke so powerfully. No one could think that sin was a trifle. Go back to the question in block 1 about the hand on the animal’s head."
+    },
+    {
+     "sytuacja": "“What kind of God tells a father to kill his son?”",
+     "odpowiedz": "It’s an honest question, and it shouldn’t be brushed aside. Point out three things from the text. From the first verse the reader knows this is a test. God stops the knife. The prophet Jeremiah says plainly in Jeremiah 7:31 that child sacrifice never even entered God’s mind. Don’t try to resolve the whole difficulty of this story today."
+    },
+    {
+     "sytuacja": "“Did God need blood to stop being angry?”",
+     "odpowiedz": "Don’t get into an argument about theories of atonement. Read Leviticus 17:11. It is God who says “I have given it to you.” The initiative is on His side. At the cross God is not someone people have to bribe. He Himself provides the means of atonement."
+    },
+    {
+     "sytuacja": "“So the Jews had a second-rate religion?”",
+     "odpowiedz": "No. God Himself gave the sacrifices, and they were a real way to Him. Hebrews calls them a shadow, that is, a foreshadowing, not a falsehood. Speak about Judaism with respect."
+    },
+    {
+     "sytuacja": "Someone says their sin is too great for God to forgive.",
+     "odpowiedz": "Don’t argue, and don’t play it down. Calmly read John 1:29 and Hebrews 10:14. If the conversation gets very personal, offer to talk one-on-one after the meeting. Don’t make it a topic for the whole group."
+    },
+    {
+     "sytuacja": "“What about the Day of Atonement and the goat for Azazel?”",
+     "odpowiedz": "That’s a separate topic. Write the question down. Today we’re standing at the daily altar in the courtyard."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 1, 3, 4, and 5 carry the meeting: the hand on the animal’s head, the question about the lamb, John’s answer, and the one sacrifice once for all."
+    }
+   ]
+  }
+ ]
+}

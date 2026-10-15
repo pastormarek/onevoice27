@@ -1,0 +1,847 @@
+{
+ "tytul": "Signs, Doors, and Advice",
+ "id": "W-04",
+ "seria": "Decisions and the Will of God",
+ "opis": "What to do with a sign, with closed doors, and with other people’s advice, when we really want to know which way to go.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Judges 6:14-16, 36-40; Acts 1:21-26; Proverbs 16:33; Acts 16:6-10; 1 Kings 12:1-16; Proverbs 15:22; 11:14; 12:15; 19:20; 20:18",
+  "p2": "Judges 7:9-11, 13-15; Jonah 1:1-3, 5; 1 Kings 22:5-8; Genesis 24:12-14, 21, 26-27",
+  "p3": "Acts 15:28; 1 Kings 12:15"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "signs",
+  "circumstances",
+  "advice",
+  "wisdom"
+ ],
+ "wersja": 1,
+ "zdanie": "A single sign is easy to mistake for the echo of our own wishes. God usually guides through several voices at once, and through people who have the courage to tell the truth.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about what comes to us from outside when we are looking for the way. There are signs we ask for, doors that open or close, and other people’s advice. The Bible shows that God uses these paths. It also shows how easily they can be misused. A single clue usually limps on its own. Only several voices together, tested by Scripture, begin to say something.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Two emphases can be heard in the church here. Some believe that in important matters God has a specific path for a person and leads them to it in relationship. Others stress that God gives wisdom and freedom of choice within the bounds of what He has already said. Both share the conviction that God isn’t playing hide-and-seek with us and that no sign stands above Scripture.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meeting: “Praying Before a Choice.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be facing a real decision and may want the group to make it for them. The group asks questions and prays. The decision stays with them.",
+      "Someone may have made a choice “by a sign” in the past that ended badly. Don’t judge them, and don’t let the group laugh about it.",
+      "The choosing of Matthias by lot is read in the church in two ways. Show both, and don’t settle it.",
+      "The topic of advice opens old wounds. Someone may have spent years listening to an adviser who made decisions for them, even in God’s name."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t give a few-step recipe for finding God’s will. Don’t tell your own unusual signs as a model. Don’t become the adviser at the table.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a coincidence you once took as a sign from God. Say in one sentence what it was and how you see it today.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "A Fleece on the Threshing Floor",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Every year the Midianites plunder Israel. God speaks to Gideon, who is threshing grain in hiding.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Judges 6:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?” “Please, my Lord,” Gideon replied, “how can I save Israel? Indeed, my clan is the weakest in Manasseh, and I am the youngest in my father’s house.” “Surely I will be with you,” the LORD replied, “and you will strike down all the Midianites as one man.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Gideon gathers an army from several tribes. Before the battle he speaks to God once more.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Judges 6:36-40",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Gideon said to God, “If You are going to save Israel by my hand, as You have said, then behold, I will place a fleece of wool on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that You are going to save Israel by my hand, as You have said.” And that is what happened. When Gideon arose the next morning, he squeezed the fleece and wrung out the dew—a bowlful of water. Then Gideon said to God, “Do not be angry with me; let me speak one more time. Please allow me one more test with the fleece. This time let it be dry, and the ground covered with dew.” And that night God did so. Only the fleece was dry, and dew covered the ground."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Twice Gideon says to God, “as You have said.” **What is he actually asking for, if he already has the command and the promise?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God grants both requests and says not one word of reproach. **What does that silence say about how God treats a person who is afraid?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Gideon himself senses he is going too far: “Do not be angry with me.” **How is asking for reassurance different from setting conditions for God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Gideon didn’t use the fleece to find the way. He knew the way, because he had heard it directly. He was looking for assurance that he wouldn’t be left on his own. Some readers see weak faith in this scene, others the fear of a man who is about to lead an army. All of them see a God who is patient with weakness. Whoever lays out a fleece today before choosing a job is usually looking for something else. They want the sign to decide for them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Third Sign No One Asked For",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Judges 7:9-11, 13-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "That night the LORD said to Gideon, “Get up and go down against the camp, for I have delivered it into your hand. But if you are afraid to do so, then go down to the camp with your servant Purah and listen to what they are saying. Then your hands will be strengthened to attack the camp.” So he went with Purah his servant to the outposts where armed men were guarding the camp. … And as Gideon arrived, a man was telling his friend about a dream. “Behold, I had a dream,” he said, “and I saw a loaf of barley bread come tumbling into the Midianite camp. It struck the tent so hard that the tent overturned and collapsed.” His friend replied: “This is nothing less than the sword of Gideon son of Joash, the Israelite. God has delivered Midian and the whole camp into his hand.” When Gideon heard the dream and its interpretation, he bowed in worship. He returned to the camp of Israel and said, “Get up, for the LORD has delivered the camp of Midian into your hand.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God Himself says, “if you are afraid.” **What does it mean that God knows Gideon’s fear and Himself offers him a way to find courage?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "After hearing the dream, Gideon first worships God, and only then gets up. **What changed in him between the fleece and the enemy camp?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "The Lot and Prayer",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After Jesus’ ascension the disciples are waiting in Jerusalem for the promised Spirit. Peter says that Judas’s place among the Twelve must be filled.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 1:21-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us, beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.” So they proposed two men: Joseph called Barsabbas (also known as Justus) and Matthias. And they prayed, “Lord, You know everyone’s heart. Show us which of these two You have chosen to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.” Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 16:33",
+       "przeklad": "BSB",
+       "akapity": [
+        "The lot is cast into the lap, but its every decision is from the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before they cast lots, they set the condition themselves and put forward two candidates themselves. **What did the disciples do with their own minds, and what did they leave to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "They pray, “Lord, You know everyone’s heart.” **Why is this particular truth about God important when someone is being chosen for ministry?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The Bible says nothing more about Joseph called Barsabbas. **What might the one on whom the lot didn’t fall have gone through, and what was left for him?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Israel the lot was used to settle matters that couldn’t be decided any other way. It was used to divide the land among the tribes and to set the order of the priests’ service. The proverb says that the outcome belongs to the LORD anyway. What happened before the lot was cast matters too. The disciples knew the condition, because a witness of the resurrection had to be someone who had walked with Jesus from the very beginning. The lot chose between two men who both met that condition.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Model or Warning",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This is the last casting of lots described in the Bible. A few days later the Holy Spirit comes, and the New Testament never returns to this method. The church settles its next great question after long deliberation, and the letter with the outcome says this:",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 15:28",
+       "przeklad": "BSB",
+       "akapity": [
+        "It seemed good to the Holy Spirit and to us not to burden you with anything beyond these essential requirements:"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The scene with Matthias is read in the church in two ways. Some see it as a warning. The disciples reached for an old method even though they were waiting for the Spirit, and the Bible says not another word about Matthias afterward. Others point out that Luke doesn’t criticize anything here. The disciples pray, Matthias is added to the apostles, and we know just as little about half of the Twelve. Both readings agree on one thing. After the Spirit is poured out, no one in the New Testament looks for God’s will by lot anymore, and no one recommends it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in decision-making when the Spirit lives in a community that thinks and prays together?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Doors That Close",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul, with Silas and Timothy, is visiting the churches in the interior of what is now Turkey and wants to go further. Asia is the Roman province on the west coast; Bithynia lies to the north.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 16:6-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "After the Holy Spirit had prevented them from speaking the word in the province of Asia, they traveled through the region of Phrygia and Galatia. And when they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not permit them. So they passed by Mysia and went down to Troas. During the night, Paul had a vision of a man of Macedonia standing and pleading with him, “Come over to Macedonia and help us.” As soon as Paul had seen the vision, we got ready to leave for Macedonia, concluding that God had called us to preach the gospel to them."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t sit at home waiting for a pointer. He makes plans and sets out. **Where in this story does God meet a person who is looking for the way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The door closes twice, and Luke doesn’t say how. **How might people feel who walk hundreds of miles while their plans close one after another?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "After the vision Luke writes “concluding” and switches to “we.” **What does that say about how one man’s vision became the decision of the whole group?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Asia and Bithynia weren’t a bad plan. People who needed the gospel lived there too. A few years later Paul spent over two years in the province of Asia, and the whole province heard the word (Acts 19:10). So in Asia the closed door meant “not yet.” In Troas, after a long road and two closed directions, the vision came, and Paul carried the gospel to Europe for the first time. Many closed doors make sense only from a distance.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Ship Ready to Sail",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Jonah 1:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the word of the LORD came to Jonah son of Amittai, saying, “Get up! Go to the great city of Nineveh and preach against it, because its wickedness has come up before Me.” Jonah, however, got up to flee to Tarshish, away from the presence of the LORD. He went down to Joppa and found a ship bound for Tarshish. So he paid the fare and went aboard to sail for Tarshish, away from the presence of the LORD."
+       ]
+      },
+      {
+       "odnosnik": "Jonah 1:5",
+       "przeklad": "BSB",
+       "akapity": [
+        "The sailors were afraid, and each cried out to his own god. And they threw the ship’s cargo into the sea to lighten the load. But Jonah had gone down to the lowest part of the vessel, where he lay down and fell into a deep sleep."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jonah found a ship, paid the fare, and went aboard. Everything fell into place. **What does this story say about doors that open without any difficulty?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "During the storm Jonah is in a deep sleep. **Why aren’t peace and an easy road enough to consider a choice a good one?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Two Kinds of Advice at One Table",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "After Solomon’s death his son Rehoboam goes to Shechem so that the northern tribes will acknowledge him as king. The people are worn out by the forced labor and the taxes of Solomon’s time.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 12:1-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Rehoboam went to Shechem, for all Israel had gone there to make him king. When Jeroboam son of Nebat heard about this, he was still in Egypt where he had fled from King Solomon and had been living ever since. So they sent for Jeroboam, and he and the whole assembly of Israel came to Rehoboam and said, “Your father put a heavy yoke on us. But now you should lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.” Rehoboam answered, “Go away for three days and then return to me.” So the people departed. Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked. They replied, “If you will be a servant to these people and serve them this day, and if you will respond by speaking kind words to them, they will be your servants forever.” But Rehoboam rejected the advice of the elders; instead, he consulted the young men who had grown up with him and served him. He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?” The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you should make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist! Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’” After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.” And the king answered the people harshly. He rejected the advice of the elders and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.” So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite. When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Rehoboam asks twice and gets two opposite pieces of advice. **How do the people who give them differ? What does each group stand to gain or to lose?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The elders advise him to be a servant to the people. **Why might this particular advice have been the hardest for a young king to accept?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Nowhere does the text say that Rehoboam asked God. **What might have changed if a third conversation had taken place before those two?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The young men had grown up with the king and belonged to his court. Their advice flattered his desire to show strength from the first day. The elders remembered Solomon’s reign and knew the mood of the people. The young men’s advice was bad because of the pride and self-interest behind it. Age had nothing to do with it. The result was the breakup of the kingdom, which was never united again.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Four Hundred with One Voice",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ahab, king of Israel, urges Jehoshaphat, king of Judah, to join him in a military campaign.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 22:5-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Jehoshaphat also said to the king of Israel, “Please inquire first for the word of the LORD.” So the king of Israel assembled the prophets, about four hundred men, and asked them, “Should I go to war against Ramoth-gilead, or should I refrain?” “Go up,” they replied, “and the Lord will deliver it into the hand of the king.” But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom we can inquire?” The king of Israel answered, “There is still one man who can ask the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Four hundred prophets say the same thing. **Why isn’t that enough for Jehoshaphat?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ahab hates Micaiah because he never prophesies anything good for him. **Whom do we easily stop asking for their opinion once we’ve already decided something?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The LORD’s Doing and the King’s Choice",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 12:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The author says two things at once. Rehoboam himself rejected good advice and is himself responsible for his pride. And at the same time God was steering history toward what He had announced earlier through a prophet. The Bible doesn’t explain how these two truths fit together. But it doesn’t let us either blame God or conclude that God has lost control of the situation.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can a person’s free, wrong choice exist side by side with God’s purpose, which is fulfilled anyway?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Many Advisers, One Lord",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 15:22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Plans fail for lack of counsel, but with many advisers they succeed."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 11:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "For lack of guidance, a nation falls, but with many counselors comes deliverance."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 12:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "The way of a fool is right in his own eyes, but a wise man listens to counsel."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 19:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "Listen to counsel and accept discipline, that you may be wise the rest of your days."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 20:18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Set plans by consultation, and wage war under sound guidance."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Proverbs links counsel with correction: “Listen to counsel and accept discipline.” **Why does good advice so often hurt?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The way of a fool is right in his own eyes.” **How can you tell whether we are asking for advice, or collecting support for a decision we’ve already made?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What kind of people are worth asking for their opinion about an important decision, and what kind are better avoided?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Research on group judgments shows that collective wisdom works under one condition. People have to assess the matter each on their own. When they hear the others’ opinions first, the result gets worse. So many advisers help when they really are different voices. Three people who know God and know you, and who independently of one another say the same thing, carry more weight than a crowd repeating the words of the first speaker.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Request at the Spring",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Abraham sends a trusted servant to his family in Mesopotamia to find a wife for Isaac.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 24:12-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "“O LORD, God of my master Abraham,” he prayed, “please grant me success today, and show kindness to my master Abraham. Here I am, standing beside the spring, and the daughters of the townspeople are coming out to draw water. Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.”"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 24:21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, the man watched her silently to see whether or not the LORD had made his journey a success."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 24:26-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the man bowed down and worshiped the LORD, saying, “Blessed be the LORD, the God of my master Abraham, who has not withheld His kindness and faithfulness from my master. As for me, the LORD has led me on the journey to the house of my master’s relatives.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The servant doesn’t ask for just any sign. He asks for a young woman who will offer on her own to water ten thirsty camels. **What was a request like that testing?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Even when everything fits, the servant “watched her silently.” **What does that caution teach someone who thinks they have just received a sign?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "A thirsty camel can drink a great deal, and a jar held very little. Ten animals meant long, hard work for a stranger. So the servant asked for a circumstance that would reveal character. The answer to his prayer was at the same time good information, because the young woman with the camels would have been a sensible choice even in the eyes of a level-headed matchmaker.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think of a decision you are facing now or faced recently. **What do you most easily appeal to: a sign, circumstances, other people’s advice, or your own hunch?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What advice keeps coming back to you from several directions, even though you’d rather not hear it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share: **what would you like to ask God for in the matter that is in front of you now? A sign, courage, or a person who will tell you the truth?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**God answered Gideon’s fleece, though the fleece was no model. If God sometimes stoops to our tests, how do you tell His patience with weakness apart from encouragement to keep doing it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "you don’t have to settle this. It helps if someone observes that after the fleece Gideon received one more sign he hadn’t asked for. God was leading him from fear to courage, and that was the purpose of all the signs.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A single sign is easy to mistake for the echo of our own wishes. God usually guides through several voices at once, and through people who have the courage to tell the truth.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Proverbs 15:22 or Acts 16:10.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a decision that lies ahead of you. Ask yourself honestly **whether I am looking for the way, or for confirmation of a way I have already chosen**. Stay with that answer, even if it embarrasses you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Remember a door that once closed and hurt a lot. Ask God **what you see in it differently today than you did then**. If nothing, that too is an answer for today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of a person whose opinion you avoid because they usually say uncomfortable things. Admit to yourself what you are afraid of hearing from them.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“But God really did give me a sign.”** Don’t question another person’s experience. God answered Gideon twice. You can calmly ask whether that sign agreed with Scripture and with what the people who know this person well were saying.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone brings a specific decision and asks the group to tell them what to do.** Thank them for their trust. The group can ask questions and pray with them. The decision stays with them. Suggest that after the meeting they talk with someone who has known them longer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So flipping a coin is a sin?”** The Bible knows the lot as a way of ending disputes, even between powerful opponents (Proverbs 18:18). The trouble starts when the lot is meant to replace thinking, prayer, and counsel in one of life’s big questions.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“A closed door is a sign that God doesn’t want it.”** Sometimes it is. Sometimes it’s a test of perseverance, or “not yet.” Paul didn’t enter Asia on that journey, and a few years later he preached there for over two years. One door is rarely enough to settle the matter.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone tells how a “spiritual” adviser or leader made decisions for them.** Listen to the end, and don’t judge that person in front of the group. You can say that good advice leaves a person their freedom and their responsibility. If the matter is serious, stay with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 1, 3, and 4 carry the meeting: the fleece and God’s patience, Paul’s closed doors, and the advice Rehoboam rejected. In that case, read block 5 aloud without the questions.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“But God really did give me a sign.”",
+     "odpowiedz": "Don’t question another person’s experience. God answered Gideon twice. You can calmly ask whether that sign agreed with Scripture and with what the people who know this person well were saying."
+    },
+    {
+     "sytuacja": "Someone brings a specific decision and asks the group to tell them what to do.",
+     "odpowiedz": "Thank them for their trust. The group can ask questions and pray with them. The decision stays with them. Suggest that after the meeting they talk with someone who has known them longer."
+    },
+    {
+     "sytuacja": "“So flipping a coin is a sin?”",
+     "odpowiedz": "The Bible knows the lot as a way of ending disputes, even between powerful opponents (Proverbs 18:18). The trouble starts when the lot is meant to replace thinking, prayer, and counsel in one of life’s big questions."
+    },
+    {
+     "sytuacja": "“A closed door is a sign that God doesn’t want it.”",
+     "odpowiedz": "Sometimes it is. Sometimes it’s a test of perseverance, or “not yet.” Paul didn’t enter Asia on that journey, and a few years later he preached there for over two years. One door is rarely enough to settle the matter."
+    },
+    {
+     "sytuacja": "Someone tells how a “spiritual” adviser or leader made decisions for them.",
+     "odpowiedz": "Listen to the end, and don’t judge that person in front of the group. You can say that good advice leaves a person their freedom and their responsibility. If the matter is serious, stay with them after the meeting."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 1, 3, and 4 carry the meeting: the fleece and God’s patience, Paul’s closed doors, and the advice Rehoboam rejected. In that case, read block 5 aloud without the questions."
+    }
+   ]
+  }
+ ]
+}

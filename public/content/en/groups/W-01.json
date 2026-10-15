@@ -1,0 +1,787 @@
+{
+ "tytul": "Is God Playing Hide-and-Seek with Me?",
+ "id": "W-01",
+ "seria": "Decisions and the Will of God",
+ "opis": "What the Bible openly calls God’s will, and why God doesn’t hide the way from us.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Psalm 32:6-11; Proverbs 16:1-3, 9; 19:21; Micah 6:3-8; Deuteronomy 29:29; 1 Thessalonians 4:1-3; 5:16-18; Ephesians 5:15-17; 1 Peter 2:15; Romans 12:1-2, 9-13",
+  "p2": "Ezekiel 34:11-12, 16; Acts 13:22; Psalm 25:4-5",
+  "p3": "Psalm 51:13; Psalm 139:16"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 28
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "guidance",
+  "fear",
+  "freedom",
+  "wisdom"
+ ],
+ "wersja": 1,
+ "zdanie": "God isn’t hiding the way from you. He has already made most of it known, and He will walk the rest of it with you.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Many believers carry around a picture of a God who has one detailed plan for them and keeps it hidden. Guess wrong, and you drop out of the plan and live a second-best version of your life from then on. That picture makes every decision frightening. This meeting checks what the Bible openly calls God’s will. It turns out the Bible says a lot about it, and says it clearly, above all about what kind of people we are to be. About the city, the job, and the name of a future husband or wife, it says nothing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two emphases in the church on this. Some believe that God also has a purpose for a specific job or place, and leads to it those who ask. Others hold that within the bounds of what God has already said, He gives freedom and wisdom to choose. Both sides agree that God guides, that He doesn’t play guessing games with people, and that God’s revealed will comes before everything else. The meeting doesn’t settle the debate. It sticks to the text.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meetings: “Wisdom You May Ask For” and “A Voice You Can Recognize.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may be facing an important choice right now. The group doesn’t make the decision for them and doesn’t tell them what God wants for them.",
+      "Someone may be afraid that they once chose wrongly and are now living in plan B. Don’t brush that fear aside. Today’s texts have a lot to say to them.",
+      "Someone may have experienced very specific guidance. Don’t question it, and don’t make it the norm for everyone.",
+      "The topic easily slides into advice like a list of pros and cons. Keep coming back to the question of what kind of God He is, the One who guides."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t hand out a formula for finding God’s will. Don’t judge other people’s past decisions. Don’t press anyone to say what they are going to decide.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a decision you struggled with for a long time. Without going into detail, say in one word what made the choice hardest back then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Counsel Instead of a Bit",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The psalm begins with the joy of a man whom God has forgiven. Only after that comes the promise of guidance.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 32:6-11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore let all the godly pray to You while You may be found. Surely when great waters rise, they will not come near. You are my hiding place. You protect me from trouble; You surround me with songs of deliverance. Selah I will instruct you and teach you the way you should go; I will give you counsel and watch over you. Do not be like the horse or mule, which have no understanding; they must be controlled with bit and bridle to make them come to you. Many are the sorrows of the wicked, but loving devotion surrounds him who trusts in the LORD. Be glad in the LORD and rejoice, O righteous ones; shout for joy, all you upright in heart."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 8 speaks of instructing, teaching the way, giving counsel, and watching over. **What do these four things say about how God wants to guide a person?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "A horse and a mule go where the bridle pulls them. **How is being led by a bit different from being led by counsel? Which of the two do we more often wait for when a decision is hard?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What difference does it make to a person that the promise of guidance comes only after forgiveness?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The picture in verse 9 is a strong one. An animal with no understanding has to be pulled, because it doesn’t understand where it’s going. God promises a person something different. He wants to teach them so that they themselves begin to understand the way. Guidance in this psalm is first of all a promise of discernment. Some translations keep the Hebrew picture of the eye: “I will counsel you with my eye on you” (WEB). It is the look of a teacher who doesn’t walk away from the student.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Shepherd Who Searches",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 34:11-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "For this is what the Lord GOD says: ‘Behold, I Myself will search for My flock and seek them out. As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness."
+       ]
+      },
+      {
+       "odnosnik": "Ezekiel 34:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "I will seek the lost, bring back the strays, bind up the broken, and strengthen the weak; but the sleek and strong I will destroy. I will shepherd them with justice.’"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In this picture someone gets lost and someone searches. **Who is searching for whom? How does that fit with the fear that God is hiding the way from us?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sheep were scattered “on a day of clouds and darkness.” **What does God promise the scattered, the injured, and the weak? What does that say about how He regards those who got lost?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Who Is Speaking in Verse 8",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The text doesn’t say outright whose voice we hear in Psalm 32:8. Many readers take it as God speaking. Some commentators read the verse differently. In their view David himself is speaking. Earlier, after his fall, he promised in another psalm that he would teach others God’s ways.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 51:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then I will teach transgressors Your ways, and sinners will return to You."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the first reading God promises that He Himself will guide. In the second, a forgiven person becomes a teacher for others. Both readings share one thing. Guidance comes as teaching and counsel. There is no yanking on the bridle in it.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If the one speaking in verse 8 is a forgiven person, what does that say about whom God usually uses to guide others?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Man Plans",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 16:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "The plans of the heart belong to man, but the reply of the tongue is from the LORD. All a man’s ways are pure in his own eyes, but his motives are weighed out by the LORD. Commit your works to the LORD and your plans will be achieved."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 16:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "A man’s heart plans his course, but the LORD determines his steps."
+       ]
+      },
+      {
+       "odnosnik": "Proverbs 19:21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Many plans are in a man’s heart, but the purpose of the LORD will prevail."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Proverbs doesn’t forbid making plans. **In these verses, what belongs to the person, and what belongs to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Commit your works to the LORD.” **What does it mean in practice to commit to God a plan you put together yourself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 2 says that all a man’s ways are pure in his own eyes. **Where is it easiest to fool ourselves when we make important decisions?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Proverbs assumes that a person thinks, calculates, and plans a course. Nowhere does it tell them to sit and wait for a plan to drop from heaven. It only says that the last word isn’t theirs. The Hebrew verb in verse 9 also carries the sense of making firm, so the LORD establishes the steps. God doesn’t do our thinking for us. He steadies the one who is already walking.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: One Plan or Many Good Paths",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 139:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Your eyes saw my unformed body; all my days were written in Your book and ordained for me before one of them came to be."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "This verse and the sentence “the purpose of the LORD will prevail” are read in the church in two ways. The first view sees in them a detailed plan of God for every person. God leads to it those who sincerely ask Him, though He doesn’t always reveal it in advance. The second view reads them as a description of God’s rule over history. God knows every day, and nothing slips out of His hands. But He doesn’t give us that book to read ahead of time. In matters He hasn’t settled, He leaves freedom and wisdom. Both views agree that God is close to every decision and that no honest mistake snatches a person out of His hand.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these two views is closer to you? What in your life lies behind that?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does everyday decision-making change depending on which view you take?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "He Has Shown You, O Man",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The prophet describes a court case. God summons His people and reminds them of what He has done for them.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Micah 6:3-8",
+       "przeklad": "BSB",
+       "akapity": [
+        "‘My people, what have I done to you? Testify against Me how I have wearied you! For I brought you up from the land of Egypt and redeemed you from the house of slavery. I sent Moses before you, as well as Aaron and Miriam. My people, remember what Balak king of Moab counseled and what Balaam son of Beor answered. Remember your journey from Shittim to Gilgal, so that you may acknowledge the righteousness of the LORD.’” With what shall I come before the LORD when I bow before the God on high? Should I come to Him with burnt offerings, with year-old calves? Would the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Shall I present my firstborn for my transgression, the fruit of my body for the sin of my soul? He has shown you, O man, what is good. And what does the LORD require of you but to act justly, to love mercy, and to walk humbly with your God?"
+       ]
+      },
+      {
+       "odnosnik": "Deuteronomy 29:29",
+       "przeklad": "BSB",
+       "akapity": [
+        "The secret things belong to the LORD our God, but the things revealed belong to us and to our children forever, so that we may follow all the words of this law."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The person in verses 6-7 keeps raising the stakes. **What is he afraid of? What kind of God does he have in his head?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 8 begins with “He has shown you,” and Moses speaks of “the things revealed.” **What does that change for someone who thinks God’s will is a riddle to be solved?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The three things in verse 8 don’t say where to work or whom to marry. **How do they still touch decisions like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The bidding in verses 6-7 rises from an ordinary offering to offerings fit for a king, and ends with one’s own child. That last one was expressly forbidden in Israel. Fear whispers that God wants more and more, and harder and harder. God’s answer is short and has been known for a long time. The word the BSB renders as “mercy” is the Hebrew `chesed`, a faithful love that keeps its word. The Bible uses the same word to describe God Himself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Micah chapter 6 is built like a lawsuit. First the summons and the witnesses, the mountains and the foundations of the earth. Then the plaintiff’s speech, listing the good he has done. Next the defendant’s reply, and finally the verdict. The prophets called a dispute like this between God and His people by the Hebrew word `riv`. The surprise is that the plaintiff doesn’t demand damages. He asks what He has done wrong, and reminds them that He is the one who brought the people out of slavery.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say about God that in this court case He begins with the question “what have I done to you?” and not with a list of demands?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "This Is What God’s Will Sounds Like",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Thessalonians 4:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Finally, brothers, we ask and encourage you in the Lord Jesus to live in a way that is pleasing to God, just as you have received from us. This is how you already live, so you should do so all the more. For you know the instructions we gave you by the authority of the Lord Jesus. For it is God’s will that you should be holy: You must abstain from sexual immorality;"
+       ]
+      },
+      {
+       "odnosnik": "1 Thessalonians 5:16-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Rejoice at all times. Pray without ceasing. Give thanks in every circumstance, for this is God’s will for you in Christ Jesus."
+       ]
+      },
+      {
+       "odnosnik": "Ephesians 5:15-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Pay careful attention, then, to how you walk, not as unwise but as wise, redeeming the time, because the days are evil. Therefore do not be foolish, but understand what the Lord’s will is."
+       ]
+      },
+      {
+       "odnosnik": "1 Peter 2:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "For it is God’s will that by doing good you should silence the ignorance of foolish men."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Read once more each sentence that mentions God’s will. **What do these sentences say the most about, and what are they silent about?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Many people feel a little disappointed when they hear that this is God’s will. **What were we expecting, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**How can joy, prayer, and thanksgiving change the way you choose a job or a place to live?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Bible speaks about what kind of person you are to be on hundreds of pages. About where you are to live, it says nothing. God speaks most where the stakes are highest. You could put it simply. God wants you to choose a job and a home where you will grow in holiness. It’s less about where you are and more about who you become there. Obedience in the clear things teaches us to hear God in the unclear ones.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Mind That Can Test and Approve",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 12:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship. Do not be conformed to this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what is the good, pleasing, and perfect will of God."
+       ]
+      },
+      {
+       "odnosnik": "Romans 12:9-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Love must be sincere. Detest what is evil; cling to what is good. Be devoted to one another in brotherly love. Outdo yourselves in honoring one another. Do not let your zeal subside; keep your spiritual fervor, serving the Lord. Be joyful in hope, patient in affliction, persistent in prayer. Share with the saints who are in need. Practice hospitality."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul begins with offering ourselves and ends with recognizing God’s will. **Why in that order?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Then you will be able to test and approve.” **How is the ability to test and approve different from being handed a ready-made answer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Right after the call to recognize God’s will, Paul writes about love, honor, and hospitality. **What does that say about how he understood God’s will?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Greek, “be transformed” is in the passive voice and in a tense that describes an ongoing process. A person doesn’t transform himself. Throughout the letter the one who brings about this change is God, and the person is to remain in it. Recognizing God’s will is the fruit of this transformation. Paul doesn’t offer a method for reading a plan for the future. He describes a person who, day after day, learns to think the way God thinks. A person like that needs a sign from heaven less and less often when making decisions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Man After God’s Heart",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 13:22",
+       "przeklad": "BSB",
+       "akapity": [
+        "After removing Saul, He raised up David as their king and testified about him: ‘I have found David son of Jesse a man after My own heart; he will carry out My will in its entirety.’"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 25:4-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Show me Your ways, O LORD; teach me Your paths. Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "David made some disastrous decisions in his life, and yet God says that “he will carry out My will in its entirety.” **What does that say to the fear that one wrong choice throws a person out of God’s plan forever?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist asks for ways and paths, and right after that for teaching. **Why does a prayer for guidance turn here into a request to learn something?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Test and approve” in Romans 12:2 is the Greek `dokimazō`. The word meant testing by trial, the way you test metal or a coin before accepting it. So Paul isn’t promising a sudden flash of insight. He describes the work of a mind that weighs the options in God’s presence and reaches a judgment. The adjective translated “perfect” also means “complete, mature.” God’s will here isn’t a riddle handed to us from outside. A renewed mind learns to recognize it, day by day, in God’s company.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in the way you make decisions is like this kind of testing, and what is more like waiting for a flash of insight?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think of a decision you are facing now or faced recently. **What of the things God has already made known applies to it directly?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s texts changes your picture of the God who guides the most?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **where are you waiting for a sign today, even though God has already said what He wants?** You don’t have to give details.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If God knows every future day and directs our steps, and we really do choose, then what actually depends on us? Can you choose wrongly when choosing between two good paths?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this question. It helps if someone draws the distinction between a choice that breaks what God has said and a choice between two paths that both fit within His will.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God isn’t hiding the way from you. He has already made most of it known, and He will walk the rest of it with you.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Micah 6:8 or Psalm 32:8.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a decision that worries you. Ask yourself **what you are actually afraid of**. A bad outcome, or that God will be angry with you? Stay with that answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Go over Micah 6:8 again in your mind. Admit before God **which of those three things is weakest in you today**. You don’t have to do anything about it right away.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you have been standing for a long time before a choice between two honest paths, tell God plainly that you are afraid to choose. Then ask Him whether He might be waiting for you to take the first step.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So God doesn’t care what I choose?”** No. God cares about every detail of His child’s life. But caring doesn’t mean He dictates every decision. You can say that God may be pleased with two paths that both agree with what He has said.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God guided me very specifically.”** Receive that with respect and thank them for their testimony. The Bible knows stories like that. Point out that even then the guidance didn’t go against what God had already made known. Don’t turn one experience into a rule for the whole group.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I’ve already chosen wrongly, and now I’m living in plan B.”** Don’t argue, and don’t force comfort on them. Go back to Acts 13:22, or to Psalm 32, where the promise of guidance comes after forgiveness. God keeps guiding from the place where a person is standing. If the conversation touches on divorce or another painful matter, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts advising someone on a specific decision.** Stop it gently. The group can listen and ask questions, but the decision belongs to that person. Ask instead which of today’s texts speak to their situation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“That sounds like ‘do whatever you want.’”** Go back to Romans 12:1-2. The freedom these texts speak of comes after offering yourself to God and a transformed mind. It is the freedom of someone who wants what God wants.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone from outside the church asks how believers can know what God wants at all.** That’s a good question. Show that today’s texts speak about justice, mercy, and humility. About secret signs they are silent. Ask what they themselves think about it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 2. Blocks 1, 3, and 4 carry the meeting: God who guides like a teacher, and God’s will, which has long been made known.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So God doesn’t care what I choose?”",
+     "odpowiedz": "No. God cares about every detail of His child’s life. But caring doesn’t mean He dictates every decision. You can say that God may be pleased with two paths that both agree with what He has said."
+    },
+    {
+     "sytuacja": "“God guided me very specifically.”",
+     "odpowiedz": "Receive that with respect and thank them for their testimony. The Bible knows stories like that. Point out that even then the guidance didn’t go against what God had already made known. Don’t turn one experience into a rule for the whole group."
+    },
+    {
+     "sytuacja": "“I’ve already chosen wrongly, and now I’m living in plan B.”",
+     "odpowiedz": "Don’t argue, and don’t force comfort on them. Go back to Acts 13:22, or to Psalm 32, where the promise of guidance comes after forgiveness. God keeps guiding from the place where a person is standing. If the conversation touches on divorce or another painful matter, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "The group starts advising someone on a specific decision.",
+     "odpowiedz": "Stop it gently. The group can listen and ask questions, but the decision belongs to that person. Ask instead which of today’s texts speak to their situation."
+    },
+    {
+     "sytuacja": "“That sounds like ‘do whatever you want.’”",
+     "odpowiedz": "Go back to Romans 12:1-2. The freedom these texts speak of comes after offering yourself to God and a transformed mind. It is the freedom of someone who wants what God wants."
+    },
+    {
+     "sytuacja": "Someone from outside the church asks how believers can know what God wants at all.",
+     "odpowiedz": "That’s a good question. Show that today’s texts speak about justice, mercy, and humility. About secret signs they are silent. Ask what they themselves think about it."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 2. Blocks 1, 3, and 4 carry the meeting: God who guides like a teacher, and God’s will, which has long been made known."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,777 @@
+{
+ "tytul": "The God Who Sees",
+ "id": "L-01",
+ "seria": "Second-Chance People",
+ "opis": "A slave woman whom no one ever asked meets God in the desert, and she is the only one who gives Him a name.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 16:1-6; 16:7-14; Genesis 21:9-14; 21:15-21; Psalm 56:8; Psalm 10:14",
+  "p2": "Exodus 2:23-25; Exodus 3:7; Genesis 17:18-20; Genesis 25:9, 12, 16",
+  "p3": "Galatians 4:28-31"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 25,
+  "p3": 29
+ },
+ "tagi": [
+  "Second-Chance People",
+  "rejection",
+  "being wronged",
+  "God’s care",
+  "Genesis"
+ ],
+ "wersja": 1,
+ "zdanie": "People may stop seeing you. God doesn’t, not even in the desert, not even right where you are now.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about the woman who was least to blame in her own story. Hagar was an Egyptian slave in the household of Abram and Sarai. Others made decisions for her, then humiliated her, and in the end she found herself in the desert twice. Here the second chance comes as God’s gaze on someone people have stopped seeing. And this very woman is the only person in the Bible who gives God a name.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There may be people at the table who don’t know this story. What you read together and the italic sentences before the passages will be enough for them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “Impatience.” That one reads the beginning of this story through Sarai’s eyes. This one reads it through Hagar’s.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have been exploited at work, in their family, or in a relationship. Hagar’s story can open that up. Don’t press anyone for details.",
+      "Infertility and a long wait for a child are a fresh wound for many people. Don’t judge Sarai too quickly, and don’t get into arguments about modern fertility treatments.",
+      "The angel’s command “Return to your mistress” is easily heard as advice for anyone who is being hurt. The text gives no such advice. You’ll find a response in the red flags.",
+      "Ishmael is sometimes linked with the Arab nations and with Islam. Don’t get into politics or religious debate. Stay with what the text says."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t make Abraham and Sarah into villains, or Hagar into a saint. The Bible shows all three without retouching. Don’t explain on God’s behalf why He allowed so much suffering.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when you felt invisible, at work, in your family, or among people. Say in one sentence how you could tell. No need to tell who was to blame.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Woman No One Asked",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "For years Abram and his wife Sarai had been waiting for the son God had promised them. Both of them were already old.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 16:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar. So Sarai said to Abram, “Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her.” And Abram listened to the voice of Sarai. So after he had lived in Canaan for ten years, his wife Sarai took her Egyptian maidservant Hagar and gave her to Abram to be his wife. And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress. Then Sarai said to Abram, “May the wrong done to me be upon you! I delivered my servant into your arms, and ever since she saw that she was pregnant, she has treated me with contempt. May the LORD judge between you and me.” “Here,” said Abram, “your servant is in your hands. Do whatever you want with her.” Then Sarai treated Hagar so harshly that she fled from her."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sarai and Abram talk about Hagar several times. **How many times do they talk to her? What does that difference say about who she was in their eyes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Each of the three has a part in this, though not all of them have the same power. **How does a plan that seems sensible end with a pregnant woman running away?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram says, “Do whatever you want with her.” **What is the hardest thing about that sentence?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Abram’s world, a wife who could not have children could give her husband her slave woman. A child from such a union was counted as the mistress’s child, not the mother’s. Surviving laws and contracts from Mesopotamia know this arrangement. So Sarai wasn’t breaking with custom. She was doing what counted as sensible after ten years of waiting. The narrator doesn’t judge her outright. But he tells this scene in the words of the story of the fall in the Garden of Eden. The woman took and gave to her husband, and the husband listened to her.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What did it mean for Hagar that her child was meant to belong to someone else from the very start?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Question by the Spring",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 16:7-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now the angel of the LORD found Hagar by a spring of water in the desert—the spring along the road to Shur. “Hagar, servant of Sarai,” he said, “where have you come from, and where are you going?” “I am running away from my mistress Sarai,” she replied. So the angel of the LORD told her, “Return to your mistress and submit to her authority.” Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.” The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction. He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers.” So Hagar gave this name to the LORD who had spoken to her: “You are the God who sees me,” for she said, “Here I have seen the One who sees me!” Therefore the well was called Beer-lahai-roi. It is located between Kadesh and Bered."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The angel calls her by name and asks where she has come from and where she is going. **Why does he ask when he knows the answer? Which half of the question does Hagar answer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hagar says to God, “You are the God who sees me.” **What does that mean for someone whom no one had seen until then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The name Ishmael means “God hears.” **What did that name remind the mother of every time she called her son?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The angel tells her to go back. **What from what she heard at the spring could have helped her return to that same house?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "This is the first place in the Bible where the angel of the LORD appears. Scripture often identifies this messenger with God Himself, and Hagar speaks to him as to God. He comes first to a runaway slave woman, far from the patriarch’s tent. Hagar is also the first person in the Bible to be told of a son’s birth together with his name. In all of Scripture, she alone gives God a name. She names Him from what she herself has lived through.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The God Who Hears the Cry",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Several hundred years later, Abram’s descendants are slaves in Egypt.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 2:23-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "After a long time, the king of Egypt died. The Israelites groaned and cried out under their burden of slavery, and their cry for deliverance from bondage ascended to God. So God heard their groaning, and He remembered His covenant with Abraham, Isaac, and Jacob. God saw the Israelites and took notice."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 3:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD said, “I have indeed seen the affliction of My people in Egypt. I have heard them crying out because of their oppressors, and I am aware of their sufferings."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same words come back as at Hagar’s spring: heard, saw, affliction. **What links one slave woman with a whole nation of slaves?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Abram’s household a Hebrew woman oppressed an Egyptian woman. In Egypt the Egyptians oppress the Hebrews. **What does it say about God that He hears the cry from both sides?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hagar calls God `El ro'i`, “the God who sees me.” The well is given the name `Beer-lahai-roi`, the Well of the Living One who sees me. The name Ishmael in Hebrew is `Yishma'el`, “God hears.” When God sees or hears in the Bible, it means more than a glance. God takes the matter to heart and begins to act.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The verb used in verse 6 for how Sarai treated Hagar harshly is `'ana`. The Book of Exodus will use the same word for how the Egyptians oppressed Israel. The narrator doesn’t condemn Sarai with a single adjective. He judges her by his choice of one verb.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hagar could have named God after what she herself had seen. She named Him after the fact that He saw her. **What difference does that order make?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Return to Your Mistress",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The hardest sentence in this scene is “Return to your mistress and submit to her authority.” God sends the one who was wronged back to the house where she was wronged. In the church it is read in two ways. Some point out that a pregnant woman alone on a desert road had little chance of surviving. Going back was a rescue for her and for the child, and the promise gave them a future. Others don’t soften the sentence and honestly leave it hard. They note that God doesn’t pull Hagar out of an unjust arrangement right away, but steps into it with a promise. Later He Himself will take care of her outside that house.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Both sides agree on two things. The text doesn’t turn this command into a rule for everyone who is being hurt. And God doesn’t leave Hagar alone, either at the spring or later.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does this command sound next to the name Hagar gives God a few verses later?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Driven Out",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Years pass. God has given Abram and Sarai new names, Abraham and Sarah, and has kept His promise. Sarah has given birth to a son, Isaac. When the boy has grown a little, Abraham holds a feast.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 21:9-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking her son, and she said to Abraham, “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with my son Isaac!” Now this matter distressed Abraham greatly because it concerned his son Ishmael. But God said to Abraham, “Do not be distressed about the boy and your maidservant. Listen to everything that Sarah tells you, for through Isaac your offspring will be reckoned. But I will also make a nation of the slave woman’s son, because he is your offspring.” Early in the morning, Abraham got up, took bread and a skin of water, put them on Hagar’s shoulders, and sent her away with the boy. She left and wandered in the Wilderness of Beersheba."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sarah says “the slave woman and her son.” The narrator writes that the matter distressed Abraham “because it concerned his son Ishmael.” **What do you see in these two ways of speaking about the same boy?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God doesn’t stop the expulsion. He even tells Abraham to listen to Sarah, but He promises Ishmael something. **What does that promise change about this morning, and what doesn’t it change?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abraham gets up early and gives Hagar the bread and water himself. **What does this gesture say about him?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "As for Ishmael, I Have Heard You",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "More than a dozen years earlier, God announced Isaac’s birth to Abraham. Abraham then pleaded for his older son.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 17:18-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Abraham said to God, “O that Ishmael might live under Your blessing!” But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him. As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The boy’s name is “God hears,” and God tells his father, “As for Ishmael, I have heard you.” **What does this say about Ishmael’s place in God’s eyes, even though the covenant was to go through Isaac?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does this promise sound when you read it after the scene of the expulsion?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Paul and Hagar",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Galatians 4:28-31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now you, brothers, like Isaac, are children of promise. At that time, however, the son born by the flesh persecuted the son born by the Spirit. It is the same now. But what does the Scripture say? “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with the free woman’s son.” Therefore, brothers, we are not children of the slave woman, but of the free woman."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Paul quotes Sarah’s words as the words of Scripture, and for him Hagar becomes a picture of slavery. A few verses earlier he himself says that he is reading this story figuratively. His point is two covenants, that is, two ways to God. One is the attempt to earn God’s acceptance; the other is a promise received as a gift. Paul isn’t passing judgment on Hagar as a person. Genesis tells of a real woman whom God found, called by name, and heard. Both ways of reading stand in one Bible, and one doesn’t take the truth away from the other.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can we read a biblical picture without losing the person who stands behind it?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "The Well That Was Right There",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 21:15-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "When the water in the skin was gone, she left the boy under one of the bushes. Then she went off and sat down nearby, about a bowshot away, for she said, “I cannot bear to watch the boy die!” And as she sat nearby, she lifted up her voice and wept. Then God heard the voice of the boy, and the angel of God called to Hagar from heaven, “What is wrong, Hagar? Do not be afraid, for God has heard the voice of the boy where he lies. Get up, lift up the boy, and take him by the hand, for I will make him into a great nation.” Then God opened her eyes, and she saw a well of water. So she went and filled the skin with water and gave the boy a drink. And God was with the boy, and he grew up and settled in the wilderness and became a great archer. And while he was dwelling in the Wilderness of Paran, his mother got a wife for him from the land of Egypt."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hagar goes far enough away not to watch her son die, and she weeps. **What in her behavior do you understand best?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God hears the boy “where he lies,” and then He opens Hagar’s eyes. **What changes in this scene, and what was there all along?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "That morning Abraham put bread and water on her shoulders and sent her away with the boy. Now the angel says, “take him by the hand.” **What does it mean that God puts her son back into her hands?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The well was there the whole time. What was missing were eyes to see it. The angel says that God heard the boy “where he lies,” under a bush in the desert. No one had to get anywhere in order to be heard. The text doesn’t even say that Hagar prayed. It says she wept. At the end it is she who gets a wife for her son, though in that world it was usually the father who did this. The banished mother takes on a task that there was no one else to carry out.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Two Sons at One Grave",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Many years later, Abraham dies.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 25:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "His sons Isaac and Ishmael buried him in the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 25:12",
+       "przeklad": "BSB",
+       "akapity": [
+        "This is the account of Abraham’s son Ishmael, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham."
+       ]
+      },
+      {
+       "odnosnik": "Genesis 25:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaac and Ishmael stand together at their father’s grave. **What does this single verse say about a family that was once torn apart?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ishmael has twelve princes, just as God promised. **What does this say about a God who keeps His word to someone on the edge of the main story?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Tears in a Bottle",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Two short passages from the Psalms, the prayers of Israel.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 56:8",
+       "przeklad": "BSB",
+       "akapity": [
+        "You have taken account of my wanderings. Put my tears in Your bottle—are they not in Your book?"
+       ]
+      },
+      {
+       "odnosnik": "Psalm 10:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But You have regarded trouble and grief; You see to repay it by Your hand. The victim entrusts himself to You; You are the helper of the fatherless."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Hagar wept over an empty skin of water. The psalmist asks God, “Put my tears in Your bottle.” **What does this line say about tears that no one else saw?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The psalm says that God has “regarded trouble and grief” and sees “to repay it by Your hand.” **What does God’s seeing look like when it doesn’t stop at seeing?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hagar heard the question, “Where have you come from, and where are you going?” **What would your honest answer to that question be today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in this story do you most easily recognize yourself: with Hagar, with Sarai, or with Abram, who washes his hands of it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **has there been a moment in your life when you became sure that God sees you?** You don’t have to say what was going on at the time.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Hagar received a promise from God, but she didn’t receive justice from people. No one apologized to her. **Is it enough to know that God sees, when the wrong is never put right? What does God’s seeing give, and what does it not replace?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t look for one single answer. It helps if someone notices that in this story God sees and acts, and yet He doesn’t ask Hagar to pretend that nothing happened.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "People may stop seeing you. God doesn’t, not even in the desert, not even right where you are now.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Genesis 16:13 or Genesis 21:17.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a place in your life that feels like a desert. Answer God in silence: **where have you come from, and where are you going?** If you have no answer to the second half, stay with the first, as Hagar did.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone you call by their role in your head instead of their name. The woman at the checkout, the new guy at work, the neighbor upstairs. Ask yourself **what would change if you saw in them the person God sees**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** If you carry a wrong that no one has ever put right, name it before God. You don’t have to forgive yet. It’s enough to stop pretending it isn’t there.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So God tells me to go back to someone who is hurting me?”** No. The words to Hagar concerned her situation in the desert, and the Bible never makes them into a rule. The same God, the second time, leads her away from that house and takes care of her Himself. If someone talks about violence in their own home, don’t carry it alone. Talk with that person after the meeting and point them to professional help: a domestic violence helpline or a crisis line in your country, and in danger, your local emergency number.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about their own infertility or the loss of a child.** Listen and say thank you. Don’t comfort them with ready-made phrases, and don’t explain what God meant to say through it. You can come back to the sentence that God hears, and leave it there.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Abraham was supposed to be the father of faith, and he acted like that?”** The Bible doesn’t retouch its heroes, and that is its honesty. Abraham, too, lives by a second chance. But today we are looking through Hagar’s eyes, so don’t let the conversation turn into putting the patriarch on trial.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A question about Arabs, Islam, or conflicts in the Middle East.** Stop it calmly. Say that the text speaks of God who was with the boy, and that this is where we stand today. No politics, and no comparing religions.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“In Galatians, Paul speaks badly of Hagar.”** Paul himself points out that he is reading this story figuratively. If the group is working at level 3, you have a separate block on this. If not, it’s enough to say that Genesis shows a God who sees and hears Hagar.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks at length about their own experience of being exploited.** Listen calmly. Don’t press for details, don’t diagnose, and don’t give advice. Say thank you and calmly return to the text. If the matter is serious, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop blocks 3 and 5. Blocks 2 and 4 carry the meeting: the name Hagar gives God, and the well her eyes are opened to see.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So God tells me to go back to someone who is hurting me?”",
+     "odpowiedz": "No. The words to Hagar concerned her situation in the desert, and the Bible never makes them into a rule. The same God, the second time, leads her away from that house and takes care of her Himself. If someone talks about violence in their own home, don’t carry it alone. Talk with that person after the meeting and point them to professional help: a domestic violence helpline or a crisis line in your country, and in danger, your local emergency number."
+    },
+    {
+     "sytuacja": "Someone talks about their own infertility or the loss of a child.",
+     "odpowiedz": "Listen and say thank you. Don’t comfort them with ready-made phrases, and don’t explain what God meant to say through it. You can come back to the sentence that God hears, and leave it there."
+    },
+    {
+     "sytuacja": "“Abraham was supposed to be the father of faith, and he acted like that?”",
+     "odpowiedz": "The Bible doesn’t retouch its heroes, and that is its honesty. Abraham, too, lives by a second chance. But today we are looking through Hagar’s eyes, so don’t let the conversation turn into putting the patriarch on trial."
+    },
+    {
+     "sytuacja": "A question about Arabs, Islam, or conflicts in the Middle East.",
+     "odpowiedz": "Stop it calmly. Say that the text speaks of God who was with the boy, and that this is where we stand today. No politics, and no comparing religions."
+    },
+    {
+     "sytuacja": "“In Galatians, Paul speaks badly of Hagar.”",
+     "odpowiedz": "Paul himself points out that he is reading this story figuratively. If the group is working at level 3, you have a separate block on this. If not, it’s enough to say that Genesis shows a God who sees and hears Hagar."
+    },
+    {
+     "sytuacja": "Someone talks at length about their own experience of being exploited.",
+     "odpowiedz": "Listen calmly. Don’t press for details, don’t diagnose, and don’t give advice. Say thank you and calmly return to the text. If the matter is serious, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop blocks 3 and 5. Blocks 2 and 4 carry the meeting: the name Hagar gives God, and the well her eyes are opened to see."
+    }
+   ]
+  }
+ ]
+}

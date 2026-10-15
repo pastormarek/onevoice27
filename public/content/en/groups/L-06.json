@@ -1,0 +1,726 @@
+{
+ "tytul": "The Worst King",
+ "id": "L-06",
+ "seria": "Second-Chance People",
+ "opis": "A king who did all the worst things humbled himself in captivity and was received by God.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "2 Chronicles 33:1-9; 2 Kings 21:16; 2 Chronicles 33:10-13; 2 Chronicles 33:14-17; 2 Chronicles 33:18-23; Isaiah 55:6-7; Ezekiel 33:11",
+  "p2": "2 Chronicles 32:33; 1 Kings 21:25-29; Psalm 103:8-12; Romans 5:20",
+  "p3": "2 Chronicles 7:14; 2 Kings 23:25-26; 24:3-4"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 26
+ },
+ "tagi": [
+  "second chance",
+  "repentance",
+  "forgiveness",
+  "consequences of sin",
+  "Manasseh",
+  "Books of Chronicles"
+ ],
+ "wersja": 1,
+ "zdanie": "The boundary of grace isn’t where we put it. God heard the plea of even the worst king.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about the worst king in the history of Judah. For decades Manasseh tore down everything his father had built. He brought foreign cults into the temple, burned his own sons as sacrifices, and filled Jerusalem with innocent blood. When he was taken into captivity in chains, he humbled himself before God, and God heard his plea. The boundary of grace isn’t where we usually put it. At the same time, the Bible honestly says that the effects of his reign could not be undone. The meeting holds both truths together.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The first passage speaks openly about child sacrifice. Give a warning before the reading. Someone at the table may have lost a child, or carry another painful story, and connect it with this text.",
+      "Someone at the table may have been hurt by a person who later “found God” and expects everything to be forgotten. For that person, joy over Manasseh’s forgiveness may sound like betrayal.",
+      "It’s easy to conclude that you can live as you please and repent at the end. The text doesn’t say that.",
+      "The text presents Manasseh’s captivity as God’s doing. Don’t explain anyone’s misfortune at the table that way."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t decide who would be “a Manasseh” today. No names of politicians or people from the news. Don’t hurry anyone else’s forgiveness.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone from history, a book, or a film who you were sure would never change. Say in one sentence what made you think so.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Worse Than the Nations",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Manasseh was the son of Hezekiah, one of the best kings of Judah, and he came to the throne as a twelve-year-old boy. The passage also mentions child sacrifice openly.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 33:1-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites. For he rebuilt the high places that his father Hezekiah had torn down, and he raised up altars for the Baals and made Asherah poles. And he worshiped and served all the host of heaven. Manasseh also built altars in the house of the LORD, of which the LORD had said, “My Name will remain in Jerusalem forever.” In both courtyards of the house of the LORD, he built altars to all the host of heaven. He sacrificed his sons in the fire in the Valley of Hinnom. He practiced sorcery, divination, and witchcraft, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger. Manasseh even took the carved image he had made and set it up in the house of God, of which God had said to David and his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will establish My Name forever. I will never again cause the feet of the Israelites to leave the land that I assigned to your fathers, if only they are careful to do all that I have commanded them through Moses—all the laws, statutes, and judgments.” So Manasseh led the people of Judah and Jerusalem astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites."
+       ]
+      },
+      {
+       "odnosnik": "2 Kings 21:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Moreover, Manasseh shed so much innocent blood that he filled Jerusalem from end to end, in addition to the sin that he had caused Judah to commit, doing evil in the sight of the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The list of Manasseh’s wrongs is long and very specific. **What strikes you most in it, and why that in particular?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Manasseh “led the people of Judah and Jerusalem astray, so that they did greater evil than the nations.” **What happens when the evil of one person in power becomes the evil of a whole country?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Manasseh sets up a carved image in the temple where God said He would establish His Name. **Why does the narrator put so much weight on this particular place?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The Valley of Hinnom lies just below the walls of Jerusalem. Children were burned there as sacrifices to foreign gods, and the prophets condemned it sharply. The word gehenna, which Jesus used for the place of final destruction, comes from the name of this valley. Manasseh reigned fifty-five years, longer than any other king of Judah. The Book of Kings adds something Chronicles doesn’t say here: he filled Jerusalem with innocent blood.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hezekiah, Manasseh’s father, cleansed the temple, tore down the places of foreign worship, and brought Judah through the Assyrian siege of Jerusalem. The Bible records his burial with exceptional honor.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 32:33",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Hezekiah rested with his fathers and was buried in the upper tombs of David’s descendants. All Judah and the people of Jerusalem paid him honor at his death. And his son Manasseh reigned in his place."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "akapit",
+     "tekst": "At that time Assyria was the greatest power in the Near East, and Judah was a small state paying it tribute. Manasseh rebuilt exactly what his father had torn down.",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What might have been going on inside a son who spent decades undoing everything his father had built?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "In Chains",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 33:10-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD spoke to Manasseh and his people, but they did not listen. So the LORD brought against them the military commanders of the king of Assyria, who captured Manasseh, put a hook in his nose, bound him with bronze shackles, and took him to Babylon. And in his distress, Manasseh sought the favor of the LORD his God and earnestly humbled himself before the God of his fathers. And when he prayed to Him, the LORD received his plea and heard his petition; so He brought him back to Jerusalem and to his kingdom. Then Manasseh knew that the LORD is God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God spoke to Manasseh for a long time, and he didn’t listen. He began to cry out only in chains. **What does this say about the road a person sometimes has to travel before they start listening to God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“The LORD received his plea.” There is no probation period here and no list of conditions. **What surprises you about how quickly God takes this man back?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The last sentence says that only then “Manasseh knew that the LORD is God.” **What does it mean that a king who grew up beside the temple came to know God only in captivity?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "At that time Babylon was under Assyrian rule, which is why Assyrian commanders take the king of Judah there. The hook and the shackles show how deeply he was humiliated, a man who for years had held power over life and death. The Chronicler doesn’t reproach him for starting to pray only when he was in trouble. He simply writes that God heard him and brought him back to his throne.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "One More Bad King",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Two centuries earlier Ahab reigned in the northern kingdom, another king about whom the Bible says the worst things. The prophet Elijah has just announced judgment on him.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 21:25-29",
+       "przeklad": "BSB",
+       "akapity": [
+        "(Surely there was never one like Ahab, who sold himself to do evil in the sight of the LORD, incited by his wife Jezebel. He committed the most detestable acts by going after idols, just like the Amorites whom the LORD had driven out before the Israelites.) When Ahab heard these words, he tore his clothes, put on sackcloth, and fasted. He lay down in sackcloth and walked around meekly. Then the word of the LORD came to Elijah the Tishbite, saying: “Have you seen how Ahab has humbled himself before Me? Because he has humbled himself before Me, I will not bring the calamity during his days, but I will bring it upon his house in the days of his son.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God asks the prophet whether he has seen how Ahab “has humbled himself before Me.” **What does this question say about what God looks for in people everyone has already written off?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How might Elijah, who knew Ahab’s evil better than anyone, have felt when he heard this question?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Humbled himself” is `kana` in Hebrew, literally “to bend down, to bring oneself low.” It is one of the Chronicler’s favorite words. It stands in the promise God gave when the temple was dedicated.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 7:14",
+       "przeklad": "BSB",
+       "akapity": [
+        "And if My people who are called by My name humble themselves and pray and seek My face and turn from their wicked ways, then I will hear from heaven, forgive their sin, and heal their land."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the chapter about Manasseh the word comes back several times: at his prayer in captivity, in the record of what he did “before he humbled himself,” and with his son Amon, who did not humble himself. Chronicles was written for people who had returned from exile. For them Manasseh was proof that the promise from the day the temple was dedicated holds even for the worst.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Why does the Chronicler keep coming back to one word? What does it say about where the return to God begins?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Cleaning Up After Himself",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 33:14-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "After this, Manasseh rebuilt the outer wall of the City of David from west of Gihon in the valley to the entrance of the Fish Gate, and he brought it around the hill of Ophel and heightened it considerably. He also stationed military commanders in all the fortified cities of Judah. He removed the foreign gods and the idol from the house of the LORD, along with all the altars he had built on the temple mount and in Jerusalem, and he dumped them outside the city. Then he restored the altar of the LORD and sacrificed peace offerings and thank offerings on it, and he told Judah to serve the LORD, the God of Israel. Nevertheless, the people still sacrificed at the high places, but only to the LORD their God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "After his return Manasseh builds a wall, removes the idols, and restores the altar of the LORD. **What on this list is repairing damage, and what is a new beginning?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Nevertheless, the people still sacrificed at the high places.” **What does this sentence say about what a person who has turned back to God can no longer undo?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Manasseh throws out of the city the idol he himself once set up. **What might cleaning up after himself like that have looked like, in front of all Jerusalem?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Two Stories About One King",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Book of Kings tells Manasseh’s story without a word about his repentance. Instead it says that even after the great reform of his grandson Josiah, the sentence on Judah remained.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Kings 23:25-26",
+       "przeklad": "BSB",
+       "akapity": [
+        "Neither before nor after Josiah was there any king like him, who turned to the LORD with all his heart and with all his soul and with all his strength, according to all the Law of Moses. Nevertheless, the LORD did not turn away from the fury of His burning anger, which was kindled against Judah because of all that Manasseh had done to provoke Him to anger."
+       ]
+      },
+      {
+       "odnosnik": "2 Kings 24:3-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Surely this happened to Judah at the LORD’s command, to remove them from His presence because of the sins of Manasseh and all that he had done, and also for the innocent blood he had shed. For he had filled Jerusalem with innocent blood, and the LORD was unwilling to forgive."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Christians read this pairing in two ways. Some see in it two witnesses with different purposes. Kings explains to the exiles why Jerusalem fell. Chronicles speaks to those who came back and shows them a God who receives the one who humbles himself. Others stress that one doesn’t contradict the other. The forgiveness concerned the man, while the effects of his reign remained in the nation’s history. The innocent people killed in Jerusalem did not come back to life. Both sides agree that the two texts have to be read together, because neither of them says everything on its own.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is it possible that a man was forgiven and yet the effects of his wrongs remained? What does this say about the harm someone has done to us, even if that person has found forgiveness with God?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Father and Son",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "2 Chronicles 33:18-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "As for the rest of the acts of Manasseh, along with his prayer to his God and the words of the seers who spoke to him in the name of the LORD, the God of Israel, they are indeed written in the Chronicles of the Kings of Israel. His prayer and how God received his plea, as well as all his sin and unfaithfulness, and the sites where he built high places and set up Asherah poles and idols before he humbled himself, they are indeed written in the Records of the Seers. And Manasseh rested with his fathers and was buried at his palace. And his son Amon reigned in his place. Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. And he did evil in the sight of the LORD, as his father Manasseh had done. Amon served and sacrificed to all the idols that his father Manasseh had made, but he did not humble himself before the LORD as his father Manasseh had done; instead, Amon increased his guilt."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Chronicler records side by side “all his sin and unfaithfulness” and the prayer God heard. **Why doesn’t the story of forgiveness erase the past?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Amon imitates his father in sin, but not in humbling himself. **What do children take from their parents more easily, their mistakes or their repentance, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The idols Amon sacrifices to were once made by his father. **What does this say about how long the effects of our past decisions live on in the people closest to us?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "He Will Freely Pardon",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Two prophets say the same thing about God that Manasseh’s story shows.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 55:6-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Seek the LORD while He may be found; call on Him while He is near. Let the wicked man forsake his own way and the unrighteous man his own thoughts; let him return to the LORD, that He may have compassion, and to our God, for He will freely pardon."
+       ]
+      },
+      {
+       "odnosnik": "Ezekiel 33:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but rather that the wicked should turn from their ways and live. Turn! Turn from your evil ways! For why should you die, O house of Israel?’"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Isaiah says that God “will freely pardon.” **Where in Manasseh’s story can you see this generosity most clearly?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In Ezekiel, God swears by His own life that He takes no pleasure in the death of the wicked. **What would change in how we see people we consider lost, if we really believed this?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Seek the LORD while He may be found.” **What in this sentence is an invitation, and what is a warning?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not According to Our Sins",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 103:8-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD is compassionate and gracious, slow to anger, abounding in loving devotion. He will not always accuse us, nor harbor His anger forever. He has not dealt with us according to our sins or repaid us according to our iniquities. For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him. As far as the east is from the west, so far has He removed our transgressions from us."
+       ]
+      },
+      {
+       "odnosnik": "Romans 5:20",
+       "przeklad": "BSB",
+       "akapity": [
+        "The law came in so that the trespass would increase; but where sin increased, grace increased all the more,"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean for someone like Manasseh that God has not “repaid us according to our iniquities”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul writes that where sin increased, grace “increased all the more.” **To whom does a sentence like that sound unfair, and why?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who do we think has crossed the boundary of grace? Where does that conviction come from?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What in Manasseh’s story gives you hope, and what bothers you?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **is there something in your life that you think God can’t accept?** You don’t have to say what it is.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Would it be easier for us if Manasseh had not been received? Where do we ourselves draw the boundary of grace, and what would happen if God drew it in the same place for us?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this question. It helps if someone observes that Manasseh’s forgiveness doesn’t cancel the harm done to his victims. The Bible remembers the innocent blood as persistently as it remembers his prayer.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The boundary of grace isn’t where we put it. God heard the plea of even the worst king.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** 2 Chronicles 33:13 or Isaiah 55:7.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of a person you have written off in your heart. Ask yourself **what you would be afraid of if God received them too**. Stay with that answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Manasseh began by humbling himself. Admit before God **the thing that is hardest for you to call by its name**. Not in front of people, only before Him.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think about the effects your past decisions have left in other people. Ask God **what you can still put right, and what you have to hand over to Him**, because it can no longer be repaired.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone reacts strongly to the mention of child sacrifice.** Stop, and don’t force your way on with the reading. Someone may connect this text with losing a child, with an abortion, or with harm suffered in childhood. Don’t make such connections yourself, and don’t moralize. If someone starts to talk, listen, and stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“That’s unfair to his victims.”** Agree that it hurts. The Bible doesn’t hide the innocent blood, and it comes back to it several times, even after Manasseh’s repentance. God’s forgiveness doesn’t mean the harm didn’t matter. Don’t try to resolve this tension.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about a person who hurt them and then “found God.”** Don’t tell this person to be glad or to forgive. The fact that God receives the one who did the harm doesn’t oblige the victim to pretend nothing happened, or to go back to a dangerous relationship. If there is domestic violence, don’t carry this alone, and help them find professional help. If the group wants, point them to the meeting “Forgiveness.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I can live however I want and repent at the end.”** The text doesn’t say that. Manasseh lost decades, his son followed his sin rather than his repentance, and the effects remained in the nation. Isaiah says, “Seek the LORD while He may be found.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Is my misfortune a punishment too, to make me turn back?”** Don’t explain anyone’s suffering to them. The Chronicler shows the meaning in the history of one king. He doesn’t give a key to someone else’s life. You can say that God hears a cry from any place, including a place that is no one’s punishment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**An argument about which book is right.** Send it to Level 3. Both books belong to Scripture, and each says something the other doesn’t.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 4. Blocks 1, 2, 3, and 5 carry the meeting: the worst king, the prayer in chains, cleaning up after himself, and the God who freely pardons.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone reacts strongly to the mention of child sacrifice.",
+     "odpowiedz": "Stop, and don’t force your way on with the reading. Someone may connect this text with losing a child, with an abortion, or with harm suffered in childhood. Don’t make such connections yourself, and don’t moralize. If someone starts to talk, listen, and stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "“That’s unfair to his victims.”",
+     "odpowiedz": "Agree that it hurts. The Bible doesn’t hide the innocent blood, and it comes back to it several times, even after Manasseh’s repentance. God’s forgiveness doesn’t mean the harm didn’t matter. Don’t try to resolve this tension."
+    },
+    {
+     "sytuacja": "Someone talks about a person who hurt them and then “found God.”",
+     "odpowiedz": "Don’t tell this person to be glad or to forgive. The fact that God receives the one who did the harm doesn’t oblige the victim to pretend nothing happened, or to go back to a dangerous relationship. If there is domestic violence, don’t carry this alone, and help them find professional help. If the group wants, point them to the meeting “Forgiveness.”"
+    },
+    {
+     "sytuacja": "“So I can live however I want and repent at the end.”",
+     "odpowiedz": "The text doesn’t say that. Manasseh lost decades, his son followed his sin rather than his repentance, and the effects remained in the nation. Isaiah says, “Seek the LORD while He may be found.”"
+    },
+    {
+     "sytuacja": "“Is my misfortune a punishment too, to make me turn back?”",
+     "odpowiedz": "Don’t explain anyone’s suffering to them. The Chronicler shows the meaning in the history of one king. He doesn’t give a key to someone else’s life. You can say that God hears a cry from any place, including a place that is no one’s punishment."
+    },
+    {
+     "sytuacja": "An argument about which book is right.",
+     "odpowiedz": "Send it to Level 3. Both books belong to Scripture, and each says something the other doesn’t."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 4. Blocks 1, 2, 3, and 5 carry the meeting: the worst king, the prayer in chains, cleaning up after himself, and the God who freely pardons."
+    }
+   ]
+  }
+ ]
+}

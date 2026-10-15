@@ -1,0 +1,727 @@
+{
+ "tytul": "The Useless Man Who Became Useful",
+ "id": "L-10",
+ "seria": "Second-Chance People",
+ "opis": "A runaway slave goes back to his master as a brother, and someone else takes his debt on himself.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Philemon 1-7; Philemon 8-12; Philemon 13-16; Philemon 17-25; Colossians 3:11; Colossians 4:7-9; Galatians 3:26-28",
+  "p2": "1 Corinthians 7:21-23; Colossians 2:13-14; Colossians 3:22-24; Colossians 4:1",
+  "p3": "Romans 5:13"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 28
+ },
+ "tagi": [
+  "second chance",
+  "forgiveness",
+  "vouching for someone",
+  "community",
+  "slavery",
+  "Letter to Philemon"
+ ],
+ "wersja": 1,
+ "zdanie": "A second chance often carries a third person’s signature. Someone says: receive him as you would receive me, and if he owes you anything, charge it to my account.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Letter to Philemon is Paul’s shortest letter; it fits on a single page. Onesimus was a slave of Philemon, a Christian from Colossae in what is now Turkey. He left his master and may have left some damage behind him. He came to faith with Paul while Paul was in prison. Now Paul is sending him home with a letter in his hand.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are three people in this story. Onesimus has to go back to the man he let down. Philemon is to receive someone who may have wronged him. Paul stands between them and takes the debt on himself. The meeting shows that a second chance often needs someone who will vouch for it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone is sure to ask why Paul didn’t condemn slavery outright. It’s an honest question. Don’t defend Paul at all costs, and don’t brush the question aside. The Context block at Level 2 and the red flag below will help.",
+      "Don’t compare Roman slavery with working for a boss or with any kind of dependence today. That would be unfair to people who were someone’s property.",
+      "Someone at the table may be in debt, may have served a sentence, or may have someone close to them in prison. Don’t draw such stories out of people, and don’t cast anyone in the role of Onesimus.",
+      "Someone may be in Philemon’s role, the one who was wronged. Receiving someone as a brother doesn’t mean pretending there was no damage."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t guess what Onesimus did. The letter doesn’t say. And don’t fill in how Philemon responded.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a time when you had to go back to someone you had let down. Don’t tell the details. Say in one word what you felt standing at the door.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answers.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Church in Philemon’s House",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul is in prison, writing a short letter to Philemon, in whose house the local church meets.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philemon 1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Paul, a prisoner of Christ Jesus, and Timothy our brother, To Philemon our beloved fellow worker, to Apphia our sister, to Archippus our fellow soldier, and to the church that meets at your house: Grace and peace to you from God our Father and the Lord Jesus Christ. I always thank my God, remembering you in my prayers, because I hear about your faith in the Lord Jesus and your love for all the saints. I pray that your partnership in the faith may become effective as you fully acknowledge every good thing that is ours in Christ. I take great joy and encouragement in your love, because you, brother, have refreshed the hearts of the saints."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The letter is to Philemon, but also to Apphia, Archippus, and the whole church. **Why is the matter of one slave to be read out in front of everyone?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul praises Philemon for refreshing the hearts of others. **How does this praise prepare the ground for a request that hasn’t been made yet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The church meets in a house where there are slaves. **Who might have been sitting in that meeting, and who was serving at the table?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The first Christians had no church buildings. They met in ordinary homes, usually a dozen or a few dozen people. The Letter to Philemon looks private, but it was meant to be read aloud in front of the whole church. Most likely Onesimus was listening too. So Philemon was not answering to Paul alone. He was answering before the people he broke bread with.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "I Appeal to You for My Child",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philemon 8-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "So although in Christ I am bold enough to order you to do what is proper, I prefer to appeal on the basis of love. For I, Paul, am now aged, and a prisoner of Christ Jesus as well. I appeal to you for my child Onesimus, whose father I became while I was in chains. Formerly he was useless to you, but now he has become useful both to you and to me. I am sending back to you him who is my very heart."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul could give an order, but he makes a request instead. **What does that difference change for Philemon and for Onesimus?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul calls Onesimus “my child” and “my very heart” before a word is said about his former role. **How do these words position Onesimus in Philemon’s eyes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Formerly he was useless to you, but now he has become useful.” **What has changed in Onesimus, and who changed it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The name Onesimus means “useful” in Greek. It was often given to slaves. Paul plays on the name. The man called Useful was useless to his master, and now he is useful again. In the Greek sentence Paul holds back Onesimus’s name until the very end. First he speaks of the child he fathered in prison, and only then does the name come.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Roman cities slaves were part of almost every better-off household. Prisoners of war became slaves, as did the children of slave women, and sometimes people who had fallen into debt. Slavery had nothing to do with skin color. A slave was his master’s property, and a runaway faced harsh punishment. Freedom could be regained, but a freedman remained bound for the rest of his life to his former master, who became his patron. The Bible doesn’t call slavery God’s intention. It speaks to people in the world as it found it, and changes relationships in that world from the inside.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Corinthians 7:21-23",
+       "przeklad": "BSB",
+       "akapity": [
+        "Were you a slave when you were called? Do not let it concern you—but if you can gain your freedom, take the opportunity. For he who was a slave when he was called by the Lord is the Lord’s freedman. Conversely, he who was a free man when he was called is Christ’s slave. You were bought at a price; do not become slaves of men."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul calls the slave the Lord’s freedman, and the free man Christ’s slave. **What does this reversal do to the order Philemon and Onesimus lived in?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In that world, what does the sentence “You were bought at a price” mean?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "That You Might Have Him Back for Good",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philemon 13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "I would have liked to keep him with me, so that on your behalf he could minister to me in my chains for the gospel. But I did not want to do anything without your consent, so that your goodness will not be out of compulsion, but by your own free will. For perhaps this is why he was separated from you for a while, so that you might have him back for good— no longer as a slave, but better than a slave, as a beloved brother. He is especially beloved to me, but even more so to you, both in person and in the Lord."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul writes cautiously: “perhaps.” **How does that word let Philemon look differently at the loss he suffered?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“No longer as a slave, but better than a slave, as a beloved brother.” **What has to change in Philemon for him to receive his own slave like that?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Paul wants the good to be done “by your own free will.” **Why would a forced second chance be something different?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The letter contains no sentence saying that slavery is evil. It contains a request which, once granted, makes slavery meaningless in this one house. Philemon is to receive Onesimus as a brother “both in person and in the Lord.” At worship and in the kitchen, on the Sabbath and on Tuesday. It’s hard to be someone’s master at a table where you are his brother.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Charge It to My Account",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Philemon 17-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "So if you consider me a partner, receive him as you would receive me. But if he has wronged you in any way or owes you anything, charge it to my account. I, Paul, write this with my own hand. I will repay it—not to mention that you owe me your very self. Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ. Confident of your obedience, I write to you, knowing that you will do even more than I ask. In the meantime, prepare a guest room for me, because I hope that through your prayers I will be restored to you. Epaphras, my fellow prisoner in Christ Jesus, sends you greetings, as do Mark, Aristarchus, Demas, and Luke, my fellow workers. The grace of the Lord Jesus Christ be with your spirit."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t pretend there was no damage. **What does he do with it instead?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Onesimus is standing nearby as the church reads, “I will repay it.” **What might a man who came back in debt have felt, hearing that sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Receive him as you would receive me.” **Where in this sentence can you hear what Jesus does for us before God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Verses 18 and 19 read like a promissory note. Paul uses the language of accounts and obligations, and underneath he puts his own signature. This is not a figure of speech. It is a document Philemon could keep. Mark is on the list of greetings, the man Paul once refused to take along on a journey. So in a letter about taking someone back, the greetings include a man who had experienced that himself.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Debt Nailed to the Cross",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "At the same time, the same Paul writes to the whole church in Colossae.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 2:13-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "When you were dead in your trespasses and in the uncircumcision of your sinful nature, God made you alive with Christ. He forgave us all our trespasses, having canceled the debt ascribed to us in the decrees that stood against us. He took it away, nailing it to the cross!"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Philemon receives from Paul a signed debt. The church in Colossae hears about a debt nailed to the cross. **What links these two pictures?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**In both stories, who bears the cost of forgiveness?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The verb translated in verse 18 as “charge it to my account” comes from bookkeeping. It meant entering an amount owed on someone’s account. Paul uses it once more, in Romans, where the BSB renders it “taken into account.”",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 5:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "For sin was in the world before the law was given; but sin is not taken into account when there is no law."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the Letter to Philemon, Paul asks for someone else’s debt to be entered on his own account. The gospel speaks of the same movement on a larger scale. Our debt goes onto Christ’s account.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What happens to a person who knows that their debt has been entered on someone else’s account?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul pays for Onesimus, but he can’t forgive in Philemon’s place. **What is it that no guarantor can do for anyone else?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Our Faithful and Beloved Brother",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Together with the letter to Philemon, Paul sends a letter to the whole church in Colossae. Two men carry it.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 3:11",
+       "przeklad": "BSB",
+       "akapity": [
+        "Here there is no Greek or Jew, circumcised or uncircumcised, barbarian, Scythian, slave, or free, but Christ is all and is in all."
+       ]
+      },
+      {
+       "odnosnik": "Colossians 4:7-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Tychicus will tell you all the news about me. He is a beloved brother, a faithful minister, and a fellow servant in the Lord. I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts. With him I am sending Onesimus, our faithful and beloved brother, who is one of you. They will tell you about everything here."
+       ]
+      },
+      {
+       "odnosnik": "Galatians 3:26-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "You are all sons of God through faith in Christ Jesus. For all of you who were baptized into Christ have clothed yourselves with Christ. There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the letter to the church, Onesimus is not a “runaway” or a “slave.” **How does Paul introduce him, and what does that mean for someone returning to a town where everyone knows his past?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Onesimus is to tell the church about Paul together with Tychicus. **What does it mean that a man with a debt comes back as someone who is trusted?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“There is neither Jew nor Greek, slave nor free.” **Where today, in the church too, are invisible divisions still strong?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Slaves and Masters",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Colossians 3:22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Slaves, obey your earthly masters in everything, not only to please them while they are watching, but with sincerity of heart and fear of the Lord. Whatever you do, work at it with your whole being, for the Lord and not for men, because you know that you will receive an inheritance from the Lord as your reward. It is the Lord Christ you are serving."
+       ]
+      },
+      {
+       "odnosnik": "Colossians 4:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Masters, supply your slaves with what is right and fair, since you know that you also have a Master in heaven."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the same letter Paul speaks to slaves and to masters. They listened to him together, in one room. **What do both sentences say about who is really master in this house?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How might Philemon have listened to these words, knowing what Paul had written to him personally?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Why Didn’t Paul Demand Freedom?",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The letter asks for Onesimus to be received as a brother. It doesn’t ask outright for his release. Christians read this in two ways. Some hear in the sentence “you will do even more than I ask” a gentle request for freedom. Paul leaves the decision to Philemon, because the good is to be done by free will. Others note that the text speaks only of receiving him and is silent about freedom. Paul changes the relationship from the inside without changing the law. Both readings share one thing. A brother at the same table no longer fits the role of a piece of property. Later, the church needed centuries to draw the full conclusions from this.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it say about us that a truth written down in such a short letter waited so long for its conclusions to be drawn?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Onesimus came back with a letter from someone who vouched for him. **Who once stood between you and someone you had let down?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "There are three roles in this story: the one who comes back, the one who has to receive, and the one who vouches. **Which of them is closest to you today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **is there someone for whom you could say, “Charge it to my account”?** You don’t have to say who.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Paul vouched, but the decision was Philemon’s. What do you do when someone comes back, someone has vouched for them, and the one who has to receive them still can’t? Is the second chance lost then?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this. We don’t know how Philemon responded. The fact that the letter survived leads many to suppose that he received Onesimus. It helps if someone observes that being received by God doesn’t depend on whether people receive us.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "A second chance often carries a third person’s signature. Someone says: receive him as you would receive me, and if he owes you anything, charge it to my account.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Philemon 17-18.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of someone you still call by their old wrong in your mind. Ask yourself **what name God calls them by**. Stay with that question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Admit before God a debt you carry and can’t pay off. In silence, read the words “charge it to my account” **as if Jesus were saying them about you**.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if there is someone you ought to go back to, as Onesimus did, ask God who could go with you, as Tychicus did. Don’t set the thought aside just because it’s hard.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“So the Bible supports slavery?”** Don’t brush the question aside, and don’t defend Paul at all costs. Say that the Bible nowhere calls slavery God’s intention. It speaks to people in the world as it found it. Paul asks Philemon to receive a slave as a brother, and that request can’t be granted while you go on treating a person as a thing. The church needed time to draw all the conclusions from this.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone compares the letter to a job today, or to a boss.** Stop it gently. Onesimus was someone’s property. No employment contract today is the same thing, and a comparison like that flattens the lives of people who really were slaves.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they are in debt, have served a prison sentence, or have someone close to them in prison.** Thank them for their trust, and don’t ask for details. It’s enough to say that Onesimus came to faith precisely beside Paul in prison. If needed, stay with the person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Am I supposed to take back someone who hurt me?”** Don’t push. Paul doesn’t pretend there was no damage; he names it and takes it on himself. Forgiveness doesn’t mean agreeing to further harm or going back into a dangerous relationship. If violence is involved, don’t carry this alone, and help the person reach professional help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts guessing what Onesimus stole.** Go back to the text. Paul writes conditionally: “if he has wronged you in any way.” We don’t know what happened, and we don’t need to know. What matters is what Paul does with the damage.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group is silent after the application questions.** That’s fine. Count to ten in your head. If the silence goes on, read Philemon 17-18 again and move on.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 1. Blocks 2, 3, 4, and 5 carry the meeting: the appeal for a child, a brother instead of a slave, the debt charged to Paul, and Onesimus returning to the church as a faithful brother.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“So the Bible supports slavery?”",
+     "odpowiedz": "Don’t brush the question aside, and don’t defend Paul at all costs. Say that the Bible nowhere calls slavery God’s intention. It speaks to people in the world as it found it. Paul asks Philemon to receive a slave as a brother, and that request can’t be granted while you go on treating a person as a thing. The church needed time to draw all the conclusions from this."
+    },
+    {
+     "sytuacja": "Someone compares the letter to a job today, or to a boss.",
+     "odpowiedz": "Stop it gently. Onesimus was someone’s property. No employment contract today is the same thing, and a comparison like that flattens the lives of people who really were slaves."
+    },
+    {
+     "sytuacja": "Someone says they are in debt, have served a prison sentence, or have someone close to them in prison.",
+     "odpowiedz": "Thank them for their trust, and don’t ask for details. It’s enough to say that Onesimus came to faith precisely beside Paul in prison. If needed, stay with the person after the meeting."
+    },
+    {
+     "sytuacja": "“Am I supposed to take back someone who hurt me?”",
+     "odpowiedz": "Don’t push. Paul doesn’t pretend there was no damage; he names it and takes it on himself. Forgiveness doesn’t mean agreeing to further harm or going back into a dangerous relationship. If violence is involved, don’t carry this alone, and help the person reach professional help."
+    },
+    {
+     "sytuacja": "The group starts guessing what Onesimus stole.",
+     "odpowiedz": "Go back to the text. Paul writes conditionally: “if he has wronged you in any way.” We don’t know what happened, and we don’t need to know. What matters is what Paul does with the damage."
+    },
+    {
+     "sytuacja": "The group is silent after the application questions.",
+     "odpowiedz": "That’s fine. Count to ten in your head. If the silence goes on, read Philemon 17-18 again and move on."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 1. Blocks 2, 3, 4, and 5 carry the meeting: the appeal for a child, a brother instead of a slave, the debt charged to Paul, and Onesimus returning to the church as a faithful brother."
+    }
+   ]
+  }
+ ]
+}

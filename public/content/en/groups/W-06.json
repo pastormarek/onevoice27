@@ -1,0 +1,774 @@
+{
+ "tytul": "Decisions in the Fog",
+ "id": "W-06",
+ "seria": "Decisions and the Will of God",
+ "opis": "How to choose when you can’t see the outcome, and why a decision without certainty doesn’t have to be a decision without faith.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 12:1-5; Hebrews 11:8-10; Proverbs 3:5-7; Ecclesiastes 11:1-6; James 4:13-17",
+  "p2": "Genesis 12:10-13; Ruth 2:1-3; Deuteronomy 11:10-12; Esther 4:13-16; Acts 20:22-24",
+  "p3": "Proverbs 3:6"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 27,
+  "p3": 30
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "uncertainty",
+  "faith",
+  "trust",
+  "planning"
+ ],
+ "wersja": 1,
+ "zdanie": "Fog doesn’t mean that God has disappeared. I can’t see the whole road, but I know the One who is leading me along it.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about choices where you can’t see the outcome. Abraham went out without knowing where he was going, and the Bible calls that faith. Scripture doesn’t promise that the fog will lift before we decide. It promises a God who knows the way and walks it together with us. So a decision without certainty doesn’t have to be a decision without faith.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Two emphases can be heard in the church here. Some believe that God has a specific path for each person, in matters of work, place, or marriage too, and leads them to it step by step. Others stress that God gives wisdom and leaves the choice to us within the bounds of what He has already said. Both positions agree that none of us can see the future and that God isn’t playing hide-and-seek with us. A related meeting is “Praying Before a Choice.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone at the table may have made a well-considered decision and lost something by it, such as a job, money, or their health. Don’t suggest that they must have misread God’s will.",
+      "Someone may have been unable to make up their mind for months and be deeply ashamed of it. Don’t hurry them along in front of the group.",
+      "The text from Ecclesiastes is easy to turn into financial advice. This is not a meeting about investing.",
+      "The words “if the Lord is willing” can sound like a formula to check off. What matters is the attitude of the heart."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t give advice on other people’s career or financial matters. Don’t judge anyone’s decisions by how they turned out. Don’t promise that everything will work out once you step out in faith.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a decision you made without knowing how it would end. Say in one word what you felt at the time.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Leave",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 12:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you. I will make you into a great nation, and I will bless you; I will make your name great, so that you will be a blessing. I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.” So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran. And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan. When they came to the land of Canaan,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God says, “go to the land I will show you.” **What doesn’t Abram know at the moment he sets out? And what does he know for certain?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the promise God says five times what He will do. Abram gets one instruction: leave. **What does this way of sharing the weight say about a decision made in faith?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abram is seventy-five years old, with a wife, a nephew, servants, and possessions. **What does a person risk by starting over at that stage of life?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Verse 4 is very short. Abram departed, as the LORD had directed him. There is no map here and no timetable. There is only God’s word. Abram will wait decades for the first two promises, the land and descendants, to be fulfilled. But he has God’s closeness from the very first day. That closeness doesn’t disappear even when, a few verses later, Abram is afraid and lies.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Right After Setting Out",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 12:10-13",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now there was a famine in the land. So Abram went down to Egypt to live there for a while because the famine was severe. As he was about to enter Egypt, he said to his wife Sarai, “Look, I know that you are a beautiful woman, and when the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me but will let you live. Please say you are my sister, so that I will be treated well for your sake, and on account of you my life will be spared.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Shortly after a great step of faith comes a famine, and Abram decides on his own to go down to Egypt. **What does this scene say to those who trusted God once and think that from now on it will be easy?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Abram comes up with a plan to protect himself and puts his wife at risk in the process. **What does fear do to our decisions when the fog comes back?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Not Knowing Where",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 11:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going. By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise. For he was looking forward to the city with foundations, whose architect and builder is God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "He “went, without knowing where he was going.” **How is faith different from certainty, if the author praises the faith of Abraham, who didn’t know where he was going?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Abraham lives in the promised land as a stranger, in tents. **What does it mean to live in the middle of a promise that hasn’t been fulfilled yet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Abraham “was looking forward to the city with foundations.” **How does looking far ahead help you make a decision close at hand?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "As It Happened",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Ruth, a young widow from Moab, comes to Bethlehem with her mother-in-law Naomi. Both are poor and have no one to support them.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ruth 2:1-3",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now Naomi had a relative on her husband’s side, a prominent man of noble character from the clan of Elimelech, whose name was Boaz. And Ruth the Moabitess said to Naomi, “Please let me go into the fields and glean heads of grain after someone in whose sight I may find favor.” “Go ahead, my daughter,” Naomi replied. So Ruth departed and went out into the field and gleaned after the harvesters. And she happened to come to the part of the field belonging to Boaz, who was from the clan of Elimelech."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Ruth chooses a field without a sign and without a word from God. The text says only that “she happened to come” to the part of the field that belonged to Boaz. **How can God guide someone who simply takes a sensible step?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The author uses a word here that means chance. But the reader knows who Boaz is and sees God’s hand. In the whole book God never once speaks to Ruth directly. Yet He guides her life from widowhood in Moab all the way into the family line of David (Ruth 4:17).",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "Trust and Acknowledge Him",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Proverbs 3:5-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "Trust in the LORD with all your heart, and lean not on your own understanding; in all your ways acknowledge Him, and He will make your paths straight. Be not wise in your own eyes; fear the LORD and turn away from evil."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Lean not on your own understanding.” **What does that sentence mean, when the same book tells us to seek wisdom like silver?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“In all your ways acknowledge Him.” **What does acknowledging God look like in the middle of a decision whose outcome we don’t know?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verse 7 adds, “Be not wise in your own eyes.” **Why is self-confidence often the worst guide in the fog?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "These verses don’t tell us to stop thinking. The book of Proverbs urges us to search for wisdom like hidden treasure (Proverbs 2:4). What it does is set wisdom “in your own eyes” against the wisdom that begins with the fear of the LORD. Whoever trusts God still calculates, asks, and plans. They simply stop treating their own calculations as the last word about the future.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Land That Drinks In the Rain",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 11:10-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the land that you are entering to possess is not like the land of Egypt, from which you have come, where you sowed your seed and irrigated on foot, like a vegetable garden. But the land that you are crossing the Jordan to possess is a land of mountains and valleys that drinks in the rain from heaven. It is a land for which the LORD your God cares; the eyes of the LORD your God are always on it, from the beginning to the end of the year."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Egypt was watered from the Nile through irrigation channels. Canaan depended on rain. **Why does God lead His people into a land where it is harder to plan everything?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "“The eyes of the LORD your God are always on it.” **What might that sentence have meant to a farmer looking up at the sky before sowing?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Proverbs 3:6 the Hebrew verb `yashar` means to straighten, to level, to make a road smooth. The BSB renders it faithfully: “He will make your paths straight.” The verse doesn’t say outright that God will show every bend in advance. It says that God will straighten the road of the person who trusts Him. Some hear in it a promise of guidance in specific choices, others a promise of a good life in general. Both readings assume a God who walks with us.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes in how we approach decisions when, instead of a map, we are given the promise of a straightened road?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Sow in the Morning",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ecclesiastes 11:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Cast your bread upon the waters, for after many days you will find it again. Divide your portion among seven, or even eight, for you do not know what disaster may befall the land. If the clouds are full, they will pour out rain upon the earth; whether a tree falls to the south or to the north, in the place where it falls, there it will lie. He who watches the wind will fail to sow, and he who observes the clouds will fail to reap. As you do not know the path of the wind, or how the bones are formed in a mother’s womb, so you cannot understand the work of God, the Maker of all things. Sow your seed in the morning, and do not rest your hands in the evening, for you do not know which will succeed, whether this or that, or if both will equally prosper."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "lacznik",
+     "tekst": "Some translations explain verse 1 instead of keeping its picture. The BSB keeps the image that stands in the Hebrew. Read the verse once more on its own:",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ecclesiastes 11:1",
+       "przeklad": "BSB",
+       "akapity": [
+        "Cast your bread upon the waters, for after many days you will find it again."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“He who watches the wind will fail to sow.” **What does waiting for perfect weather before a decision look like in our lives?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The Teacher says “you do not know” three times, and yet he tells us to sow from morning till evening. **How can not knowing lead to action instead of paralysis?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“Divide your portion among seven, or even eight.” **What might that advice mean for decisions whose consequences can’t be foreseen?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The first call is usually read as an encouragement to be generous. Some readers see in it a bold trading venture instead. In both readings, to cast your bread upon the waters means to risk losing it with no guarantee of getting it back. Further on, the Teacher speaks of spreading the risk and of working from morning till evening. He doesn’t promise that everything will succeed. He only says that whoever waits for certainty will harvest nothing. A wise man who admits that he cannot understand the work of God is by no means encouraging idleness.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Who Knows",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "A royal decree condemns the Jews throughout the Persian Empire to death. Mordecai asks Queen Esther to go to the king, even though going in without being summoned could cost her her life.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Esther 4:13-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "He sent back to her this reply: “Do not imagine that because you are in the king’s palace you alone will escape the fate of all the Jews. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s house will perish. And who knows if perhaps you have come to the kingdom for such a time as this?” Then Esther sent this reply to Mordecai: “Go and assemble all the Jews who can be found in Susa, and fast for me. Do not eat or drink for three days, night or day, and I and my maidens will fast as you do. After that, I will go to the king, even though it is against the law. And if I perish, I perish!”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mordecai doesn’t say, “God wants this.” He says, “Who knows.” **What does it mean to make an important decision on the basis of a “who knows” like that?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Esther asks for three days of fasting and then says, “If I perish, I perish!” **What helps a person take a good step even though they don’t know where it will lead?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "The book of Esther never once mentions the name of God. Esther receives no dream, no prophet, and no sign. She decides after talking with Mordecai and after fasting. Yet the reader sees God in every turn of this story.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "If the Lord Is Willing",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "James 4:13-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.” You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes. Instead, you ought to say, “If the Lord is willing, we will live and do this or that.” As it is, you boast in your proud intentions. All such boasting is evil. Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The merchants have a plan for a year: a city, business, profit. **What does James object to in this plan, when planning itself is nothing wrong?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“If the Lord is willing, we will live and do this or that.” **How does that sentence change the way we plan, once it stops being an empty formula?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "After his words about an uncertain tomorrow, James reminds his readers of the good they know how to do. **Why does what is clear today weigh more here than what is unknown tomorrow?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "James doesn’t criticize a short plan or a long one, the choice of a city, or earning money. He criticizes a self-confidence that leaves God out of the reckoning. Paul planned journeys too, and once he says plainly that he will come back “if God is willing” (Acts 18:21). It’s about attitude, not words. A plan can be held firmly in your head and lightly in your hand. What we know of God’s will for today weighs more than our guesses about tomorrow.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Not Knowing What Will Happen to Me There",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Paul is saying goodbye to the elders of the church in Ephesus. He is going back to Jerusalem, even though in every city he hears warnings.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 20:22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there. I only know that in town after town the Holy Spirit warns me that chains and afflictions await me. But I consider my life of no value to me, if only I may finish my course and complete the ministry I have received from the Lord Jesus—the ministry of testifying to the good news of God’s grace."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Paul doesn’t know what will happen to him, but he knows that chains await him. **What keeps him on this road?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What can we learn from a man for whom finishing his course matters more than his own safety?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A Good Decision, a Bad Outcome",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "It’s easy to judge decisions by how they turned out. Someone chose a secure job, and a year later the whole industry ground to a halt. Someone else took a risk and won. People who study decision-making call this outcome bias and warn that it teaches false lessons. The outcome depends on the choice, but also on things no one controls.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "In the church a spiritual temptation is added to this. Some say that if things went badly, the person must have stepped outside God’s will. The Bible shows more than that. Paul followed the Spirit and ended up in prison. The heroes of faith in the letter to the Hebrews died without having received the things they were promised (Hebrews 11:13). At the same time, Scripture knows of roads that end badly because they were wrong roads, like Jonah’s road to Tarshish. Both views share one thing. A decision is judged by what could be known and by how the person sought God at the moment of choosing.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How should you judge a decision of your own that was thought through and prayed over, but ended badly?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think about a choice you are facing. **What in it is fog, and what do you already know for certain today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What certainty are you waiting for before you move? Is that kind of certainty even possible in this matter?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **what plan are you holding too tightly today, and what would change if you said “if the Lord is willing” about it?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Abraham went because God said “Leave.” Most of us never hear a word like that. Can a decision made without a clear command be the same kind of step of faith as his departure?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "you don’t have to settle it. It helps if someone observes that Ruth and Esther heard no word at all, and yet the Bible places them alongside those to whom God spoke directly. Sometimes faith means obeying a command. Sometimes it is a sensible step taken with trust.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Fog doesn’t mean that God has disappeared. I can’t see the whole road, but I know the One who is leading me along it.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Hebrews 11:8 or Proverbs 3:5-6.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Name before God the fear that holds you most tightly in a decision whose outcome you don’t know. One sentence is enough, said honestly.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Ask yourself **what God’s will is for me today**, regardless of how tomorrow’s matter turns out. Stay with that answer.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** If you have long been putting off a decision because you are waiting for perfect weather, ask yourself before God whether this is still waiting, or already running away.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“I chose after praying, and everything fell apart.”** Don’t look for someone to blame, and don’t explain what this person did wrong. Paul followed the Spirit into prison. Listen to the end. If the matter is fresh and painful, stay with this person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So there’s no point in planning, since we can’t know anyway?”** James doesn’t forbid plans, and the Teacher tells us to sow in the morning. The Bible teaches us to plan with an open hand. Go back to the question of what is clear today.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone is in a situation where every way out is bad: illness, debt, a relationship falling apart.** Don’t say that everything will be fine, and don’t suggest solutions. Sometimes every way out costs something, and you have to choose the one that hurts least. The Bible doesn’t pretend such situations don’t exist. The group listens and walks alongside. Legal, medical, and psychological matters need professional help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation turns to money and investments.** Gently stop it. The Teacher isn’t writing a financial guide. Ask what this text says about the fear of risk and about generosity.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God never said ‘Leave’ to me.”** To most of us He hasn’t said it directly. Point to Ruth in Boaz’s field and to Esther deciding to go to the king. Both chose without a word from heaven, and God was in their story.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 1, 2, 4, and 5 carry the meeting: leaving without a map, faith without certainty, sowing in spite of not knowing, and a plan held lightly in the hand.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“I chose after praying, and everything fell apart.”",
+     "odpowiedz": "Don’t look for someone to blame, and don’t explain what this person did wrong. Paul followed the Spirit into prison. Listen to the end. If the matter is fresh and painful, stay with this person after the meeting."
+    },
+    {
+     "sytuacja": "“So there’s no point in planning, since we can’t know anyway?”",
+     "odpowiedz": "James doesn’t forbid plans, and the Teacher tells us to sow in the morning. The Bible teaches us to plan with an open hand. Go back to the question of what is clear today."
+    },
+    {
+     "sytuacja": "Someone is in a situation where every way out is bad: illness, debt, a relationship falling apart.",
+     "odpowiedz": "Don’t say that everything will be fine, and don’t suggest solutions. Sometimes every way out costs something, and you have to choose the one that hurts least. The Bible doesn’t pretend such situations don’t exist. The group listens and walks alongside. Legal, medical, and psychological matters need professional help."
+    },
+    {
+     "sytuacja": "The conversation turns to money and investments.",
+     "odpowiedz": "Gently stop it. The Teacher isn’t writing a financial guide. Ask what this text says about the fear of risk and about generosity."
+    },
+    {
+     "sytuacja": "“God never said ‘Leave’ to me.”",
+     "odpowiedz": "To most of us He hasn’t said it directly. Point to Ruth in Boaz’s field and to Esther deciding to go to the king. Both chose without a word from heaven, and God was in their story."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 1, 2, 4, and 5 carry the meeting: leaving without a map, faith without certainty, sowing in spite of not knowing, and a plan held lightly in the hand."
+    }
+   ]
+  }
+ ]
+}

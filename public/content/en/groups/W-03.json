@@ -1,0 +1,747 @@
+{
+ "tytul": "A Voice You Can Recognize",
+ "id": "W-03",
+ "seria": "Decisions and the Will of God",
+ "opis": "How young Samuel learned to recognize God’s voice, and how to tell it apart from the other voices inside us.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "1 Samuel 3:1-7; 1 Samuel 3:8-10, 19-20; John 10:1-5, 27-28; Isaiah 30:15, 18-21; 1 John 4:1-6",
+  "p2": "John 20:14-16; Isaiah 30:1-2; Deuteronomy 13:1-4",
+  "p3": "Acts 21:4, 10-14"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 23,
+  "p3": 28
+ },
+ "tagi": [
+  "decisions",
+  "will of God",
+  "God’s voice",
+  "discernment",
+  "Holy Spirit",
+  "prayer"
+ ],
+ "wersja": 1,
+ "zdanie": "You learn to recognize the Shepherd’s voice the way you learn any familiar voice: by walking with Him for a long time and listening before you decide.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Bible says that God speaks to His children. It also says that not every voice inside a person comes from Him. Our own desires in pious disguise speak up in us, and so do our fears, other people’s expectations, and the voice of the Spirit. This meeting is about how we learn to recognize that last one. Samuel didn’t recognize it right away and needed the help of an old priest. Sheep know the shepherd’s voice because they walk with him. John tells us to test the spirits instead of believing every one.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "There are two emphases in the church here. Some strongly stress the personal guidance of the Spirit, including through inner convictions. Others warn that an impression doesn’t thereby become God’s voice, and that God usually guides through Scripture, wisdom, and the counsel of others. Both sides agree that God’s voice never contradicts Scripture, and that discernment takes humility and time.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Related meetings: “Is God Playing Hide-and-Seek with Me?” and “Wisdom You May Ask For.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "Someone may tell you they heard God very clearly. Don’t question it in front of the group, and don’t raise it to the status of a model.",
+      "Someone may worry that God never speaks to them. Don’t treat that as a lack of faith. Samuel too “did not yet know the LORD.”",
+      "There may be someone at the table with a history of mental illness or religious obsessions. Talk about voices may stir something in them. Speak calmly and don’t probe.",
+      "The topic easily turns into a list of tests to tick off. Keep coming back to the picture of a shepherd you know."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t rule on whether something someone heard was from God. Don’t joke about other people’s spiritual experiences. Don’t promise that after this meeting everyone will hear God more clearly.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone you recognize by their voice alone, even over the phone after a single word. Say in one sentence where that recognition comes from.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Boy Who Mistook the Voice",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 3:1-7",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the boy Samuel ministered to the LORD before Eli. Now in those days the word of the LORD was rare and visions were scarce. And at that time Eli, whose eyesight had grown so dim that he could not see, was lying in his room. Before the lamp of God had gone out, Samuel was lying down in the temple of the LORD, where the ark of God was located. Then the LORD called to Samuel, and he answered, “Here I am.” He ran to Eli and said, “Here I am, for you have called me.” “I did not call,” Eli replied. “Go back and lie down.” So he went and lay down. Once again the LORD called, “Samuel!” So Samuel got up, went to Eli, and said, “Here I am, for you have called me.” “My son, I did not call,” Eli replied. “Go back and lie down.” Now Samuel did not yet know the LORD, because the word of the LORD had not yet been revealed to him."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Samuel hears a call and runs to a man. **Why is it so easy to mistake God’s voice for the voice of someone near us?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 7 explains the mistake in one sentence. **What does it mean that Samuel “did not yet know the LORD,” even though he served in the house of God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In those days “the word of the LORD was rare.” **How might a person feel who lives at a time when God seems to be silent?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The heart of the scene is that no one in the whole sanctuary recognized right away who was speaking. Not the boy, and not the old priest. The lamp of God burned from evening until morning, so the phrase “before the lamp of God had gone out” tells us the time. It was the night before dawn. Samuel did nothing wrong. He was ready, he answered, and he ran. He lacked only what verse 7 speaks of. He did not yet know the LORD, and no one has that kind of knowing from the first day.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Speak, for Your Servant Is Listening",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Samuel 3:8-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "Once again, for the third time, the LORD called to Samuel. He got up, went to Eli, and said, “Here I am, for you have called me.” Then Eli realized that it was the LORD who was calling the boy. “Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place. Then the LORD came and stood there, calling as before, “Samuel! Samuel!” And Samuel answered, “Speak, for Your servant is listening.”"
+       ]
+      },
+      {
+       "odnosnik": "1 Samuel 3:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "And Samuel grew, and the LORD was with him, and He let none of Samuel’s words fall to the ground. So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "It is old Eli, not the boy, who understands what is happening. **What role do other people, especially those older in faith, play in recognizing God’s voice?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Speak, for Your servant is listening.” **What do you need in your heart to say that sentence before you know what God will say?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Verses 19-20 speak of years, not of one night. **What does that say about how the ability to hear God grows?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Eli taught the boy the full answer: “Speak, LORD.” Samuel said it more briefly and left out the word “LORD.” He answered differently from how he had been taught, and that was enough. The formula turned out to matter less than the encounter itself. It’s also worth noticing who Eli was. Things were going badly in his house, and he himself couldn’t stop it. Even so, God used him to teach the boy to listen.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Name Spoken in His Own Way",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Mary Magdalene stands by the empty tomb, weeping. She thinks someone has taken Jesus’ body.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 20:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "When she had said this, she turned around and saw Jesus standing there; but she did not recognize that it was Jesus. “Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.” Jesus said to her, “Mary.” She turned and said to Him in Hebrew, “Rabboni!” (which means “Teacher”)."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Mary sees Jesus and doesn’t recognize Him. She recognizes Him only when she hears her name. **What does this scene say about how we recognize someone close to us?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus asks, “Whom are you seeking?” before He explains anything. **Why does He begin with a question?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The Sheep Know His Voice",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "John 10:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber. But the one who enters by the gate is the shepherd of the sheep. The gatekeeper opens the gate for him, and the sheep listen for his voice. He calls his own sheep by name and leads them out. When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice. But they will never follow a stranger; in fact, they will flee from him because they do not recognize his voice.”"
+       ]
+      },
+      {
+       "odnosnik": "John 10:27-28",
+       "przeklad": "BSB",
+       "akapity": [
+        "My sheep listen to My voice; I know them, and they follow Me. I give them eternal life, and they will never perish. No one can snatch them out of My hand."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Sheep don’t learn the shepherd’s voice from a textbook. **How do they know it? What does that say about us?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The shepherd “goes on ahead of them.” **How is being led by someone who walks in front different from directions given from a distance?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In verse 27 the shepherd first says that he knows the sheep, and only then that they follow him. **What gives a person the assurance of being known, before they themselves can clearly recognize the voice?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "A sheepfold was an enclosure with a stone wall and a single entrance, guarded by a gatekeeper. Several small flocks could be brought into it for the night. In the morning each shepherd called out his own sheep, and only his followed him. The voice alone separated them. Jesus says these words right after healing the man born blind, whom the leaders had thrown out of the synagogue. That man had never seen Jesus before. When Jesus found him and spoke to him, he believed and worshiped Him.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A Voice Behind You",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The prophet speaks to Judah, which in a time of danger is seeking help from Egypt and not asking God for counsel.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 30:15",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence—but you were not willing.”"
+       ]
+      },
+      {
+       "odnosnik": "Isaiah 30:18-21",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore the LORD longs to be gracious to you; therefore He rises to show you compassion, for the LORD is a just God. Blessed are all who wait for Him. O people in Zion who dwell in Jerusalem, you will weep no more. He will surely be gracious when you cry for help; when He hears, He will answer you. The Lord will give you the bread of adversity and the water of affliction, but your Teacher will no longer hide Himself—with your own eyes you will see Him. And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Your strength would lie in quiet confidence,” and yet “you were not willing.” **Why is it so hard to stay calm when something important is at stake? What in us would rather act right away?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The voice speaks “behind you” when someone is about to turn to the right or to the left. **What does that picture say about when God speaks and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "**What noise in your ordinary day most drowns out quiet thoughts?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In verse 18 the same Hebrew verb appears twice. The BSB says that the LORD “longs to be gracious,” and older translations such as the KJV render it as waiting: “therefore will the LORD wait, that he may be gracious unto you.” And “blessed are all who wait for Him.” Both sides are waiting. God isn’t silent out of anger. He waits for a person to stop, cry out, and be willing to listen. The voice in verse 21 doesn’t invent a new route, either. It calls a person back to the road they are just about to leave.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "kontekst",
+   "poziom": 2,
+   "tytul": "Context",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In Isaiah’s time Judah was threatened by Assyria. Instead of asking God, the king’s envoys set out for Egypt to buy themselves Pharaoh’s protection. To an Israelite ear this sounded like the exodus turned upside down. The people were going back of their own free will to the place God had once brought them out of.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 30:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin. They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "They “carry out a plan that is not Mine.” **How can I tell that my plan, even a sensible one, is being made without asking God?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: A Voice in the Heart or a Teacher Before Your Eyes",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Verse 21 is sometimes read as a description of the inner voice of the Spirit, prompting the way at the moment of choice. Another reading points to verse 20. In Isaiah’s time prophets had to go into hiding, and the promise says that the Teacher will no longer hide and the people will see Him. The phrase about turning “to the right or to the left” in the Old Testament means straying from the way of the commandments. Then the voice behind you is a teacher calling to someone who has turned their back on a familiar road. Both readings share the same point. God’s voice leads onto the road God has already shown, not onto a completely new one.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does your understanding of guidance change when you hear the voice behind you through people who teach you the Word?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Test the Spirits",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 4:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Beloved, do not believe every spirit, but test the spirits to see whether they are from God. For many false prophets have gone out into the world. By this you will know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and which is already in the world at this time. You, little children, are from God and have overcome them, because greater is He who is in you than he who is in the world. They are of the world. That is why they speak from the world’s perspective, and the world listens to them. We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. That is how we know the Spirit of truth and the spirit of deception."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John tells us not to believe every spirit. **Why is testing here a part of faith rather than a lack of it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The first test concerns what someone says about Jesus. **How can you apply that test to an inner conviction about an ordinary decision?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The false ones “speak from the world’s perspective, and the world listens to them.” **How can you tell that a voice inside you sounds more like the world than like the gospel?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "John was writing to churches where teachers had appeared who appealed to the Spirit. He doesn’t tell his readers to listen to them, or to reject them in advance. He tells them to test. His measure is Jesus as we know Him from Scripture. A voice that draws you away from Jesus isn’t God’s voice, however spiritual it may sound. This testing needs a community. John writes in the plural and says, “That is how we know.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Even When the Sign Comes True",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 13:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you, and if the sign or wonder he has spoken to you comes about, but he says, “Let us follow other gods (which you have not known) and let us worship them,” you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul. You are to follow the LORD your God and fear Him. Keep His commandments and listen to His voice; serve Him and hold fast to Him."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The sign comes true, and yet the people must not follow the prophet. **So what is the real measure of God’s guidance?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where today is it easy to take something that simply worked out as a sign from God?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Test” in 1 John 4:1 is the Greek `dokimazete`. The same word described testing metal or a coin before accepting it. Distinguishing between spirits also appears on the list of the Spirit’s gifts in 1 Corinthians, right after prophecy. So a believer doesn’t have to choose between openness to the Spirit and sober judgment. The Spirit Himself gives the gift of testing.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What changes when you think of sober testing of your convictions as a gift of the Spirit rather than as suspicion?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: The Same Spirit, Different Conclusions",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 21:4",
+       "przeklad": "BSB",
+       "akapity": [
+        "We sought out the disciples in Tyre and stayed with them seven days. Through the Spirit they kept telling Paul not to go up to Jerusalem."
+       ]
+      },
+      {
+       "odnosnik": "Acts 21:10-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "After we had been there several days, a prophet named Agabus came down from Judea. Coming over to us, he took Paul’s belt, bound his own feet and hands, and said, “The Holy Spirit says: ‘In this way the Jews of Jerusalem will bind the owner of this belt and hand him over to the Gentiles.’” When we heard this, we and the people there pleaded with Paul not to go up to Jerusalem. Then Paul answered, “Why are you weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus.” When he would not be dissuaded, we fell silent and said, “The Lord’s will be done.”"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The disciples speak “through the Spirit,” Agabus foretells chains, and Paul goes anyway. Some read this to mean that the Spirit foretold suffering, and the disciples added their own conclusion that Paul should not go. Others see here a Paul who discerned differently from his friends and took responsibility for it. In both readings it’s clear that a true word from God and a human conclusion drawn from it are not always the same thing. It’s also clear that in the end the community doesn’t force anything. It leaves the matter to God.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What helps us tell apart what God has really shown and the conclusion we draw from it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In the end the community says, “The Lord’s will be done.” **When should a group tell someone plainly what it thinks, and when should it leave the decision to them?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Think of a conviction that keeps coming back to you lately. **How does it sound? Calm and with a way forward, or insistent and with no way out?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Who in your life is like Eli for you, someone who helps you recognize whose voice you are hearing?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **in what matter would you like to say to God today, “Speak, for Your servant is listening”?** You don’t have to say what it’s about.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can you tell God’s voice from your own desire, when both can sound inside you like a calm, quiet conviction?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t give a single answer here. It helps if three things from today’s texts come up: agreement with Scripture, time that lets a conviction mature, and people who know us well. A peace that remains even on a hard road can be something different from the relief of choosing the easier one.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "You learn to recognize the Shepherd’s voice the way you learn any familiar voice: by walking with Him for a long time and listening before you decide.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** 1 Samuel 3:10 or John 10:27.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Find a moment of real quiet this week, without your phone and without hurrying. Simply say to God, **“Speak, for Your servant is listening,”** and stay in that quiet, even if you hear nothing.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Think of a thought that keeps circling inside you and accusing you. Ask yourself **whether it leads you to a concrete step or only weighs you down**. Admit it before God.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** if you have long carried a conviction that would change your life, tell someone mature who knows you about it. Listen to what they say, even if it isn’t what you want to hear.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“God never speaks to me.”** Don’t try to convince them that He does, and don’t judge. Remind them that Samuel too “did not yet know the LORD,” and that the word of the LORD was rare in those days. Sheep know the shepherd’s voice because they walk with him, and that takes years. God also speaks through Scripture and through people, not only in the quiet of the heart.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God told me to do this.”** Don’t argue in front of the group. You can gently ask how that conviction measures up against Scripture and what the people who know this person well say about it. If the decision involves family, money, or health, talk with them after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about voices that tell them to do something bad or that frighten them.** This isn’t a topic for group discussion. Calmly move on, and after the meeting talk with that person one-on-one. Gently encourage them to talk with a doctor or a psychologist. If they mention suicidal thoughts, take it seriously and don’t carry it alone. If they are in immediate danger, don’t leave them alone, and call your local emergency number right away. A crisis line in your country can also help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“How do I know it isn’t just my imagination?”** That’s a good question, and John tells us to ask it. Don’t give a single formula. Go back to the texts. Does this conviction agree with the Jesus of Scripture, does it mature over time, and will it stand up to a conversation with someone wise?",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group starts ruling on whether someone’s experience was from God.** Stop it gently. The group can listen and ask questions. It isn’t a court over someone else’s spiritual life.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they feel constant guilt and keep hearing that they’re worthless.** Gently remind them that conviction from God is specific and leads to a way out. Accusation with no way out and no end doesn’t sound like the Shepherd’s voice. If it has gone on a long time and is heavy, encourage them to talk with a pastor or a professional.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 4. Blocks 1, 2, and 3 carry the meeting: the boy who is learning the voice, the old priest who helps him, and the sheep who know their shepherd.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“God never speaks to me.”",
+     "odpowiedz": "Don’t try to convince them that He does, and don’t judge. Remind them that Samuel too “did not yet know the LORD,” and that the word of the LORD was rare in those days. Sheep know the shepherd’s voice because they walk with him, and that takes years. God also speaks through Scripture and through people, not only in the quiet of the heart."
+    },
+    {
+     "sytuacja": "“God told me to do this.”",
+     "odpowiedz": "Don’t argue in front of the group. You can gently ask how that conviction measures up against Scripture and what the people who know this person well say about it. If the decision involves family, money, or health, talk with them after the meeting."
+    },
+    {
+     "sytuacja": "Someone talks about voices that tell them to do something bad or that frighten them.",
+     "odpowiedz": "This isn’t a topic for group discussion. Calmly move on, and after the meeting talk with that person one-on-one. Gently encourage them to talk with a doctor or a psychologist. If they mention suicidal thoughts, take it seriously and don’t carry it alone. If they are in immediate danger, don’t leave them alone, and call your local emergency number right away. A crisis line in your country can also help."
+    },
+    {
+     "sytuacja": "“How do I know it isn’t just my imagination?”",
+     "odpowiedz": "That’s a good question, and John tells us to ask it. Don’t give a single formula. Go back to the texts. Does this conviction agree with the Jesus of Scripture, does it mature over time, and will it stand up to a conversation with someone wise?"
+    },
+    {
+     "sytuacja": "The group starts ruling on whether someone’s experience was from God.",
+     "odpowiedz": "Stop it gently. The group can listen and ask questions. It isn’t a court over someone else’s spiritual life."
+    },
+    {
+     "sytuacja": "Someone says they feel constant guilt and keep hearing that they’re worthless.",
+     "odpowiedz": "Gently remind them that conviction from God is specific and leads to a way out. Accusation with no way out and no end doesn’t sound like the Shepherd’s voice. If it has gone on a long time and is heavy, encourage them to talk with a pastor or a professional."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 4. Blocks 1, 2, and 3 carry the meeting: the boy who is learning the voice, the old priest who helps him, and the sheep who know their shepherd."
+    }
+   ]
+  }
+ ]
+}

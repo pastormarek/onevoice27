@@ -1,0 +1,842 @@
+{
+ "tytul": "The Garden, the First Sanctuary",
+ "id": "SW-01",
+ "seria": "The Sanctuary",
+ "opis": "Eden as the first place of meeting with God, and the road that runs through the whole Bible leading back there.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Genesis 2:8-15; Genesis 3:22-24; 1 Kings 6:29-30, 32; Exodus 26:31; Ezekiel 47:1, 3-5, 7-9, 12; Revelation 22:1-5",
+  "p2": "Exodus 27:13, 16; Genesis 4:16; Exodus 25:31-34; Psalm 36:7-9; John 7:37-39; Isaiah 51:3; Revelation 2:7",
+  "p3": "Exodus 28:9; Genesis 2:17; Genesis 3:21; Revelation 21:16"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 31
+ },
+ "tagi": [
+  "sanctuary",
+  "tabernacle",
+  "Eden",
+  "God’s presence",
+  "hope",
+  "new earth"
+ ],
+ "wersja": 1,
+ "zdanie": "The Bible begins and ends in a place where God lives with people. Everything in between is the road back.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting reads the Garden of Eden as the first place where God lived with human beings. The Bible describes that garden in words that come back later with the tabernacle and the temple. There is an entrance on the east, gold and precious stones, a river, the tree of life, and cherubim. The man is given a task that the Levites will later carry out. After the expulsion, God doesn’t give up on this picture. He has it rebuilt in the tabernacle, shows it to a prophet as a river flowing from under the temple threshold, and sets it on the last page of the Bible.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "A related meeting is “The God Who Wants to Live with Us.” That one is about God’s presence in a community. This one follows the trail of the garden itself, from the first page of the Bible to the last.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "The conversation can easily turn into an argument about the age of the earth, evolution, or how literally to read the first chapters of the Bible. We’re not settling that today. We’re asking what the text says about God and about the place where we meet Him.",
+      "We won’t go into the mechanics of the fall or the question of where evil came from. Other meetings deal with that. Here we start at the moment the garden is closed.",
+      "The word “exile” may touch someone personally. Someone at the table may have lost a home, left their country, been rejected by their family, or left a church.",
+      "The picture of cherubim with a sword can sound like God as a guard who won’t let anyone in. Don’t explain it away right off. The text itself will show where those cherubim stand later."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t go looking for Eden on a map. Don’t quiz people on the symbolism of the tabernacle, and don’t add a meaning to every detail. Don’t turn the meeting into a lecture on the end of the world.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a place you can’t go back to, though you still remember it. It might be a house, a garden, a yard, or someone’s kitchen. Say in one sentence what made it good to be there.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer, and don’t ask follow-up questions.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Garden God Planted",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:8-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed. Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil. Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters: The name of the first river is Pishon; it winds through the whole land of Havilah, where there is gold. And the gold of that land is pure, and bdellium and onyx are found there. The name of the second river is Gihon; it winds through the whole land of Cush. The name of the third river is Hiddekel; it runs along the east side of Assyria. And the fourth river is the Euphrates. Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List what God does in these verses and what the man is to do. **What does that list say about whose garden this is and who is the guest in it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The man is to “cultivate and keep” the garden. **What needs keeping in a place where there is no evil yet?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The description pauses over gold, bdellium, and onyx, though nobody in the garden needs them. **Why include details like that in this story?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The two verbs in verse 15, “cultivate and keep,” stand together again in the description of the Levites’ work at the tabernacle in Numbers 3:7-8. There the BSB renders them “attending to the service” and “take care of.” An Israelite who heard this story heard the vocabulary of the sanctuary in it. Add to that the gold, the precious stones, and the entrance on the east, because the garden lies “in the east.” So the man’s first work was more than gardening. It was service in the place where God lives.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "The Hebrew word for garden, `gan`, means an enclosed place, most often an orchard behind a wall. A garden like that was an estate fit for a king, so an ancient listener pictured a royal park rather than vegetable beds. The Greek translation of the Old Testament rendered it `paradeisos`, a word borrowed from Persian, where it meant an enclosed park. That is where our word “paradise” comes from.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The onyx stone from verse 12 comes back in Exodus, on the High Priest’s garments.",
+     "poziom": 3
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 28:9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Take two onyx stones and engrave on them the names of the sons of Israel:"
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The same stone lies in the ground near Eden and on the shoulders of the priest who enters the sanctuary with the names of the people. **What does that link say about whom the priest “carries” before God?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "Guards at the East Entrance",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The man and the woman have eaten fruit from the tree God had forbidden. God comes to them, talks with them, and Himself makes them clothes from skins. Then He says these words.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 3:22-24",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...” Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken. So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God Himself gives the reason the man can’t eat from the tree of life now. **What would it mean to live forever in the state the man has just found himself in?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The cherubim are “to guard the way to the tree of life.” You can guard a road against someone, or for someone. **How do you read this sentence, and what in the text supports your reading?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "In chapter 2 the man was to keep the garden. Now the garden is kept from him. **What does that reversal say about what the man lost?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The cherubim come back in the tabernacle. They were woven into the veil in front of the Most Holy Place, and two golden cherubim stood on the mercy seat above the ark, where God met with Moses. So the guards of the closed garden later stand over the place where God speaks with people and where He forgives. The verb “stationed” in verse 24 shares its root with the verb “to dwell.” From that root comes the Hebrew name of the tabernacle, which literally means “dwelling.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "East of Eden",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 4:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 27:13",
+       "przeklad": "BSB",
+       "akapity": [
+        "The east side of the courtyard, toward the sunrise, is to be fifty cubits wide."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 27:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "The gate of the courtyard shall be twenty cubits long, with a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen. It shall have four posts and four bases."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The cherubim stand east of the garden, and Cain goes even farther in the same direction. **What happens to the distance from God in the first chapters of the Bible, as one person after another goes out “from the presence of the LORD”?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The only gate into the tabernacle courtyard was on the east side. **Which way did a person have to walk to go inside, and what might that direction have reminded them of?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Punishment or Protection",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Genesis 2:17",
+       "przeklad": "BSB",
+       "akapity": [
+        "But you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”"
+       ]
+      },
+      {
+       "odnosnik": "Genesis 3:21",
+       "przeklad": "BSB",
+       "akapity": [
+        "And the LORD God made garments of skin for Adam and his wife, and He clothed them."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The church reads the expulsion from Eden in two ways. Some see it first of all as a sentence. The man and the woman don’t die that same day, but they are cut off from the place life comes from, and that is how death begins. Others stress mercy. God closes the way to the tree of life so that human beings won’t be fixed forever in a state of separation. Both sides agree on one thing. Before God sends the people out, He clothes them Himself, and the way to the tree is guarded, not destroyed.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How do the sentence in verse 23 and the care in Genesis 3:21, where He Himself clothes the people, fit in one God?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What difference does it make that the tree of life wasn’t cut down, only placed under guard?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "A Garden Carved into the Temple",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Several hundred years after the exodus from Egypt, King Solomon builds a temple in Jerusalem. Its layout follows the old tabernacle from the wilderness.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 Kings 6:29-30, 32",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then he carved the walls all around the temple, in both the inner and outer sanctuaries, with carved engravings of cherubim, palm trees, and open flowers. And he overlaid the temple floor with gold in both the inner and outer sanctuaries. … The double doors were made of olive wood, and he carved into them cherubim, palm trees, and open flowers and overlaid the cherubim and palm trees with hammered gold."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 26:31",
+       "przeklad": "BSB",
+       "akapity": [
+        "Make a veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List what Solomon had carved on the walls and doors. **What did a priest see around him as he went into the temple?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Cherubim were woven into the veil in front of the Most Holy Place. Remember where the cherubim stood in Eden. **So what was that veil to someone who knew the story of the garden?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The builders could have decorated God’s house with pictures of war, power, or wealth. **Why did they choose to recall a garden in the place of meeting with God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The whole temple was furnished like a garden made of wood, stone, and gold. There were palm trees, flowers, cherubim, and pomegranates on the pillars. In the first room of the tabernacle stood the golden lampstand, shaped like a tree with branches and almond blossoms. Whoever entered the temple was entering a miniature Eden. Yet the veil with its cherubim was a reminder that the way into the innermost place was still not open to everyone.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Tree of Gold",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 25:31-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then you are to make a lampstand of pure, hammered gold. It shall be made of one piece, including its base and shaft, its cups, and its buds and petals. Six branches are to extend from the sides of the lampstand—three on one side and three on the other. There are to be three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extend from the lampstand. And on the lampstand there shall be four cups shaped like almond blossoms with buds and petals."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Describe this lampstand in your own words, without using the word “lampstand.” **What does it look more like, and what does that likeness add to the Holy Place?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "In Eden the tree of life stood “in the middle of the garden.” **What might it have meant to the priests that a golden tree giving light stood beside them in their daily service?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "A River from Under the Threshold",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "The prophet Ezekiel is living in exile in Babylon, and the temple in Jerusalem lies in ruins. In a vision someone leads him around a new temple.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Ezekiel 47:1, 3-5, 7-9, 12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the man brought me back to the entrance of the temple, and I saw water flowing from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar. … As the man went eastward with a measuring line in his hand, he measured off a thousand cubits and led me through ankle-deep water. Then he measured off a thousand cubits and led me through knee-deep water. Again he measured a thousand cubits and led me through waist-deep water. Once again he measured off a thousand cubits, but now it was a river that I could not cross, because the water had risen and was deep enough for swimming—a river that could not be crossed on foot. … When I arrived, I saw a great number of trees along both banks of the river. And he said to me, “This water flows out to the eastern region and goes down into the Arabah. When it empties into the Sea, the water there becomes fresh. Wherever the river flows, there will be swarms of living creatures and a great number of fish, because it flows there and makes the waters fresh; so wherever the river flows, everything will flourish. … Along both banks of the river, fruit trees of all kinds will grow. Their leaves will not wither, and their fruit will not fail. Each month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will be used for food and their leaves for healing.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Where does this water come from, and where does it flow? **What happens to everything it touches?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "With every thousand cubits the water gets deeper, though nobody adds to it and no stream flows into it. **What does that picture say about what comes from God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Compare this river and these trees with the garden in Genesis 2. **What comes back from Eden, and what is completely new here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Ezekiel receives this vision while the temple lies in ruins and the people live far from their land. The water flows east, in the same direction Cain once went. It runs down into the Dead Sea, the most barren place in the region, and brings it back to life. The river from Eden watered one garden. The river from under the temple threshold heals dead land. The picture goes further still. On the last page of the Bible this water flows straight from the throne of God.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "The Fountain of Life",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Psalm 36:7-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings! They feast on the abundance of Your house, and You give them drink from Your river of delights. For with You is the fountain of life; in Your light we see light."
+       ]
+      },
+      {
+       "odnosnik": "John 7:37-39",
+       "przeklad": "BSB",
+       "akapity": [
+        "On the last and greatest day of the feast, Jesus stood up and called out in a loud voice, “If anyone is thirsty, let him come to Me and drink. Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’” He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The psalmist writes about God’s “house,” about the shadow of His wings, and about a river. **What from today’s reading can you hear in those three pictures?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus says this in the temple, on the last day of the Feast of Tabernacles. **What changes when the river is to flow from within a person, and not from under the threshold of a building?**",
+     "poziom": 2
+    },
+    {
+     "typ": "notka",
+     "tekst": "“The shadow of Your wings” in the psalm is most likely a picture of the cherubim, who spread their wings over the ark in the Most Holy Place. The word translated “delights” comes from the same root as the name Eden. So the psalmist is saying that the river from the garden flows in God’s house. According to Jewish tradition, during the Feast of Tabernacles the priests brought water every day and poured it out at the altar.",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "A Garden on the Last Page",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "At the end of Revelation, John sees a new heaven, a new earth, and a city where God lives with people.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 22:1-5",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb down the middle of the main street of the city. On either side of the river stood a tree of life, bearing twelve kinds of fruit and yielding a fresh crop for each month. And the leaves of the tree are for the healing of the nations. No longer will there be any curse. The throne of God and of the Lamb will be within the city, and His servants will worship Him. They will see His face, and His name will be on their foreheads. There will be no more night in the city, and they will have no need for the light of a lamp or of the sun. For the Lord God will shine on them, and they will reign forever and ever."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "List what comes back from Eden on the last page of the Bible. **What wasn’t there in the first garden that is here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“They will see His face.” After the fall, the man and the woman hid from God among the trees of the garden. **What had to happen for human beings to be able to look God in the face again without fear?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“His servants will worship Him,” and the word also means to serve. The man’s first task in the garden was service too. **How do you imagine work and service in a world where nothing is cursed anymore?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The last chapter of the Bible answers the first ones. People were afraid of God, and now they see His face. The ground was cursed, and now there is no curse. The way to the tree of life was guarded, and now the tree grows on both sides of the river. Eden speaks of God and of the man. Here the Lamb is also on the throne. It is through Him that the road leads back to the garden.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Wilderness Like Eden",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Isaiah 51:3",
+       "przeklad": "BSB",
+       "akapity": [
+        "For the LORD will comfort Zion and will look with compassion on all her ruins; He will make her wilderness like Eden and her desert like the garden of the LORD. Joy and gladness will be found in her, thanksgiving and melodious song."
+       ]
+      },
+      {
+       "odnosnik": "Revelation 2:7",
+       "przeklad": "BSB",
+       "akapity": [
+        "He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant the right to eat from the tree of life in the Paradise of God."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Isaiah promises comfort to Zion, which lies in ruins. **What does it mean to people looking at ruins like that to hear that God will make Eden out of those very ruins?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus promises the church in Ephesus fruit from the tree whose way had been closed since Genesis 3. **Who needed that promise then, and why?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 21:16",
+       "przeklad": "BSB",
+       "akapity": [
+        "The city lies foursquare, with its width the same as its length. And he measured the city with the rod, and all its dimensions were equal—12,000 stadia in length and width and height."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "So the New Jerusalem is a cube. In Solomon’s temple one room had the same shape: the Most Holy Place. Only the High Priest went in there, once a year. In the city of Revelation everyone lives in a place like that, for good. In the end, the garden, the city, and the Most Holy Place become one.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does this picture say about how close God wants to have people at the end of history?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The man was given a garden “to cultivate and keep.” **What in your ordinary week is a piece of garden like that, which God has given you to look after?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in your life do you feel “east of Eden” today, far from the closeness to God you would like to have?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q30",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **which picture from the last page of the Bible do you need most today?** You don’t have to say why.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q31",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The Bible doesn’t end with a return to the first garden. It ends with a city that has a river and a tree in the middle, where a great many people from every nation live. **Is God only giving back what was lost, or giving more than there was at the beginning? What does that mean for a story that has gone wrong in someone’s life?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t produce a single answer here. It helps if someone notices that the wound doesn’t vanish from the story. The Lamb is on the throne, and the leaves of the tree are for healing. The new world remembers that something needed to be healed.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "The Bible begins and ends in a place where God lives with people. Everything in between is the road back.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Revelation 22:3-4 or Genesis 2:15.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think about what you miss most in your closeness to God. Don’t look for someone to blame, and don’t make a repair plan. **Name it before Him in one sentence**, and stay with it for a moment.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The man was to keep the garden he had been given. Ask yourself **what you look after in your home, your relationships, or your work, and what you have long left untended**. Admit it to yourself before you decide anything.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** tell God plainly that you want to see His face one day. Notice what you feel when you say it. If it’s fear, don’t run from it. Tell Him about that too.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Did Eden really exist? And what about evolution?”** Don’t get into an argument about the age of the earth and the origin of life today. Say that it’s an important question, but today we’re reading what this text says about God and about the place of meeting with Him. If the topic keeps coming back, suggest the meeting “Faith and Science: Do I Have to Choose?”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Where was Eden? The Euphrates and the Tigris really exist.”** The text does give the names of rivers. Don’t solve geography at the table. Go back to the question of what this garden was for God and for the man.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God threw them out and posted guards with a sword. That’s cruel.”** Don’t force a defense of God. Read Genesis 3:22 again and the reason God Himself gives. Point out that just before this He makes clothes for the people Himself. Later the cherubim stand over the place where God forgives.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The conversation drifts to women’s ordination or to disputes about church offices.** Stop it gently. Genesis 2:15 speaks of the man whose task resembles service in the tabernacle. You can’t build an answer to today’s disputes out of that, and the text doesn’t try to.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about their own exile: from a home, a country, a family, or a church.** Listen to the end, and don’t force a comparison with Eden. Don’t give advice. Thank them and calmly go back to the text. If it’s fresh and painful, stay with that person after the meeting.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“What about the heavenly sanctuary and the judgment?”** That’s a real topic, but not for today. Write the question down. Today we’re following the trail of the garden from the first page of the Bible to the last.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 1, 2, and 5 carry the meeting: the garden, the closed way, and the garden at the end.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Did Eden really exist? And what about evolution?”",
+     "odpowiedz": "Don’t get into an argument about the age of the earth and the origin of life today. Say that it’s an important question, but today we’re reading what this text says about God and about the place of meeting with Him. If the topic keeps coming back, suggest the meeting “Faith and Science: Do I Have to Choose?”"
+    },
+    {
+     "sytuacja": "“Where was Eden? The Euphrates and the Tigris really exist.”",
+     "odpowiedz": "The text does give the names of rivers. Don’t solve geography at the table. Go back to the question of what this garden was for God and for the man."
+    },
+    {
+     "sytuacja": "“God threw them out and posted guards with a sword. That’s cruel.”",
+     "odpowiedz": "Don’t force a defense of God. Read Genesis 3:22 again and the reason God Himself gives. Point out that just before this He makes clothes for the people Himself. Later the cherubim stand over the place where God forgives."
+    },
+    {
+     "sytuacja": "The conversation drifts to women’s ordination or to disputes about church offices.",
+     "odpowiedz": "Stop it gently. Genesis 2:15 speaks of the man whose task resembles service in the tabernacle. You can’t build an answer to today’s disputes out of that, and the text doesn’t try to."
+    },
+    {
+     "sytuacja": "Someone talks about their own exile: from a home, a country, a family, or a church.",
+     "odpowiedz": "Listen to the end, and don’t force a comparison with Eden. Don’t give advice. Thank them and calmly go back to the text. If it’s fresh and painful, stay with that person after the meeting."
+    },
+    {
+     "sytuacja": "“What about the heavenly sanctuary and the judgment?”",
+     "odpowiedz": "That’s a real topic, but not for today. Write the question down. Today we’re following the trail of the garden from the first page of the Bible to the last."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 1, 2, and 5 carry the meeting: the garden, the closed way, and the garden at the end."
+    }
+   ]
+  }
+ ]
+}

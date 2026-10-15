@@ -1,0 +1,726 @@
+{
+ "tytul": "A High Priest Who Sympathizes",
+ "id": "SW-08",
+ "seria": "The Sanctuary",
+ "opis": "In heaven, Jesus knows our weakness from the inside and intercedes for us. That is why we can come to God with confidence.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Hebrews 4:14-16; Hebrews 5:1-2, 7-9; Hebrews 7:23-27; Romans 8:31-34; 1 John 2:1-2; John 17:9, 15, 20",
+  "p2": "Hebrews 2:14-18; Hebrews 6:19-20; Hebrews 8:1-2; Acts 7:55-56",
+  "p3": "Revelation 12:10"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 24,
+  "p3": 29
+ },
+ "tagi": [
+  "sanctuary",
+  "high priest",
+  "intercession",
+  "compassion",
+  "prayer",
+  "grace",
+  "Hebrews"
+ ],
+ "wersja": 1,
+ "zdanie": "In heaven there is Someone who knows your weakness from the inside and is standing on your side right now.",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about what Jesus is doing now. The letter to the Hebrews speaks of Him as a high priest in the heavenly sanctuary. He knows human weakness from the inside, because He Himself went through trials, tears, and the dread of death. He always lives to intercede for those who come to God through Him. That is why the letter invites us to approach “the throne of grace with confidence.” In the earthly sanctuary, one man went in behind the veil once a year. Here the door is open to everyone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be people from different churches at the table, including Catholics. We are talking about Jesus as the high priest of the letter to the Hebrews. We don’t judge how other communities understand the ordained ministry.",
+      "Someone may picture a stern Father and a Son who has to persuade Him. The texts say otherwise, because it is the Father who “gave Him up” for us. Don’t lecture on theory. Show them Romans 8:31-32.",
+      "Someone may carry a constant sense of being accused. Don’t promise that it will disappear after the meeting. Let them hear who accuses in the text and who defends."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do:** don’t get into debates about the nature of Christ, or into details of the ministry in heaven that the Bible doesn’t describe. Don’t turn the meeting into a lecture on the priesthood. Don’t press anyone to talk about their weakness.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of someone who really understood what you were going through, because they had been through it themselves. Say in one sentence what their presence changed.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "Someone Who Understands",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 4:14-16",
+       "przeklad": "BSB",
+       "akapity": [
+        "Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold firmly to what we profess. For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin. Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The author doesn’t simply write that the high priest sympathizes. He writes that we do not have one who is “unable to sympathize.” **What thoughts about God is he trying to disarm this way?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“Let us then approach the throne of grace with confidence.” **What do you bring to a throne like that? What most often holds you back?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Help is to come “in our time of need.” **How do you understand these words when help seems to be late?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “sympathize” is `sympatheō` in Greek, literally “to suffer together with someone.” This high priest doesn’t look at human weakness from a distance. He knows it from the inside, because He “was tempted in every way that we are.” Many interpreters see “the throne of grace” as the counterpart of the golden mercy seat on the ark of the covenant. One man went into that place once a year. Into this one, the letter invites everyone, and “with confidence.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Made Like His Brothers",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 2:14-18",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now since the children have flesh and blood, He too shared in their humanity, so that by His death He might destroy him who holds the power of death, that is, the devil, and free those who all their lives were held in slavery by their fear of death. For surely it is not the angels He helps, but the descendants of Abraham. For this reason He had to be made like His brothers in every way, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people. Because He Himself suffered when He was tempted, He is able to help those who are being tempted."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus “had to be made like His brothers in every way.” **What would His help lose if He were like us only on the surface?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Verse 15 speaks of people “who all their lives were held in slavery by their fear of death.” **How can the fear of death rule a life, even when we aren’t thinking about it?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Hebrews 4:15 has `sympatheō`, “to suffer together.” In Hebrews 5:2, about an ordinary high priest, the author uses a different word, `metriopatheō`. It means something like “to keep one’s feelings in measure,” that is, not to flare up in anger, but to deal gently. The earthly priest was to be understanding because he himself was weak. About Jesus the author says more. His sympathy comes from having gone through the same trials without giving in.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How is the understanding of someone who has the same weaknesses different from the sympathy of someone who went through the trial and didn’t give in?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "With Tears",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 5:1-2, 7-9",
+       "przeklad": "BSB",
+       "akapity": [
+        "Every high priest is appointed from among men to represent them in matters relating to God, to offer gifts and sacrifices for sins. He is able to deal gently with those who are ignorant and misguided, since he himself is beset by weakness. … During the days of Jesus’ earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence. Although He was a Son, He learned obedience from what He suffered. And having been made perfect, He became the source of eternal salvation to all who obey Him"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The high priest is “appointed from among men.” **Why does God want someone from among people to stand before Him on their behalf?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Verse 7 speaks of “loud cries and tears.” **What does it mean to you that Jesus prayed like that? What does it say about your own prayers that look the same?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus “was heard,” and yet He went through death. **What might an answered prayer look like when it didn’t stop the suffering?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Verse 7 recalls the night in Gethsemane, when Jesus, in anguish, asked that the cup might pass from Him. He was not given superhuman strength to get around this trial. “He learned obedience” doesn’t mean He had been disobedient before. He lived obedience out in practice, in pain, and all the way to the end. The answer came, though not by sparing Him death. The Father brought Him out of it in the resurrection.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "He Always Lives",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 7:23-27",
+       "przeklad": "BSB",
+       "akapity": [
+        "Now there have been many other priests, since death prevented them from continuing in office. But because Jesus lives forever, He has a permanent priesthood. Therefore He is able to save completely those who draw near to God through Him, since He always lives to intercede for them. Such a high priest truly befits us—One who is holy, innocent, undefiled, set apart from sinners, and exalted above the heavens. Unlike the other high priests, He does not need to offer daily sacrifices, first for His own sins and then for the sins of the people; He sacrificed for sin once for all when He offered up Himself."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "For the earlier priests, “death prevented them from continuing in office.” **What does it give a person to know that their advocate will never die, never move away, and never change His mind?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "“He always lives to intercede for them.” **What do you picture when you read that Jesus is interceding for someone right now? For whom might He be interceding at this moment?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "This high priest is “set apart from sinners,” and yet earlier we read that He sympathizes. **How can both of these be true at once?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Jesus’ time high priests were replaced often. Between 37 BC and AD 70 there were twenty-eight of them. The first readers of the letter knew well that the office passed from hand to hand, sometimes through political deals. Next to this the author sets Someone who “lives forever.” Jesus’ intercession doesn’t end with old age, illness, or a change of government.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "An Anchor Behind the Curtain",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Hebrews 6:19-20",
+       "przeklad": "BSB",
+       "akapity": [
+        "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain, where Jesus our forerunner has entered on our behalf. He has become a high priest forever in the order of Melchizedek."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 8:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven, and who ministers in the sanctuary and true tabernacle set up by the Lord, not by man."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "An anchor is thrown down, into the deep. The author of the letter has it thrown upward, “behind the curtain.” **What holds a person whose anchor is where Jesus has gone in?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Jesus went in there as “our forerunner.” **What does this word say about those who follow Him?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 3
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Who Will Bring a Charge?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Romans 8:31-34",
+       "przeklad": "BSB",
+       "akapity": [
+        "What then shall we say in response to these things? If God is for us, who can be against us? He who did not spare His own Son but gave Him up for us all, how will He not also, along with Him, freely give us all things? Who will bring any charge against God’s elect? It is God who justifies. Who is there to condemn us? For Christ Jesus, who died, and more than that was raised to life, is at the right hand of God—and He is interceding for us."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Paul asks questions as if in a courtroom. **In this scene, who might accuse, who judges, and who defends? What does the text answer to each of these questions?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Before Paul speaks of Jesus’ intercession, he reminds us that God “did not spare His own Son.” **What does this sentence say about the Father? Does the Father have to be persuaded of anything?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "“If God is for us, who can be against us?” **Whose accusations sound loudest in your life? How much do they weigh against this sentence?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "In Hebrew the name “Satan” means “adversary.” In Revelation he is called “the accuser of our brothers,” who accuses them day and night before God. In Romans 8 Paul doesn’t name the accuser. Instead, on the side of the human being stand the Father, who justifies, and the Son, who intercedes. A few verses earlier Paul writes that the Spirit intercedes too. Judgment looks different here from what we fear. The Judge is on the side of the accused.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "Standing at the Right Hand",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Stephen, the church’s first martyr, stands before the Council. In a moment the crowd will rush at him, drive him out of the city, and stone him.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 7:55-56",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God. “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Elsewhere the New Testament says that Christ “sat down” at the right hand of God. Stephen sees Him “standing.” **What might this detail mean for a person whom people are condemning at that very moment?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does this sight give Stephen at a moment when no one on earth takes his side?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Does the Father Need Persuading?",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Revelation 12:10",
+       "przeklad": "BSB",
+       "akapity": [
+        "And I heard a loud voice in heaven saying: “Now have come the salvation and the power and the kingdom of our God, and the authority of His Christ. For the accuser of our brothers has been thrown down—he who accuses them day and night before our God."
+       ]
+      }
+     ],
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The word “intercede” easily suggests a picture in which the Son has to win over an unwilling Father. The texts don’t say that. It was the Father who gave the Son. In Romans 8 the Father justifies, the Son intercedes, and the Spirit groans on our behalf. The whole Trinity stands on one side, and the accuser on the other. Intercession flows from a love that came first.",
+     "poziom": 3
+    },
+    {
+     "typ": "akapit",
+     "tekst": "The Bible doesn’t describe exactly what Jesus’ intercession looks like. Two emphases can be heard in the church. Some stress that Christ presents His sacrifice before God, that is, what has already happened on the cross. Others speak above all of Jesus’ personal prayer for His own, like the prayer in John 17. Both sides agree that intercession rests on a sacrifice that has already been made, and that it answers the accuser. God doesn’t need to be appeased.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**If the Father loves us and the Son intercedes, then against whom is this case being fought? Who loses it?**",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How does your prayer change when you know you don’t have to win anyone in heaven over to your side?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "An Advocate Before the Father",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "1 John 2:1-2",
+       "przeklad": "BSB",
+       "akapity": [
+        "My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father—Jesus Christ, the Righteous One. He Himself is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world."
+       ]
+      },
+      {
+       "odnosnik": "John 17:9, 15, 20",
+       "przeklad": "BSB",
+       "akapity": [
+        "I ask on their behalf. I do not ask on behalf of the world, but on behalf of those You have given Me; for they are Yours. … I am not asking that You take them out of the world, but that You keep them from the evil one. … I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message,"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "John writes “so that you will not sin,” and right after that, “But if anyone does sin.” **What does it say about God that one sentence holds both a demand and a safety net?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In His prayer in John’s Gospel, Jesus also prays for “those who will believe in Me through their message.” **Who is in this sentence? How do you feel, knowing that Jesus prayed for you before you were born?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Jesus doesn’t ask for His disciples to be taken out of the world. **What does He ask for instead, and why?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The word “advocate” is `paraklētos` in Greek: someone called to stand beside a person, including in court. Jesus uses the same word for the Holy Spirit when, in John’s Gospel, He speaks of “another Advocate.” So we have an Advocate before the Father and an Advocate who is with us. John adds that this Advocate is “the Righteous One.” He defends us, even though we are not innocent, because He Himself is the atoning sacrifice for our sins.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "“Atoning sacrifice” in 1 John 2:2 is `hilasmos` in Greek. It belongs to the same family as `hilastērion`, the word the New Testament uses for the golden mercy seat on the ark of the covenant. In Greek religion, a sacrifice of atonement was often an attempt to calm an angry deity. In the Bible it is the other way around. God Himself provides the means by which He removes sin and can live among people. So Jesus is at the same time the defender and the ground on which the defense stands.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What does it mean to have a defender who bears the cost of your case Himself?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The letter invites us to approach God “with confidence.” **What is hardest for you to bring to Him? What holds you back then?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of today’s verses would you like to have in front of you on the day you fall again?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **in what situation do you need someone to stand on your side today?**",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Jesus was “tempted in every way that we are, yet was without sin.” Can someone who never gave in truly understand someone who does? Or is He the one who knows the strength of temptation best?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this one. It helps if someone notices that a person who gives in never experiences temptation to the end, because they give up before it has spent its strength. Jesus withstood it to the end.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "In heaven there is Someone who knows your weakness from the inside and is standing on your side right now.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember:** Hebrews 4:16 or Hebrews 7:25.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of the weakness you are most ashamed of before God. **Tell Him about it plainly**, remembering that He is able “to sympathize.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "Recall the accusation you hear most often in your head. **Ask yourself whose voice it is.** Set beside it the sentence “He is interceding for us.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave:** think of someone you keep accusing in your thoughts. Ask God what would change in you if you prayed for that person the way Jesus prays for you.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**“Jesus was without sin, so He doesn’t know what it’s like.”** Don’t argue. Read Hebrews 4:15 and 5:7 again. Ask the group whether the cries and tears of Gethsemane look like someone who had it easy. You can come back to this with the level 3 question.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Why do I need a go-between? I pray directly to God.”** Agree, because that is exactly what the letter invites us to do. The high priest of Hebrews doesn’t stand between us and God like an official. He opens the way so that we can come ourselves.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts comparing this with the priesthood in their own church or someone else’s.** Stop it gently. Say that today we are reading what Scripture says about Jesus. We don’t judge the practice of other communities.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“So I can sin, because someone will intercede for me anyway?”** John begins with the words “so that you will not sin.” Intercession is for those who fall and come back. It isn’t an encouragement to fall. Don’t moralize. Reading the verse is enough.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone says they have felt accused by God for years.** Don’t try to talk them out of it. Go back to Romans 8:33-34 and to the question of who accuses in this text. If deeper suffering or depression lies behind it, stay with this person after the meeting and help them find further help.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**The group goes quiet after a question.** That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You’re running out of time.** Leave out block 3. Blocks 1, 4, and 5 carry the meeting: the high priest who sympathizes, the God who is for us, and the Advocate before the Father.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "“Jesus was without sin, so He doesn’t know what it’s like.”",
+     "odpowiedz": "Don’t argue. Read Hebrews 4:15 and 5:7 again. Ask the group whether the cries and tears of Gethsemane look like someone who had it easy. You can come back to this with the level 3 question."
+    },
+    {
+     "sytuacja": "“Why do I need a go-between? I pray directly to God.”",
+     "odpowiedz": "Agree, because that is exactly what the letter invites us to do. The high priest of Hebrews doesn’t stand between us and God like an official. He opens the way so that we can come ourselves."
+    },
+    {
+     "sytuacja": "Someone starts comparing this with the priesthood in their own church or someone else’s.",
+     "odpowiedz": "Stop it gently. Say that today we are reading what Scripture says about Jesus. We don’t judge the practice of other communities."
+    },
+    {
+     "sytuacja": "“So I can sin, because someone will intercede for me anyway?”",
+     "odpowiedz": "John begins with the words “so that you will not sin.” Intercession is for those who fall and come back. It isn’t an encouragement to fall. Don’t moralize. Reading the verse is enough."
+    },
+    {
+     "sytuacja": "Someone says they have felt accused by God for years.",
+     "odpowiedz": "Don’t try to talk them out of it. Go back to Romans 8:33-34 and to the question of who accuses in this text. If deeper suffering or depression lies behind it, stay with this person after the meeting and help them find further help."
+    },
+    {
+     "sytuacja": "The group goes quiet after a question.",
+     "odpowiedz": "That’s good. Count to ten in your head. If the silence goes on, repeat the question in the same words."
+    },
+    {
+     "sytuacja": "You’re running out of time.",
+     "odpowiedz": "Leave out block 3. Blocks 1, 4, and 5 carry the meeting: the high priest who sympathizes, the God who is for us, and the Advocate before the Father."
+    }
+   ]
+  }
+ ]
+}

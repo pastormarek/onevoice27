@@ -1,0 +1,733 @@
+{
+ "tytul": "A Killer in the Desert",
+ "id": "L-04",
+ "seria": "Second-Chance People",
+ "opis": "Moses fled Egypt as a killer and spent years tending sheep. Then God called him by name.",
+ "tryb": "tematyczny",
+ "poprzedni": null,
+ "nastepny": null,
+ "teksty": {
+  "p1": "Exodus 2:11-15; Exodus 3:1-6; Exodus 2:23-25; 3:7-10; Exodus 3:11-14; Exodus 4:10-17",
+  "p2": "Acts 7:22-25, 29-30; Exodus 2:21-22; Exodus 4:1-4; Deuteronomy 34:10-12; Hebrews 11:27",
+  "p3": "Exodus 3:12, 14"
+ },
+ "przekladBazowy": "BSB",
+ "dlugosc": {
+  "p1": 60,
+  "p2": 85,
+  "p3": 100
+ },
+ "liczbaPytan": {
+  "p1": 18,
+  "p2": 26,
+  "p3": 29
+ },
+ "tagi": [
+  "second chance",
+  "calling",
+  "failure",
+  "excuses",
+  "Moses",
+  "Exodus"
+ ],
+ "wersja": 1,
+ "zdanie": "God didn’t write Moses off in Egypt. He came for him in the desert, called him by name, and said, “I will surely be with you.”",
+ "bloki": [
+  {
+   "typ": "prowadzacy",
+   "poziom": 1,
+   "tytul": "Before You Begin",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "This meeting is about a man who wasted his greatest chance. Moses wanted to rescue his people, killed a man, was rejected by his own, and fled. For forty years he tended someone else’s sheep in the desert. There God called him by name and sent him back. Here the second chance doesn’t come as a reward for doing better. God comes first, Moses answers with excuses, and God patiently answers every one of them.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Where the landmines are:**",
+     "poziom": 1
+    },
+    {
+     "typ": "lista",
+     "pozycje": [
+      "There may be someone at the table who has done something that hurt someone for good, or who has served a sentence. Don’t push anyone to open up. It’s enough that the text speaks about a killer without mincing words.",
+      "Someone may be in their own desert years right now, after losing a job, a position, or a ministry. Don’t promise them a burning bush next week. The text speaks of forty years.",
+      "It’s easy to turn Moses’ excuses into a moral lesson about laziness. God takes them seriously and answers each one. Do the same.",
+      "The conversation about God’s name can slide into a lecture or an argument about pronunciation. Keep coming back to what the name promises Moses."
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**What not to do.** Don’t judge the excuses that come up at the table. Don’t explain why God waited exactly forty years. Don’t assume everyone knows this story. For some it will be new.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "otwarcie",
+   "poziom": 1,
+   "tytul": "Opening",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "Think of a period in your life that looked like a sidetrack at the time. Say in one sentence what you learned there, even though you couldn’t see it then.",
+     "poziom": 1
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "answer first, and keep it short, to set the length. Don’t comment on anyone else’s answer.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 1,
+   "tytul": "The Hand That Wanted to Rescue",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Moses was a Hebrew, but he grew up at Pharaoh’s court as the adopted son of Pharaoh’s daughter. His own people were working in Egypt as slaves.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 2:11-15",
+       "przeklad": "BSB",
+       "akapity": [
+        "One day, after Moses had grown up, he went out to his own people and observed their hard labor. He saw an Egyptian beating a Hebrew, one of his own people. After looking this way and that and seeing no one, he struck down the Egyptian and hid his body in the sand. The next day Moses went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you attacking your companion?” But the man replied, “Who made you ruler and judge over us? Are you planning to kill me as you killed the Egyptian?” Then Moses was afraid and thought, “This thing I have done has surely become known.” When Pharaoh heard about this matter, he sought to kill Moses. But Moses fled from Pharaoh and settled in the land of Midian, where he sat down beside a well."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q1",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses sees an injustice and takes the side of the man being beaten. **What does it say about him that he looked this way and that before he struck?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q2",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The next day one of his own people asks him, “Who made you ruler and judge over us?” **Why might that question have hurt Moses more than Pharaoh’s threat?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q3",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "The story ends with Moses who “sat down beside a well.” **How might a man feel who in two days has lost his home, his position, and his own people?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Moses starts with a good cause. He sees a slave being beaten by an Egyptian and steps in to defend him. But he does it alone, in secret, and by force. The next day it turns out that the people he wanted to rescue don’t want him at all. In this whole scene there isn’t a single word about God. Moses acts on his own and flees as a killer whom the king is hunting.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "How It Was Remembered",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Many centuries later, Stephen, one of the first Christians, tells this story before the court in Jerusalem.",
+     "poziom": 2
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Acts 7:22-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action. When Moses was forty years old, he decided to visit his brothers, the children of Israel. And when he saw one of them being mistreated, Moses went to his defense and avenged him by striking down the Egyptian who was oppressing him. He assumed his brothers would understand that God was using him to deliver them, but they did not."
+       ]
+      },
+      {
+       "odnosnik": "Acts 7:29-30",
+       "przeklad": "BSB",
+       "akapity": [
+        "At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons. After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q4",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Stephen says that Moses “assumed his brothers would understand that God was using him to deliver them.” **What does this sentence say about how Moses saw his role before God had said anything to him?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q5",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "The young Moses was “powerful in speech and action.” **What might have happened to that self-confidence over forty years with the sheep?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "napiecie",
+   "poziom": 3,
+   "tytul": "Tension: Murder or Defending the Weak",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Some read this act simply as murder. Looking around furtively and hiding the body in the sand speak for themselves, and the Bible never praises the deed. Others see in it a surge of justice against a cruel man, only at the wrong time and by the wrong means. After all, Stephen says that Moses “went to his defense and avenged him.” Both readings agree on one thing. God doesn’t begin the deliverance with this act. He begins it forty years later, at a bush in the desert, and it is He who sends.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q6",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Where in this story is the line between zeal for a good cause and taking matters into your own hands?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 1
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 2,
+   "tytul": "A Name Spoken Twice",
+   "elementy": [
+    {
+     "typ": "lacznik",
+     "tekst": "Moses settled in Midian, married the daughter of the local priest, and for many long years tended his flock.",
+     "poziom": 1
+    },
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 3:1-6",
+       "przeklad": "BSB",
+       "akapity": [
+        "Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God. There the angel of the LORD appeared to him in a blazing fire from within a bush. Moses saw the bush ablaze with fire, but it was not consumed. So Moses thought, “I must go over and see this marvelous sight. Why is the bush not burning up?” When the LORD saw that he had gone over to look, God called out to him from within the bush, “Moses, Moses!” “Here I am,” he answered. “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” Then He said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, for he was afraid to look at God."
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q7",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses is at work, with someone else’s sheep, far from everything he once was. **What does it mean that God comes to him right there, and not in the palace?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q8",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God calls him by name, twice. **What might it have meant for a fugitive who had lived far from his own people for years to hear his name from God?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q9",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Moses takes off his sandals and hides his face. **What in this scene keeps him at a distance, and what invites him closer?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "According to Stephen, forty years have passed since the escape. When Moses stands before Pharaoh, he will be eighty, as Exodus 7:7 says. The burning bush catches the eye, but God begins to speak only when Moses himself goes over to look. A name repeated twice comes up in the Bible at turning points. That is how God calls Abraham on the mountain where he is to offer his son, and the boy Samuel at night.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "A Foreigner in a Foreign Land",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 2:21-22",
+       "przeklad": "BSB",
+       "akapity": [
+        "Moses agreed to stay with the man, and he gave his daughter Zipporah to Moses in marriage. And she gave birth to a son, and Moses named him Gershom, saying, “I have become a foreigner in a foreign land.”"
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q10",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses has a wife, a son, and work, and yet he names his son after the words “I have become a foreigner in a foreign land.” **What does that name say about how he felt in his new life?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q11",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**How can you tell that someone is living like a foreigner in their own life, even though from the outside everything looks settled?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 2
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 3,
+   "tytul": "The God Who Hears and Comes Down",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 2:23-25",
+       "przeklad": "BSB",
+       "akapity": [
+        "After a long time, the king of Egypt died. The Israelites groaned and cried out under their burden of slavery, and their cry for deliverance from bondage ascended to God. So God heard their groaning, and He remembered His covenant with Abraham, Isaac, and Jacob. God saw the Israelites and took notice."
+       ]
+      },
+      {
+       "odnosnik": "Exodus 3:7-10",
+       "przeklad": "BSB",
+       "akapity": [
+        "The LORD said, “I have indeed seen the affliction of My people in Egypt. I have heard them crying out because of their oppressors, and I am aware of their sufferings. I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land to a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites. And now the cry of the Israelites has reached Me, and I have seen how severely the Egyptians are oppressing them. Therefore, go! I am sending you to Pharaoh to bring My people the Israelites out of Egypt.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q12",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "God says of Himself that He sees, hears, knows, and comes down. **What do these words say to people who have been crying out for years while nothing changes?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q13",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "First comes “I have come down to rescue them,” and right after it, “Therefore, go! I am sending you.” **How do these two sentences stand side by side? Who is actually rescuing the people here?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q14",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Moses had already tried once to rescue his people. **What is different now that it is God who says, “I am sending you”?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "The sentence that God “remembered His covenant” doesn’t mean He had forgotten it before. In the Bible, God’s remembering always moves into action. A covenant is a solemn promise by which God bound Himself to Abraham and his descendants. It’s also worth noticing the order of the story. After God takes notice of the oppression, we would expect the people to be led out at once. Instead, God begins with one man in the desert.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 4,
+   "tytul": "Who Am I",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 3:11-14",
+       "przeklad": "BSB",
+       "akapity": [
+        "But Moses asked God, “Who am I, that I should go to Pharaoh and bring the Israelites out of Egypt?” “I will surely be with you,” God said, “and this will be the sign to you that I have sent you: When you have brought the people out of Egypt, all of you will worship God on this mountain.” Then Moses asked God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is His name?’ What should I tell them?” God said to Moses, “I AM WHO I AM. This is what you are to say to the Israelites: ‘I AM has sent me to you.’”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q15",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses asks, “Who am I,” and God doesn’t tell him who he is. **What does He answer instead? What does that answer give a man who doesn’t believe in himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q16",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "The young Moses took up the cause himself and asked no one. Now he asks who he is. **What is good about this change, and what is still holding him back?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q17",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Moses is afraid his people will ask him for God’s name. **What might a man be afraid of who once heard from these same people, “Who made you ruler and judge over us?”**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Soon Pharaoh will answer the same message with the words “Who is the LORD,” as recorded in Exodus 5:2. Moses asks who he himself is. Pharaoh asks who God is. The whole story that follows answers both questions at once. The name given in verse 14 isn’t a riddle to solve at the table. It stands right next to the promise in verse 12: “I will surely be with you.”",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "What Is in Your Hand",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 4:1-4",
+       "przeklad": "BSB",
+       "akapity": [
+        "Then Moses answered, “What if they do not believe me or listen to my voice? For they may say, ‘The LORD has not appeared to you.’” And the LORD asked him, “What is that in your hand?” “A staff,” he replied. “Throw it on the ground,” said the LORD. So Moses threw it on the ground, and it became a snake, and he ran from it. “Stretch out your hand and grab it by the tail,” the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q18",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "God begins with the question, “What is that in your hand?” **Why does He take an ordinary shepherd’s staff, a tool from the desert years, instead of giving Moses something new?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q19",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What ordinary thing from your everyday lives might turn out to be what God takes in His hand?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "slowo",
+   "poziom": 3,
+   "tytul": "The Word",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "In verse 12, “I will surely be with you” is in Hebrew `ehyeh immak`. In verse 14, “I AM WHO I AM” is `ehyeh asher ehyeh`. Both sentences begin with the same word, which can be rendered “I am” or “I will be.” So the name Moses receives also sounds like a promise of presence. It’s also worth noticing what Moses is asking. He doesn’t only want to know how to address God. He is asking what the One who sends him is like.",
+     "poziom": 3
+    },
+    {
+     "typ": "pytanie",
+     "id": "q20",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What difference does it make to a frightened person that God’s name sounds like the promise “I will be”?**",
+     "poziom": 3
+    }
+   ],
+   "doBloku": 4
+  },
+  {
+   "typ": "blok",
+   "poziom": 1,
+   "numer": 5,
+   "tytul": "Send Someone Else",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Exodus 4:10-17",
+       "przeklad": "BSB",
+       "akapity": [
+        "“Please, Lord,” Moses replied, “I have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.” And the LORD said to him, “Who gave man his mouth? Or who makes the mute or the deaf, the sighted or the blind? Is it not I, the LORD? Now go! I will help you as you speak, and I will teach you what to say.” But Moses replied, “Please, Lord, send someone else.” Then the anger of the LORD burned against Moses, and He said, “Is not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart. You are to speak to him and put the words in his mouth. I will help both of you to speak, and I will teach you what to do. He will speak to the people for you. He will be your spokesman, and it will be as if you were God to him. But take this staff in your hand so you can perform signs with it.”"
+       ]
+      }
+     ],
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q21",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "Moses talks about his weakness, that he is “slow of speech and tongue.” **How does God respond to what Moses sees in himself?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q22",
+     "kluczowe": true,
+     "opcjonalne": false,
+     "tekst": "In the end comes a sentence with no excuse at all: “Please, Lord, send someone else.” God is angry, and yet He doesn’t walk away. **What does God do with a person who simply doesn’t want to?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q23",
+     "kluczowe": false,
+     "opcjonalne": true,
+     "tekst": "Aaron “is now on his way” and will be glad to see his brother. **What does this detail say about how God prepares a second chance before a person agrees to it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "notka",
+     "tekst": "Moses raises five objections, one after another. Who am I, what is Your name, what if they don’t believe me, I can’t speak, send someone else. God answers each one. God’s anger in verse 14 doesn’t end the conversation. It ends with the gift of a brother who will go with him. Moses doesn’t get a new character. He gets God’s presence, a staff in his hand, and a person at his side.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "blok",
+   "poziom": 2,
+   "tytul": "How the Story Ended",
+   "elementy": [
+    {
+     "typ": "pismo",
+     "fragmenty": [
+      {
+       "odnosnik": "Deuteronomy 34:10-12",
+       "przeklad": "BSB",
+       "akapity": [
+        "Since that time, no prophet has risen in Israel like Moses, whom the LORD knew face to face— no prophet who did all the signs and wonders that the LORD sent Moses to do in the land of Egypt to Pharaoh and to all his officials and all his land, and no prophet who performed all the mighty acts of power and awesome deeds that Moses did in the sight of all Israel."
+       ]
+      },
+      {
+       "odnosnik": "Hebrews 11:27",
+       "przeklad": "BSB",
+       "akapity": [
+        "By faith Moses left Egypt, not fearing the king’s anger; he persevered because he saw Him who is invisible."
+       ]
+      }
+     ],
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q24",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of these words about Moses would have been unthinkable to someone who knew him only from the day he fled Egypt?**",
+     "poziom": 2
+    },
+    {
+     "typ": "pytanie",
+     "id": "q25",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses “persevered because he saw Him who is invisible.” **Where in today’s story could he have learned that?**",
+     "poziom": 2
+    }
+   ],
+   "doBloku": 5
+  },
+  {
+   "typ": "zastosowanie",
+   "poziom": 1,
+   "tytul": "Application",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q26",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "Moses goes back to Egypt with a past in which he killed a man and was rejected by his own people. **How does an unresolved past like that affect what we answer God today?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q27",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**Which of Moses’ excuses sounds most like yours, and what lies behind it?**",
+     "poziom": 1
+    },
+    {
+     "typ": "pytanie",
+     "id": "q28",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "If you’d like to share, **where is your desert today, the place where you feel set aside?** You don’t have to say how you ended up there.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "pytanie-trudne",
+   "poziom": 3,
+   "tytul": "A Question Without an Easy Answer",
+   "elementy": [
+    {
+     "typ": "pytanie",
+     "id": "q29",
+     "kluczowe": false,
+     "opcjonalne": false,
+     "tekst": "**What was God waiting for during those forty years? For Moses to change, for him to stop relying on his own strength, or for something the text never names at all? And what does this mean for someone whose desert years are still going on?**",
+     "poziom": 3
+    },
+    {
+     "typ": "uwaga-prowadzacego",
+     "tekst": "don’t settle this question. It helps if someone notices that God doesn’t come to Moses with reproaches about Egypt. He comes with a name, a promise, and a task.",
+     "poziom": 3
+    }
+   ],
+   "doBloku": "zastosowanie"
+  },
+  {
+   "typ": "zdanie",
+   "poziom": 1,
+   "tytul": "One Sentence",
+   "elementy": [
+    {
+     "typ": "wyroznienie",
+     "tekst": "God didn’t write Moses off in Egypt. He came for him in the desert, called him by name, and said, “I will surely be with you.”",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Verse to remember.** Exodus 3:12 or Exodus 4:12.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "do-zrobienia",
+   "poziom": 1,
+   "tytul": "To Do",
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "Think of the excuse you most often repeat to God. Ask yourself **what that excuse is really guarding**. Fear, shame, comfort, or maybe something else.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "If there is a day in your past that still follows you around, **tell God plainly what happened then**. Then stay with the words “I will surely be with you,” even if you don’t believe them yet.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**For the brave.** Ask God what is in your hand. It may be something ordinary that you use every day, something He could take. You don’t have to do anything with it right away.",
+     "poziom": 1
+    }
+   ]
+  },
+  {
+   "typ": "modlitwa",
+   "poziom": 1,
+   "tytul": "Prayer",
+   "elementy": []
+  },
+  {
+   "typ": "czerwone-flagi",
+   "poziom": 1,
+   "tytul": "Red Flags",
+   "zwijany": true,
+   "elementy": [
+    {
+     "typ": "akapit",
+     "tekst": "**Someone talks about something they did that hurt someone for good, or about a sentence they served.** Listen, thank them for their trust, and don’t press for details. Don’t absolve and don’t judge. You can say that the Bible doesn’t hide who Moses was, and God still came to him by name. If the matter is recent or heavy, stay with that person after the meeting. If it becomes clear from the conversation that someone is still at risk of harm, don’t promise secrecy, and don’t carry it alone.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“Moses did the right thing. He defended the weaker man.”** Don’t get into a debate about using violence to defend others. The text describes the act without praise, and God begins the deliverance in a completely different way. Ask what changed between how Moses acted on his own and how he acted once he was sent.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“God has put me on a sidetrack, and nothing is happening.”** Don’t comfort them with a promise that everything will change soon. The text speaks of forty years, and of a God who heard His people’s cry the whole time. Listen, and don’t hurry someone else’s story along.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**Someone starts an argument about God’s name, its pronunciation, or which church uses it correctly.** Stop it gently. For today it’s enough that the name from the bush stands next to the promise “I will surely be with you.” If the group wants, suggest a separate conversation.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**A question about whether the burning bush could be explained as a natural phenomenon.** Don’t try to settle it. The text describes it as a sign at which God begins to speak. Go back to what God said.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**“I can’t speak well either, so I’m not cut out for this.”** Don’t try to talk them into it. Point out that God didn’t take Moses’ weakness away. He gave him a brother to help. Ask whom God has placed beside this person.",
+     "poziom": 1
+    },
+    {
+     "typ": "akapit",
+     "tekst": "**You won’t get through the material.** Drop block 3. Blocks 1, 2, 4, and 5 carry the meeting: the escape, the name in the desert, “I will surely be with you,” and a God who doesn’t walk away from a person full of excuses.",
+     "poziom": 1
+    }
+   ],
+   "flagi": [
+    {
+     "sytuacja": "Someone talks about something they did that hurt someone for good, or about a sentence they served.",
+     "odpowiedz": "Listen, thank them for their trust, and don’t press for details. Don’t absolve and don’t judge. You can say that the Bible doesn’t hide who Moses was, and God still came to him by name. If the matter is recent or heavy, stay with that person after the meeting. If it becomes clear from the conversation that someone is still at risk of harm, don’t promise secrecy, and don’t carry it alone."
+    },
+    {
+     "sytuacja": "“Moses did the right thing. He defended the weaker man.”",
+     "odpowiedz": "Don’t get into a debate about using violence to defend others. The text describes the act without praise, and God begins the deliverance in a completely different way. Ask what changed between how Moses acted on his own and how he acted once he was sent."
+    },
+    {
+     "sytuacja": "“God has put me on a sidetrack, and nothing is happening.”",
+     "odpowiedz": "Don’t comfort them with a promise that everything will change soon. The text speaks of forty years, and of a God who heard His people’s cry the whole time. Listen, and don’t hurry someone else’s story along."
+    },
+    {
+     "sytuacja": "Someone starts an argument about God’s name, its pronunciation, or which church uses it correctly.",
+     "odpowiedz": "Stop it gently. For today it’s enough that the name from the bush stands next to the promise “I will surely be with you.” If the group wants, suggest a separate conversation."
+    },
+    {
+     "sytuacja": "A question about whether the burning bush could be explained as a natural phenomenon.",
+     "odpowiedz": "Don’t try to settle it. The text describes it as a sign at which God begins to speak. Go back to what God said."
+    },
+    {
+     "sytuacja": "“I can’t speak well either, so I’m not cut out for this.”",
+     "odpowiedz": "Don’t try to talk them into it. Point out that God didn’t take Moses’ weakness away. He gave him a brother to help. Ask whom God has placed beside this person."
+    },
+    {
+     "sytuacja": "You won’t get through the material.",
+     "odpowiedz": "Drop block 3. Blocks 1, 2, 4, and 5 carry the meeting: the escape, the name in the desert, “I will surely be with you,” and a God who doesn’t walk away from a person full of excuses."
+    }
+   ]
+  }
+ ]
+}
