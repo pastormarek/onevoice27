@@ -132,8 +132,22 @@ export interface EduBody {
   /** wyzwanie na dzis (In your thoughts / In action) - stoi w ramce razem z pytaniem */
   challenge?: string[]
 }
-export interface EduEntry { nr: number; title: string; ref: string }
-export interface EduItem extends EduEntry {
+/** Nagranie lektorskie wersji pelnej (na serwerze jestnadzieja.adwent.pl, robi tools/add_edu_audio_en.py). */
+export interface EduAudio {
+  /** sciezka wzgledem https://jestnadzieja.adwent.pl/, z suma pliku w `?v=` */
+  src: string
+  seconds: number
+  bytes: number
+}
+export interface EduEntry {
+  nr: number
+  title: string
+  ref: string
+  /** w spisie: material ma nagranie */
+  audio?: boolean | EduAudio
+}
+export interface EduItem extends Omit<EduEntry, 'audio'> {
+  audio?: EduAudio
   note?: string
   /** bibliografia z wersji pelnej - lista pozycji */
   sources?: string[]

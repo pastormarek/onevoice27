@@ -11,6 +11,7 @@ import {
 } from '../components/VersionToggle'
 import { ReadingFooter } from '../components/ReadingFooter'
 import { BackLink } from '../components/BackLink'
+import { AudioPlayer } from '../components/AudioPlayer'
 import { FontScale } from '../components/FontScale'
 import { PageHeading } from '../components/PageHeading'
 import { listRead } from '../lib/progress'
@@ -61,7 +62,12 @@ export function EduList({ limit }: { limit?: number }) {
         >
           <span className="w-6 shrink-0 pt-0.5 text-right text-xs tabular-nums text-slate-500">{it.nr}</span>
           <span className="min-w-0 flex-1">
-            <span className="block truncate font-medium leading-snug">{it.title}</span>
+            <span className="block truncate font-medium leading-snug">
+              {it.audio && (
+                <span className="mr-1" title={t('audio.hasAudio', 'With a recording to listen to')} aria-label={t('audio.hasAudio', 'With a recording to listen to')}>🎧</span>
+              )}
+              {it.title}
+            </span>
             {it.ref && <span className="block truncate text-xs text-slate-500">{it.ref}</span>}
           </span>
           {done.has(String(it.nr)) && (
@@ -150,6 +156,16 @@ export function EduItemPage() {
         </p>
         <h1 className="mt-1 text-[1.5em] font-bold text-slate-100">{entry.title}</h1>
       </header>
+
+      {entry.audio && (
+        <AudioPlayer
+          src={entry.audio.src}
+          seconds={entry.audio.seconds}
+          bytes={entry.audio.bytes}
+          title={`${entry.nr}. ${entry.title}`}
+          note={t('audio.longVersion', 'recording of the full version')}
+        />
+      )}
 
       <div className="mb-5 flex flex-wrap items-center justify-between gap-2">
         <VersionToggle value={version} onChange={pick} available={available} />

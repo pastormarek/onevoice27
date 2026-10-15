@@ -446,5 +446,22 @@
     "showOptional": "Optional questions",
     "bibleNote": "Scripture quotations are from the Berean Standard Bible (public domain) unless otherwise noted.",
     "tile": "Ready-made Bible meetings for home groups, in three levels."
+  },
+  "audio": {
+    "listen": "Listen",
+    "longVersion": "recording of the full version",
+    "play": "Play",
+    "pause": "Pause",
+    "position": "Position in the recording",
+    "back": "Back 5 seconds",
+    "forward": "Forward 5 seconds",
+    "speed": "Speed",
+    "speedReset": "Normal speed",
+    "slower": "Slower",
+    "slowerHint": "5% slower",
+    "faster": "Faster",
+    "fasterHint": "5% faster",
+    "hasAudio": "With a recording to listen to",
+    "error": "The recording could not be loaded. Check your internet connection and try again."
   }
 }
