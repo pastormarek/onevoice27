@@ -18,6 +18,13 @@ import type { EduIndex, EduItem } from '../types'
 
 const VERSION_KEY = 'zywe-slowo:edu:version'
 
+/** **pogrubienie** z markdowna zrodlowego („**In your thoughts.**”) - nic wiecej w tekstach nie ma. */
+function bold(text: string) {
+  return text.split(/(\*\*[^*]+\*\*)/g).map((part, i) =>
+    part.startsWith('**') && part.endsWith('**') && part.length > 4 ? <strong key={i}>{part.slice(2, -2)}</strong> : part
+  )
+}
+
 function useIndex() {
   const { lang } = useI18n()
   const [data, setData] = useState<EduIndex | null>(null)
@@ -130,6 +137,7 @@ export function EduItemPage() {
   const shown = entry.versions[version] ?? entry.versions[available[0]]
   const total = index?.items.length ?? 0
   const questions = shown?.questions ?? []
+  const challenge = shown?.challenge ?? []
 
   return (
     <article className="reading">
@@ -154,7 +162,7 @@ export function EduItemPage() {
             {s.heading && <h2 className="mb-1 font-bold text-slate-100">{s.heading}</h2>}
             {s.paragraphs.map((p, j) => (
               <p key={j} className="mb-2 leading-relaxed text-slate-200">
-                {p}
+                {bold(p)}
               </p>
             ))}
           </section>
@@ -168,7 +176,22 @@ export function EduItemPage() {
         </blockquote>
       )}
 
-      {questions.length > 0 && (
+      {questions.length > 0 && challenge.length > 0 && (
+        <section className="mt-6 rounded-xl border border-violet-500/30 bg-violet-500/10 p-4">
+          <h2 className="mb-3 font-bold text-slate-100">{t('edu.questionChallenge', 'A Question and a Challenge')}</h2>
+          {questions.map((q, i) => (
+            <p key={i} className="mb-3 text-lg font-semibold leading-snug text-slate-100">{q}</p>
+          ))}
+          <div className="border-t border-violet-400/30 pt-3">
+            <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-violet-300">{t('edu.challenge', 'Challenge')}</p>
+            {challenge.map((c, i) => (
+              <p key={i} className="mb-2 leading-relaxed text-slate-200">{bold(c)}</p>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {questions.length > 0 && challenge.length === 0 && (
         <section className="mt-6 rounded-xl border border-violet-500/30 bg-violet-500/10 p-4">
           <h2 className="mb-2 font-bold text-slate-100">
             {questions.length > 1
@@ -184,6 +207,15 @@ export function EduItemPage() {
           ) : (
             <p className="text-slate-200">{questions[0]}</p>
           )}
+        </section>
+      )}
+
+      {entry.sources && entry.sources.length > 0 && (
+        <section className="mt-6 border-t border-white/10 pt-4">
+          <h2 className="mb-2 text-sm font-bold uppercase tracking-wide text-slate-300">{t('edu.sources', 'Sources')}</h2>
+          <ul className="list-disc space-y-1.5 pl-5 text-sm leading-relaxed text-slate-300">
+            {entry.sources.map((s, i) => <li key={i}>{s}</li>)}
+          </ul>
         </section>
       )}
 

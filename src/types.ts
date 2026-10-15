@@ -129,10 +129,14 @@ export interface EduBody {
   sections: Pray40Section[]
   quote?: EduQuote | null
   questions: string[]
+  /** wyzwanie na dzis (In your thoughts / In action) - stoi w ramce razem z pytaniem */
+  challenge?: string[]
 }
 export interface EduEntry { nr: number; title: string; ref: string }
 export interface EduItem extends EduEntry {
   note?: string
+  /** bibliografia z wersji pelnej - lista pozycji */
+  sources?: string[]
   versions: Partial<Record<'short' | 'long', EduBody>>
 }
 export interface EduIndex { lang: string; title?: string; series?: string; items: EduEntry[] }
