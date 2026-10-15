@@ -189,7 +189,14 @@
     "series": "Study series",
     "studiesDesc": "5 series of 7 studies for personal Bible study.",
     "topic": "Various Bible topics",
-    "verseForYou": "A Verse for You"
+    "verseForYou": "A Verse for You",
+    "eduDesc": "A new talk every day from One Voice 27, to read or to listen to.",
+    "eduToday": "Today",
+    "eduLast": "Latest talk",
+    "eduBefore": "To begin",
+    "eduOpen": "Open today’s talk",
+    "eduOpenOther": "Open the talk",
+    "eduAll": "All talks"
   },
   "hope": {
     "intro": "Readings, prayer, and materials that help us share hope together.",

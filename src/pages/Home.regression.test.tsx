@@ -1,11 +1,10 @@
 import { render, screen } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
-import { loadPray40 } from '../content'
-import { setRead } from '../lib/progress'
+import { loadEdu } from '../content'
 import { Home } from './Home'
 
-vi.mock('../content', () => ({ loadPray40: vi.fn() }))
+vi.mock('../content', () => ({ loadEdu: vi.fn() }))
 vi.mock('../i18n', () => ({
   useI18n: () => ({ lang: 'en', t: (_path: string, fallback = '') => fallback }),
 }))
@@ -17,33 +16,34 @@ vi.mock('../components/AppNavigation', () => ({ AppIcon: () => <span /> }))
 vi.mock('../components/DailyOccasionVerse', () => ({ DailyOccasionVerse: () => <div /> }))
 vi.mock('../components/PageHeading', () => ({ PageHeading: () => <div /> }))
 
-// wydanie angielskie: dni bez dat akcji
+// od 2026-10-15 biezacy material na stronie glownej = dzisiejszy BeHopeful (40 dni na stronie One Voice 27)
 const index = {
   lang: 'en',
-  days: [
-    { day: 1, title: 'First reading', ref: 'Gen 1', lead: '...' },
-    { day: 2, title: 'Second reading', ref: 'Gen 2', lead: '...' },
+  items: [
+    { nr: 1, date: '2026-10-15', dateLabel: 'Thursday, October 15', title: 'First talk', ref: '', audio: true },
+    { nr: 2, date: '2026-10-16', dateLabel: 'Friday, October 16', title: 'Second talk', ref: '' },
   ],
 }
 
-describe('home page — current reading regression', () => {
-  beforeEach(() => {
-    localStorage.clear()
-    vi.mocked(loadPray40).mockResolvedValue(index)
-  })
-  afterEach(() => localStorage.clear())
+describe('home page — today’s BeHopeful talk', () => {
+  beforeEach(() => vi.mocked(loadEdu).mockResolvedValue(index))
+  afterEach(() => vi.useRealTimers())
 
-  it('without dates starts with Day 1 and links to the full list', async () => {
+  it('on a talk’s date opens that talk and links to the full list', async () => {
+    vi.useFakeTimers({ toFake: ['Date'] })
+    vi.setSystemTime(new Date('2026-10-16T10:00:00'))
     render(<MemoryRouter><Home /></MemoryRouter>)
 
-    expect(await screen.findByRole('link', { name: 'Start with Day 1' })).toHaveAttribute('href', '/en/40-days/1')
-    expect(screen.getByRole('link', { name: 'All 40 days' })).toHaveAttribute('href', '/en/40-days')
+    expect(await screen.findByRole('link', { name: 'Open today’s talk' })).toHaveAttribute('href', '/en/behopeful/2')
+    expect(screen.getByRole('link', { name: 'All talks' })).toHaveAttribute('href', '/en/behopeful')
+    expect(screen.getByText('Second talk')).toBeInTheDocument()
   })
 
-  it('without dates continues with the first unread day', async () => {
-    setRead('pray40', 1, true)
+  it('before the series starts offers the first talk', async () => {
+    vi.useFakeTimers({ toFake: ['Date'] })
+    vi.setSystemTime(new Date('2026-10-01T10:00:00'))
     render(<MemoryRouter><Home /></MemoryRouter>)
 
-    expect(await screen.findByRole('link', { name: 'Continue: Day 2' })).toHaveAttribute('href', '/en/40-days/2')
+    expect(await screen.findByRole('link', { name: 'Open the talk' })).toHaveAttribute('href', '/en/behopeful/1')
   })
 })

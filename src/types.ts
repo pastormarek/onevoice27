@@ -143,6 +143,9 @@ export interface EduEntry {
   nr: number
   title: string
   ref: string
+  /** dzien w kalendarzu (jak w PL) - strona glowna wybiera po nim dzisiejszy material; nic nie blokuje */
+  date?: string
+  dateLabel?: string
   /** w spisie: material ma nagranie */
   audio?: boolean | EduAudio
 }

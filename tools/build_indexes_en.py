@@ -85,7 +85,13 @@ def edu():
     items = []
     for p in sorted(glob.glob(os.path.join(EN, 'edu', '[0-9][0-9].json'))):
         d = load(p)
-        items.append({'nr': d['nr'], 'title': d['title'], 'ref': d['ref']})
+        it = {'nr': d['nr'], 'title': d['title'], 'ref': d['ref']}
+        for k in ('date', 'dateLabel'):
+            if d.get(k):
+                it[k] = d[k]
+        if d.get('audio'):
+            it['audio'] = True
+        items.append(it)
     save(os.path.join(EN, 'edu', 'index.json'),
          {'lang': 'en', 'title': 'BeHopeful', 'series': 'One Voice 27', 'items': items})
     return len(items)
