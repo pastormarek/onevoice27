@@ -20,7 +20,7 @@ zmiany w polskiej aplikacji **nie przechodzą tu same** – trzeba je przenieś�
   publiczne, nigdy nie trzymaj haseł w tym katalogu. GitHub Pages zostaje kopią zapasową;
   `canonical` i `og:url` wskazują na onevoice27.adventist.pl (tak jak w PL).
 - Grafiki do udostępniania BeHopeful: `python tools/build_edu_graphics_en.py NR` (źródło
-  `one27/SzkoleniaGrafiki/NNN_ENa.png` + `NNN_ENa.txt`), pliki w repo w `public/media/edu/`.
+  `one27/HopeGrafiki/NNN_ENa.png` + `NNN_ENa.txt`), pliki w repo w `public/media/edu/`.
   Nagrania BeHopeful leżą na serwerze PL (`src/lib/media.ts`, `tools/add_edu_audio_en.py`).
 - **Strona główna (od 2026-10-15): „Current reading” = dzisiejszy materiał BeHopeful** (jak Człowiek
   Nadziei w PL; `components/EduTodayActions.tsx`). Daty materiałów wg kalendarza PL:

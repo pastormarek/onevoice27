@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 """Grafiki do udostepniania pod materialem BeHopeful.
 
-    python tools/build_edu_graphics_en.py        # wszystkie z one27/SzkoleniaGrafiki
+    python tools/build_edu_graphics_en.py        # wszystkie z one27/HopeGrafiki
     python tools/build_edu_graphics_en.py 1      # tylko materialu 1
 
-Zrodlo: one27/SzkoleniaGrafiki/NNN_ENa.png, NNN_ENb.png ... (PNG 1122x1402; polskie NNN_PLx.png
+Zrodlo: one27/HopeGrafiki/NNN_ENa.png, NNN_ENb.png ... (PNG 1122x1402; polskie NNN_PLx.png
 obsluguje ../Apka_Marka/tools/build_edu_graphics.py). Obok opcjonalnie NNN_ENa.txt z tekstem grafiki:
 opis dla czytnikow ekranu i podpis przy udostepnianiu.
 
@@ -24,7 +24,7 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = Path.home() / "AIprojekty" / "one27" / "SzkoleniaGrafiki"
+SRC = Path.home() / "AIprojekty" / "one27" / "HopeGrafiki"
 OUT = ROOT / "public" / "media" / "edu"
 EDU = ROOT / "public" / "content" / "en" / "edu"
 WIDTH = 1080
